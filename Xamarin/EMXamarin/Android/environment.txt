@@ -1,0 +1,8 @@
+﻿# Fixes Android crash
+# the problem is that the Google Play Service WebView and related types is clobbering existing SIGSEGV handlers, which screws things up for all native code which relies on signal handlers
+# As a workaround, it is possible to remove the need for a SIGSEGV handler for NullReferenceException raising, by setting the MONO_DEBUG variable to contain the value "explicit-null-checks"
+# http://stackoverflow.com/questions/29845822/android-system-webview-crashes-android-apps-tombstones-are-disabled-on-jb-mr2
+# https://bugzilla.xamarin.com/show_bug.cgi?id=29365
+MONO_DEBUG=explicit-null-checks,soft-breakpoints
+
+MONO_GC_PARAMS=bridge-implementation=new
