@@ -1,9 +1,0 @@
-- Generate .a object files to create binding.
-$ Make all
-
-- Remove all .a object files to rebind API.
-$ Make clean
-
-
-
-

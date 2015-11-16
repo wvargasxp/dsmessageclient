@@ -1,7 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/MediaLibrary" android:title="@string/MEDIA_LIBRARY" />    
-    <item android:id="@+id/Camera" android:title="@string/TAKE_PHOTO" />  
-    <item android:id="@+id/VideoCamera" android:title="@string/TAKE_VIDEO" />
-    <item android:id="@+id/Search" android:title="@string/WEB_SEARCH" />
-</menu>

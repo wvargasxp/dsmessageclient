@@ -1,3 +1,0 @@
-﻿<metadata>
-  	<attr path="/api/package[@name='com.github.hiteshsondhi88.libffmpeg']/interface[@name='FFmpegInterface']" name="visibility">public</attr>
-</metadata>
