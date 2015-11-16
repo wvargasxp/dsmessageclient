@@ -1,0 +1,59 @@
+﻿<Page x:Class="WindowsDesktop.Inbox.InboxPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="300"
+	Title="InboxPage" MinWidth="478">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="213*"/>
+        </Grid.ColumnDefinitions>
+        <ListView x:Name="ListView" 
+                  Grid.Row="0"
+                  HorizontalAlignment="Left" 
+                  Margin="10,23,0,10" 
+                  VerticalAlignment="Stretch" 
+                  Width="270" 
+                  MouseDoubleClick="ListView_MouseDoubleClick"
+                  SelectionChanged="ListView_SelectionChanged">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Border BorderThickness="0,1,0,1" BorderBrush="Black">
+                        <Grid Width="auto" HorizontalAlignment="Stretch" >
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="78" />
+                                <ColumnDefinition Width="100" />
+                                <ColumnDefinition Width="48*" />
+                            </Grid.ColumnDefinitions>
+                            <Image VerticalAlignment="Center" Grid.Column="0" Width="48" Height="48" Source="{Binding Path=Image}"/>
+                            <TextBlock VerticalAlignment="Center" FontSize="12" FontWeight="Bold" HorizontalAlignment="Right" Grid.Column="1" Foreground="Black" Text="{Binding Path=ContactsLabel}" Name="ContactsLabelTextBox"/>
+                            <TextBlock VerticalAlignment="Center" FontSize="12" HorizontalAlignment="Right" Grid.Column="2" Foreground="Black" Text="{Binding Path=Preview}" Name="PreviewTextBox"/>
+                        </Grid>
+                    </Border>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <Frame 
+            Grid.Column="1"
+            x:Name="ChatPageFrame" 
+            Content="Frame" 
+            HorizontalAlignment="Left" 
+            MinHeight="267" 
+            Height="Auto" 
+            MaxHeight="700"
+            Margin="10,23,0,0" 
+            VerticalAlignment="Top" 
+            MinWidth="213" 
+            Width="Auto" 
+            NavigationUIVisibility="Hidden"
+            ScrollViewer.VerticalScrollBarVisibility="Visible"
+            ScrollViewer.CanContentScroll="True"/>
+        <Button x:Name="ComposeButton" Content="New Chat" HorizontalAlignment="Left" Margin="165,3,0,0" VerticalAlignment="Top" Width="75" Click="ComposeButton_Click"/>
+    </Grid>
+</Page>

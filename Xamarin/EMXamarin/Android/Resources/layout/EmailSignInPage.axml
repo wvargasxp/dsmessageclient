@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:clickable="true"
+    android:focusableInTouchMode="true">
+    <include
+        android:id="@+id/titlebarlayout"
+        layout="@layout/reuseabletitlebar" />
+    <TextView
+        android:layout_below="@+id/titlebarlayout"
+        style="@style/OnboardingInstructionFont"
+        android:id="@+id/emailInstructionLabel"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/REGISTER_EMAIL_EXPLAINATION"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:gravity="center"
+        android:layout_marginTop="10dp" />
+    <Spinner
+        android:id="@+id/CountrySpinner"
+        android:layout_width="match_parent"
+        android:layout_height="15dp" />
+    <ImageView
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:id="@+id/CountryImageButton"
+        android:layout_below="@id/emailInstructionLabel"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/us"
+        android:layout_centerHorizontal="true" />
+    <TextView
+        style="@style/OnboardingFont"
+        android:text="@string/UNITED_STATES"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="17sp"
+        android:layout_marginTop="8dp"
+        android:id="@+id/countryCodeLabel"
+        android:layout_below="@id/CountryImageButton"
+        android:layout_gravity="center_horizontal"
+        android:layout_centerHorizontal="true" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:minHeight="47dp"
+        android:id="@+id/BottomBar"
+        android:layout_alignParentBottom="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="0dp"
+        android:background="@color/off_white">
+        <RelativeLayout
+            android:id="@+id/TextEntryWrapper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="37dp"
+            android:layout_toLeftOf="@+id/continueButton"
+            android:layout_centerVertical="true"
+            android:fitsSystemWindows="false"
+            android:textColor="@color/off_black"
+            android:layout_marginLeft="3dp"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            android:layout_marginRight="5dp"
+            android:textCursorDrawable="@null"
+            android:background="@drawable/textField">
+            <EditText
+                android:hint="@string/EMAIL_ADDRESS"
+                android:textColorHint="@color/off_black"
+                android:inputType="textEmailAddress|textAutoComplete"
+                android:imeOptions="actionGo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:minHeight="37dp"
+                android:id="@+id/emailTextField"
+                android:layout_centerVertical="true"
+                android:fitsSystemWindows="false"
+                android:textColor="@color/off_black"
+                android:textCursorDrawable="@null"
+                android:background="@null" />
+        </RelativeLayout>
+        <ImageButton
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:id="@+id/continueButton"
+            android:background="@drawable/SendGray"
+            android:scaleType="fitCenter"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true" />
+    </RelativeLayout>
+</RelativeLayout>

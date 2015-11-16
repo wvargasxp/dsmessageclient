@@ -1,0 +1,1096 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">iPhoneSimulator</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9257484A-8B3B-449D-85B7-3D3585E5D953}</ProjectGuid>
+    <ProjectTypeGuids>{FEACFBD2-3405-455C-9665-78FE426C6842};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>iOS</RootNamespace>
+    <IPhoneResourcePrefix>Resources;Resources-iPad</IPhoneResourcePrefix>
+    <AssemblyName>iOS</AssemblyName>
+    <TargetFrameworkIdentifier>Xamarin.iOS</TargetFrameworkIdentifier>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Debug</OutputPath>
+    <DefineConstants>DEBUG;__MOBILE__;__IOS__;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <MtouchLink>None</MtouchLink>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchDebug>true</MtouchDebug>
+    <MtouchI18n>cjk,mideast,west</MtouchI18n>
+    <MtouchArch>i386</MtouchArch>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchProfiling>true</MtouchProfiling>
+    <MtouchUseRefCounting>true</MtouchUseRefCounting>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhoneSimulator\Release</OutputPath>
+    <DefineConstants>__MOBILE__;__IOS__;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <MtouchLink>None</MtouchLink>
+    <ConsolePause>false</ConsolePause>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchI18n>cjk,mideast,west</MtouchI18n>
+    <MtouchArch>i386</MtouchArch>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhone' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\iPhone\Debug</OutputPath>
+    <DefineConstants>DEBUG;__MOBILE__;__IOS__;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <IpaPackageName>
+    </IpaPackageName>
+    <MtouchI18n>cjk,mideast,west</MtouchI18n>
+    <MtouchArch>ARMv7</MtouchArch>
+    <MtouchProfiling>true</MtouchProfiling>
+    <MtouchUseSGen>true</MtouchUseSGen>
+    <MtouchUseRefCounting>true</MtouchUseRefCounting>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Release</OutputPath>
+    <DefineConstants>__MOBILE__;__IOS__;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <ConsolePause>false</ConsolePause>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Ad-Hoc|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\Ad-Hoc</OutputPath>
+    <DefineConstants>__MOBILE__;__IOS__;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CodesignEntitlements>Adhoc-Entitlements.plist</CodesignEntitlements>
+    <BuildIpa>true</BuildIpa>
+    <CodesignProvision>Automatic:AdHoc</CodesignProvision>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <MtouchI18n>cjk,mideast,west</MtouchI18n>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+    <MtouchUseRefCounting>true</MtouchUseRefCounting>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'AppStore|iPhone' ">
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\iPhone\AppStore</OutputPath>
+    <DefineConstants>__MOBILE__;__IOS__;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
+    <CodesignProvision>Automatic:AppStore</CodesignProvision>
+    <CodesignKey>iPhone Distribution</CodesignKey>
+    <MtouchI18n>cjk,mideast,west</MtouchI18n>
+    <MtouchArch>ARMv7, ARM64</MtouchArch>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="MonoTouch.Dialog-1" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="FFBinding">
+      <HintPath>..\packages\FFPopover\FFBinding.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.iOS" />
+    <Reference Include="JASidePanels">
+      <HintPath>..\Components\jasidepanels-1.3.2.2\lib\ios-unified\JASidePanels.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Data.Sqlcipher">
+      <HintPath>..\Components\sqlcipher-for-xamarin-ios-3.2.1.1\lib\ios-unified\Mono.Data.Sqlcipher.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.ClientEngine.Common">
+      <HintPath>..\packages\SuperSocket.ClientEngine\MonoTouch\Release\SuperSocket.ClientEngine.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.ClientEngine.Core">
+      <HintPath>..\packages\SuperSocket.ClientEngine\MonoTouch\Release\SuperSocket.ClientEngine.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.ClientEngine.Protocol">
+      <HintPath>..\packages\SuperSocket.ClientEngine\MonoTouch\Release\SuperSocket.ClientEngine.Protocol.dll</HintPath>
+    </Reference>
+    <Reference Include="SuperSocket.ClientEngine.Proxy">
+      <HintPath>..\packages\SuperSocket.ClientEngine\MonoTouch\Release\SuperSocket.ClientEngine.Proxy.dll</HintPath>
+    </Reference>
+    <Reference Include="WebSocket4Net">
+      <HintPath>..\packages\Websocket4Net\point12\MonoTouch\Release\WebSocket4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="SocketRocket">
+      <HintPath>..\BindingProjects\SocketRocket\SocketRocket\bin\Release\SocketRocket.dll</HintPath>
+    </Reference>
+    <Reference Include="AFLibrary">
+      <HintPath>..\BindingProjects\AFLibrary\AFLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="EZAudioBInding">
+      <HintPath>..\BindingProjects\EZAudio\EZAudioBInding\EZAudioBInding\bin\Release\EZAudioBInding.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Auth.iOS">
+      <HintPath>..\Components\xamarin.social-1.1.7\lib\ios-unified\Xamarin.Auth.iOS.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Mobile">
+      <HintPath>..\Components\xamarin.social-1.1.7\lib\ios-unified\Xamarin.Mobile.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Social.iOS">
+      <HintPath>..\Components\xamarin.social-1.1.7\lib\ios-unified\Xamarin.Social.iOS.dll</HintPath>
+    </Reference>
+    <Reference Include="MBProgressHUD">
+      <HintPath>..\Components\mbprogresshud-0.9.0.2\lib\ios-unified\MBProgressHUD.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="AdjustBindingsiOS">
+      <HintPath>..\packages\adjust\ios\AdjustBindingsiOS.dll</HintPath>
+    </Reference>
+    <Reference Include="PLCrashReporterUnifiedBinding">
+      <HintPath>..\Components\xamarin-insights-1.10.4\lib\ios-unified\PLCrashReporterUnifiedBinding.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Insights">
+      <HintPath>..\Components\xamarin-insights-1.10.4\lib\ios-unified\Xamarin.Insights.dll</HintPath>
+    </Reference>
+    <Reference Include="GoogleAnalytics.iOS">
+      <HintPath>..\Components\googleanalytics-3.0.12\lib\ios-unified\GoogleAnalytics.iOS.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\Default-568h%402x.png" />
+    <BundleResource Include="Resources\video-icon.png" />
+    <BundleResource Include="Resources\unreadMessagesIndicator.png" />
+    <BundleResource Include="Resources\Default.png" />
+    <BundleResource Include="Resources\Default%402x.png" />
+    <BundleResource Include="Resources\Default-Portrait.png" />
+    <BundleResource Include="Resources\Default-Landscape.png" />
+    <BundleResource Include="Resources\Default-Portrait%402x.png" />
+    <BundleResource Include="Resources\Default-Landscape%402x.png" />
+    <BundleResource Include="Resources\Icon.png" />
+    <BundleResource Include="Resources\Icon%402x.png" />
+    <BundleResource Include="Resources\Icon-76.png" />
+    <BundleResource Include="Resources\Icon-152.png" />
+    <BundleResource Include="Resources\Icon-72.png" />
+    <BundleResource Include="Resources\Icon-120.png" />
+    <BundleResource Include="Resources\Icon-144.png" />
+    <BundleResource Include="Resources\Icon-29.png" />
+    <BundleResource Include="Resources\Icon-40.png" />
+    <BundleResource Include="Resources\Icon-50.png" />
+    <BundleResource Include="Resources\Icon-80.png" />
+    <BundleResource Include="Resources\Icon-100.png" />
+    <BundleResource Include="Resources\sounds\InAppIncomingMessage.mp3" />
+    <BundleResource Include="Resources\sounds\m.mp3" />
+    <BundleResource Include="Resources\chat\landing.png" />
+    <BundleResource Include="Resources\onboarding\loginMail%402x.png" />
+    <BundleResource Include="Resources\onboarding\loginPhone%402x.png" />
+    <BundleResource Include="Resources\onboarding\loginMail.png" />
+    <BundleResource Include="Resources\onboarding\loginPhone.png" />
+    <BundleResource Include="Resources\onboarding\squareBlue.png" />
+    <BundleResource Include="Resources\onboarding\squareBlue%402x.png" />
+    <BundleResource Include="Resources\onboarding\squareGold.png" />
+    <BundleResource Include="Resources\onboarding\squareGold%402x.png" />
+    <BundleResource Include="Resources\onboarding\squareGreen.png" />
+    <BundleResource Include="Resources\onboarding\squareGreen%402x.png" />
+    <BundleResource Include="Resources\onboarding\squarePink.png" />
+    <BundleResource Include="Resources\onboarding\squarePink%402x.png" />
+    <BundleResource Include="Resources\onboarding\squareGray.png" />
+    <BundleResource Include="Resources\onboarding\squareGray%402x.png" />
+    <BundleResource Include="Resources\chat\dotGreen.png" />
+    <BundleResource Include="Resources\chat\dotGreen%402x.png" />
+    <BundleResource Include="Resources\chat\envelope.png" />
+    <BundleResource Include="Resources\chat\envelope%402x.png" />
+    <BundleResource Include="Resources\chat\sent.png" />
+    <BundleResource Include="Resources\chat\sent%402x.png" />
+    <BundleResource Include="Resources\chat\failed.png" />
+    <BundleResource Include="Resources\chat\failed%402x.png" />
+    <BundleResource Include="Resources\iconMenu.png" />
+    <BundleResource Include="Resources\iconBack.png" />
+    <BundleResource Include="Resources\Ubuntu-Light.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
+    <BundleResource Include="Resources\Ubuntu-Bold.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
+    <BundleResource Include="Resources\Ubuntu-BoldItalic.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
+    <BundleResource Include="Resources\Ubuntu-LightItalic.ttf">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </BundleResource>
+    <BundleResource Include="Resources\sidemenu\iconAccount.png" />
+    <BundleResource Include="Resources\sidemenu\iconAccount%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconFind.png" />
+    <BundleResource Include="Resources\sidemenu\iconFind%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconGroup.png" />
+    <BundleResource Include="Resources\sidemenu\iconGroup%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconNotify.png" />
+    <BundleResource Include="Resources\sidemenu\iconNotify%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconNotifyCounter.png" />
+    <BundleResource Include="Resources\sidemenu\iconNotifyCounter%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconUser.png" />
+    <BundleResource Include="Resources\sidemenu\iconUser%402x.png" />
+    <BundleResource Include="Resources\account\shadowAndBg.png" />
+    <BundleResource Include="Resources\account\shadow.png" />
+    <BundleResource Include="Resources\chat\text-field.png" />
+    <BundleResource Include="Resources\chat\text-field%402x.png" />
+    <BundleResource Include="Resources\chat\text-field-full.png" />
+    <BundleResource Include="Resources\chat\text-field-full%402x.png" />
+    <BundleResource Include="Resources\onboarding\squarePurple.png" />
+    <BundleResource Include="Resources\onboarding\squarePurple%402x.png" />
+    <BundleResource Include="Resources\flags\ad%402x.png" />
+    <BundleResource Include="Resources\flags\ae%402x.png" />
+    <BundleResource Include="Resources\flags\af%402x.png" />
+    <BundleResource Include="Resources\flags\ag%402x.png" />
+    <BundleResource Include="Resources\flags\al%402x.png" />
+    <BundleResource Include="Resources\flags\am%402x.png" />
+    <BundleResource Include="Resources\flags\ao%402x.png" />
+    <BundleResource Include="Resources\flags\ar%402x.png" />
+    <BundleResource Include="Resources\flags\as%402x.png" />
+    <BundleResource Include="Resources\flags\at%402x.png" />
+    <BundleResource Include="Resources\flags\au%402x.png" />
+    <BundleResource Include="Resources\flags\aw%402x.png" />
+    <BundleResource Include="Resources\flags\az%402x.png" />
+    <BundleResource Include="Resources\flags\ba%402x.png" />
+    <BundleResource Include="Resources\flags\bb%402x.png" />
+    <BundleResource Include="Resources\flags\bd%402x.png" />
+    <BundleResource Include="Resources\flags\be%402x.png" />
+    <BundleResource Include="Resources\flags\bf%402x.png" />
+    <BundleResource Include="Resources\flags\bg%402x.png" />
+    <BundleResource Include="Resources\flags\bh%402x.png" />
+    <BundleResource Include="Resources\flags\bi%402x.png" />
+    <BundleResource Include="Resources\flags\bj%402x.png" />
+    <BundleResource Include="Resources\flags\bl%402x.png" />
+    <BundleResource Include="Resources\flags\bm%402x.png" />
+    <BundleResource Include="Resources\flags\bn%402x.png" />
+    <BundleResource Include="Resources\flags\bo%402x.png" />
+    <BundleResource Include="Resources\flags\br%402x.png" />
+    <BundleResource Include="Resources\flags\bs%402x.png" />
+    <BundleResource Include="Resources\flags\bt%402x.png" />
+    <BundleResource Include="Resources\flags\bw%402x.png" />
+    <BundleResource Include="Resources\flags\by%402x.png" />
+    <BundleResource Include="Resources\flags\bz%402x.png" />
+    <BundleResource Include="Resources\flags\ca%402x.png" />
+    <BundleResource Include="Resources\flags\cc%402x.png" />
+    <BundleResource Include="Resources\flags\cd%402x.png" />
+    <BundleResource Include="Resources\flags\cf%402x.png" />
+    <BundleResource Include="Resources\flags\cg%402x.png" />
+    <BundleResource Include="Resources\flags\ch%402x.png" />
+    <BundleResource Include="Resources\flags\ci%402x.png" />
+    <BundleResource Include="Resources\flags\ck%402x.png" />
+    <BundleResource Include="Resources\flags\cl%402x.png" />
+    <BundleResource Include="Resources\flags\cm%402x.png" />
+    <BundleResource Include="Resources\flags\cn%402x.png" />
+    <BundleResource Include="Resources\flags\co%402x.png" />
+    <BundleResource Include="Resources\flags\cr%402x.png" />
+    <BundleResource Include="Resources\flags\cu%402x.png" />
+    <BundleResource Include="Resources\flags\cv%402x.png" />
+    <BundleResource Include="Resources\flags\cx%402x.png" />
+    <BundleResource Include="Resources\flags\cy%402x.png" />
+    <BundleResource Include="Resources\flags\cz%402x.png" />
+    <BundleResource Include="Resources\flags\de%402x.png" />
+    <BundleResource Include="Resources\flags\dj%402x.png" />
+    <BundleResource Include="Resources\flags\dk%402x.png" />
+    <BundleResource Include="Resources\flags\dm%402x.png" />
+    <BundleResource Include="Resources\flags\do_%402x.png" />
+    <BundleResource Include="Resources\flags\dz%402x.png" />
+    <BundleResource Include="Resources\flags\ec%402x.png" />
+    <BundleResource Include="Resources\flags\ee%402x.png" />
+    <BundleResource Include="Resources\flags\eg%402x.png" />
+    <BundleResource Include="Resources\flags\er%402x.png" />
+    <BundleResource Include="Resources\flags\es%402x.png" />
+    <BundleResource Include="Resources\flags\et%402x.png" />
+    <BundleResource Include="Resources\flags\fi%402x.png" />
+    <BundleResource Include="Resources\flags\fj%402x.png" />
+    <BundleResource Include="Resources\flags\fm%402x.png" />
+    <BundleResource Include="Resources\flags\fr%402x.png" />
+    <BundleResource Include="Resources\flags\ga%402x.png" />
+    <BundleResource Include="Resources\flags\gb%402x.png" />
+    <BundleResource Include="Resources\flags\gd%402x.png" />
+    <BundleResource Include="Resources\flags\ge%402x.png" />
+    <BundleResource Include="Resources\flags\gh%402x.png" />
+    <BundleResource Include="Resources\flags\gm%402x.png" />
+    <BundleResource Include="Resources\flags\gn%402x.png" />
+    <BundleResource Include="Resources\flags\gq%402x.png" />
+    <BundleResource Include="Resources\flags\gr%402x.png" />
+    <BundleResource Include="Resources\flags\gt%402x.png" />
+    <BundleResource Include="Resources\flags\gu%402x.png" />
+    <BundleResource Include="Resources\flags\gw%402x.png" />
+    <BundleResource Include="Resources\flags\gy%402x.png" />
+    <BundleResource Include="Resources\flags\hk%402x.png" />
+    <BundleResource Include="Resources\flags\hn%402x.png" />
+    <BundleResource Include="Resources\flags\hr%402x.png" />
+    <BundleResource Include="Resources\flags\ht%402x.png" />
+    <BundleResource Include="Resources\flags\hu%402x.png" />
+    <BundleResource Include="Resources\flags\id%402x.png" />
+    <BundleResource Include="Resources\flags\ie%402x.png" />
+    <BundleResource Include="Resources\flags\il%402x.png" />
+    <BundleResource Include="Resources\flags\in%402x.png" />
+    <BundleResource Include="Resources\flags\iq%402x.png" />
+    <BundleResource Include="Resources\flags\ir%402x.png" />
+    <BundleResource Include="Resources\flags\is%402x.png" />
+    <BundleResource Include="Resources\flags\it%402x.png" />
+    <BundleResource Include="Resources\flags\jm%402x.png" />
+    <BundleResource Include="Resources\flags\jo%402x.png" />
+    <BundleResource Include="Resources\flags\jp%402x.png" />
+    <BundleResource Include="Resources\flags\ke%402x.png" />
+    <BundleResource Include="Resources\flags\kg%402x.png" />
+    <BundleResource Include="Resources\flags\kh%402x.png" />
+    <BundleResource Include="Resources\flags\ki%402x.png" />
+    <BundleResource Include="Resources\flags\km%402x.png" />
+    <BundleResource Include="Resources\flags\kn%402x.png" />
+    <BundleResource Include="Resources\flags\kp%402x.png" />
+    <BundleResource Include="Resources\flags\kr%402x.png" />
+    <BundleResource Include="Resources\flags\kv%402x.png" />
+    <BundleResource Include="Resources\flags\kw%402x.png" />
+    <BundleResource Include="Resources\flags\ky%402x.png" />
+    <BundleResource Include="Resources\flags\kz%402x.png" />
+    <BundleResource Include="Resources\flags\la%402x.png" />
+    <BundleResource Include="Resources\flags\lb%402x.png" />
+    <BundleResource Include="Resources\flags\lc%402x.png" />
+    <BundleResource Include="Resources\flags\li%402x.png" />
+    <BundleResource Include="Resources\flags\lk%402x.png" />
+    <BundleResource Include="Resources\flags\lr%402x.png" />
+    <BundleResource Include="Resources\flags\ls%402x.png" />
+    <BundleResource Include="Resources\flags\lt%402x.png" />
+    <BundleResource Include="Resources\flags\lu%402x.png" />
+    <BundleResource Include="Resources\flags\lv%402x.png" />
+    <BundleResource Include="Resources\flags\ly%402x.png" />
+    <BundleResource Include="Resources\flags\ma%402x.png" />
+    <BundleResource Include="Resources\flags\mc%402x.png" />
+    <BundleResource Include="Resources\flags\md%402x.png" />
+    <BundleResource Include="Resources\flags\me%402x.png" />
+    <BundleResource Include="Resources\flags\mf%402x.png" />
+    <BundleResource Include="Resources\flags\mg%402x.png" />
+    <BundleResource Include="Resources\flags\mh%402x.png" />
+    <BundleResource Include="Resources\flags\ml%402x.png" />
+    <BundleResource Include="Resources\flags\mm%402x.png" />
+    <BundleResource Include="Resources\flags\mn%402x.png" />
+    <BundleResource Include="Resources\flags\mo%402x.png" />
+    <BundleResource Include="Resources\flags\mp%402x.png" />
+    <BundleResource Include="Resources\flags\mr%402x.png" />
+    <BundleResource Include="Resources\flags\ms%402x.png" />
+    <BundleResource Include="Resources\flags\mt%402x.png" />
+    <BundleResource Include="Resources\flags\mu%402x.png" />
+    <BundleResource Include="Resources\flags\mv%402x.png" />
+    <BundleResource Include="Resources\flags\mw%402x.png" />
+    <BundleResource Include="Resources\flags\mx%402x.png" />
+    <BundleResource Include="Resources\flags\my%402x.png" />
+    <BundleResource Include="Resources\flags\mz%402x.png" />
+    <BundleResource Include="Resources\flags\na%402x.png" />
+    <BundleResource Include="Resources\flags\nc%402x.png" />
+    <BundleResource Include="Resources\flags\ne%402x.png" />
+    <BundleResource Include="Resources\flags\nfk%402x.png" />
+    <BundleResource Include="Resources\flags\ng%402x.png" />
+    <BundleResource Include="Resources\flags\ni%402x.png" />
+    <BundleResource Include="Resources\flags\nl%402x.png" />
+    <BundleResource Include="Resources\flags\no%402x.png" />
+    <BundleResource Include="Resources\flags\np%402x.png" />
+    <BundleResource Include="Resources\flags\nr%402x.png" />
+    <BundleResource Include="Resources\flags\nu%402x.png" />
+    <BundleResource Include="Resources\flags\nz%402x.png" />
+    <BundleResource Include="Resources\flags\om%402x.png" />
+    <BundleResource Include="Resources\flags\pa%402x.png" />
+    <BundleResource Include="Resources\flags\pe%402x.png" />
+    <BundleResource Include="Resources\flags\pf%402x.png" />
+    <BundleResource Include="Resources\flags\pg%402x.png" />
+    <BundleResource Include="Resources\flags\ph%402x.png" />
+    <BundleResource Include="Resources\flags\pk%402x.png" />
+    <BundleResource Include="Resources\flags\pl%402x.png" />
+    <BundleResource Include="Resources\flags\pn%402x.png" />
+    <BundleResource Include="Resources\flags\pr%402x.png" />
+    <BundleResource Include="Resources\flags\pt%402x.png" />
+    <BundleResource Include="Resources\flags\pw%402x.png" />
+    <BundleResource Include="Resources\flags\py%402x.png" />
+    <BundleResource Include="Resources\flags\qa%402x.png" />
+    <BundleResource Include="Resources\flags\ro%402x.png" />
+    <BundleResource Include="Resources\flags\rs%402x.png" />
+    <BundleResource Include="Resources\flags\ru%402x.png" />
+    <BundleResource Include="Resources\flags\rw%402x.png" />
+    <BundleResource Include="Resources\flags\sa%402x.png" />
+    <BundleResource Include="Resources\flags\sb%402x.png" />
+    <BundleResource Include="Resources\flags\sc%402x.png" />
+    <BundleResource Include="Resources\flags\sd%402x.png" />
+    <BundleResource Include="Resources\flags\se%402x.png" />
+    <BundleResource Include="Resources\flags\sg%402x.png" />
+    <BundleResource Include="Resources\flags\si%402x.png" />
+    <BundleResource Include="Resources\flags\sk%402x.png" />
+    <BundleResource Include="Resources\flags\sl%402x.png" />
+    <BundleResource Include="Resources\flags\sm%402x.png" />
+    <BundleResource Include="Resources\flags\sn%402x.png" />
+    <BundleResource Include="Resources\flags\so%402x.png" />
+    <BundleResource Include="Resources\flags\sr%402x.png" />
+    <BundleResource Include="Resources\flags\st%402x.png" />
+    <BundleResource Include="Resources\flags\sv%402x.png" />
+    <BundleResource Include="Resources\flags\sy%402x.png" />
+    <BundleResource Include="Resources\flags\sz%402x.png" />
+    <BundleResource Include="Resources\flags\tc%402x.png" />
+    <BundleResource Include="Resources\flags\td%402x.png" />
+    <BundleResource Include="Resources\flags\tg%402x.png" />
+    <BundleResource Include="Resources\flags\th%402x.png" />
+    <BundleResource Include="Resources\flags\tj%402x.png" />
+    <BundleResource Include="Resources\flags\tk%402x.png" />
+    <BundleResource Include="Resources\flags\tl%402x.png" />
+    <BundleResource Include="Resources\flags\tm%402x.png" />
+    <BundleResource Include="Resources\flags\tn%402x.png" />
+    <BundleResource Include="Resources\flags\to%402x.png" />
+    <BundleResource Include="Resources\flags\tr%402x.png" />
+    <BundleResource Include="Resources\flags\tt%402x.png" />
+    <BundleResource Include="Resources\flags\tv%402x.png" />
+    <BundleResource Include="Resources\flags\tw%402x.png" />
+    <BundleResource Include="Resources\flags\tz%402x.png" />
+    <BundleResource Include="Resources\flags\ua%402x.png" />
+    <BundleResource Include="Resources\flags\ug%402x.png" />
+    <BundleResource Include="Resources\flags\us%402x.png" />
+    <BundleResource Include="Resources\flags\uy%402x.png" />
+    <BundleResource Include="Resources\flags\uz%402x.png" />
+    <BundleResource Include="Resources\flags\va%402x.png" />
+    <BundleResource Include="Resources\flags\vc%402x.png" />
+    <BundleResource Include="Resources\flags\ve%402x.png" />
+    <BundleResource Include="Resources\flags\vi%402x.png" />
+    <BundleResource Include="Resources\flags\vn%402x.png" />
+    <BundleResource Include="Resources\flags\vu%402x.png" />
+    <BundleResource Include="Resources\flags\wf%402x.png" />
+    <BundleResource Include="Resources\flags\ws%402x.png" />
+    <BundleResource Include="Resources\flags\ye%402x.png" />
+    <BundleResource Include="Resources\flags\za%402x.png" />
+    <BundleResource Include="Resources\flags\zm%402x.png" />
+    <BundleResource Include="Resources\flags\zw%402x.png" />
+    <BundleResource Include="Resources\flags\ad.png" />
+    <BundleResource Include="Resources\flags\ae.png" />
+    <BundleResource Include="Resources\flags\af.png" />
+    <BundleResource Include="Resources\flags\ag.png" />
+    <BundleResource Include="Resources\flags\al.png" />
+    <BundleResource Include="Resources\flags\am.png" />
+    <BundleResource Include="Resources\flags\ao.png" />
+    <BundleResource Include="Resources\flags\ar.png" />
+    <BundleResource Include="Resources\flags\as.png" />
+    <BundleResource Include="Resources\flags\at.png" />
+    <BundleResource Include="Resources\flags\au.png" />
+    <BundleResource Include="Resources\flags\aw.png" />
+    <BundleResource Include="Resources\flags\az.png" />
+    <BundleResource Include="Resources\flags\ba.png" />
+    <BundleResource Include="Resources\flags\bb.png" />
+    <BundleResource Include="Resources\flags\bd.png" />
+    <BundleResource Include="Resources\flags\be.png" />
+    <BundleResource Include="Resources\flags\bf.png" />
+    <BundleResource Include="Resources\flags\bg.png" />
+    <BundleResource Include="Resources\flags\bh.png" />
+    <BundleResource Include="Resources\flags\bi.png" />
+    <BundleResource Include="Resources\flags\bj.png" />
+    <BundleResource Include="Resources\flags\bl.png" />
+    <BundleResource Include="Resources\flags\bm.png" />
+    <BundleResource Include="Resources\flags\bn.png" />
+    <BundleResource Include="Resources\flags\bo.png" />
+    <BundleResource Include="Resources\flags\br.png" />
+    <BundleResource Include="Resources\flags\bs.png" />
+    <BundleResource Include="Resources\flags\bt.png" />
+    <BundleResource Include="Resources\flags\bw.png" />
+    <BundleResource Include="Resources\flags\by.png" />
+    <BundleResource Include="Resources\flags\bz.png" />
+    <BundleResource Include="Resources\flags\ca.png" />
+    <BundleResource Include="Resources\flags\cc.png" />
+    <BundleResource Include="Resources\flags\cd.png" />
+    <BundleResource Include="Resources\flags\cf.png" />
+    <BundleResource Include="Resources\flags\cg.png" />
+    <BundleResource Include="Resources\flags\ch.png" />
+    <BundleResource Include="Resources\flags\ci.png" />
+    <BundleResource Include="Resources\flags\ck.png" />
+    <BundleResource Include="Resources\flags\cl.png" />
+    <BundleResource Include="Resources\flags\cm.png" />
+    <BundleResource Include="Resources\flags\cn.png" />
+    <BundleResource Include="Resources\flags\co.png" />
+    <BundleResource Include="Resources\flags\cr.png" />
+    <BundleResource Include="Resources\flags\cu.png" />
+    <BundleResource Include="Resources\flags\cv.png" />
+    <BundleResource Include="Resources\flags\cx.png" />
+    <BundleResource Include="Resources\flags\cy.png" />
+    <BundleResource Include="Resources\flags\cz.png" />
+    <BundleResource Include="Resources\flags\de.png" />
+    <BundleResource Include="Resources\flags\dj.png" />
+    <BundleResource Include="Resources\flags\dk.png" />
+    <BundleResource Include="Resources\flags\dm.png" />
+    <BundleResource Include="Resources\flags\do_.png" />
+    <BundleResource Include="Resources\flags\dz.png" />
+    <BundleResource Include="Resources\flags\ec.png" />
+    <BundleResource Include="Resources\flags\ee.png" />
+    <BundleResource Include="Resources\flags\eg.png" />
+    <BundleResource Include="Resources\flags\er.png" />
+    <BundleResource Include="Resources\flags\es.png" />
+    <BundleResource Include="Resources\flags\et.png" />
+    <BundleResource Include="Resources\flags\fi.png" />
+    <BundleResource Include="Resources\flags\fj.png" />
+    <BundleResource Include="Resources\flags\fm.png" />
+    <BundleResource Include="Resources\flags\fr.png" />
+    <BundleResource Include="Resources\flags\ga.png" />
+    <BundleResource Include="Resources\flags\gb.png" />
+    <BundleResource Include="Resources\flags\gd.png" />
+    <BundleResource Include="Resources\flags\ge.png" />
+    <BundleResource Include="Resources\flags\gh.png" />
+    <BundleResource Include="Resources\flags\gm.png" />
+    <BundleResource Include="Resources\flags\gn.png" />
+    <BundleResource Include="Resources\flags\gq.png" />
+    <BundleResource Include="Resources\flags\gr.png" />
+    <BundleResource Include="Resources\flags\gt.png" />
+    <BundleResource Include="Resources\flags\gu.png" />
+    <BundleResource Include="Resources\flags\gw.png" />
+    <BundleResource Include="Resources\flags\gy.png" />
+    <BundleResource Include="Resources\flags\hk.png" />
+    <BundleResource Include="Resources\flags\hn.png" />
+    <BundleResource Include="Resources\flags\hr.png" />
+    <BundleResource Include="Resources\flags\ht.png" />
+    <BundleResource Include="Resources\flags\hu.png" />
+    <BundleResource Include="Resources\flags\id.png" />
+    <BundleResource Include="Resources\flags\ie.png" />
+    <BundleResource Include="Resources\flags\il.png" />
+    <BundleResource Include="Resources\flags\in.png" />
+    <BundleResource Include="Resources\flags\iq.png" />
+    <BundleResource Include="Resources\flags\ir.png" />
+    <BundleResource Include="Resources\flags\is.png" />
+    <BundleResource Include="Resources\flags\it.png" />
+    <BundleResource Include="Resources\flags\jm.png" />
+    <BundleResource Include="Resources\flags\jo.png" />
+    <BundleResource Include="Resources\flags\jp.png" />
+    <BundleResource Include="Resources\flags\ke.png" />
+    <BundleResource Include="Resources\flags\kg.png" />
+    <BundleResource Include="Resources\flags\kh.png" />
+    <BundleResource Include="Resources\flags\ki.png" />
+    <BundleResource Include="Resources\flags\km.png" />
+    <BundleResource Include="Resources\flags\kn.png" />
+    <BundleResource Include="Resources\flags\kp.png" />
+    <BundleResource Include="Resources\flags\kr.png" />
+    <BundleResource Include="Resources\flags\kv.png" />
+    <BundleResource Include="Resources\flags\kw.png" />
+    <BundleResource Include="Resources\flags\ky.png" />
+    <BundleResource Include="Resources\flags\kz.png" />
+    <BundleResource Include="Resources\flags\la.png" />
+    <BundleResource Include="Resources\flags\lb.png" />
+    <BundleResource Include="Resources\flags\lc.png" />
+    <BundleResource Include="Resources\flags\li.png" />
+    <BundleResource Include="Resources\flags\lk.png" />
+    <BundleResource Include="Resources\flags\lr.png" />
+    <BundleResource Include="Resources\flags\ls.png" />
+    <BundleResource Include="Resources\flags\lt.png" />
+    <BundleResource Include="Resources\flags\lu.png" />
+    <BundleResource Include="Resources\flags\lv.png" />
+    <BundleResource Include="Resources\flags\ly.png" />
+    <BundleResource Include="Resources\flags\ma.png" />
+    <BundleResource Include="Resources\flags\mc.png" />
+    <BundleResource Include="Resources\flags\md.png" />
+    <BundleResource Include="Resources\flags\me.png" />
+    <BundleResource Include="Resources\flags\mf.png" />
+    <BundleResource Include="Resources\flags\mg.png" />
+    <BundleResource Include="Resources\flags\mh.png" />
+    <BundleResource Include="Resources\flags\ml.png" />
+    <BundleResource Include="Resources\flags\mm.png" />
+    <BundleResource Include="Resources\flags\mn.png" />
+    <BundleResource Include="Resources\flags\mo.png" />
+    <BundleResource Include="Resources\flags\mp.png" />
+    <BundleResource Include="Resources\flags\mr.png" />
+    <BundleResource Include="Resources\flags\ms.png" />
+    <BundleResource Include="Resources\flags\mt.png" />
+    <BundleResource Include="Resources\flags\mu.png" />
+    <BundleResource Include="Resources\flags\mv.png" />
+    <BundleResource Include="Resources\flags\mw.png" />
+    <BundleResource Include="Resources\flags\mx.png" />
+    <BundleResource Include="Resources\flags\my.png" />
+    <BundleResource Include="Resources\flags\mz.png" />
+    <BundleResource Include="Resources\flags\na.png" />
+    <BundleResource Include="Resources\flags\nc.png" />
+    <BundleResource Include="Resources\flags\ne.png" />
+    <BundleResource Include="Resources\flags\nfk.png" />
+    <BundleResource Include="Resources\flags\ng.png" />
+    <BundleResource Include="Resources\flags\ni.png" />
+    <BundleResource Include="Resources\flags\nl.png" />
+    <BundleResource Include="Resources\flags\no.png" />
+    <BundleResource Include="Resources\flags\np.png" />
+    <BundleResource Include="Resources\flags\nr.png" />
+    <BundleResource Include="Resources\flags\nu.png" />
+    <BundleResource Include="Resources\flags\nz.png" />
+    <BundleResource Include="Resources\flags\om.png" />
+    <BundleResource Include="Resources\flags\pa.png" />
+    <BundleResource Include="Resources\flags\pe.png" />
+    <BundleResource Include="Resources\flags\pf.png" />
+    <BundleResource Include="Resources\flags\pg.png" />
+    <BundleResource Include="Resources\flags\ph.png" />
+    <BundleResource Include="Resources\flags\pk.png" />
+    <BundleResource Include="Resources\flags\pl.png" />
+    <BundleResource Include="Resources\flags\pn.png" />
+    <BundleResource Include="Resources\flags\pr.png" />
+    <BundleResource Include="Resources\flags\pt.png" />
+    <BundleResource Include="Resources\flags\pw.png" />
+    <BundleResource Include="Resources\flags\py.png" />
+    <BundleResource Include="Resources\flags\qa.png" />
+    <BundleResource Include="Resources\flags\ro.png" />
+    <BundleResource Include="Resources\flags\rs.png" />
+    <BundleResource Include="Resources\flags\ru.png" />
+    <BundleResource Include="Resources\flags\rw.png" />
+    <BundleResource Include="Resources\flags\sa.png" />
+    <BundleResource Include="Resources\flags\sb.png" />
+    <BundleResource Include="Resources\flags\sc.png" />
+    <BundleResource Include="Resources\flags\sd.png" />
+    <BundleResource Include="Resources\flags\se.png" />
+    <BundleResource Include="Resources\flags\sg.png" />
+    <BundleResource Include="Resources\flags\si.png" />
+    <BundleResource Include="Resources\flags\sk.png" />
+    <BundleResource Include="Resources\flags\sl.png" />
+    <BundleResource Include="Resources\flags\sm.png" />
+    <BundleResource Include="Resources\flags\sn.png" />
+    <BundleResource Include="Resources\flags\so.png" />
+    <BundleResource Include="Resources\flags\sr.png" />
+    <BundleResource Include="Resources\flags\st.png" />
+    <BundleResource Include="Resources\flags\sv.png" />
+    <BundleResource Include="Resources\flags\sy.png" />
+    <BundleResource Include="Resources\flags\sz.png" />
+    <BundleResource Include="Resources\flags\tc.png" />
+    <BundleResource Include="Resources\flags\td.png" />
+    <BundleResource Include="Resources\flags\tg.png" />
+    <BundleResource Include="Resources\flags\th.png" />
+    <BundleResource Include="Resources\flags\tj.png" />
+    <BundleResource Include="Resources\flags\tk.png" />
+    <BundleResource Include="Resources\flags\tl.png" />
+    <BundleResource Include="Resources\flags\tm.png" />
+    <BundleResource Include="Resources\flags\tn.png" />
+    <BundleResource Include="Resources\flags\to.png" />
+    <BundleResource Include="Resources\flags\tr.png" />
+    <BundleResource Include="Resources\flags\tt.png" />
+    <BundleResource Include="Resources\flags\tv.png" />
+    <BundleResource Include="Resources\flags\tw.png" />
+    <BundleResource Include="Resources\flags\tz.png" />
+    <BundleResource Include="Resources\flags\ua.png" />
+    <BundleResource Include="Resources\flags\ug.png" />
+    <BundleResource Include="Resources\flags\us.png" />
+    <BundleResource Include="Resources\flags\uy.png" />
+    <BundleResource Include="Resources\flags\uz.png" />
+    <BundleResource Include="Resources\flags\va.png" />
+    <BundleResource Include="Resources\flags\vc.png" />
+    <BundleResource Include="Resources\flags\ve.png" />
+    <BundleResource Include="Resources\flags\vi.png" />
+    <BundleResource Include="Resources\flags\vn.png" />
+    <BundleResource Include="Resources\flags\vu.png" />
+    <BundleResource Include="Resources\flags\wf.png" />
+    <BundleResource Include="Resources\flags\ws.png" />
+    <BundleResource Include="Resources\flags\ye.png" />
+    <BundleResource Include="Resources\flags\za.png" />
+    <BundleResource Include="Resources\flags\zm.png" />
+    <BundleResource Include="Resources\flags\zw.png" />
+    <BundleResource Include="Resources\flags\mk.png" />
+    <BundleResource Include="Resources\flags\mk%402x.png" />
+    <BundleResource Include="Resources\en.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\chat\iconSendDisabled.png" />
+    <BundleResource Include="Resources\chat\iconSendDisabled%402x.png" />
+    <BundleResource Include="Resources\ar.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\sidemenu\iconHelp%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconHelp.png" />
+    <BundleResource Include="Resources\Default-667h%402x.png" />
+    <BundleResource Include="Resources\Default-736h%403x.png" />
+    <BundleResource Include="Resources\EMUserImage%403x.png" />
+    <BundleResource Include="Resources\EMUserImage%402x.png" />
+    <BundleResource Include="Resources\EMUserImage.png" />
+    <BundleResource Include="Resources\onboarding\loginMail%403x.png" />
+    <BundleResource Include="Resources\onboarding\loginPhone%403x.png" />
+    <BundleResource Include="Resources\onboarding\squareBlue%403x.png" />
+    <BundleResource Include="Resources\onboarding\squareGold%403x.png" />
+    <BundleResource Include="Resources\onboarding\squareGreen%403x.png" />
+    <BundleResource Include="Resources\onboarding\squarePink%403x.png" />
+    <BundleResource Include="Resources\chat\iconSendDisabled%403x.png" />
+    <BundleResource Include="Resources\userDude.png" />
+    <BundleResource Include="Resources\userDude%402x.png" />
+    <BundleResource Include="Resources\userDude%403x.png" />
+    <BundleResource Include="Resources\sidemenu\iconGroup%403x.png" />
+    <BundleResource Include="Resources\sidemenu\iconHelp%403x.png" />
+    <BundleResource Include="Resources\sidemenu\iconNotify%403x.png" />
+    <BundleResource Include="Resources\sidemenu\iconAccount%403x.png" />
+    <BundleResource Include="Resources\chat\pending.png" />
+    <BundleResource Include="Resources\chat\pending%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconAlias%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconAlias.png" />
+    <BundleResource Include="Resources\de.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\th.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\Icon-58.png" />
+    <BundleResource Include="Resources\Icon%403x.png" />
+    <BundleResource Include="Resources\Icon-100%402x.png" />
+    <BundleResource Include="Resources\Icon-100%403x.png" />
+    <BundleResource Include="Resources\instagramBG.png" />
+    <BundleResource Include="Resources\about\twitterPressed.png" />
+    <BundleResource Include="Resources\about\twitter.png" />
+    <BundleResource Include="Resources\about\facebookPressed.png" />
+    <BundleResource Include="Resources\about\facebook.png" />
+    <BundleResource Include="Resources\sidemenu\iconInfo%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconInfo.png" />
+    <BundleResource Include="Resources\sound-recording-inline-waveform-gray.png" />
+    <BundleResource Include="Resources\sound-recording-popup.png" />
+    <BundleResource Include="Resources\it.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\es.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\hi.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\ja.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\tr.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\ru.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\chat\iconRecordDisabled.png" />
+    <BundleResource Include="Resources\chat\iconRecordDisabled%402x.png" />
+    <BundleResource Include="Resources\pl.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\pt.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\nl.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\sv.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\fr.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\sound-recording-inline-waveform-blank.png" />
+    <BundleResource Include="Resources\chat\RecordingIndicator.png" />
+    <BundleResource Include="Resources\chat\iconRecordDisabled%403x.png" />
+    <BundleResource Include="Resources\chat\RecordingIndicator%402x.png" />
+    <BundleResource Include="Resources\chat\RecordingIndicator%403x.png" />
+    <BundleResource Include="Resources\zh.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\ko.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\sidemenu\iconInviteFriend.png" />
+    <BundleResource Include="Resources\sidemenu\iconInviteFriend%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconInviteFriend%403x.png" />
+    <BundleResource Include="Resources\backgrounds\bgGray%403x.jpg" />
+    <BundleResource Include="Resources\fi.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\no.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\icons\AttachMask.png" />
+    <BundleResource Include="Resources\icons\RecordingPlayMask.png" />
+    <BundleResource Include="Resources\icons\RecordingStopMask.png" />
+    <BundleResource Include="Resources\icons\Rounded-Rectangle-Mask.png" />
+    <BundleResource Include="Resources\icons\SendMask.png" />
+    <BundleResource Include="Resources\icons\changeThemeMask.png" />
+    <BundleResource Include="Resources\icons\iconAdd2Mask.png" />
+    <BundleResource Include="Resources\icons\iconRecordMask.png" />
+    <BundleResource Include="Resources\icons\photoFrameLeftMask.png" />
+    <BundleResource Include="Resources\icons\photoFrameRightMask.png" />
+    <BundleResource Include="Resources\icons\shareMask.png" />
+    <BundleResource Include="Resources\icons\userBlankMask.png" />
+    <BundleResource Include="Resources\sidemenu\iconSettings.png" />
+    <BundleResource Include="Resources\sidemenu\iconSettings%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconSettings%403x.png" />
+    <BundleResource Include="Resources\vi.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\jv.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\el.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\da.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\in.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\sidemenu\iconmaskaka.png" />
+    <BundleResource Include="Resources\sidemenu\iconmaskaka%402x.png" />
+    <BundleResource Include="Resources\sidemenu\iconmaskaka%403x.png" />
+    <BundleResource Include="Resources\icons\akaMask.png" />
+    <BundleResource Include="Resources\chat\PhotoCheck.png" />
+    <BundleResource Include="Resources\chat\PhotoCheck%402x.png" />
+    <BundleResource Include="Resources\chat\PhotoCheck%403x.png" />
+    <BundleResource Include="Resources\ta.lproj\Localizable.strings" />
+    <BundleResource Include="Resources\te.lproj\Localizable.strings" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Info.plist" />
+    <None Include="Entitlements.plist" />
+    <None Include="packages.config" />
+    <None Include="Adhoc-Entitlements.plist" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Main.cs" />
+    <Compile Include="AppDelegate.cs" />
+    <Compile Include="iOSViewController.cs" />
+    <Compile Include="iOSViewController.designer.cs">
+      <DependentUpon>iOSViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Onboarding\EmailSignInViewController.cs" />
+    <Compile Include="Onboarding\MobileVerificationViewController.cs" />
+    <Compile Include="Onboarding\MobileSignInViewController.cs" />
+    <Compile Include="Helpers\IOSDeviceInfo.cs" />
+    <Compile Include="Helpers\IOSAddressBook.cs" />
+    <Compile Include="iOSPlatformFactory.cs" />
+    <Compile Include="Chat\ChatViewController.cs" />
+    <Compile Include="Chat\OutgoingTextTableViewCell.cs" />
+    <Compile Include="Chat\IncomingTextTableViewCell.cs" />
+    <Compile Include="Inbox\InboxViewController.cs" />
+    <Compile Include="MainController.cs" />
+    <Compile Include="MainController.designer.cs">
+      <DependentUpon>MainController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Inbox\InboxViewController.designer.cs">
+      <DependentUpon>InboxViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Helpers\Media_iOS_Extension.cs" />
+    <Compile Include="Notifications\NotificationsViewController.cs" />
+    <Compile Include="Notifications\NotificationsWebViewController.cs" />
+    <Compile Include="..\Linkers\StreamingClientHandler.cs">
+      <Link>LinkedFiles\StreamingClientHandler.cs</Link>
+    </Compile>
+    <Compile Include="Categories\NSDataExtension.cs" />
+    <Compile Include="Onboarding\SignInViewController.cs" />
+    <Compile Include="Inbox\InboxTableViewCell.cs" />
+    <Compile Include="Account\AccountViewController.cs" />
+    <Compile Include="PlatformImpl\iOSSecurityManager.cs" />
+    <Compile Include="Views\ZoomingImageView.cs" />
+    <Compile Include="Helpers\UIDevice_Extension.cs" />
+    <Compile Include="Onboarding\CountryCodePickerModel.cs" />
+    <Compile Include="Views\StretchedRangeButton.cs" />
+    <Compile Include="Helpers\String_UIKit_Extension.cs" />
+    <Compile Include="Chat\IncomingThumbnailView.cs" />
+    <Compile Include="Chat\IncomingBubbleView.cs" />
+    <Compile Include="Chat\OutgoingBubbleView.cs" />
+    <Compile Include="Chat\OutgoingThumbnailView.cs" />
+    <Compile Include="Chat\MessageStatusView.cs" />
+    <Compile Include="Inbox\InboxThumbnailView.cs" />
+    <Compile Include="Chat\IncomingMediaTableViewCell.cs" />
+    <Compile Include="Chat\IncomingMediaBubbleView.cs" />
+    <Compile Include="Helpers\BackgroundColor_Extension.cs" />
+    <Compile Include="Onboarding\LandingPageViewController.cs" />
+    <Compile Include="Helpers\FontHelper.cs" />
+    <Compile Include="Helpers\BackgroundColorChanger.cs" />
+    <Compile Include="Helpers\UI_CONSTANTS.cs" />
+    <Compile Include="Helpers\UINavigationBarLine.cs" />
+    <Compile Include="Helpers\OnboardingTextField.cs" />
+    <Compile Include="Notifications\NotificationTableViewCell.cs" />
+    <Compile Include="Notifications\NotificationThumbnailView.cs" />
+    <Compile Include="Groups\EditGroupViewController.cs" />
+    <Compile Include="Groups\GroupsViewController.cs" />
+    <Compile Include="Groups\GroupThumbnailView.cs" />
+    <Compile Include="Groups\GroupTableViewCell.cs" />
+    <Compile Include="Helpers\UINavigationBarUtil.cs" />
+    <Compile Include="SideMenuViewController.cs" />
+    <Compile Include="SideMenuTableViewCell.cs" />
+    <Compile Include="Chat\Contacts\ContactThumbnailView.cs" />
+    <Compile Include="Chat\Contacts\ContactTableViewCell.cs" />
+    <Compile Include="SQLiteConnectionWrapper.cs" />
+    <Compile Include="Helpers\ViewAdjuster.cs" />
+    <Compile Include="Helpers\LocalizationExtensions.cs" />
+    <Compile Include="Views\ResizableCaretTextView.cs" />
+    <Compile Include="Chat\Delegates\ContactSearchTextViewDelegate.cs" />
+    <Compile Include="Help\HelpViewController.cs" />
+    <Compile Include="Alias\AliasViewController.cs" />
+    <Compile Include="Alias\EditAliasViewController.cs" />
+    <Compile Include="Alias\AliasTableViewCell.cs" />
+    <Compile Include="Alias\AliasThumbnailView.cs" />
+    <Compile Include="Shared\ColorThemePickerViewControllerCell.cs" />
+    <Compile Include="Shared\ColorThemePickerViewControllerController.cs" />
+    <Compile Include="Shared\ColorThemePickerViewControllerSource.cs" />
+    <Compile Include="Helpers\iOS_Constants.cs" />
+    <Compile Include="Profile\ProfileViewController.cs" />
+    <Compile Include="Profile\ProfileListViewController.cs" />
+    <Compile Include="Profile\ProfileTableViewCell.cs" />
+    <Compile Include="Profile\ProfileThumbnailView.cs" />
+    <Compile Include="Helpers\ImageSetter.cs" />
+    <Compile Include="Chat\Delegates\FromAliasPickerViewModel.cs" />
+    <Compile Include="Chat\ImageSearch\ImageSearchController.cs" />
+    <Compile Include="Categories\UIImageExtension.cs" />
+    <Compile Include="Shared\ThumbnailAnimationStrategy.cs" />
+    <Compile Include="Shared\QueuedThumbnailAnimationStrategy.cs" />
+    <Compile Include="Chat\EMVideoView.cs" />
+    <Compile Include="Helpers\VideoConverter.cs" />
+    <Compile Include="Chat\ImageSearch\ImageSearchCollectionViewCell.cs" />
+    <Compile Include="Chat\ImageSearch\ImageSearchCollectionViewFlowLayout.cs" />
+    <Compile Include="Chat\AbstractAcquiresImagesController.cs" />
+    <Compile Include="Chat\RemoteMessageTypingView.cs" />
+    <Compile Include="Categories\NSDateExtension.cs" />
+    <Compile Include="Categories\DateTimeExtension.cs" />
+    <Compile Include="Chat\BasicThumbnailView.cs" />
+    <Compile Include="Helpers\EMTextField.cs" />
+    <Compile Include="Chat\Contacts\Search\ContactSearchController.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\AddressBookSearchResultsTableViewDataSource.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\AddressBookSearchResultsTableViewDelegate.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\AddressBookTableViewDataSource.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\AddressBookTableViewDelegate.cs" />
+    <Compile Include="Chat\Contacts\Search\ContactSearchResultsTableViewDataSource.cs" />
+    <Compile Include="Chat\Contacts\Search\ContactSearchResultsTableViewDelegate.cs" />
+    <Compile Include="Chat\Contacts\Search\IContactSource.cs" />
+    <Compile Include="Chat\Contacts\Search\ContactSearchTextView.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\SearchDisplayDelegate.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\AddressBookViewController.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\AddressBookContactTableViewCell.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\AggregateContactSelectionViewController.cs" />
+    <Compile Include="Shared\UINavigationControllerHelper.cs" />
+    <Compile Include="..\Linkers\StompClientHeartbeatScheduler.cs">
+      <Link>LinkedFiles\StompClientHeartbeatScheduler.cs</Link>
+    </Compile>
+    <Compile Include="Helpers\EMButton.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\AggregateContactTableViewCell.cs" />
+    <Compile Include="Shared\CirlcleCrop\DHImageScrollView.cs" />
+    <Compile Include="Shared\CirlcleCrop\DHImageCropperOverlayView.cs" />
+    <Compile Include="Shared\CirlcleCrop\DHBezierCropperViewController.cs" />
+    <Compile Include="Shared\CirlcleCrop\DHBezierCropperViewController.designer.cs">
+      <DependentUpon>DHBezierCropperViewController.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Categories\NSDictionaryExtension.cs" />
+    <Compile Include="Networking\iOSWebsocketConnectionFactory.cs" />
+    <Compile Include="Networking\iOSHttpClient.cs" />
+    <Compile Include="Networking\SocketRocketConnection.cs" />
+    <Compile Include="Networking\NetworkIndicator.cs" />
+    <Compile Include="..\Linkers\PlatformUriGenerator.cs">
+      <Link>LinkedFiles\PlatformUriGenerator.cs</Link>
+    </Compile>
+    <Compile Include="Helpers\iOSUriPlatformResolverStrategy.cs" />
+    <Compile Include="Chat\BasicBubbleView.cs" />
+    <Compile Include="Chat\BasicBubbleTextView.cs" />
+    <Compile Include="Helpers\BlockEditMenuTextField.cs" />
+    <Compile Include="Helpers\MediaSizeHelper.cs" />
+    <Compile Include="Helpers\ShareHelper.cs" />
+    <Compile Include="About\AboutViewController.cs" />
+    <Compile Include="About\AboutWebViewController.cs" />
+    <Compile Include="Chat\iOSSoundRecordingPlayer.cs" />
+    <Compile Include="Chat\PopupWindowController.cs" />
+    <Compile Include="Chat\SendUIButton.cs" />
+    <Compile Include="Chat\iOSSoundRecordingRecorder.cs" />
+    <Compile Include="Helpers\SoundWaveformGenerator.cs" />
+    <Compile Include="Helpers\WorkQueue.cs" />
+    <Compile Include="Help\HelpWebViewController.cs" />
+    <Compile Include="Chat\Gallery\ShowVideoViewController.cs" />
+    <Compile Include="Chat\Gallery\ShowPhotoViewController.cs" />
+    <Compile Include="Chat\Gallery\PhotoVideoItemController.cs" />
+    <Compile Include="Chat\Gallery\PhotoVideoController.cs" />
+    <Compile Include="Helpers\AudioSessionHelper.cs" />
+    <Compile Include="Helpers\iOSDateFormatter.cs" />
+    <Compile Include="Helpers\AnalyticsHelper.cs" />
+    <Compile Include="Helpers\iOSFileSystemManager.cs" />
+    <Compile Include="Helpers\iOSFileSystemManager_Constants.cs" />
+    <Compile Include="Helpers\KeepAliveManager.cs" />
+    <Compile Include="Helpers\BlockContextMenuTextView.cs" />
+    <Compile Include="PlatformImpl\iOSAdjustHelper.cs" />
+    <Compile Include="Chat\Contacts\AddressBook\AggregateContactPickerViewModel.cs" />
+    <Compile Include="Helpers\CheckboxView.cs" />
+    <Compile Include="Chat\Contacts\Search\IContactSearchController.cs" />
+    <Compile Include="Helpers\EMNavigationController.cs" />
+    <Compile Include="Helpers\UserPrompter.cs" />
+    <Compile Include="Chat\Contacts\Invite\InviteFriendsViewController.cs" />
+    <Compile Include="PlatformImpl\iOSNavigationManager.cs" />
+    <Compile Include="Chat\TableCells\IncomingRemoteActionTableViewCell.cs" />
+    <Compile Include="Chat\TableCells\IncomingRemoteActionBubbleView.cs" />
+    <Compile Include="Settings\SettingsViewController.cs" />
+    <Compile Include="Settings\BasicSettingsViewController.cs" />
+    <Compile Include="Settings\InAppSounds\InAppSoundSettingsViewController.cs" />
+    <Compile Include="Inbox\BurgerButton.cs" />
+    <Compile Include="Inbox\CustomBadge.cs" />
+    <Compile Include="Inbox\BadgeStyle.cs" />
+    <Compile Include="PlatformImpl\iOSAppInstallResolver.cs" />
+    <Compile Include="ControlRotationNavigationController.cs" />
+    <Compile Include="Helpers\NotifyOnFirstResponderTextView.cs" />
+    <Compile Include="Chat\ChatMediaScroll\ChatMediaPickerController.cs" />
+    <Compile Include="Chat\ChatMediaScroll\ImageScrollController.cs" />
+    <Compile Include="Settings\InAppSettings\InAppSettingsViewController.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <InterfaceDefinition Include="Inbox\InboxViewController.xib" />
+    <InterfaceDefinition Include="MainController_iPad.xib" />
+    <InterfaceDefinition Include="MainStoryboard_iPad.storyboard" />
+    <InterfaceDefinition Include="MainStoryboard_iPhone.storyboard" />
+    <InterfaceDefinition Include="MainController_iPhone.xib" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Onboarding\" />
+    <Folder Include="Helpers\" />
+    <Folder Include="Inbox\" />
+    <Folder Include="Categories\" />
+    <Folder Include="ThirdParty\" />
+    <Folder Include="LinkedFiles\" />
+    <Folder Include="Chat\" />
+    <Folder Include="Notifications\" />
+    <Folder Include="Views\" />
+    <Folder Include="Account\" />
+    <Folder Include="Resources\chat\" />
+    <Folder Include="Resources\onboarding\" />
+    <Folder Include="Resources\sounds\" />
+    <Folder Include="Groups\" />
+    <Folder Include="Resources\backgrounds\" />
+    <Folder Include="Resources\sidemenu\" />
+    <Folder Include="Chat\Contacts\" />
+    <Folder Include="Resources\account\" />
+    <Folder Include="Resources\flags\" />
+    <Folder Include="Resources\ar.lproj\" />
+    <Folder Include="Chat\Delegates\" />
+    <Folder Include="Resources-iPad\" />
+    <Folder Include="Help\" />
+    <Folder Include="Alias\" />
+    <Folder Include="Profile\" />
+    <Folder Include="Shared\" />
+    <Folder Include="Chat\ImageSearch\" />
+    <Folder Include="Resources\de.lproj\" />
+    <Folder Include="Chat\Contacts\Search\" />
+    <Folder Include="Chat\Contacts\AddressBook\" />
+    <Folder Include="Resources\th.lproj\" />
+    <Folder Include="Shared\CirlcleCrop\" />
+    <Folder Include="Networking\" />
+    <Folder Include="Resources\about\" />
+    <Folder Include="About\" />
+    <Folder Include="Resources\it.lproj\" />
+    <Folder Include="Resources\es.lproj\" />
+    <Folder Include="Resources\ja.lproj\" />
+    <Folder Include="Resources\hi.lproj\" />
+    <Folder Include="Resources\tr.lproj\" />
+    <Folder Include="Resources\ru.lproj\" />
+    <Folder Include="Resources\pt.lproj\" />
+    <Folder Include="Resources\pl.lproj\" />
+    <Folder Include="Resources\sv.lproj\" />
+    <Folder Include="Resources\nl.lproj\" />
+    <Folder Include="Chat\Gallery\" />
+    <Folder Include="Resources\fr.lproj\" />
+    <Folder Include="Resources\zh.lproj\" />
+    <Folder Include="Resources\ko.lproj\" />
+    <Folder Include="Chat\Contacts\Invite\" />
+    <Folder Include="Resources\fi.lproj\" />
+    <Folder Include="Resources\no.lproj\" />
+    <Folder Include="Resources\icons\" />
+    <Folder Include="Chat\TableCells\" />
+    <Folder Include="Settings\" />
+    <Folder Include="Settings\InAppSounds\" />
+    <Folder Include="Resources\vi.lproj\" />
+    <Folder Include="Resources\jv.lproj\" />
+    <Folder Include="Resources\el.lproj\" />
+    <Folder Include="Resources\da.lproj\" />
+    <Folder Include="Resources\in.lproj\" />
+    <Folder Include="Resources\ta.lproj\" />
+    <Folder Include="Resources\te.lproj\" />
+    <Folder Include="Chat\ChatMediaScroll\" />
+    <Folder Include="Settings\InAppSettings\" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="jasidepanels">
+      <Version>1.3.2.2</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="xamarin.social">
+      <Version>1.1.7</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="mbprogresshud">
+      <Version>0.9.0.2</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="xamarin-insights">
+      <Version>1.10.4</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="googleanalytics">
+      <Version>3.0.12</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
+  <Import Project="..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets" Condition="Exists('..\packages\Microsoft.Bcl.Build.1.0.21\build\Microsoft.Bcl.Build.targets')" />
+  <ItemGroup>
+    <ITunesArtwork Include="Resources\iTunesArtwork.png" />
+    <ITunesArtwork Include="Resources\iTunesArtwork%402x.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EMXamarin\EMXamarin.csproj">
+      <Project>{DC532DB5-F661-44C7-8D94-F77AA4047176}</Project>
+      <Name>EMXamarin</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Target Name="_CompileITunesMetadata" DependsOnTargets="_DetectSdkLocations;_DetectAppManifest;_GenerateBundleName;_CompileAppManifest">
+    <Message Text="Skipping CompileITunesMetadata task to prevent inclusion of iTunesMetadata.plist in the IPA" />
+  </Target>
+</Project>

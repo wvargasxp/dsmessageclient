@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/bgGray">
+    <include
+        android:id="@+id/titlebarlayout"
+        layout="@layout/reuseabletitlebar" />
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="342dp"
+        android:id="@+id/previewWebView"
+        android:layout_marginTop="2dp"
+        android:layout_below="@+id/titlebarlayout" />
+    <LinearLayout
+        android:id="@+id/getstartedContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:animateLayoutChanges="true"
+        android:orientation="horizontal"
+        android:layout_centerInParent="true"
+        android:layout_marginTop="20dp"
+        android:layout_below="@+id/previewWebView">
+        <Button
+            android:text="@string/GET_STARTED_BUTTON"
+            android:layout_width="210dp"
+            android:layout_height="55dp"
+            android:textSize="20sp"
+            android:textColor="@color/off_white"
+            style="@style/BorderlessButtonFont"
+            android:id="@+id/continueButton"
+            android:gravity="center"
+            android:background="@drawable/buttonWhite" />
+        <Button
+            style="@style/GetStartedContainerButtonStyle"
+            android:id="@+id/mobileTypeButton"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:visibility="gone"
+            android:layout_centerInParent="true"
+            android:background="@drawable/loginPhone"
+            android:gravity="bottom" />
+        <Button
+            style="@style/GetStartedContainerButtonStyle"
+            android:id="@+id/emailTypeButton"
+            android:layout_width="55dp"
+            android:layout_height="55dp"
+            android:visibility="gone"
+            android:layout_centerInParent="true"
+            android:background="@drawable/loginMail"
+            android:gravity="bottom" />
+    </LinearLayout>
+    <LinearLayout
+        android:id="@+id/colorLinearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:layout_below="@+id/getstartedContainer"
+        android:layout_marginTop="0dp"
+        android:layout_centerInParent="true"
+        android:layout_alignParentBottom="true"
+        android:gravity="center_vertical">
+        <Button
+            android:id="@+id/blueSquare"
+            style="@style/ColoredBoxStyle"
+            android:background="@drawable/squareBlue" />
+        <Button
+            android:id="@+id/orangeSquare"
+            style="@style/ColoredBoxStyle"
+            android:background="@drawable/squareGold" />
+        <Button
+            android:id="@+id/pinkSquare"
+            style="@style/ColoredBoxStyle"
+            android:background="@drawable/squarePink" />
+        <Button
+            android:id="@+id/greenSquare"
+            style="@style/ColoredBoxStyle"
+            android:background="@drawable/squareGreen" />
+    </LinearLayout>
+</RelativeLayout>

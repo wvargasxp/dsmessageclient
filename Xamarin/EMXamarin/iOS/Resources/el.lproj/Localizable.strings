@@ -1,0 +1,1434 @@
+/* Chad */
+"CHAD"="Τσάντ";
+/* Cuba */
+"CUBA"="Κούβα";
+/* Fiji */
+"FIJI"="Φίτζι";
+/* Guam */
+"GUAM"="Γκουάμ";
+/* Iran */
+"IRAN"="Ιράν";
+/* Iraq */
+"IRAQ"="Iράκ";
+/* Laos */
+"LAOS"="Λάος";
+/* Mali */
+"MALI"="Mάλι";
+/* Niue */
+"NIUE"="Nιούε";
+/* Oman */
+"OMAN"="Oμάν";
+/* Peru */
+"PERU"="Περού";
+/* Togo */
+"TOGO"="Tόγκο";
+/* Aruba */
+"ARUBA"="Aρούμπα";
+/* Benin */
+"BENIN"="Μπενίν";
+/* Burma (Myanmar) */
+"BURMA"="Bιρμανία (Μυανμάρ)";
+/* Chile */
+"CHILE"="Χιλή";
+/* China */
+"CHINA"="Κίνα";
+/* Democratic Republic of the Congo */
+"CONGO"="Λαϊκή Δημοκρατία του Κονγκό";
+/* Egypt */
+"EGYPT"="Αίγυπτος";
+/* Gabon */
+"GABON"="Γκαμπόν";
+/* Ghana */
+"GHANA"="Γκάνα";
+/* Haiti */
+"HAITI"="Αϊτή";
+/* India */
+"INDIA"="Iνδία";
+/* Italy */
+"ITALY"="Iταλία";
+/* Japan */
+"JAPAN"="Ιαπωνία";
+/* Kenya */
+"KENYA"="Kένυα";
+/* Libya */
+"LIBYA"="Λιβύη";
+/* Macau */
+"MACAU"="Mακάο";
+/* Malta */
+"MALTA"="Mάλτα";
+/* Nauru */
+"NAURU"="Nαουρού";
+/* Nepal */
+"NEPAL"="Nεπάλ";
+/* Niger */
+"NIGER"="Nίγηρας";
+/* Palau */
+"PALAU"="Παλάου";
+/* Qatar */
+"QATAR"="Κατάρ";
+/* Samoa */
+"SAMOA"="Σαμόα";
+/* Spain */
+"SPAIN"="Ισπανία";
+/* Sudan */
+"SUDAN"="Σουδάν";
+/* Syria */
+"SYRIA"="Συρία";
+/* Tonga */
+"TONGA"="Tόνγκα";
+/* Yemen */
+"YEMEN"="Yεμένη";
+/* Angola */
+"ANGOLA"="Aγκόλα";
+/* Belize */
+"BELIZE"="Μπελίζ";
+/* Bhutan */
+"BHUTAN"="Μπουτάν";
+/* Brazil */
+"BRAZIL"="Bραζιλία";
+/* Brunei */
+"BRUNEI"="Μπρουνέι";
+/* Canada */
+"CANADA"="Καναδάς";
+/* Cyprus */
+"CYPRUS"="Κύπρος";
+/* France */
+"FRANCE"="Γαλλία";
+/* Gambia */
+"GAMBIA"="Γκάμπια";
+/* Greece */
+"GREECE"="Ελλάδα";
+/* Guinea */
+"GUINEA"="Γουινέα";
+/* Guyana */
+"GUYANA"="Γουιάνα";
+/* Israel */
+"ISRAEL"="Iσραήλ";
+/* Jordan */
+"JORDAN"="Ιορδανία";
+/* Kosovo */
+"KOSOVO"="Κοσσυφοπέδιο";
+/* Kuwait */
+"KUWAIT"="Kουβέιτ";
+/* Latvia */
+"LATVIA"="Λεττονία";
+/* Malawi */
+"MALAWI"="Mαλάουι";
+/* Mexico */
+"MEXICO"="Mεξικό";
+/* Monaco */
+"MONACO"="Mονακό";
+/* Norway */
+"NORWAY"="Noρβηγία";
+/* Panama */
+"PANAMA"="Παναμάς";
+/* Poland */
+"POLAND"="Πολωνία";
+/* Russia */
+"RUSSIA"="Ρωσσία";
+/* Rwanda */
+"RWANDA"="Ρουάντα";
+/* Serbia */
+"SERBIA"="Σερβία";
+/* Sweden */
+"SWEDEN"="Σουηδία";
+/* Taiwan */
+"TAIWAN"="Ταϊβάν";
+/* Turkey */
+"TURKEY"="Tουρκία";
+/* Tuvalu */
+"TUVALU"="Tουβαλού";
+/* Uganda */
+"UGANDA"="Ουγκάντα";
+/* Zambia */
+"ZAMBIA"="Ζάμπια";
+/* Albania */
+"ALBANIA"="Aλβανία";
+/* Algeria */
+"ALGERIA"="Aλγερία";
+/* Andorra */
+"ANDORRA"="Aνδόρα";
+/* Armenia */
+"ARMENIA"="Aρμενία";
+/* Austria */
+"AUSTRIA"="Aυστρία";
+/* Bahamas */
+"BAHAMAS"="Μπαχάμες";
+/* Bahrain */
+"BAHRAIN"="Μπαχρέιν";
+/* Belarus */
+"BELARUS"="Λευκορωσία";
+/* Belgium */
+"BELGIUM"="Bέλγιο";
+/* Bermuda */
+"BERMUDA"="Βερμούδες";
+/* Bolivia */
+"BOLIVIA"="Boλιβία";
+/* Burundi */
+"BURUNDI"="Μπουρούντι";
+/* Comoros */
+"COMOROS"="Κομόρες Νήσοι";
+/* Croatia */
+"CROATIA"="Κροατία";
+/* Denmark */
+"DENMARK"="Δανία";
+/* Ecuador */
+"ECUADOR"="Ισημερινός";
+/* Eritrea */
+"ERITREA"="Eρυθραία";
+/* Estonia */
+"ESTONIA"="Eσθονία";
+/* Finland */
+"FINLAND"="Φινλανδία";
+/* Georgia */
+"GEORGIA"="Γεωργία";
+/* Germany */
+"GERMANY"="Γερμανία";
+/* Grenada */
+"GRENADA"="Γρενάδα";
+/* Hungary */
+"HUNGARY"="Ουγγαρία";
+/* Iceland */
+"ICELAND"="Iσλανδία";
+/* Ireland */
+"IRELAND"="Iρλανδία";
+/* Jamaica */
+"JAMAICA"="Τζαμάικα";
+/* Lebanon */
+"LEBANON"="Λίβανος";
+/* Lesotho */
+"LESOTHO"="Λεσόθο";
+/* Liberia */
+"LIBERIA"="Λιβερία";
+/* Mayotte */
+"MAYOTTE"="Mαγιότ";
+/* Moldova */
+"MOLDOVA"="Moλδαβία";
+/* Morocco */
+"MOROCCO"="Mαρόκο";
+/* Namibia */
+"NAMIBIA"="Nαμίμπια";
+/* Nigeria */
+"NIGERIA"="Nιγηρία";
+/* Romania */
+"ROMANIA"="Ρουμανία";
+/* Senegal */
+"SENEGAL"="Σενεγάλη";
+/* Somalia */
+"SOMALIA"="Σομαλία";
+/* Tokelau */
+"TOKELAU"="Toκελάου";
+/* Tunisia */
+"TUNISIA"="Tυνησία";
+/* Ukraine */
+"UKRAINE"="Ουκρανία";
+/* Uruguay */
+"URUGUAY"="Ουρουγουάη";
+/* Vanuatu */
+"VANUATU"="Βανουάτου";
+/* Vietnam */
+"VIETNAM"="Βιετνάμ";
+/* Anguilla */
+"ANGUILLA"="Aνγκουίλα";
+/* Barbados */
+"BARBADOS"="Μπαρμπάντος";
+/* Botswana */
+"BOTSWANA"="Μποτσουάνα";
+/* Bulgaria */
+"BULGARIA"="Bουλγαρία";
+/* Cambodia */
+"CAMBODIA"="Καμπότζη";
+/* Cameroon */
+"CAMEROON"="Καμερούν";
+/* Colombia */
+"COLOMBIA"="Κολομβία";
+/* Djibouti */
+"DJIBOUTI"="Τσιμπουτί";
+/* Dominica */
+"DOMINICA"="Ντομίνικα";
+/* Ethiopia */
+"ETHIOPIA"="Αιθιοπία";
+/* Honduras */
+"HONDURAS"="Ονδούρα";
+/* Kiribati */
+"KIRIBATI"="Κιριμπάτι";
+/* Malaysia */
+"MALAYSIA"="Mαλαισία";
+/* Maldives */
+"MALDIVES"="Mαλδίβες";
+/* Mongolia */
+"MONGOLIA"="Mογγολία";
+/* Pakistan */
+"PAKISTAN"="Πακιστάν";
+/* Paraguay */
+"PARAGUAY"="Παραγουάη";
+/* Portugal */
+"PORTUGAL"="Πορτογαλία";
+/* Slovakia */
+"SLOVAKIA"="Σλοβακία";
+/* Slovenia */
+"SLOVENIA"="Σλοβενία";
+/* Suriname */
+"SURINAME"="Σουρινάμ";
+/* Svalbard */
+"SVALBARD"="Σβάλμπαρντ";
+/* Tanzania */
+"TANZANIA"="Tανζανία";
+/* Thailand */
+"THAILAND"="Ταϊλάνδη";
+/* Zimbabwe */
+"ZIMBABWE"="Zιμπάμπουε";
+/* Argentina */
+"ARGENTINA"="Aργεντινή";
+/* Australia */
+"AUSTRALIA"="Aυστραλία";
+/* Gibraltar */
+"GIBRALTAR"="Γιβραλτάρ";
+/* Greenland */
+"GREENLAND"="Γροιλανδία";
+/* Guatemala */
+"GUATEMALA"="Γουατεμάλα";
+/* Hong Kong */
+"HONG_KONG"="Χονγκ Κονγκ";
+/* Indonesia */
+"INDONESIA"="Iνδονησία";
+/* Lithuania */
+"LITHUANIA"="Λιθουανία";
+/* Macedonia */
+"MACEDONIA"="Mακεδονία";
+/* Mauritius */
+"MAURITIUS"="Mαυρίκιος";
+/* Nicaragua */
+"NICARAGUA"="Νικαράγουα";
+/* Singapore */
+"SINGAPORE"="Σιγκαπούρη";
+/* Sri Lanka */
+"SRI_LANKA"="Σρι Λάνκα";
+/* Swaziland */
+"SWAZILAND"="Σουαζιλάνδη";
+/* Venezuela */
+"VENEZUELA"="Βενεζουέλα";
+/* Azerbaijan */
+"AZERBAIJAN"="Αζερμπαϊτζάν";
+/* Bangladesh */
+"BANGLADESH"="Μπανγκλαντές";
+/* Cape Verde */
+"CAPE_VERDE"="Πράσινο Ακρωτήριο";
+/* Costa Rica */
+"COSTA_RICA"="Κόστα Ρίκα";
+/* Kazakhstan */
+"KAZAKHSTAN"="Kαζακστάν";
+/* Kyrgyzstan */
+"KYRGYZSTAN"="Κιργιζιστάν";
+/* Luxembourg */
+"LUXEMBOURG"="Λουξεμβούργο";
+/* Madagascar */
+"MADAGASCAR"="Mαδαγασκάρη";
+/* Mauritania */
+"MAURITANIA"="Mαυριτανία";
+/* Micronesia */
+"MICRONESIA"="Mικρονησία";
+/* Montenegro */
+"MONTENEGRO"="Mαυροβούνιο";
+/* Montserrat */
+"MONTSERRAT"="Μοντσερράτ";
+/* Mozambique */
+"MOZAMBIQUE"="Moζαμβίκη";
+/* San Marino */
+"SAN_MARINO"="Σαν Μαρίνο";
+/* Seychelles */
+"SEYCHELLES"="Σεϋχέλλες";
+/* Tajikistan */
+"TAJIKISTAN"="Τατζικιστάν";
+/* Uzbekistan */
+"UZBEKISTAN"="Ουζμπεκιστάν";
+/* Afghanistan */
+"AFGHANISTAN"="Αφγανιστάν";
+/* El Salvador */
+"EL_SALVADOR"="Eλ Σαλβαδόρ";
+/* Isle of Man */
+"ISLE_OF_MAN"="Νήσος του Μαν";
+/* Ivory Coast */
+"IVORY_COAST"="Ακτή Ελεφαντοστού";
+/* Netherlands */
+"NETHERLANDS"="Ολλανδία";
+/* New Zealand */
+"NEW_ZEALAND"="Nέα Ζηλανδία";
+/* North Korea */
+"NORTH_KOREA"="Βόρεια Κορέα";
+/* Philippines */
+"PHILIPPINES"="Φιλιππίνες";
+/* Puerto Rico */
+"PUERTO_RICO"="Πουέρτο Ρίκο";
+/* Saint Lucia */
+"SAINT_LUCIA"="Αγία Λουκία";
+/* South Korea */
+"SOUTH_KOREA"="Νότια Κορέα";
+/* Switzerland */
+"SWITZERLAND"="Ελβετία";
+/* Timor-Leste */
+"TIMOR_LESTE"="Ανατολικό Τιμόρ";
+/* Burkina Faso */
+"BURKINA_FASO"="Μπουρκίνα Φάσο";
+/* Cook Islands */
+"COOK_ISLANDS"="Νησιά Κουκ";
+/* Saint Helena */
+"SAINT_HELENA"="Νήσος Αγίας Ελένης";
+/* Saint Martin */
+"SAINT_MARTIN"="Άγιος Μαρτίνος";
+/* Saudi Arabia */
+"SAUDI_ARABIA"="Σαουδική Αραβία";
+/* Sierra Leone */
+"SIERRA_LEONE"="Σιέρρα Λεόνε";
+/* South Africa */
+"SOUTH_AFRICA"="Νότια Αφρική";
+/* Turkmenistan */
+"TURKMENISTAN"="Tουρκμενιστάν";
+/* Faroe Islands */
+"FAROE_ISLANDS"="Νήσοι Φερόες";
+/* Guinea-Bissau */
+"GUINEA_BISSAU"="Γουινέα-Μπισσάου";
+/* Liechtenstein */
+"LIECHTENSTEIN"="Λιχτενστάιν";
+/* New Caledonia */
+"NEW_CALEDONIA"="Nέα Καληδονία";
+/* United States */
+"UNITED_STATES"="Ηνωμένες Πολιτείες Αμερικής";
+/* American Samoa */
+"AMERICAN_SAMOA"="Αμερικανική Σαμόα";
+/* Cayman Islands */
+"CAYMAN_ISLANDS"="Νησιά Κέυμαν";
+/* Czech Republic */
+"CZECH_REPUBLIC"="Τσεχική Δημοκρατία";
+/* Norfolk Island */
+"NORFOLK_ISLAND"="Νήσος Νόρφολκ";
+/* United Kingdom */
+"UNITED_KINGDOM"="Ηνωμένο Βασίλειο";
+/* Solomon Islands */
+"SOLOMON_ISLANDS"="Νήσοι Σολομώντος";
+/* Falkland Islands */
+"FALKLAND_ISLANDS"="Νήσοι Φώκλαντ";
+/* French Polynesia */
+"FRENCH_POLYNESIA"="Γαλλική Πολυνησία";
+/* Marshall Islands */
+"MARSHALL_ISLANDS"="Νήσοι Μάρσαλ";
+/* Papua New Guinea */
+"PAPUA_NEW_GUINEA"="Παπούα Νέα Γουινέα";
+/* Pitcairn Islands */
+"PITCAIRN_ISLANDS"="Νήσοι Πίτκαιρν";
+/* Saint Barthelemy */
+"SAINT_BARTHELEMY"="Άγιος Βαρθολομαίος";
+/* Equatorial Guinea */
+"EQUATORIAL_GUINEA"="Ισημερινή Γουινέα";
+/* US Virgin Islands */
+"US_VIRGIN_ISLANDS"="Αμερικανικές Παρθένοι Νήσοι";
+/* Wallis and Futuna */
+"WALLIS_AND_FUTUNA"="Ουώλλις και Φουτούνα";
+/* United Arab Emirates */
+"UNITED_ARAB_EMIRATES"="Ηνωμένα Αραβικά Εμιράτα";
+/* Central African Republic */
+"CENTRAL_AFRICAN_REPUBLIC"="Κεντροαφρικανική Δημοκρατία";
+/* Bosnia and Herzegovina */
+"BOSNIA_AND_HERZEGOVINA"="Βοσνία και Ερζεγοβίνη";
+/* British Virgin Islands */
+"BRITISH_VIRGIN_ISLANDS"="Βρετανικές Παρθένοι Νήσοι";
+/* Dominican Republic */
+"DOMINICAN_REPUBLIC"="Δομινικανή Δημοκρατία";
+/* Antigua and Barbuda */
+"ANTIGUA_AND_BARBUDA"="Αντίγκουα και Μπαρμπούντα";
+/* Holy See (Vatican City) */
+"HOLY_SEE_VATICAN_CITY"="Αγία Έδρα (Πόλη του Βατικανό)";
+/* Republic of the Congo */
+"REPUBLIC_OF_THE_CONGO"="Δημοκρατία του Κονγκό";
+/* Saint Kitts and Nevis */
+"SAINT_KITTS_AND_NEVIS"="Άγιος Χριστόφορος και Νέβις";
+/* Sao Tome and Principe */
+"SAO_TOME_AND_PRINCIPE"="Σάο Τομέ και Πρίνσιπε";
+/* Northern Mariana Islands */
+"NORTHERN_MARIANA_ISLANDS"="Βόρειες Μαριάνες Νήσοι";
+/* Saint Vincent and the Grenadines */
+"SAINT_VINCENT_AND_THE_GRENADINES"="Άγιος Βικέντιος και Γρεναδίνες";
+/* Saint Pierre and Miquelon */
+"SAINT_PIERRE_AND_MIQUELON"="'Αγιος Πέτρος και Μικελόν";
+/* Trinidad and Tobago */
+"TRINIDAD_AND_TOBAGO"="Τρινιδάδ και Τομπάγκο";
+/* Turks and Caicos Islands */
+"TURKS_AND_CAICOS_ISLANDS"="Νήσοι Τερκς και Κάικος";
+
+
+
+
+
+/* General */
+/* The App name, do not translate - P */
+"APP_TITLE"="EMwithME";
+
+/* Text indicating we are processing the user request - P */
+"WAITING"="Αναμονή...";
+
+/* Text indicating we are loading the users request - P */
+"LOADING"="Φόρτωση...";
+
+/* Text indicating we are accessing the users addres book */
+"ADDRESS_BOOK_ACCESSING"="Αναζήτηση των φίλων σας...";
+
+/* Text indicating we are processing the users address book */
+"ADDRESS_BOOK_PROCESSING"="Ολοκληρώνεται...";
+
+/* No - P */
+"NO"="Όχι";
+
+/* Yes - P */
+"YES"="Ναι";
+
+/* Done - P */
+"DONE_BUTTON"="Ολοκληρώθηκε";
+
+/* Edit - P */
+"EDIT_BUTTON"="Eπεξεργασία";
+
+/* Update - P */
+"UPDATE_BUTTON"="Ενημέρωση";
+
+/* Undo - P */
+"UNDO_BUTTON"="Αναίρεση";
+
+/* Cancel - P */
+"CANCEL_BUTTON"="Ακύρωση";
+
+/* Cancelled (past tense) */
+"CANCELLED"="Ακυρώθηκε";
+
+/* Open for Android drawer toggle but not actually displayed - P */
+"OPEN"="Άνοιγμα";
+
+/* Close - P */
+"CLOSE"="Κλείσιμο";
+
+/* Display name - P */
+"DISPLAY_NAME"="Όνομα και Επώνυμο";
+
+/* No Thanks - P */
+"NO_THANKS"="Όχι, Ευχαριστώ";
+
+/* Dont show Again */
+"DONT_SHOW_AGAIN"="Να Μην Εμφανιστεί Ξανά";
+
+/* OK (Capitol letters / Uppercase) - P */
+"OK_BUTTON"="OK";
+
+/* Yesterday - P */
+"YESTERDAY"="Χτες";
+
+/* Today */
+"TODAY"="Σήμερα";
+
+/* Here (Lowercase) - P */
+"HERE"="εδώ";
+
+/* Copy - P */
+"COPY"="Αντιγραφή";
+
+/* Exit */
+"EXIT"="Έξοδος";
+
+
+
+/* Alerts */
+/* Message when a user tries to back out of creating an AKA or Group without saving their changes */
+"UNSAVED_CHANGES"="Έχετε μη αποθηκευμένες αλλαγές. Έξοδος;";
+
+
+
+/* Groups */
+/* Title of the Groups page - P */
+"GROUPS_TITLE"="Ομάδες";
+
+/* Add members - P */
+"ADD_MEMBERS"="Προσθήκη Μελών";
+
+/* Title of the Create Group page - P */
+"CREATE_GROUP_TITLE"="Δημιουργία Ομάδας";
+
+/* Leave Group - P */
+"LEAVE_GROUP_BUTTON"="Αποχώρηση Από Ομάδα";
+
+/* Text explaining to user they are going to leave the group they were added to - P */
+"LEAVE_GROUP_EXPLAINATION"="Πρόκειται να αποχωρήσετε από την ομάδα. Μπορείτε να επανέλθετε αργότερα εκτός εάν ο ιδιοκτήτης της ομάδας σας έχει αφαιρέσει μόνιμα.";
+
+/* Delete Group - P */
+"DELETE_GROUP_BUTTON"="Διαγραφή Ομάδας";
+
+/* Text explaining to user they are going to delete the group they created */
+/* Where in the app is this? NL: This is currently out of scope for V1 */
+"DELETE_GROUP_EXPLAINATION"="Πρόκειται να πραγματοποιήσετε διαγραφή της ομάδας σας. Η ενέργεια αυτή δεν μπορεί να αναιρεθεί.";
+
+/* Title of the Group Details page - P */
+"GROUP_DETAILS_TITLE"="Στοιχεία Ομάδας";
+
+/* Rejoin Group - P */
+"REJOIN_GROUP_BUTTON"="Επάνοδος στην Ομάδα";
+
+/* This is appended to a contact name if that user has left the group - P */
+"LEFT_GROUP_EXTENSION"="(Αριστερή Ομάδα)";
+
+/* Title of the Edit Group page - P */
+"EDIT_GROUP_TITLE"="Επεξεργασία Ομάδας";
+
+/* Alert text asking user to confirm their action - P */
+"ALERT_ARE_YOU_SURE"="Είστε Σίγουρος/η;";
+
+/* Text explaining to user that they can rejoin the group they previously left - P */
+"REJOIN_GROUP_EXPLAINATION"="Πρόκειται να επανέλθετε στην ομάδα.";
+
+/* Title of group members - P */
+"MEMBERS_TITLE"="Mέλη";
+
+/* Title of chat screen when chatting with a group - P */
+"GROUP_CHATS_TITLE"="Συνομιλίες Ομάδας";
+
+/* Group name - P */
+"GROUP_NAME"="Όνομα Ομάδας";
+
+/* Button text for user to remove themself from ad-hoc group - P */
+"REMOVE_ME_AD_HOC_GROUP"="Αφαιρέστε Με";
+
+/* Message to user when trying to save or update a group without supplying a name - P */
+"GROUP_NAME_REQUIRED"="Παρακαλώ δώστε ένα όνομα στην ομάδα σας.";
+
+/* Message to user when trying to save or update a group without any members - P */
+"GROUP_MEMBERS_REQUIRED"="Παρακαλώ προσθέστε τουλάχιστον ακόμα ένα μέλος στην ομάδα σας.";
+
+/* Message to user when loading a group failed - P */
+"GROUP_LOAD_FAILED"="Πρόεκυψε κάποιο πρόβλημα στην φόρτωση της ομάδας σας. Παρακαλώ ελέγξτε τη συνδεσιμότητα του δικτύου σας και προσπαθήστε ξανά.";
+
+/* Message to user when saving a group failed - P */
+"GROUP_SAVE_FAILED"="Πρόεκυψε κάποιο πρόβλημα στην αποθήκευση της ομάδας σας. Παρακαλώ ελέγξτε τη συνδεσιμότητα του δικτύου σας και προσπαθήστε ξανά.";
+
+/* Message to user when either saving or updating a group failed - P */
+"GROUP_SAVE_OR_UPDATE_FAILED"="Πρόεκυψε κάποιο πρόβλημα με την ομάδα σας. Παρακαλώ ελέγξτε τη συνδεσιμότητα του δικτύου σας και προσπαθήστε ξανά.";
+
+/* Message to user when updating a group failed - P */
+"GROUP_UPDATE_FAILED"="Πρόεκυψε κάποιο πρόβλημα στην ενημέρωση της ομάδας σας. Παρακαλώ ελέγξτε τη συνδεσιμότητα του δικτύου σας και προσπαθήστε ξανά.";
+
+/* Message to user when leaving a group failed - P */
+"GROUP_LEAVE_FAILED"="Πρόεκυψε κάποιο πρόβλημα στην αποχώρηση από την ομάδα. Παρακαλώ ελέγξτε τη συνδεσιμότητα του δικτύου σας και προσπαθήστε ξανά.";
+
+/* Message to user when rejoining a group failed - P */
+"GROUP_REJOIN_FAILED"="Πρόεκυψε κάποιο πρόβλημα στην επάνοδο στην ομάδα. Παρακαλώ ελέγξτε τη συνδεσιμότητα του δικτύου σας και προσπαθήστε ξανά.";
+
+/* Leave Conversation of an ad-hoc group */
+"LEAVE_CONVERSATION"="Αποχώρηση από Συνομιλία";
+
+/* Text explaining what will happen if they leave this ad-hoc group conversation */
+"LEAVE_CONVERSATION_EXPAINATION"="Δεν θα λαμβάνετε πλέον μηνύματα από αυτή την ομάδα συνομιλίας. Αν απαντήσετε αφότου αποχωρήσετε από τη συνομιλία αυτή, θα ξεκινήσετε μια νέα περίοδο συνομιλίας με τους παραλήπτες.";
+
+/* Leave */
+"LEAVE"="Αποχώρηση";
+
+/* Left Conversation of an ad-hoc group */
+"LEFT_CONVERSATION"="Αποχώρησε από Συνομιλία";
+
+/* Text explaining what will happen if they send a message to an ad-hoc group conversation they have previously left */
+"LEFT_CONVERSATION_EXPLAINATION"="Έχετε αποχωρήσει από αυτή τη συνομιλία. Αν τους στείλετε άλλο ένα μήνυμα, θα ξεκινήσετε μια νέα περίοδο συνομιλίας με τους παραλήπτες.";
+
+
+
+
+
+/* Onboarding */
+/* Title of the page when user first opens the app - P */
+"WELCOME_TITLE"="Καλώς Ήρθατε";
+
+/* Get Started - P */
+"GET_STARTED_BUTTON"="Ξεκινήστε!";
+
+/* Continue - P */
+"CONTINUE_BUTTON"="Συνέχεια";
+
+/* ONBOARDING A: Title text for first screen of onboarding slides - P */
+"SETUP_PROFILE"="Ρυθμίστε το Προφίλ Σας";
+
+/* ONBOARDING A: Title text for second screen of onboarding slides - P */
+"SENDING_MESSAGES"="Αποστολή Μηνυμάτων";
+
+/* ONBOARDING A: Title text for third screen (v2) of onboarding slides - P */
+"GROUP_MESSAGING"="Ομαδικά Μηνύματα";
+
+/* ONBOARDING B: Text for first screen - P */
+"ONBOARDING_B_ONE"="Create AKAs to post on sites like Craigslist or apps like WhosHere";
+
+/* ONBOARDING B: Text for second screen - P */
+"ONBOARDING_B_TWO"="Chat with a friend or a group of friends";
+
+/* ONBOARDING B: Text for third screen - P */
+"ONBOARDING_B_THREE"="Send texts, pics, videos and voice messages";
+
+/* ONBOARDING B: Text for fourth screen - P */
+"ONBOARDING_B_FOUR"="No charge to send or receive EMwithME messages";
+
+/* ONBOARDING B: Text for fifth screen - P */
+"ONBOARDING_B_FIVE"="Forget auto-correct - just Take it Back";
+
+/* ONBOARDING B: Text for sixth screen - P */
+"ONBOARDING_B_SIX"="Πάρτε πίσω οποιοδήποτε μήνυμα ΕΜ οποιαδήποτε στιγμή έτσι ώστε να μπορείτε πάντοτε να λέτε αυτό που εννοείτε";
+
+
+/* Registration text for email - P */
+"REGISTER_EMAIL_EXPLAINATION"="Παρακαλώ επιβεβαιώστε την χώρα σας και εισάγετε τη διεύθυνση email σας για να συνεχίσετε.";
+
+/* Registration text for mobile - P */
+"REGISTER_MOBILE_EXPLAINATION"="Παρακαλώ επιβεβαιώστε την χώρα σας και εισάγετε τον αριθμό του κινητού σας τηλεφώνου για να συνεχίσετε.";
+
+/* Message telling user a verification message will be sent either to their email or mobile - P */
+"SEND_VERIFICATION_EXPLAINATION"="Σας έχει σταλεί ένας κωδικός επαλήθευσης.";
+
+/* Sending validation code - P */
+"SEND_VALIDATION_CODE_EXPLAINATION"="{0} 
+
+Είναι σωστά τα παραπάνω;";
+
+/* Title of the register with Mobile page - P */
+"MOBILE_TITLE"="Κινητό";
+
+/* Mobile number - P */
+"MOBILE_NUMBER"="Αριθμός Κινητού";
+
+/* Title of the register with Email page - P */
+"EMAIL_TITLE"="Email";
+
+/* Placeholder text within the textbox where user is supposed to enter their email address */
+"EMAIL_ADDRESS"="Διεύθυνση Email";
+
+/* Title of the Verification page - P */
+"VERIFICATION_TITLE"="Επαλήθευση";
+
+/* Placeholder text within the textbox where user is supposed to enter their verification code - P */
+"VERIFICATION_CODE"="Κωδικός Επαλήθευσης";
+
+/* Verification text  - P */
+"VERIFY_ACCOUNT_EXPLAINATION"="Εισάγετε τον Κωδικό Επαλήθευσής Σας";
+
+/* Message sent to users attempting to register their mobile phone - P */
+"VALIDATION_MESSAGE_SMS"="Παρακαλώ επαληθεύστε τον λογαριασμό σας κάνοντας κλικ σε αυτόν τον σύνδεσμο στο κινητό σας τηλέφωνο:";
+
+/* Text in plain text emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_PLAIN"="Παρακαλώ επαληθεύστε τον λογαριασμό σας εισάγοντας αυτόν τον κωδικό:  %1$s";
+
+/* Text in HTML emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_HTML"="Ή, αν χρησιμοποιείτε την κινητή συσκευή σας που χρησιμοποιήσατε για να πραγματοποιήσετε εγγραφή, μπορείτε απλώς να κάνετε κλικ";
+
+/* New text in HTML emails telling users they can click a link to validate their account */
+"VALIDATION_MESSAGE_HTML_TWO"="Click here to validate your account if you are on your mobile device.";
+
+/* Error registering user with email - P */
+"ERROR_REGISTER_EMAIL_EXPLAINATION"="Προέκυψε κάποιο πρόβλημα στην καταχώρηση του λογαριασμού σας με τη διεύθυνση email που παρείχατε.";
+
+/* Error registering user with mobile phone number - P */
+/* Should we separate these out based on error type?  For example, invalid number (800) number vs. other issues. */
+"ERROR_REGISTER_MOBILE_EXPLAINATION"="Προέκυψε κάποιο πρόβλημα στην καταχώρηση του λογαριασμού σας με τη διεύθυνση email που παρείχατε.";
+
+/* Error verifying user - P */
+"ERROR_VERIFY_ACCOUNT_EXPLAINATION"="Αποτυχία επαλήθευσης. Παρακαλώ βεβαιωθείτε ότι έχετε εισάγει σωστά τον κωδικό επαλήθευσής σας και προσπαθήστε ξανά.";
+
+/* Text indicating a user can click a link to unsubscribe from emails - P */
+"UNSUBSCRIBE_SHORT"="Απεγγραφή";
+
+/* Text explaining to a user that they can unsubscribe from future emails - P */
+"UNSUBSCRIBE_LONG"="Λαμβάνετε το παρόν email διότι πρόσφατα πραγματοποιήσατε εγγραφή στο EMwithME. Αν αυτό έγινε κατά λάθος, παρακαλώ χρησιμοποιήστε τον σύνδεσμο απεγγραφή παρακάτω.";
+
+/* Text in SMS sent to new user to validate their account - P */
+"VERIFY_NOW"="Ή εισάγετε αυτόν τον κωδικό:  %1$s";
+
+/* Text for existing users asking them if they would like to download their historical messages - P */
+"DOWNLOAD_HISTORICAL_MESSAGES"="Θα θέλατε να πραγματοποιήσετε λήψη των παλιών μηνυμάτων σας;\n\nNOTE: Αυτό θα πάρει λίγη ώρα.";
+
+/* Message shown to new users when we first try to access their address book - P */
+"ACCESS_ADDRESS_BOOK_MESSAGE"="Το EMwithME χρειάζεται πρόσβαση στο βιβλίο διευθύνσεων σας έτσι ώστε να μπορείτε να πραγματοποιήσετε αναζήτηση των φίλων σας κατά όνομα εντός της εφαρμογής.";
+
+
+
+
+/* Notifications */
+/* Title of the (singular) Notification page - P */
+"NOTIFICATION_TITLE"="Ειδοποίηση";
+
+/* Title of the Notifications page - P */
+"NOTIFICATIONS_TITLE"="Ειδοποιήσεις";
+
+/* Unread - P */
+"UNREAD_BUTTON"="Μη Αναγνωσμένα";
+
+/* Read - P  */
+"READ_BUTTON"="Αναγνωσμένα";
+
+/* All - P */
+"ALL_BUTTON"="Όλα";
+
+/* Button text to encourage an action for the user to send a message - P */
+"SEND_MESSAGE_TEXT"="Αποστολή Μηνύματος";
+
+/* Short description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TITLE"="Καλώς Ήρθατε στο EMwithME!";
+
+/* Full description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TEXT"="Καλώς Ήρθατε στο EMwithME! Παρακαλώ μεταβείτε στη σελίδα Προφίλ και προσθέστε το Όνομα και το Επώνυμό σας. Μπορείτε να στείλετε απεριόριστα μηνύματα ΕΜ, φωτογραφίες και βίντεο σε όλους τους φίλους σας - δωρεάν!";
+
+/* Short description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TITLE"="Ο/Η χρήστης %1$s μόλις έγινε μέλος στο EMwithME!";
+
+/* Full description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TEXT"="Ο χρήστης %1$s μόλις έγινε μέλος στο EMwithME! Στείλτε ένα μήνυμα για να τον/την καλωσορίσετε.";
+
+/* Full description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TEXT"="Ο χρήστης %1$s σας έχει προσθέσει στην ομάδα %2$s. Στείλτε ένα μήνυμα στην ομάδα.";
+
+/* Short description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TITLE"="Ο χρήστης %1$s σας πρόσθεσε στην ομάδα %2$s";
+
+/* Full description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TEXT"="Ο χρήστης %1$s σας έχει αφαιρέσει από την ομάδα %2$s.";
+
+/* Short description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TITLE"="Έχετε αφαιρεθεί από την ομάδα %1$s";
+
+/* Full description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TEXT"="Ο χρήστης %1$s έχει προσθέσει τον/την %2$s στην ομάδα %3$s. Στείλτε ένα μήνυμα στην ομάδα.";
+
+/* Short description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TITLE"="Ο χρήστης %1$s πρόσθεσε τον/την %2$s στην ομάδα %3$s";
+
+/* Full description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TEXT"="Ο χρήστης %1$s έχει αφαιρέσει τον/την %2$s από την ομάδα %3$s.";
+
+/* Short description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TITLE"="Ο χρήστης %1$s αφαίρεσε τον/την %2$s από την ομάδα %3$s";
+
+/* Short description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TITLE"="Η Ομάδα %1$s διαγράφηκε";
+
+/* Full description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TEXT"="%1$s έχει διαγράψει την ομάδα %2$s.";
+
+
+
+
+
+/* Chat */
+/* Title of the Inbox page - P */
+"INBOX_TITLE"="Mηνύματα";
+
+/* Title of the page when a user begins to send a new message - P */
+"NEW_MESSAGE_TITLE"="Nέο Μήνυμα";
+
+/* To - P */
+"TO"="Προς:";
+
+/* From - P */
+"FROM"="Από";
+
+/* Message indicating someone is typing - P */
+"IS_TYPING_SINGULAR"="Ο χρήστης {0} πληκτρολογεί";
+
+/* Message indicating two people are typing - P */
+"IS_TYPING_DUAL"="Οι χρήστες {0} και {1} πληκτρολογούν";
+
+/* Message indicating more than two people are typing - P */
+"IS_TYPING_MULTIPLE"="Πολλαπλά άτομα πληκτρολογούν";
+
+/* Error message title saying a message cannot be sent - P */
+/* NOTE FOR TRANSLATORS: You may translate "Error" if there is not a suitable word for "Whoops" in your language */
+"SEND_MESSAGE_FAILED_TITLE"="Ωχ!";
+
+/* Error message explaining why a message cannot be sent - P */
+"SEND_MESSAGE_FAILED_REASON"="Ενα ή περισσότερα μέρη σε αυτή τη συνομιλία δεν είναι πλέον διαθέσιμα. Μπορείτε να πραγματοποιήσετε επισκόπηση του ιστορικού συνομιλίας αλλά δεν είναι εφικτή η αποστολή νέων μηνυμάτων.";
+
+/* Title of alert box indicating they have disabled EMwithME access to their microphone */
+"RECORDING_PERMISSIONS_TITLE"="Δικαιώματα Φωνητικών Μηνυμάτων";
+
+/* Text explaination of alert box indicating how to enable their microphone */
+"RECORDING_PERMISSIONS_EXPLAINATION"="Τα φωνητικά μηνύματα είναι προς το παρόν απενεργοποιημένα. Μεταβείτε στις Ρυθμίσεις εφαρμογής της Apple > Ρυθμίσεις > Προστασία Προσωπικών Δεδομένων > Μικρόφωνο προκειμένου να ενεργοποιήσετε τη δυνατότητα αυτή.";
+
+
+
+
+/* Media - P */
+/* Save (This is used to save sent media to your device) */
+"SAVE_BUTTON"="Αποθήκευση";
+
+/* Attach - P */
+"ATTACH_BUTTON"="Επισύναψη";
+
+/* Camera - P */
+"CAMERA_BUTTON"="Κάμερα";
+
+/* Media Library Android Only - P */
+"MEDIA_LIBRARY"="Βιβλιοθήκη Πολυμέσων";
+
+/* Take Photo Android only - P */
+"TAKE_PHOTO"="Λήψη Φωτογραφίας";
+
+/* Take Video Android only - P */
+"TAKE_VIDEO"="Λήψη Βίντεο";
+
+/* Select Media Android only - P */
+"SELECT_MEDIA"="Επιλογή Μέσων";
+
+/* Photo Library (iOS only) when we only allow photo selection - P */
+"PHOTO_LIBRARY_BUTTON"="Βιβλιοθήκη Φωτογραφιών";
+
+/* Photo and Video Library (iOS) on the users phone or tablet */
+"PHOTO_AND_VIDEO_LIBRARY_BUTTON"="Βιβλιοθήκη Φωτογραφιών και Βίντεο";
+
+/* Rotate Left - P */
+"ROTATE_LEFT"="Περιστροφή Αριστερά";
+
+/* Rotate Right - P */
+"ROTATE_RIGHT"="Περιστροφή Δεξιά";
+
+/* Discard */
+/* Where in the app is this? NL: on android, when cropping images - P */
+"DISCARD_BUTTON"="Απόρριψη";
+
+/* When going through photos or videos, this keeps a count / track - P */
+"MEDIA_GALLERY_COUNT"="{0} από {1}";
+
+/* When sending single media object to another user */
+"SEND_MEDIA_SINGULAR"="Send {0} Item";
+
+/* When sending multiple media objects to another user */
+"SEND_MEDIA_MULTIPLE"="Send {0} Items";
+
+/* One video - P */
+"MEDIA_PREVIEW_MOVIE"="Attachment: 1 Βίντεο";
+
+/* One image - P */
+"MEDIA_PREVIEW_PHOTO"="Attachment: 1 Εικόνα";
+
+/* One sound - P */
+"MEDIA_PREVIEW_SOUND"="Attachment: 1 Ήχος";
+
+/* You sent one video */
+"MEDIA_PREVIEW_MOVIE_YOU"="You sent a video";
+
+/* You sent one image */
+"MEDIA_PREVIEW_PHOTO_YOU"="You sent an image";
+
+/* You sent one sound */
+"MEDIA_PREVIEW_SOUND_YOU"="You sent an audio clip";
+
+/* Text that shows the last message you sent. The {0} will be replaced with the actual text you sent */
+"YOU_PREAMBLE"="You: {0}";
+
+/* Title of the Search page - P */
+/* This is not to be used for the header title of the Web Search page after tapping Web Search (the string below) */
+"SEARCH_TITLE"="Αναζήτηση";
+
+/* Photo Search - P */
+"WEB_SEARCH"="Αναζήτηση Φωτογραφίας";
+
+/* Random search string used to seed image search when no prior search has been made - P */
+"RANDOM_SEARCH"="τυχαία";
+
+/* Error displayed to user if no images were found - P */
+"NO_IMAGES_FOUND"="Δεν βρέθηκαν εικόνες. Εισάγετε έναν νέο όρο αναζήτησης και προσπαθήστε ξανά.";
+
+/* Error displayed to user if an error occurred when searching for images - P */
+"IMAGE_SEARCH_ERROR"="Προέκυψε κάποιο σφάλμα στην εκτέλεση της αναζήτησής σας. Παρακαλώ προσπαθήστε ξανά.";
+
+/* Error displayed to user if an error occurred when converting their video - P */
+"VIDEO_CONVERT_ERROR"="Προέκυψε κάποιο σφάλμα στην επεξεργασία αυτού του βίντεο. Παρακαλώ προσπαθήστε ξανά.";
+
+/* Error displayed ot user if an error occurred when trying to select an image - P */
+"IMAGE_SELECTION_ERROR"="Πρόεκυψε κάποιο σφάλμα στην επεξεργασία της εικόνας που επιλέξατε. Παρακαλώ προσπαθήστε ξανά.";
+
+/* Toast message user sees when trying to share media using EMwithME before they have registered (Android only) */
+"SHARE_MEDIA_REGISTER_FIRST"="Πρέπει πρώτα να εγγραφείτε στο ΕΜ πριν μπορέσετε να πραγματοποιήσετε κοινοποίηση πολυμέσων.";
+
+/* Message to user (iOS only) if they have not allowed EMwithME access to their photos and they try to send a photo */
+"ALLOW_ACCESS_PHOTOS"="Please give EMwithME permission to access photos in order to share them!";
+
+
+
+
+
+/* External communications */
+/* The text appended to every message sent via SMS - P */
+"SMS_AFTERWORD"="Στάλθηκε μέσω EMwithME. Επισκεφθείτε μας @ http://EMwith.ME";
+
+/* The subject text telling a user they have a new message. %1$s will be replaced by the senders name - P */
+"EMAIL_NEW_MESSAGE_SUBJECT_TWO"="Έχετε ένα νέο μήνυμα ΕΜ από τον/την %1$s";
+
+/* The subject text telling a user they have a new notificaiton */
+"EMAIL_NEW_NOTIFICATION_SUBJECT"="Έχετε μια νέα ειδοποίηση ΕΜ";
+
+/* HTML text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_HTML"="Θέλετε να απαντήσετε στον/στην %1$s ; Πατήστε απλώς απάντηση και στείλτε τους ένα email ή πραγματοποιήστε λήψη του <a href='https://api.emwith.me/landingpage/tracking/EM/NewMessage/emailreplylink' title='EMwithME' target='_blank'>EMwithME</a>.";
+
+/* Text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_PLAIN"="Θέλετε να απαντήσετε στον/στην %1$s ; Πατήστε απλώς απάντηση και στείλτε τους ένα email ή πραγματοποιήστε λήψη του EMwithME.";
+
+/* Text in the email saying email was sent via EMwithME */
+"SENT_VIA_EM"="Στάλθηκε μέσω EMwithME";
+
+/* Link in the email for more information */
+"MORE_INFORMATION"="Περισσότερες Πληροφορίες";
+
+/* Default message to user that gets sent as an SMS letting user know they need to install EMwithME to see their message  - P */
+"SMS_DEFAULT_MESSAGE"="'Εχετε ένα μήνυμα ΕΜ που σας περιμένει! Παρακαλώ επισκεφθείτε μας @ http://EMwith.ME για λήψη της εφαρμογής και ανάγνωση του μηνύματός σας.";
+
+/* The subject text telling a user to validate their EMwithME account - P */
+"EMAIL_VALIDATION_SUBJECT"="Επικυρώστε τον ΕΜ λογαριασμό σας.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_NO_NAME"="Σας έχει σταλεί ένα μήνυμα πολυμέσων. Παρακαλώ εγκαταστήστε το ΕΜ για να το δείτε.";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_NO_NAME"="Σας έχει σταλεί μία φωτογραφία. Παρακαλώ εγκαταστήστε το ΕΜ για να την δείτε.";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_NO_NAME"="Σας έχει σταλεί ένα βίντεο. Παρακαλώ εγκαταστήστε το ΕΜ για να το δείτε.";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_NO_NAME"="Σας έχει σταλεί ένα φωνητικό μήνυμα. Παρακαλώ εγκαταστήστε το ΕΜ για το ακούσετε.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_PREFIX_NAME"="Ο χρήστης %1$s σας έχει στείλει ένα μήνυμα πολυμέσων. Παρακαλώ εγκαταστήστε το ΕΜ για το δείτε.";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_PREFIX_NAME"="Ο χρήστης %1$s σας έχει στείλει μια φωτογραφία. Παρακαλώ εγκαταστήστε το ΕΜ για να την δείτε.";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_PREFIX_NAME"="Ο χρήστης %1$s σας έχει στείλει ένα βίντεο. Παρακαλώ εγκαταστήστε το ΕΜ για να το δείτε.";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_PREFIX_NAME"="Ο χρήστης %1$s σας έχει στείλει ένα φωνητικό μήνυμα. Παρακαλώ εγκαταστήστε το ΕΜ για να το ακούσετε.";
+
+
+
+
+/* Manage Messages */
+/* Hide DEPRECATED - P */
+"HIDE_BUTTON"="Απόκρυψη";
+
+/* Text explaining to user what local delete/hide does DEPRECATED - P */
+"DELETE_EXPLAINATION"="Η Απόκρυψη αφαιρεί το μήνυμα από το τοπικό ιστορικό συνομιλίας. Η ενέργεια αυτή δεν μπορεί να αναιρεθεί.";
+
+/* Delete - P */
+"DELETE_BUTTON"="Διαγραφή";
+
+/* A deleted message from the Take it Back / remote delete functionality. - P */
+"DELETED_STATUS"="Mήνυμα Διαγράφηκε";
+
+/* Remote Delete - P */
+"REMOTE_DELETE_BUTTON"=" Πάρτο Πίσω";
+
+/* Text explaining to user what Remote Delete does - P */
+"REMOTE_DELETE_EXPLAINATION"="Το Πάρτο Πίσω θα διαγράψει ένα μήνυμα από τη συσκευή σας και από τη συσκευή του/των παραλήπτη/ών.";
+
+/* Historical */
+/* Where in the app is this? This is referenced in code but does not get displayed */
+"HISTORICAL_STATUS"="Ιστορικό";
+
+
+
+
+/* Push messages */
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_NO_NAME"="Σας έχει σταλεί ένα μήνυμα πολυμέσων.";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_NO_NAME"="Σας έχει σταλεί μία φωτογραφία.";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_NO_NAME"="Σας έχει σταλεί ένα βίντεο.";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_NO_NAME"="Σας έχει σταλεί ένα φωνητικό μήνυμα.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_PREFIX_NAME"="Ο χρήστης %1$s σας έχει στείλει ένα μήνυμα πολυμέσων.";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_PREFIX_NAME"="Ο χρήστης %1$s σας έχει στείλει μία φωτογραφία.";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_PREFIX_NAME"="Ο χρήστης %1$s σας έχει στείλει ένα βίντεο.";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_PREFIX_NAME"="Ο χρήστης %1$s σας έχει στείλει ένα φωνητικό μήνυμα.";
+
+
+/* Android specific */
+/* No SD card - P */
+"ANDROID_MEDIA_NO_STORAGE_CARD"="Δεν υπάρχει κάρτα αποθήκευσης";
+
+/* Preparing SD card - P */
+"ANDROID_MEDIA_PREPARING_STORAGE_CARD"="Προετοιμασία κάρτας";
+
+/* Not enough space on SD card - P */
+"ANDROID_MEDIA_NOT_ENOUGH_SPACE_ON_CARD"="Δεν υπάρχει επαρκής χώρος";
+
+
+
+
+
+/* Profile */
+/* Title of the My Account page - P */
+"MY_ACCOUNT_TITLE"="Προφίλ";
+
+/* Title of the Choose a Color page - P */
+"CHOOSE_COLOR_TITLE"="Επιλέξτε ένα Χρώμα";
+
+/* Text indicating to a user that they can change the app color theme - P */
+"COLOR_THEME"="Χρωματικό Θέμα";
+
+/* Text indicating to a user that they can change the app color theme (Plural) - P */
+"COLOR_THEME_PLURAL"="Χρωματικά Θέματα";
+
+/* Choose icon to associate with a screen name - P */
+"CHOOSE_ICON"="Επιλέξτε Εικονίδιο";
+
+/* The text shown to a user that leaves their name blank in their Account - P */
+"BLANK_DISPLAY_NAME"="Έχετε αφήσει το Όνομά σας κενό. Θα χρησιμοποιήσουμε το {0} ως Όνομά σας.";
+
+/* Share profile - P  */
+"SHARE_PROFILE"="Κοινοποίηση Προφίλ";
+
+/* Text showing where user can choose to share their profile - P */
+"SHARE_TO"="Κοινοποίηση σε";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"INSTAGRAM_NOT_FOUND"="Δεν ήταν δυνατός ο εντοπισμός κάποιας εφαρμογής κοινοποίησης που να είναι εγκατεστημένη στη συσκευή σας. Αυτή τη στιγμή, έχουμε τη δυνατότητα κοινοποίησης μόνο μέσω του Instagram. Αν θέλετε να κοινοποιήσετε το προφίλ σας, εγκαταστήστε το Ιnstagram και προσπαθήστε ξανά.";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"SHARE_APP_NOT_FOUND"="Δεν ήταν δυνατός ο εντοπισμός κάποιων εφαρμογών κοινοποίησης που να είναι εγκατεστημένες στη συσκευή σας. Αυτή τη στιγμή, έχουμε τη δυνατότητα κοινοποίησης μόνο μέσω των Instagram, Twitter και Facebook. Αν θέλετε να κοινοποιήσετε το προφίλ σας, εγκαταστήστε μία από τις εφαρμογές αυτές και προσπαθήστε ξανά.";
+
+/* Default caption we pre-fill when a user shares their AKA on Instagram. The {0} will be dynamically replaced with the user AKA - P */
+"INSTAGRAM_SHARE_DEFAULT_MESSAGE"="Στείλτε μου μήνυμα στο EMwithME! Το όνομα οθόνης μου είναι {0}. Δωρεάν για iOS & Android. @EMTtheApp #{0} #EMwithME";
+
+/* Text in the image being shared in Instagram that is a call to action */
+"INSTAGRAM_CALL_TO_ACTION"="Στείλτε μου μήνυμα στο EMwithME";
+
+
+
+
+/* Contacts */
+/* Title of the contacts page - P */
+"CONTACTS_TITLE"="Επαφές";
+
+
+
+
+/* Help */
+/* Title of Help page - P */
+"HELP_TITLE"="Βοήθεια";
+
+/* Text for user to click to view our getting started */
+"GETTING_STARTED"="Γρήγορα Αποτελέσματα";
+
+/* URL for getting started */
+"GETTING_STARTED_URL"="http://api.emwith.me/web/onboarding/gettingstarted";
+
+/* Text for user to click to view our tips */
+"TIPS"="Tips";
+
+/* URL for tips */
+"TIPS_URL"="http://api.emwith.me/web/onboarding/tips";
+
+/* Text for user to click to view our support site */
+"SUPPORT"="Support";
+
+/* URL for support */
+"SUPPORT_URL"="http://emwithme.zendesk.com";
+
+
+
+
+
+/* Profiles, Details, Contacts */
+/* Profile title - P */
+"PROFILES_TITLE"="Προφίλ";
+
+/* Details - P */
+"DETAILS"="Λεπτομέρειες";
+
+/* Add contact button - P */
+"ADD_CONTACT_BUTTON"="Προσθήκη στις Επαφές";
+
+/* Text explaining a contact has been added. The {0} will be dynamically substituted with the persons name */
+"ADD_CONTACT_EXPLAINATION"="Ο χρήστης{0} έχει προστεθεί στις επαφές σας.";
+
+/* Remove contact button - P */
+"REMOVE_CONTACT_BUTTON"="Κατάργηση από Επαφές";
+
+/* Block contact button - P */
+"BLOCK_CONTACT_BUTTON"="Αποκλεισμός Επαφής";
+
+/* Unblock contact button - P */
+"UNBLOCK_CONTACT_BUTTON"="Άρση Αποκλεισμού Επαφής";
+
+
+
+
+
+/* Alias */
+/* Alias */
+"ALIAS"="AKA";
+
+/* Alias Title on sidebar - P */
+"ALIAS_TITLE"="AKAs";
+
+/* Setup Account Screen Name text - P */
+"SETUP_ALIAS"="Τα AKAs (Ψευδώνυμα) είναι μιας χρήσης, δημόσια και μοναδικά. Μπορείτε να τα χρησιμοποιήσετε προκειμένου να στείλετε μηνύματα σε άλλους χρήστες χωρίς να αποκαλύπτετε πληροφορίες σχετικά με την ταυτότητά σας όπως όνομα ή κινητό τηλέφωνο. Θα θέλατε να δημιουργήσετε ένα ΑΚΑ;";
+
+/* Add alias - P */
+"ADD_ALIAS_BUTTON"="Προσθήκη ενός AKA";
+
+/* Edit Alias - P */
+"EDIT_ALIAS_TITLE"="Επεξεργασία AKA";
+
+/* Delete alias button - P */
+"DELETE_ALIAS_BUTTON"="Διαγραφή AKA";
+
+/* Error message when alias is already taken - P */
+"ALIAS_ALREADY_TAKEN"="Αυτό το AKA χρησιμοποιείται ήδη. Παρακαλώ επιλέξτε κάποιο άλλο.";
+
+/* Error message when alias name is too short - P */
+/* Will need to adjust for double byte at some point */
+"ALIAS_TOO_SHORT"="Αυτό το AKA είναι πολύ μικρό. Παρακαλώ επιλέξτε ένα ΑΚΑ που να είναι μεγαλύτερο των πέντε χαρακτήρων.";
+
+/* Error message when alias contains inappropriate word(s) - P */
+"ALIAS_INAPPROPRIATE"="Αυτό το ΑΚΑ δεν είναι έγκυρο. Παρακαλώ επιλέξτε κάποιο άλλο.";
+
+/* Error message when alias name is a phone number - P */
+"ALIAS_PHONE"="Τα AKAs δεν είναι δυνατό να αποτελούνται από τηλεφωνικούς αριθμούς. Παρακαλώ επιλέξτε κάποιο άλλο.";
+
+/* Error message when alias name is an email address - P */
+"ALIAS_EMAIL"="Τα AKAs δεν είναι δυνατό να αποτελούνται από διευθύνσεις email. Παρακαλώ επιλέξτε κάποιο άλλο.";
+
+/* Error message when an alias contains invalid characters (such as spaces) - P */
+"ALIAS_INVALID"="Αυτό το AKA περιέχει μη έγκυρους χαρακτήρες (όπως διαστήματα, @ ή τελείες). Παρακαλώ επιλέξτε κάποιο άλλο.";
+
+/* Generic error message when alias cannot be saved - P */
+"ALIAS_GENERIC_ERROR"="Προέκυψε κάποιο σφάλμα στην επεξεργασία του ΑΚΑ σας. Παρακαλώ προσπαθήστε ξανά.";
+
+/* Message of alert box presented to user when trying to delete an Alias - P */
+"ALIAS_DELETE_CONFIRMATION_MESSAGE"="Η διαγραφή αυτού του ΑΚΑ σημαίνει ότι δεν θα έχετε πλέον τη δυνατότητα αποστολής ή λήψης μηνυμάτων με αυτόν τον λογαριασμό. Είστε σίγουρος/η ότι θέλετε να το διαγράψετε;";
+
+/* Title of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_TITLE"="Το AKA Διαγράφηκε";
+
+/* Message of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_MESSAGE"="Αυτό το ΑΚΑ έχει διαγραφεί, θα παραμείνει κρατημένο για 24 ώρες προτού γίνει διαθέσιμο σε κάποιον άλλο χρήστη. Μπορείτε να διεκδικήσετε εκ νέου το ΑΚΑ σας οποτεδήποτε κατά το χρονικό αυτό διάστημα.";
+
+/* Message of alert box presented to user when reviewing their chat history on an Alias they have deleted */
+"ALIAS_DELETED_CHAT_HISTORY_MESSAGE"="Your AKA has been deleted. You can review the conversation history but no new messages can be sent.";
+
+/* Button text of the alert box for the user to reactivate their deleted Alias - P */
+"ALIAS_DELETED_REACTIVATE"="Επανενεργοποίηση";
+
+
+
+/* About Section */
+/* About - P */
+"ABOUT_TITLE"="Σχετικά";
+
+/* Text saying which version of EMwithME the user has currently installed. The {0} is dynamically replaced with the current version - P */
+"VERSION"="Έκδοση {0}";
+
+/* Text for a user to click to view our credits webpage - P */
+"CREDITS"="Συντελεστές";
+
+/* URL for credits */
+"CREDITS_URL"="http://EMwith.ME/credits";
+
+/* Text for user to click to view our FAQ - P */
+"FAQ"="Συχνές Ερωτήσεις";
+
+/* URL for FAQ - P */
+"FAQ_URL"="http://EMwith.ME/faq";
+
+/* Text for a user to click to view our privacy policy - P */
+"PRIVACY_POLICY"="Πολιτική Προστασίας Προσωπικών Δεδομένων";
+
+/* URL for privacy policy - P */
+"PRIVACY_POLICY_URL"="http://EMwith.ME/privacy";
+
+/* Text for a user to click to view our end user license agreement (EULA) - P */
+"EULA"="Άδεια Χρήσης Τελικού Χρήστη";
+
+/* URL for EULA - P */
+"EULA_URL"="http://EMwith.ME/eula";
+
+/* URL for Facebook */
+"FACEBOOK_URL"="http://facebook.com/emtheapp";
+
+/* URL for Twitter */
+"TWITTER_URL"="http://twitter.com/emtheapp";
+
+/* Copyright - P */
+"COPYRIGHT"="Πνευματικά Δικαιώματα (c) 2015 WhosHere, Α.Ε Με την Επιφύλαξη Παντός Νομίμου Δικαιώματος. Τα EM and EMwithME είναι σήματα κατατεθέντα του WhosHere, Α.Ε";
+
+
+
+/* Invite Friends Section */
+/* Invite Friends */
+"INVITE_FRIENDS_TITLE"="Πρόσκληση Φίλων";
+
+/* Message body to send invitation(s) via SMS */
+"INVITE_FRIENDS_VIA_SMS_MESSAGE"="Θα θέλατε να στείλετε πρόσκληση(εις) μέσω SMS?";
+
+/* Message body to send invitation(s) via Email */
+"INVITE_FRIENDS_VIA_EMAIL_MESSAGE"="Θα θέλατε να στείλετε πρόσκληση(εις) μέσω Email?";
+
+/* Label shown when Android users finish selecting who they would like to invite via Email and are shown which email client they would like to use to send the invitation(s) */
+"INVITE_FRIENDS_SEND_EMAIL_LABEL"="Αποστολή Email μέσω...";
+
+/* Toast message (Android specific) shown to user as SMS invitation(s) are sent out. {0} will be replaced with current number of SMS going out, {1} will be replaced with total SMS going out */
+"INVITE_FRIENDS_SMS_SENDING_TOAST_MESSAGE"="Αποστολή {0} από {1}...";
+
+/* Title of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_TITLE"="Δεν είναι δυνατή η αποστολή πρόσκλησης(εων) μέσω SMS";
+
+/* Message body of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_MESSAGE"="Δεν είναι δυνατή η αποστολή μηνυμάτων SMS με τη συσκευή σας.";
+
+/* Title of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_TITLE"="Δεν είναι δυνατή η αποστολή πρόσκλησης(εων) μέσω Email";
+
+/* Message body of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_MESSAGE"="Δεν είναι δυνατή η αποστολή μηνυμάτων Email με τη συσκευή σας.";
+
+/* Body of SMS invite message */
+"INVITE_FRIENDS_SMS_MESSAGE"="Γεια! Χρησιμοποιώ μια νέα εφαρμογή ανταλλαγής μηνυμάτων EMwithME την οποία θα ήθελα να δοκιμάσετε. Ρίξτε μια ματιά στο http://EMwith.ME";
+
+/* Body of HTML Email invite message */
+"INVITE_FRIENDS_EMAIL_MESSAGE"="<p>Γεια! Χρησιμοποιώ μια νέα εφαρμογή ανταλλαγής μηνυμάτων EMwithME την οποία θα ήθελα να δοκιμάσετε.</p><br /><p>Ρίξτε μια ματιά στο <a href='http://EMwith.ME' target='_blank' title='EMwithME'>http://EMwith.ME</a>";
+
+/* Message body of alert when there was an error in sending SMS or Email invite */
+"INVITE_FRIENDS_ERROR_MESSAGE"="Προέκυψε ένα σφάλμα κατά την αποστολή της/των πρόσκλησης(εων) σας. Παρακαλώ προσπαθήστε ξανά.";
+
+/* Message body of alert when user cancels the invitation(s) */
+"INVITE_FRIENDS_CANCELLED_MESSAGE"="Έχετε ακυρώσει την/τις πρόσκληση(εις) σας.";
+
+/* Title of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_TITLE"="Προσχέδιο Αποθηκεύτηκε";
+
+/* Message body of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_MESSAGE"="Η/Οι πρόσκληση(εις) email αποθηκεύτηκε(αν) ως προσχέδια.";
+
+/* Title of alert when user has successfully sent an invite (SMS/Email) */
+"INVITE_FRIENDS_INVITATION_SENT_TITLE"="Πρόσκληση(εις) Στάλθηκε(αν)";
+
+/* Message body of when the user has sent the invite successfully */
+"INVITE_FRIENDS_INVITATION_SENT_MESSAGE"="Η/Οι πρόσκληση(εις) στάλθηκε(αν) επιτυχώς.";
+
+/* Subject of invitation email */
+"INVITE_FRIENDS_EMAIL_SUBJECT"="Ελάτε και δοκιμάστε το EMwithME!";
+
+
+
+/* WhosHere Integration */
+/* Text for user to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE"="Συνδεθείτε στον λογαριασμό σας στο WhosHere";
+
+/* Text of alert asking user if they would like to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE_EXPLAINATION"="Θα θέλατε να συνδέσετε το EMwithME με τον λογαριασμό σας στο WhosHere προκειμένου να κερδίσετε δωρεάν πόντους;";
+
+/* The name shown for a bot in the app (the bots display name) */
+/* Translators: if 'Emily' is not a common name in your language/country/region, please substitute it with a female name that is common. */
+"BOT_DISPLAY_NAME" = "Ελένη - EMwithME Αυτοματοποιημένος Βοηθός";
+
+
+
+/* Settings */
+/* Settings title */
+"SETTINGS_TITLE"="Ρυθμίσεις";
+
+/* Sounds title */
+"SOUNDS_TITLE"="Ήχοι";
+
+/* Text giving the user the option to turn on or off sounds for incoming messages */
+"INCOMING_MESSAGES_SOUND"="Εισερχόμενα Μηνύματα";
+
+/* Offline Notifications Title */
+"OFFLINE_NOTIFICATIONS_TITLE"="Ειδοποιήσεις Εκτός Σύνδεσης";
+
+/* Text giving the user the option to turn on or off offline notifications */
+"OFFLINE_NOTIFICATIONS_SHOW"="Προβολή στο Κέντρο Ειδοποιήσεων";
+
+/* Text giving the user the option to turn on or off notification sounds */
+"PLAY_SOUNDS"="Αναπαραγωγή Ήχου";
+
+/* Text giving the user th eoption to turn on or off notificaitons that contain the message text or not */
+"SHOW_PREVIEW"="Προβολή Προεπισκόπησης";
+
+/* Text that is shown to the user if they have selected to hide the actual preview text */
+"TEXT_MESSAGE"="Μήνυμα Κειμένου";
+
+/* In-App Settings Title */
+"IN_APP_SETTINGS_TITLE"="In-App Settings";
+
+/* In-App Notifications */
+"IN_APP_NOTIFICATIONS"="In-App Notifications";
+
+
+
+/* Bots */
+/* Text sent to user after they have onboarded to welcome them to EMwithME */
+"GENERIC_WELCOME_MESSAGE"="Welcome to EMwithME, the best messaging app for connecting with friends as well as protecting your identity.";
+
+/* Button text encouraging user to invite their friends */
+"INVITE_FRIENDS_BUTTON_TEXT"="Invite Friends!";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends */
+"WELCOME_WHOSHERE_USER_GENERIC_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, thanks for trying EMwithME.";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends. %1$s will be dynamically replaced with the point total they will be rewarded with */
+"WELCOME_WHOSHERE_USER_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, and will reward you with %1$s points in WhosHere every time you receive a message from a new EMwithME user. So, be sure to invite your friends!";
+
+/* Button text encouraging user to create an AKA */
+"CREATE_AKA_BUTTON_TEXT"="Create AKA!";
+
+/* Text sent to user explaining AKAs */
+"CREATE_AKA_TEXT"="Did you know with EMwithME you can create AKAs that allow you to protect your personal information? AKAs are disposable screen names you can send and receive messages from.";
+
+/* Text sent to WhosHere user explaining AKAs */
+"CREATE_AKA_WHOSHERE_TEXT"="WhosHere and EMwithME can work together seamlessly. When your accounts are linked it allows users to chat with you in EMwithME or WhosHere. With EMwithME, an AKA can be used to keep your personal information private. You choose if and when you share personal information like an email address or phone number.";
+
+/* Title of alert when a user has reached their limit on number of AKAs */
+"LIMIT_REACHED"="Limit Reached";
+
+/* Message body of alert when a user has reached their limit on number of AKAs */
+"AKA_LIMIT_REACHED_MESSAGE"="You've reached the current maximum number of AKAs, you need to delete an existing one before creating a new one.";
+
+/* Text sent to user once they have created an AKA */
+"FIRST_AKA_CREATED_TEXT"="You created an AKA. Now what? As long as someone knows your AKA they can write you by typing your AKA name in the 'To' field. You can also write anyone from your AKA. Just select your AKA on 'From' line when you start a new conversation.";
+
+/* Button text encouraging user to create a group */
+"CREATE_A_GROUP_BUTTON_TEXT"="Create a Group!";
+
+/* Text sent to user explaining they can create groups */
+"CREATE_A_GROUP_TEXT"="Did you know, with EMwithME, you can send messages to friends who don't even have EMwithME? All you need is their email address or mobile phone number. You can create a group of friends and send them all messages and it does not matter if some, or all, of them have EMwithME!";
+
+/* Text sent to user once they have created their first group */
+"FIRST_GROUP_CREATED_TEXT"="You've create your first Group! This group will show up in your EMwithME Contacts List, and in all the group member's Contacts List as well. Even group members who haven't joined EMwithME will receive an SMS or email message when you write to the group.";
+
+/* Button text encouraging user to write to a group */
+"WRITE_GROUP_BUTTON_TEXT"="Write the Group!";
+
+/* Text sent to user once they have been added to a group */
+"FIRST_GROUP_ADDED_TEXT"="You've been added to a group by one of your friends. You'll now receive messages sent to this group and any replies you write will be sent to everyone. This group will appear in your Contacts List, so to write the group just start typing its name. If you ever decide you want to leave the group you can control that from the Groups page.";
+
+/* Text sent to user explaining they can leave groups */
+"LEAVE_A_GROUP_TEXT"="With EMwithME you are in control. Don't like being on a group message? You can leave any group conversation, whether it be a formal group created by friends or just a message addressed to multiple people. Just go to the 'Details' of that conversation to remove yourself.";
+
+/* Text sent to user explaining they can take back their messages (part one) */
+"TAKE_BACK_TEXT_ONE"="With EMwithME you can take back messages you've sent other EMwithME users. Just long press the message you sent and select 'Take it Back'.";
+
+/* Text sent to user explaining they can take back their messages (part two) */
+"TAKE_BACK_TEXT_TWO"="I'm going to take back this message.";
+
+/* Text sent to user explaining they can take back their messages (part three) */
+"TAKE_BACK_TEXT_THREE"="Now your turn. Send me a message, then long press it to Take it Back.";

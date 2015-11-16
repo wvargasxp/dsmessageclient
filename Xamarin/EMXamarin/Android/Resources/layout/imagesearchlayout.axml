@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/gridviewlayout"
+    android:orientation="vertical">
+    <include
+        android:id="@+id/titlebarlayout"
+        layout="@layout/reuseabletitlebar" />
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/transparent"
+        android:layout_below="@+id/titlebarlayout">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/gridviewrapper"
+            android:orientation="vertical">
+            <include
+                android:id="@+id/searchbarlayout"
+                layout="@layout/reuseablesearchbar"
+                android:layout_width="match_parent"
+                android:layout_height="47dp" />
+            <GridView
+                android:id="@+id/gridview"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:columnWidth="100dp"
+                android:numColumns="3"
+                android:verticalSpacing="10dp"
+                android:horizontalSpacing="5dp"
+                android:stretchMode="columnWidth"
+                android:gravity="center"
+                android:layout_below="@id/searchbarlayout" />
+        </RelativeLayout>
+    </FrameLayout>
+</RelativeLayout>

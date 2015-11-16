@@ -1,0 +1,30 @@
+using System;
+
+namespace EMXamarin {
+	public class ConnectionInfo {
+		// ---------------- production values ----------------
+		static readonly string HTTP_PROTOCOL = "https://";
+		static readonly string WEBSOCKET_PROTOCOL = "wss://";
+
+		public static readonly string HTTP_BASE_ADDRESS = HTTP_PROTOCOL + "api.emwith.me";
+		public static readonly string UPLOAD_HTTP_BASE_ADDRESS = HTTP_PROTOCOL + "uploads.emwith.me";
+		public static readonly string WEBSOCKET_BASE_ADDRESS = WEBSOCKET_PROTOCOL + "api.emwith.me";
+
+		// ---------------- dev values (please don't commit with dev values set)
+
+		// static readonly string HTTP_PROTOCOL = "http://";
+		// static readonly string WEBSOCKET_PROTOCOL = "ws://";
+
+		// static readonly string DOMAIN = "192.168.1.104:8080"; // JAMES
+		// static readonly string DOMAIN = "192.168.1.101:8080"; // BRYANT
+		// static readonly string DOMAIN = "192.168.1.104:8080"; // DUC
+		// static readonly string DOMAIN = "192.168.1.142:8080"; // NICK
+		// static readonly string DOMAIN = "192.168.1.126:8080"; //ANH
+
+		// public static readonly string HTTP_BASE_ADDRESS = HTTP_PROTOCOL + DOMAIN;
+		// public static readonly string UPLOAD_HTTP_BASE_ADDRESS = HTTP_BASE_ADDRESS; 
+		// public static readonly string WEBSOCKET_BASE_ADDRESS = WEBSOCKET_PROTOCOL + DOMAIN;
+
+		public ConnectionInfo () {}
+	}
+}

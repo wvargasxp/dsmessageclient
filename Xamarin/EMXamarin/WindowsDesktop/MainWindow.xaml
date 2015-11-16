@@ -1,0 +1,36 @@
+﻿<Window x:Class="WindowsDesktop.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        MinHeight="300"
+        MinWidth="400"
+        Title="MainWindow">
+    <Window.Content>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="250*"/>
+            </Grid.ColumnDefinitions>
+            <Menu x:Name="AppMenu" Grid.Row="0" Grid.ColumnSpan="2" Height="25" VerticalAlignment="Top">
+                <MenuItem Header="Settings" Click="SettingsMenuItem_Click"/>
+                <MenuItem Header="Contacts" Click="ContactsMenuItem_Click" />
+                <MenuItem Header="Profile" Click="ProfileMenuItem_Click"/>
+                <MenuItem Header="AKA" Click="AKAMenuItem_Click"/>
+                <MenuItem Header="Groups" Click="GroupsMenuItem_Click"/>
+                <MenuItem Header="Notifications" Click="NotificationsMenuItem_Click"/>
+                <MenuItem Header="Help" Click="HelpMenuItem_Click"/>
+                <MenuItem Header="About" Click="AboutMenuItem_Click"/>
+            </Menu>
+            <Frame x:Name="AppFrame" 
+                   NavigationUIVisibility="Hidden"
+                   Grid.Row="1" 
+                   Grid.ColumnSpan="2"
+                   HorizontalAlignment="Stretch" 
+                   Margin="0,0,0,0" 
+                   VerticalAlignment="Stretch" />
+        </Grid>
+    </Window.Content>
+</Window>

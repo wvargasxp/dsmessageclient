@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <include
+        android:id="@+id/titlebarlayout"
+        layout="@layout/reuseabletitlebar" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/ContactSearchEntryWrapper"
+        android:layout_below="@+id/titlebarlayout"
+        android:background="@color/off_white">
+        <Emdroid.ContactSearchEditText
+            android:textSize="17sp"
+            android:inputType="textMultiLine"
+            android:maxLines="4"
+            android:singleLine="false"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:minHeight="37dp"
+            android:id="@+id/searchBar"
+            android:layout_centerVertical="true"
+            android:fitsSystemWindows="false"
+            android:textColor="@color/off_black"
+            android:layout_marginTop="3dp"
+            android:layout_marginBottom="3dp"
+            android:textCursorDrawable="@null"
+            android:paddingLeft="3dp"
+            android:background="@android:color/transparent" />
+    </RelativeLayout>
+    <com.nhaarman.listviewanimations.itemmanipulation.DynamicListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:textColor="@color/off_black"
+        android:layout_below="@+id/ContactSearchEntryWrapper"
+        android:id="@+id/ContactsList" />
+    <Emdroid.MultiSpinner
+        android:id="@+id/multi_spinner"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:spinnerMode="dialog"
+        android:layout_gravity="center_vertical" />
+</RelativeLayout>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<resources>
+    <dimen name="thumbnail_size">50dp</dimen>
+    <dimen name="thumbnail_frame_width">70dp</dimen>
+    <dimen name="thumbnail_frame_height">60dp</dimen>
+    <dimen name="bubble_min_height">45dp</dimen>
+    <dimen name="title_button_size">19sp</dimen>
+    <dimen name="title_right_bar_marginRight">-11dp</dimen>
+    <dimen name="title_left_bar_marginLeft">-11dp</dimen>
+</resources>
+

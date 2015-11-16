@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6345D471-364A-4F0E-BA28-7AB2325BC81A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>WindowsDesktop</RootNamespace>
+    <AssemblyName>WindowsDesktop</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WebSocket4Net">
+      <HintPath>..\packages\WebSocket4Net.0.14.1\lib\net45\WebSocket4Net.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="About\AboutPage.xaml.cs">
+      <DependentUpon>AboutPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Account\AccountPage.xaml.cs">
+      <DependentUpon>AccountPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Aliases\AliasItemTemplate.cs" />
+    <Compile Include="Aliases\AliasItemViewModel.cs" />
+    <Compile Include="Aliases\AliasPage.xaml.cs">
+      <DependentUpon>AliasPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Aliases\EditAliasPage.xaml.cs">
+      <DependentUpon>EditAliasPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\ChatIncomingItemTemplate.cs" />
+    <Compile Include="Chat\ChatIncomingMediaItemTemplate.cs" />
+    <Compile Include="Chat\ChatItemTemplate.cs" />
+    <Compile Include="Chat\ChatItemViewModel.cs" />
+    <Compile Include="Chat\ChatOutgoingItemTemplate.cs" />
+    <Compile Include="Chat\ChatOutgoingMediaItemTemplate.cs" />
+    <Compile Include="Chat\ChatPage.xaml.cs">
+      <DependentUpon>ChatPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Chat\PickingFromAlias\FromAliasItemTemplate.cs" />
+    <Compile Include="Chat\PickingFromAlias\FromAliasItemViewModel.cs" />
+    <Compile Include="Contacts\AddressBookItemTemplate.cs" />
+    <Compile Include="Contacts\AddressBookItemViewModel.cs" />
+    <Compile Include="Contacts\AddressBookPage.xaml.cs">
+      <DependentUpon>AddressBookPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Extensions\WindowsDesktop_Media_ImageExtension.cs" />
+    <Compile Include="Groups\EditGroupItemTemplate.cs" />
+    <Compile Include="Groups\EditGroupItemViewModel.cs" />
+    <Compile Include="Groups\EditGroupPage.xaml.cs">
+      <DependentUpon>EditGroupPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Groups\GroupItemTemplate.cs" />
+    <Compile Include="Groups\GroupItemViewModel.cs" />
+    <Compile Include="Groups\GroupsPage.xaml.cs">
+      <DependentUpon>GroupsPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Help\HelpItemTemplate.cs" />
+    <Compile Include="Help\HelpItemViewModel.cs" />
+    <Compile Include="Help\HelpPage.xaml.cs">
+      <DependentUpon>HelpPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Inbox\InboxItemTemplate.cs" />
+    <Compile Include="Inbox\InboxItemViewModel.cs" />
+    <Compile Include="Inbox\InboxPage.xaml.cs">
+      <DependentUpon>InboxPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Notifications\NotificationItemTemplate.cs" />
+    <Compile Include="Notifications\NotificationItemViewModel.cs" />
+    <Compile Include="Notifications\NotificationPage.xaml.cs">
+      <DependentUpon>NotificationPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Onboarding\EmailSignInPage.xaml.cs">
+      <DependentUpon>EmailSignInPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Onboarding\LandingPage.xaml.cs">
+      <DependentUpon>LandingPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Onboarding\MobileSignInPage.xaml.cs">
+      <DependentUpon>MobileSignInPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Onboarding\MobileVerificationPage.xaml.cs">
+      <DependentUpon>MobileVerificationPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Onboarding\OnboardingWindow.xaml.cs">
+      <DependentUpon>OnboardingWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="PlatformImpl\WindowsAdjustHelper.cs" />
+    <Compile Include="PlatformImpl\WindowsAnalyticsHelper.cs" />
+    <Compile Include="PlatformImpl\WindowsAppInstallResolver.cs" />
+    <Compile Include="PlatformImpl\WindowsDesktopAddressBook.cs" />
+    <Compile Include="PlatformImpl\WindowsDesktopDeviceInfo.cs" />
+    <Compile Include="PlatformImpl\WindowsDesktopFileSystemManager.cs" />
+    <Compile Include="PlatformImpl\WindowsDesktopWebsocketConnectionFactory.cs" />
+    <Compile Include="PlatformImpl\WindowsDesktopUriPlatformResolverStrategy.cs" />
+    <Compile Include="PlatformImpl\WindowsSecurityManager.cs" />
+    <Compile Include="PlatformImpl\WindowsSqliteConnection.cs" />
+    <Compile Include="SQLite.cs" />
+    <Compile Include="SQLiteAsync.cs" />
+    <Compile Include="UserControls\AccountControl.xaml.cs">
+      <DependentUpon>AccountControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="UserControls\FromAliasComboBox.xaml.cs">
+      <DependentUpon>FromAliasComboBox.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\BasicEmRowTemplate.cs" />
+    <Compile Include="Utility\BasicWindow.xaml.cs">
+      <DependentUpon>BasicWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Utility\ImageManager.cs" />
+    <Compile Include="WindowsDesktopPlatformFactory.cs" />
+    <Page Include="About\AboutPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Account\AccountPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Aliases\AliasPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Aliases\EditAliasPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Chat\ChatPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Contacts\AddressBookPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Groups\EditGroupPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Groups\GroupsPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Help\HelpPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Inbox\InboxPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="Notifications\NotificationPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Onboarding\EmailSignInPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Onboarding\LandingPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Onboarding\MobileSignInPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Onboarding\MobileVerificationPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Onboarding\OnboardingWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\AccountControl.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="UserControls\FromAliasComboBox.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Utility\BasicWindow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Networking\Websocket4NetConnection.cs" />
+    <Compile Include="Networking\WindowsHttpClient.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\EMXamarin\EMXamarin.csproj">
+      <Project>{dc532db5-f661-44c7-8d94-f77aa4047176}</Project>
+      <Name>EMXamarin</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Linkers\Linkers.csproj">
+      <Project>{26938478-674c-4ae2-8c51-ee2b9dd8de0f}</Project>
+      <Name>Linkers</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="sqlite3.def" />
+    <Content Include="sqlite3.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

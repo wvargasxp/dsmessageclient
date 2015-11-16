@@ -1,0 +1,50 @@
+[
+    {
+        "identifier": "*234da;@gmail.com",
+        "identifierType": "E",
+        "colorTheme": "blue",
+        "deviceModel": "iPhone",
+        "identifierForVendor": "com.whoshere.em.em1",
+        "deviceName": "Fail Test Device"
+    },
+    {
+        "identifier": "AnH@WhOSHere.net",
+        "identifierType": "E",
+        "colorTheme": "pink",
+        "deviceModel": "iPhone Simulator",
+        "identifierForVendor": "com.whoshere.em.em2",
+        "deviceName": "Whoshere EM1"
+    },
+    {
+        "identifier": "anh@whoshere.net",
+        "identifierType": "E",
+        "colorTheme": "orange",
+        "deviceModel": "iPhone",
+        "identifierForVendor": "com.whoshere.em.em3",
+        "deviceName": "Whoshere EM2"
+    },
+    {
+        "identifier": "+1 ASD$536764",
+        "identifierType": "P",
+        "colorTheme": "blue",
+        "deviceModel": "iPhone",
+        "identifierForVendor": "com.whoshere.em.em1",
+        "deviceName": "Fail Test Device"
+    },
+    {
+        "identifier": "+1 6504270763",
+        "identifierType": "P",
+        "colorTheme": "blue",
+        "deviceModel": "iPhone",
+        "identifierForVendor": "com.whoshere.em.em4",
+        "deviceName": "Google Voice Device"
+    },
+    {
+        "identifier": "+1 3013561295",
+        "identifierType": "P",
+        "colorTheme": "green",
+        "deviceModel": "iPhone Simulator",
+        "identifierForVendor": "com.whoshere.em.em5",
+        "deviceName": "iPhone Device"
+    }
+]

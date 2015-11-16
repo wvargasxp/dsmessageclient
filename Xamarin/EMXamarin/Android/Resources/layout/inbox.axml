@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/off_white">
+    <RelativeLayout
+        android:id="@+id/TitleBarLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:padding="1px"
+        android:background="@android:color/transparent"
+        android:layout_alignParentTop="true">
+        <FrameLayout
+            android:id="@+id/burgerWrapper"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="2dp"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true">
+            <Button
+                android:background="@drawable/burgerbuttonstatelistdrawable"
+                android:layout_width="28dp"
+                android:layout_height="28dp"
+                android:id="@+id/LeftBarButton"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical" />
+            <TextView
+                android:id="@+id/burgerUnreadIcon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="0"
+                android:layout_marginTop="-8dp"
+                android:layout_marginLeft="12dp"
+                android:textColor="#FFF"
+                android:textSize="16sp"
+                android:textStyle="bold"
+                android:visibility="invisible"
+                android:layout_toRightOf="@+id/LeftBarButton"
+                android:elevation="100dp"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical"
+                android:background="@drawable/ring_shape" />
+        </FrameLayout>
+        <FrameLayout
+            android:id="@+id/titleWrapper"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:gravity="center">
+            <TextView
+                style="@style/TitleFont"
+                android:id="@+id/starterLabel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/INBOX_TITLE"
+                android:layout_centerVertical="true"
+                android:gravity="center" />
+            <ProgressBar
+                android:id="@+id/TitleCircleProgress"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:visibility="gone"
+                android:indeterminateOnly="true" />
+        </FrameLayout>
+        <View
+            android:id="@+id/titleDividerLine"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@drawable/container_dropshadow"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <FrameLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/transparent"
+        android:layout_below="@+id/TitleBarLayout">
+        <android.support.v7.widget.RecyclerView
+            android:minWidth="25px"
+            android:minHeight="25px"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/InboxList"
+            android:layout_marginBottom="25dp" />
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal|bottom"
+            android:id="@+id/InboxFooter" />
+        <Button
+            android:layout_width="60dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center_horizontal|bottom"
+            android:id="@+id/NewConvoButton"
+            android:layout_centerHorizontal="true"
+            android:gravity="center" />
+    </FrameLayout>
+</RelativeLayout>

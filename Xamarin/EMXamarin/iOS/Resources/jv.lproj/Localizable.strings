@@ -1,0 +1,1434 @@
+/* Chad */
+"CHAD"="Chad";
+/* Cuba */
+"CUBA"="Kuba";
+/* Fiji */
+"FIJI"="Fiji";
+/* Guam */
+"GUAM"="Guam";
+/* Iran */
+"IRAN"="Iran";
+/* Iraq */
+"IRAQ"="Irak";
+/* Laos */
+"LAOS"="Laos";
+/* Mali */
+"MALI"="Mali";
+/* Niue */
+"NIUE"="Niue";
+/* Oman */
+"OMAN"="Oman";
+/* Peru */
+"PERU"="Peru";
+/* Togo */
+"TOGO"="Togo";
+/* Aruba */
+"ARUBA"="Aruba";
+/* Benin */
+"BENIN"="Benin";
+/* Burma (Myanmar) */
+"BURMA"="Burma (Myanmar)";
+/* Chile */
+"CHILE"="Chili";
+/* China */
+"CHINA"="China";
+/* Democratic Republic of the Congo */
+"CONGO"="Republik Demokratis Kongo";
+/* Egypt */
+"EGYPT"="Mesir";
+/* Gabon */
+"GABON"="Gabon";
+/* Ghana */
+"GHANA"="Ghana";
+/* Haiti */
+"HAITI"="Haiti";
+/* India */
+"INDIA"="India";
+/* Italy */
+"ITALY"="Italia";
+/* Japan */
+"JAPAN"="Jepang";
+/* Kenya */
+"KENYA"="Kenya";
+/* Libya */
+"LIBYA"="Libia";
+/* Macau */
+"MACAU"="Macau";
+/* Malta */
+"MALTA"="Malta";
+/* Nauru */
+"NAURU"="Nauru";
+/* Nepal */
+"NEPAL"="Nepal";
+/* Niger */
+"NIGER"="Niger";
+/* Palau */
+"PALAU"="Palau";
+/* Qatar */
+"QATAR"="Qatar";
+/* Samoa */
+"SAMOA"="Samoa";
+/* Spain */
+"SPAIN"="Spanyol";
+/* Sudan */
+"SUDAN"="Sudan";
+/* Syria */
+"SYRIA"="Suriah";
+/* Tonga */
+"TONGA"="Tonga";
+/* Yemen */
+"YEMEN"="Yaman";
+/* Angola */
+"ANGOLA"="Angola";
+/* Belize */
+"BELIZE"="Belize";
+/* Bhutan */
+"BHUTAN"="Bhutan";
+/* Brazil */
+"BRAZIL"="Brasil";
+/* Brunei */
+"BRUNEI"="Brunei";
+/* Canada */
+"CANADA"="Kanada";
+/* Cyprus */
+"CYPRUS"="Siprus";
+/* France */
+"FRANCE"="Perancis";
+/* Gambia */
+"GAMBIA"="Gambia";
+/* Greece */
+"GREECE"="Yunani";
+/* Guinea */
+"GUINEA"="Guinea";
+/* Guyana */
+"GUYANA"="Guyana";
+/* Israel */
+"ISRAEL"="Israel";
+/* Jordan */
+"JORDAN"="Yordania";
+/* Kosovo */
+"KOSOVO"="Kosovo";
+/* Kuwait */
+"KUWAIT"="Kuwait";
+/* Latvia */
+"LATVIA"="Latvia";
+/* Malawi */
+"MALAWI"="Malawi";
+/* Mexico */
+"MEXICO"="Meksiko";
+/* Monaco */
+"MONACO"="Monako";
+/* Norway */
+"NORWAY"="Norwegia";
+/* Panama */
+"PANAMA"="Panama";
+/* Poland */
+"POLAND"="Polandia";
+/* Russia */
+"RUSSIA"="Rusia";
+/* Rwanda */
+"RWANDA"="Rwanda";
+/* Serbia */
+"SERBIA"="Serbia";
+/* Sweden */
+"SWEDEN"="Swedia";
+/* Taiwan */
+"TAIWAN"="Taiwan";
+/* Turkey */
+"TURKEY"="Turki";
+/* Tuvalu */
+"TUVALU"="Tuvalu";
+/* Uganda */
+"UGANDA"="Uganda";
+/* Zambia */
+"ZAMBIA"="Zambia";
+/* Albania */
+"ALBANIA"="Albania";
+/* Algeria */
+"ALGERIA"="Alzajair";
+/* Andorra */
+"ANDORRA"="Andorra";
+/* Armenia */
+"ARMENIA"="Armenia";
+/* Austria */
+"AUSTRIA"="Austria";
+/* Bahamas */
+"BAHAMAS"="Bahama";
+/* Bahrain */
+"BAHRAIN"="Bahrain";
+/* Belarus */
+"BELARUS"="Belarus";
+/* Belgium */
+"BELGIUM"="Belgia";
+/* Bermuda */
+"BERMUDA"="Bermuda";
+/* Bolivia */
+"BOLIVIA"="Bolivia";
+/* Burundi */
+"BURUNDI"="Burundi";
+/* Comoros */
+"COMOROS"="Comoros";
+/* Croatia */
+"CROATIA"="Kroasia";
+/* Denmark */
+"DENMARK"="Denmark";
+/* Ecuador */
+"ECUADOR"="Ekuador";
+/* Eritrea */
+"ERITREA"="Eritrea";
+/* Estonia */
+"ESTONIA"="Estonia";
+/* Finland */
+"FINLAND"="Finlandia";
+/* Georgia */
+"GEORGIA"="Georgia";
+/* Germany */
+"GERMANY"="Jerman";
+/* Grenada */
+"GRENADA"="Grenada";
+/* Hungary */
+"HUNGARY"="Hongaria";
+/* Iceland */
+"ICELAND"="Islandia";
+/* Ireland */
+"IRELAND"="Irlandia";
+/* Jamaica */
+"JAMAICA"="Jamaika";
+/* Lebanon */
+"LEBANON"="Lebanon";
+/* Lesotho */
+"LESOTHO"="Lesotho";
+/* Liberia */
+"LIBERIA"="Liberia";
+/* Mayotte */
+"MAYOTTE"="Mayotte";
+/* Moldova */
+"MOLDOVA"="Moldova";
+/* Morocco */
+"MOROCCO"="Maroko";
+/* Namibia */
+"NAMIBIA"="Namibia";
+/* Nigeria */
+"NIGERIA"="Nigeria";
+/* Romania */
+"ROMANIA"="Rumania";
+/* Senegal */
+"SENEGAL"="Senegal";
+/* Somalia */
+"SOMALIA"="Somalia";
+/* Tokelau */
+"TOKELAU"="Tokelau";
+/* Tunisia */
+"TUNISIA"="Tunisia";
+/* Ukraine */
+"UKRAINE"="Ukraina";
+/* Uruguay */
+"URUGUAY"="Uruguay";
+/* Vanuatu */
+"VANUATU"="Vanuatu";
+/* Vietnam */
+"VIETNAM"="Vietnam";
+/* Anguilla */
+"ANGUILLA"="Anguilla";
+/* Barbados */
+"BARBADOS"="Barbados";
+/* Botswana */
+"BOTSWANA"="Botswana";
+/* Bulgaria */
+"BULGARIA"="Bulgaria";
+/* Cambodia */
+"CAMBODIA"="Kamboja";
+/* Cameroon */
+"CAMEROON"="Kamerun";
+/* Colombia */
+"COLOMBIA"="Kolombia";
+/* Djibouti */
+"DJIBOUTI"="Djibouti";
+/* Dominica */
+"DOMINICA"="Dominika";
+/* Ethiopia */
+"ETHIOPIA"="Ethiopia";
+/* Honduras */
+"HONDURAS"="Honduras";
+/* Kiribati */
+"KIRIBATI"="Kiribati";
+/* Malaysia */
+"MALAYSIA"="Malaysia";
+/* Maldives */
+"MALDIVES"="Maladewa";
+/* Mongolia */
+"MONGOLIA"="Mongolia";
+/* Pakistan */
+"PAKISTAN"="Pakistan";
+/* Paraguay */
+"PARAGUAY"="Paraguay";
+/* Portugal */
+"PORTUGAL"="Portugal";
+/* Slovakia */
+"SLOVAKIA"="Slowakia";
+/* Slovenia */
+"SLOVENIA"="Slovenia";
+/* Suriname */
+"SURINAME"="Suriname";
+/* Svalbard */
+"SVALBARD"="Svalbard";
+/* Tanzania */
+"TANZANIA"="Tanzania";
+/* Thailand */
+"THAILAND"="Thailand";
+/* Zimbabwe */
+"ZIMBABWE"="Zimbabwe";
+/* Argentina */
+"ARGENTINA"="Argentina";
+/* Australia */
+"AUSTRALIA"="Australia";
+/* Gibraltar */
+"GIBRALTAR"="Gibraltar";
+/* Greenland */
+"GREENLAND"="Greenland";
+/* Guatemala */
+"GUATEMALA"="Guatemala";
+/* Hong Kong */
+"HONG_KONG"="Hong Kong";
+/* Indonesia */
+"INDONESIA"="Indonesia";
+/* Lithuania */
+"LITHUANIA"="Lithuania";
+/* Macedonia */
+"MACEDONIA"="Makedonia";
+/* Mauritius */
+"MAURITIUS"="Mauritius";
+/* Nicaragua */
+"NICARAGUA"="Nikaragua";
+/* Singapore */
+"SINGAPORE"="Singapura";
+/* Sri Lanka */
+"SRI_LANKA"="Sri Lanka";
+/* Swaziland */
+"SWAZILAND"="Swaziland";
+/* Venezuela */
+"VENEZUELA"="Venezuela";
+/* Azerbaijan */
+"AZERBAIJAN"="Azerbaijan";
+/* Bangladesh */
+"BANGLADESH"="Bangladesh";
+/* Cape Verde */
+"CAPE_VERDE"="Tanjung Verde";
+/* Costa Rica */
+"COSTA_RICA"="Kosta Rika";
+/* Kazakhstan */
+"KAZAKHSTAN"="Kazakhstan";
+/* Kyrgyzstan */
+"KYRGYZSTAN"="Kirgizstan";
+/* Luxembourg */
+"LUXEMBOURG"="Luksemburg";
+/* Madagascar */
+"MADAGASCAR"="Madagaskar";
+/* Mauritania */
+"MAURITANIA"="Mauritania";
+/* Micronesia */
+"MICRONESIA"="Mikronesia";
+/* Montenegro */
+"MONTENEGRO"="Montenegro";
+/* Montserrat */
+"MONTSERRAT"="Montserrat";
+/* Mozambique */
+"MOZAMBIQUE"="Mozambik";
+/* San Marino */
+"SAN_MARINO"="San Marino";
+/* Seychelles */
+"SEYCHELLES"="Seychelles";
+/* Tajikistan */
+"TAJIKISTAN"="Tajikistan";
+/* Uzbekistan */
+"UZBEKISTAN"="Uzbekistan";
+/* Afghanistan */
+"AFGHANISTAN"="Afganistan";
+/* El Salvador */
+"EL_SALVADOR"="El Salvador";
+/* Isle of Man */
+"ISLE_OF_MAN"="Pulau Man";
+/* Ivory Coast */
+"IVORY_COAST"="Pantai Gading";
+/* Netherlands */
+"NETHERLANDS"="Belanda";
+/* New Zealand */
+"NEW_ZEALAND"="Selandia Baru";
+/* North Korea */
+"NORTH_KOREA"="Korea Utara";
+/* Philippines */
+"PHILIPPINES"="Filipina";
+/* Puerto Rico */
+"PUERTO_RICO"="Puerto Riko";
+/* Saint Lucia */
+"SAINT_LUCIA"="Saint Lucia";
+/* South Korea */
+"SOUTH_KOREA"="Korea Selatan";
+/* Switzerland */
+"SWITZERLAND"="Swiss";
+/* Timor-Leste */
+"TIMOR_LESTE"="Timor-Leste";
+/* Burkina Faso */
+"BURKINA_FASO"="Burkina Faso";
+/* Cook Islands */
+"COOK_ISLANDS"="Kepulauan Cook";
+/* Saint Helena */
+"SAINT_HELENA"="Saint Helena";
+/* Saint Martin */
+"SAINT_MARTIN"="Saint Martin";
+/* Saudi Arabia */
+"SAUDI_ARABIA"="Arab Saudi";
+/* Sierra Leone */
+"SIERRA_LEONE"="Sierra Leone";
+/* South Africa */
+"SOUTH_AFRICA"="Afrika Selatan";
+/* Turkmenistan */
+"TURKMENISTAN"="Turkmenistan";
+/* Faroe Islands */
+"FAROE_ISLANDS"="Kepulauan Faroe";
+/* Guinea-Bissau */
+"GUINEA_BISSAU"="Guinea-Bissau";
+/* Liechtenstein */
+"LIECHTENSTEIN"="Liechtenstein";
+/* New Caledonia */
+"NEW_CALEDONIA"="Kaledonia Baru";
+/* United States */
+"UNITED_STATES"="Amerika Serikat";
+/* American Samoa */
+"AMERICAN_SAMOA"="Samoa Amerika";
+/* Cayman Islands */
+"CAYMAN_ISLANDS"="Kepulauan Cayman";
+/* Czech Republic */
+"CZECH_REPUBLIC"="Republik Ceko";
+/* Norfolk Island */
+"NORFOLK_ISLAND"="Pulau Norfolk";
+/* United Kingdom */
+"UNITED_KINGDOM"="Britania Raya";
+/* Solomon Islands */
+"SOLOMON_ISLANDS"="Kepulauan Solomon";
+/* Falkland Islands */
+"FALKLAND_ISLANDS"="Kepulauan Falkland";
+/* French Polynesia */
+"FRENCH_POLYNESIA"="Polinesia Perancis";
+/* Marshall Islands */
+"MARSHALL_ISLANDS"="Kepulauan Marshall";
+/* Papua New Guinea */
+"PAPUA_NEW_GUINEA"="Papua Nugini";
+/* Pitcairn Islands */
+"PITCAIRN_ISLANDS"="Kepulauan Pitcairn";
+/* Saint Barthelemy */
+"SAINT_BARTHELEMY"="Saint Barthelemy";
+/* Equatorial Guinea */
+"EQUATORIAL_GUINEA"="Guinea Khatulistiwa";
+/* US Virgin Islands */
+"US_VIRGIN_ISLANDS"="Kepulauan Virgin Amerika Serikat";
+/* Wallis and Futuna */
+"WALLIS_AND_FUTUNA"="Wallis lan Futuna";
+/* United Arab Emirates */
+"UNITED_ARAB_EMIRATES"="Uni Emirat Arab";
+/* Central African Republic */
+"CENTRAL_AFRICAN_REPUBLIC"="Republik Afrika Tengah";
+/* Bosnia and Herzegovina */
+"BOSNIA_AND_HERZEGOVINA"="Bosnia lan Herzegovina";
+/* British Virgin Islands */
+"BRITISH_VIRGIN_ISLANDS"="Kepulauan Virgin Britania Raya";
+/* Dominican Republic */
+"DOMINICAN_REPUBLIC"="Republik Dominika";
+/* Antigua and Barbuda */
+"ANTIGUA_AND_BARBUDA"="Antigua lan Barbuda";
+/* Holy See (Vatican City) */
+"HOLY_SEE_VATICAN_CITY"="Tahta Suci (Kutha Vatikan)";
+/* Republic of the Congo */
+"REPUBLIC_OF_THE_CONGO"="Republik Kongo";
+/* Saint Kitts and Nevis */
+"SAINT_KITTS_AND_NEVIS"="Saint Kitts lan Nevis";
+/* Sao Tome and Principe */
+"SAO_TOME_AND_PRINCIPE"="Sao Tome lan Principe";
+/* Northern Mariana Islands */
+"NORTHERN_MARIANA_ISLANDS"="Kepulauan Mariana Lor";
+/* Saint Vincent and the Grenadines */
+"SAINT_VINCENT_AND_THE_GRENADINES"="Saint Vincent lan Grenadines";
+/* Saint Pierre and Miquelon */
+"SAINT_PIERRE_AND_MIQUELON"="Saint Pierre lan Miquelon";
+/* Trinidad and Tobago */
+"TRINIDAD_AND_TOBAGO"="Trinidad lan Tobago";
+/* Turks and Caicos Islands */
+"TURKS_AND_CAICOS_ISLANDS"="Kepulauan Turks lan Caicos";
+
+
+
+
+
+/* General */
+/* The App name, do not translate - P */
+"APP_TITLE"="EMwithME";
+
+/* Text indicating we are processing the user request - P */
+"WAITING"="Ngenteni...";
+
+/* Text indicating we are loading the users request - P */
+"LOADING"="Ngemot...";
+
+/* Text indicating we are accessing the users addres book */
+"ADDRESS_BOOK_ACCESSING"="Searching for your friends...";
+
+/* Text indicating we are processing the users address book */
+"ADDRESS_BOOK_PROCESSING"="Finishing up...";
+
+/* No - P */
+"NO"="Ora";
+
+/* Yes - P */
+"YES"="Ya";
+
+/* Done - P */
+"DONE_BUTTON"="Rampung";
+
+/* Edit - P */
+"EDIT_BUTTON"="Owahi";
+
+/* Update - P */
+"UPDATE_BUTTON"="Anyari";
+
+/* Undo - P */
+"UNDO_BUTTON"="Ora sida";
+
+/* Cancel - P */
+"CANCEL_BUTTON"="Batalake";
+
+/* Cancelled (past tense) */
+"CANCELLED"="Cancelled";
+
+/* Open for Android drawer toggle but not actually displayed - P */
+"OPEN"="Bukak";
+
+/* Close - P */
+"CLOSE"="Tutup";
+
+/* Display name - P */
+"DISPLAY_NAME"="Jeneng Wiwitan lan Pungkasan";
+
+/* No Thanks - P */
+"NO_THANKS"="Ora Maturnuwun";
+
+/* Dont show Again */
+"DONT_SHOW_AGAIN"="Don't Show Again";
+
+/* OK (Capitol letters / Uppercase) - P */
+"OK_BUTTON"="OKE";
+
+/* Yesterday - P */
+"YESTERDAY"="Wingi";
+
+/* Today */
+"TODAY"="Today";
+
+/* Here (Lowercase) - P */
+"HERE"="ing kene";
+
+/* Copy - P */
+"COPY"="Salin";
+
+/* Exit */
+"EXIT"="Exit";
+
+
+
+/* Alerts */
+/* Message when a user tries to back out of creating an AKA or Group without saving their changes */
+"UNSAVED_CHANGES"="You have unsaved changes. Exit?";
+
+
+
+/* Groups */
+/* Title of the Groups page - P */
+"GROUPS_TITLE"="Grup";
+
+/* Add members - P */
+"ADD_MEMBERS"="Tambah Anggota";
+
+/* Title of the Create Group page - P */
+"CREATE_GROUP_TITLE"="Gawe Grup";
+
+/* Leave Group - P */
+"LEAVE_GROUP_BUTTON"="Tinggalake Grup";
+
+/* Text explaining to user they are going to leave the group they were added to - P */
+"LEAVE_GROUP_EXPLAINATION"="Sampeyan arep ninggalake grup iki. Sampeyan mengko mungkin bisa gabung maneh kejaba sing nduweni grup ngilangi sampeyan salawase.";
+
+/* Delete Group - P */
+"DELETE_GROUP_BUTTON"="Ilangi Grup";
+
+/* Text explaining to user they are going to delete the group they created */
+/* Where in the app is this? NL: This is currently out of scope for V1 */
+"DELETE_GROUP_EXPLAINATION"="Sampeyan arep ngilangi grupmu. Tumindak iki ora bisa dibatalake.";
+
+/* Title of the Group Details page - P */
+"GROUP_DETAILS_TITLE"="Detil Grup";
+
+/* Rejoin Group - P */
+"REJOIN_GROUP_BUTTON"="Gabung Grup Maneh";
+
+/* This is appended to a contact name if that user has left the group - P */
+"LEFT_GROUP_EXTENSION"="(Ninggal Grup)";
+
+/* Title of the Edit Group page - P */
+"EDIT_GROUP_TITLE"="Owahi Grup";
+
+/* Alert text asking user to confirm their action - P */
+"ALERT_ARE_YOU_SURE"="Apa Sampeyan Yakin?";
+
+/* Text explaining to user that they can rejoin the group they previously left - P */
+"REJOIN_GROUP_EXPLAINATION"="Kowe bakal gabung grup maneh.";
+
+/* Title of group members - P */
+"MEMBERS_TITLE"="Anggota";
+
+/* Title of chat screen when chatting with a group - P */
+"GROUP_CHATS_TITLE"="Obrolan Grup";
+
+/* Group name - P */
+"GROUP_NAME"="Jeneng Grup";
+
+/* Button text for user to remove themself from ad-hoc group - P */
+"REMOVE_ME_AD_HOC_GROUP"="Ilangi Aku";
+
+/* Message to user when trying to save or update a group without supplying a name - P */
+"GROUP_NAME_REQUIRED"="Mangga wenehi jeneng kanggo grup sampeyan.";
+
+/* Message to user when trying to save or update a group without any members - P */
+"GROUP_MEMBERS_REQUIRED"="Mangga tambahi paling ora siji anggota liyane ing grup sampeyan.";
+
+/* Message to user when loading a group failed - P */
+"GROUP_LOAD_FAILED"="Ana masalah nalika ngemot grup sampeyan. Mangga dicek konektivitas jaringan sampeyan lan coba maneh.";
+
+/* Message to user when saving a group failed - P */
+"GROUP_SAVE_FAILED"="Ana masalah nalika nyimpen grup sampeyan. Mangga dicek konektivitas jaringan sampeyan lan coba maneh.";
+
+/* Message to user when either saving or updating a group failed - P */
+"GROUP_SAVE_OR_UPDATE_FAILED"="Ana masalah ing grup sampeyan. Mangga dicek konektivitas jaringan sampeyan lan coba maneh.";
+
+/* Message to user when updating a group failed - P */
+"GROUP_UPDATE_FAILED"="Ana masalah nalika nganyari grup sampeyan. Mangga dicek konektivitas jaringan sampeyan lan coba maneh.";
+
+/* Message to user when leaving a group failed - P */
+"GROUP_LEAVE_FAILED"="Ana masalah nalika ninggalake grup. Mangga dicek konektivitas jaringan sampeyan lan coba maneh.";
+
+/* Message to user when rejoining a group failed - P */
+"GROUP_REJOIN_FAILED"="Ana masalah nalika gabung maneh ing grup. Mangga dicek konektivitas jaringan sampeyan lan coba maneh.";
+
+/* Leave Conversation of an ad-hoc group */
+"LEAVE_CONVERSATION"="Leave Conversation";
+
+/* Text explaining what will happen if they leave this ad-hoc group conversation */
+"LEAVE_CONVERSATION_EXPAINATION"="Leaving this conversation will prevent you from receiving additional messages into this conversation. If you write back you will start a new conversation with the recipients.";
+
+/* Leave */
+"LEAVE"="Leave";
+
+/* Left Conversation of an ad-hoc group */
+"LEFT_CONVERSATION"="Left Conversation";
+
+/* Text explaining what will happen if they send a message to an ad-hoc group conversation they have previously left */
+"LEFT_CONVERSATION_EXPLAINATION"="You have left this conversation. If you send additional messages they will start a new conversation with the recipients.";
+
+
+
+
+
+/* Onboarding */
+/* Title of the page when user first opens the app - P */
+"WELCOME_TITLE"="Sugeng Rawuh";
+
+/* Get Started - P */
+"GET_STARTED_BUTTON"="Wiwiti!";
+
+/* Continue - P */
+"CONTINUE_BUTTON"="Lanjutake";
+
+/* ONBOARDING A: Title text for first screen of onboarding slides - P */
+"SETUP_PROFILE"="Gawe Profil Sampeyan";
+
+/* ONBOARDING A: Title text for second screen of onboarding slides - P */
+"SENDING_MESSAGES"="Kirim Pesen";
+
+/* ONBOARDING A: Title text for third screen (v2) of onboarding slides - P */
+"GROUP_MESSAGING"="Pesen Grup";
+
+/* ONBOARDING B: Text for first screen - P */
+"ONBOARDING_B_ONE"="Create AKAs to post on sites like Craigslist or apps like WhosHere";
+
+/* ONBOARDING B: Text for second screen - P */
+"ONBOARDING_B_TWO"="Chat with a friend or a group of friends";
+
+/* ONBOARDING B: Text for third screen - P */
+"ONBOARDING_B_THREE"="Send texts, pics, videos and voice messages";
+
+/* ONBOARDING B: Text for fourth screen - P */
+"ONBOARDING_B_FOUR"="No charge to send or receive EMwithME messages";
+
+/* ONBOARDING B: Text for fifth screen - P */
+"ONBOARDING_B_FIVE"="Forget auto-correct - just Take it Back";
+
+/* ONBOARDING B: Text for sixth screen - P */
+"ONBOARDING_B_SIX"="Take any EMwithME message back at anytime so you can always say what you mean";
+
+
+/* Registration text for email - P */
+"REGISTER_EMAIL_EXPLAINATION"="Mangga konfirmasi negara lan lebokake alamat email sampeyan kanggo nglanjutake.";
+
+/* Registration text for mobile - P */
+"REGISTER_MOBILE_EXPLAINATION"="Mangga konfirmasi negara lan lebokake nomer seluler sampeyan kanggo nglanjutake.";
+
+/* Message telling user a verification message will be sent either to their email or mobile - P */
+"SEND_VERIFICATION_EXPLAINATION"="Kode verifikasi wis dikirimake marang sampeyan.";
+
+/* Sending validation code - P */
+"SEND_VALIDATION_CODE_EXPLAINATION"="{0} 
+
+Apa sing ing dhuwur bener?";
+
+/* Title of the register with Mobile page - P */
+"MOBILE_TITLE"="Seluler";
+
+/* Mobile number - P */
+"MOBILE_NUMBER"="Nomer Seluler";
+
+/* Title of the register with Email page - P */
+"EMAIL_TITLE"="Email";
+
+/* Placeholder text within the textbox where user is supposed to enter their email address */
+"EMAIL_ADDRESS"="Alamat Email";
+
+/* Title of the Verification page - P */
+"VERIFICATION_TITLE"="Verifikasi";
+
+/* Placeholder text within the textbox where user is supposed to enter their verification code - P */
+"VERIFICATION_CODE"="Kode Verifikasi";
+
+/* Verification text  - P */
+"VERIFY_ACCOUNT_EXPLAINATION"="Lebokake Kode Verifikasi Sampeyan";
+
+/* Message sent to users attempting to register their mobile phone - P */
+"VALIDATION_MESSAGE_SMS"="Mangga validasi akun sampeyan kanthi ngeklik tautan iki ing telpun seluler sampeyan:";
+
+/* Text in plain text emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_PLAIN"="Mangga validasi akun sampeyan kanthi nglebokake kode iki:  %1$s";
+
+/* Text in HTML emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_HTML"="Utawa, yen sampeyan nganggo piranti seluler sing digunakake kanggo ndhaftar iki, sampeyan cukup klik ing kene";
+
+/* New text in HTML emails telling users they can click a link to validate their account */
+"VALIDATION_MESSAGE_HTML_TWO"="Click here to validate your account if you are on your mobile device.";
+
+/* Error registering user with email - P */
+"ERROR_REGISTER_EMAIL_EXPLAINATION"="Ana masalah nalika ndhaftarake akun sampeyan nganggo alamat email sing mbok wenehake.";
+
+/* Error registering user with mobile phone number - P */
+/* Should we separate these out based on error type?  For example, invalid number (800) number vs. other issues. */
+"ERROR_REGISTER_MOBILE_EXPLAINATION"="Ana masalah nalika ndhaftarake akun sampeyan nganggo nomer telpun seluler sing mbok wenehake.";
+
+/* Error verifying user - P */
+"ERROR_VERIFY_ACCOUNT_EXPLAINATION"="Verifikasi gagal. Mangga diperiksa menawa sampeyan wis nglebokake kode verifikasi kanthi bener lan coba maneh.";
+
+/* Text indicating a user can click a link to unsubscribe from emails - P */
+"UNSUBSCRIBE_SHORT"="Batal langganan";
+
+/* Text explaining to a user that they can unsubscribe from future emails - P */
+"UNSUBSCRIBE_LONG"="Sampeyan nampa email iki amarga sampeyan nembe kedhaftar ing EMwithME. Yen kuwi kesalahan, mangga gunakake tautan batal langganan ing ngisor iki.";
+
+/* Text in SMS sent to new user to validate their account - P */
+"VERIFY_NOW"="Utawa lebokake kode iki:  %1$s";
+
+/* Text for existing users asking them if they would like to download their historical messages - P */
+"DOWNLOAD_HISTORICAL_MESSAGES"="Apa sampeyan kepengen ngundhuh pesen-pesen lawasmu?\n\nNOTE: Iki butuh sawetara wektu.";
+
+/* Message shown to new users when we first try to access their address book - P */
+"ACCESS_ADDRESS_BOOK_MESSAGE"="EMwithME butuhake akses nyang buku alamatmu dadi sampeyan bisa nggoleki kanca-kanca kanthi jeneng ing aplikasi.";
+
+
+
+
+/* Notifications */
+/* Title of the (singular) Notification page - P */
+"NOTIFICATION_TITLE"="Notifikasi";
+
+/* Title of the Notifications page - P */
+"NOTIFICATIONS_TITLE"="Notifikasi";
+
+/* Unread - P */
+"UNREAD_BUTTON"="Durung Diwaca";
+
+/* Read - P  */
+"READ_BUTTON"="Wis Diwaca";
+
+/* All - P */
+"ALL_BUTTON"="Kabeh";
+
+/* Button text to encourage an action for the user to send a message - P */
+"SEND_MESSAGE_TEXT"="Kirim Pesen";
+
+/* Short description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TITLE"="Sugeng Rawuh ing EMwithME!";
+
+/* Full description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TEXT"="Sugeng Rawuh ing EMwithME! Mangga pinuju menyang halaman Profil lan tambahake Jeneng Wiwitan lan Pungkasan sampeyan. Sampeyan bisa ngirim pesen EMwithME, foto lan video nyang kabeh kancamu tanpa bates - gratis!";
+
+/* Short description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TITLE"="%1$s nembe wae gabung EMwithME!";
+
+/* Full description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TEXT"="%1$s nembe wae gabung EMwithME! Kirim pesen kanggo nyambut dheweke.";
+
+/* Full description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TEXT"="%1$s wis nambahake sampeyan ing grup %2$s. Kirim pesen ing grup.";
+
+/* Short description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TITLE"="%1$s nambah sampeyan ing grup  %2$s";
+
+/* Full description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TEXT"="%1$s wis ngilangi sampeyan saka grup %2$s.";
+
+/* Short description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TITLE"="Sampeyan diilangi saka grup %1$s";
+
+/* Full description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TEXT"="%1$s wis nambahake %2$s ing grup %3$s. Kirim pesen ing grup.";
+
+/* Short description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TITLE"="%1$s nambah %2$s ing grup %3$s";
+
+/* Full description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TEXT"="%1$s wis ngilangi %2$s saka grup %3$s.";
+
+/* Short description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TITLE"="%1$s diilangi %2$s saka grup %3$s";
+
+/* Short description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TITLE"="Group %1$s was deleted";
+
+/* Full description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TEXT"="%1$s has deleted group %2$s.";
+
+
+
+
+
+/* Chat */
+/* Title of the Inbox page - P */
+"INBOX_TITLE"="Pesen";
+
+/* Title of the page when a user begins to send a new message - P */
+"NEW_MESSAGE_TITLE"="Pesen Anyar";
+
+/* To - P */
+"TO"="Marang:";
+
+/* From - P */
+"FROM"="Saka";
+
+/* Message indicating someone is typing - P */
+"IS_TYPING_SINGULAR"="{0} ngetik";
+
+/* Message indicating two people are typing - P */
+"IS_TYPING_DUAL"="{0} lan {1} ngetik";
+
+/* Message indicating more than two people are typing - P */
+"IS_TYPING_MULTIPLE"="Pirang-pirang wong ngetik";
+
+/* Error message title saying a message cannot be sent - P */
+/* NOTE FOR TRANSLATORS: You may translate "Error" if there is not a suitable word for "Whoops" in your language */
+"SEND_MESSAGE_FAILED_TITLE"="Eror";
+
+/* Error message explaining why a message cannot be sent - P */
+"SEND_MESSAGE_FAILED_REASON"="Siji utawa luwih pihak ing obrolan iki ora bisa dijangkau maneh. Sampeyan bisa ndelok riwayate obrolan nanging ora ana pesen anyar sing bisa dikirim.";
+
+/* Title of alert box indicating they have disabled EMwithME access to their microphone */
+"RECORDING_PERMISSIONS_TITLE"="Recording Permissions";
+
+/* Text explaination of alert box indicating how to enable their microphone */
+"RECORDING_PERMISSIONS_EXPLAINATION"="Voice messaging is currently disabled. Go to Apple's Settings app > Settings > Privacy > Microphone to enable this feature.";
+
+
+
+
+/* Media - P */
+/* Save (This is used to save sent media to your device) */
+"SAVE_BUTTON"="Simpen";
+
+/* Attach - P */
+"ATTACH_BUTTON"="Lampirake";
+
+/* Camera - P */
+"CAMERA_BUTTON"="Kamera";
+
+/* Media Library Android Only - P */
+"MEDIA_LIBRARY"="Pustaka Media";
+
+/* Take Photo Android only - P */
+"TAKE_PHOTO"="Jupuk Foto";
+
+/* Take Video Android only - P */
+"TAKE_VIDEO"="Jupuk Video";
+
+/* Select Media Android only - P */
+"SELECT_MEDIA"="Pilih Media";
+
+/* Photo Library (iOS only) when we only allow photo selection - P */
+"PHOTO_LIBRARY_BUTTON"="Pustaka Foto";
+
+/* Photo and Video Library (iOS) on the users phone or tablet */
+"PHOTO_AND_VIDEO_LIBRARY_BUTTON"="Photo and Video Library";
+
+/* Rotate Left - P */
+"ROTATE_LEFT"="Jungkirake Ngiwa";
+
+/* Rotate Right - P */
+"ROTATE_RIGHT"="Jungkirake Nengen";
+
+/* Discard */
+/* Where in the app is this? NL: on android, when cropping images - P */
+"DISCARD_BUTTON"="Guwang";
+
+/* When going through photos or videos, this keeps a count / track - P */
+"MEDIA_GALLERY_COUNT"="{0} saka {1}";
+
+/* When sending single media object to another user */
+"SEND_MEDIA_SINGULAR"="Send {0} Item";
+
+/* When sending multiple media objects to another user */
+"SEND_MEDIA_MULTIPLE"="Send {0} Items";
+
+/* One video - P */
+"MEDIA_PREVIEW_MOVIE"="Lampiran: 1 Video";
+
+/* One image - P */
+"MEDIA_PREVIEW_PHOTO"="Lampiran: 1 Gambar";
+
+/* One sound - P */
+"MEDIA_PREVIEW_SOUND"="Lampiran: 1 Swara";
+
+/* You sent one video */
+"MEDIA_PREVIEW_MOVIE_YOU"="You sent a video";
+
+/* You sent one image */
+"MEDIA_PREVIEW_PHOTO_YOU"="You sent an image";
+
+/* You sent one sound */
+"MEDIA_PREVIEW_SOUND_YOU"="You sent an audio clip";
+
+/* Text that shows the last message you sent. The {0} will be replaced with the actual text you sent */
+"YOU_PREAMBLE"="You: {0}";
+
+/* Title of the Search page - P */
+/* This is not to be used for the header title of the Web Search page after tapping Web Search (the string below) */
+"SEARCH_TITLE"="Goleki";
+
+/* Photo Search - P */
+"WEB_SEARCH"="Goleki Foto";
+
+/* Random search string used to seed image search when no prior search has been made - P */
+"RANDOM_SEARCH"="acak";
+
+/* Error displayed to user if no images were found - P */
+"NO_IMAGES_FOUND"="Ora ana gambar sing ditemokake. Lebokake istilah panggolekan anyar lan coba maneh.";
+
+/* Error displayed to user if an error occurred when searching for images - P */
+"IMAGE_SEARCH_ERROR"="Ana kesalahan nalika numindakake panggolekan sampeyan. Mangga dicoba maneh.";
+
+/* Error displayed to user if an error occurred when converting their video - P */
+"VIDEO_CONVERT_ERROR"="Ana kesalahan nalika mroses video iki. Mangga dicoba maneh.";
+
+/* Error displayed ot user if an error occurred when trying to select an image - P */
+"IMAGE_SELECTION_ERROR"="Ana kesalahan nalika mroses gambar sing sampeyan pilih. Mangga dicoba maneh.";
+
+/* Toast message user sees when trying to share media using EMwithME before they have registered (Android only) */
+"SHARE_MEDIA_REGISTER_FIRST"="You must first register with EMwithME befor you can share media.";
+
+/* Message to user (iOS only) if they have not allowed EMwithME access to their photos and they try to send a photo */
+"ALLOW_ACCESS_PHOTOS"="Please give EMwithME permission to access photos in order to share them!";
+
+
+
+
+
+/* External communications */
+/* The text appended to every message sent via SMS - P */
+"SMS_AFTERWORD"="Kekirim lewat EMwithME. Sambangi kita @ http://EMwith.ME";
+
+/* The subject text telling a user they have a new message. %1$s will be replaced by the senders name - P */
+"EMAIL_NEW_MESSAGE_SUBJECT_TWO"="You have a new EMwithME message from %1$s";
+
+/* The subject text telling a user they have a new notificaiton */
+"EMAIL_NEW_NOTIFICATION_SUBJECT"="You have a new EMwithME notification";
+
+/* HTML text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_HTML"="Want to write %1$s back? Just hit reply and send them an email or download <a href='https://api.emwith.me/landingpage/tracking/EM/NewMessage/emailreplylink' title='EMwithME' target='_blank'>EMwithME</a>.";
+
+/* Text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_PLAIN"="Want to write %1$s back? Just hit reply and send them an email or download EMwithME.";
+
+/* Text in the email saying email was sent via EMwithME */
+"SENT_VIA_EM"="Sent via EMwithME";
+
+/* Link in the email for more information */
+"MORE_INFORMATION"="More Information";
+
+/* Default message to user that gets sent as an SMS letting user know they need to install EMwithME to see their message  - P */
+"SMS_DEFAULT_MESSAGE"="Sampeyan nduwe pesen EMwithME anyar lagi ngenteni sampeyan! Mangga sambangi kita @ http://EMwith.ME kanggo entuk aplikasine lan waca pesen sampeyan.";
+
+/* The subject text telling a user to validate their EMwithME account - P */
+"EMAIL_VALIDATION_SUBJECT"="Validasi akun EMwithME sampeyan.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_NO_NAME"="Sampeyan wis dikirimi pesen media. Mangga instal EMwithME kanggo nampilake.";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_NO_NAME"="Sampeyan wis dikirimi foto. Mangga instal EMwithME kanggo nampilake.";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_NO_NAME"="Sampeyan wis dikirimi video. Mangga instal EMwithME kanggo nampilake.";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_NO_NAME"="Sampeyan wis dikirimi pesen swara. Mangga instal EMwithME kanggo nampilake.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_PREFIX_NAME"="%1$s wis ngirimi sampeyan pesen media. Mangga instal EMwithME kanggo nampilake.";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_PREFIX_NAME"="%1$s wis ngirimi sampeyan foto. Mangga instal EMwithME kanggo nampilake.";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_PREFIX_NAME"="%1$s wis ngirimi sampeyan video. Mangga instal EMwithME kanggo nampilake.";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_PREFIX_NAME"="%1$s wis ngirimi sampeyan pesen swara. Mangga instal EMwithME kanggo nampilake.";
+
+
+
+
+/* Manage Messages */
+/* Hide DEPRECATED - P */
+"HIDE_BUTTON"="Dhelikake";
+
+/* Text explaining to user what local delete/hide does DEPRECATED - P */
+"DELETE_EXPLAINATION"="Dhelikake bisa ngilangi pesen saka riwayat obrolan lokal sampeyan. Iku ora bisa dibatalake.";
+
+/* Delete - P */
+"DELETE_BUTTON"="Busak";
+
+/* A deleted message from the Take it Back / remote delete functionality. - P */
+"DELETED_STATUS"="Pesen Dibusak";
+
+/* Remote Delete - P */
+"REMOTE_DELETE_BUTTON"="Tarik Maneh";
+
+/* Text explaining to user what Remote Delete does - P */
+"REMOTE_DELETE_EXPLAINATION"="Tarik Maneh bakal mbusak pesen saka piranti sampeyan lan sing nampa pesen.";
+
+/* Historical */
+/* Where in the app is this? This is referenced in code but does not get displayed */
+"HISTORICAL_STATUS"="Riwayat";
+
+
+
+
+/* Push messages */
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_NO_NAME"="Sampeyan wis ngirimake pesen media.";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_NO_NAME"="Sampeyan wis ngirimake foto.";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_NO_NAME"="Sampeyan wis ngirimake video.";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_NO_NAME"="Sampeyan wis ngirimake pesen swara.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_PREFIX_NAME"="%1$s wis ngirimi sampeyan pesen media.";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_PREFIX_NAME"="%1$s wis ngirimi sampeyan foto.";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_PREFIX_NAME"="%1$s wis ngirimi sampeyan video.";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_PREFIX_NAME"="%1$s wis ngirimi sampeyan pesen swara.";
+
+
+/* Android specific */
+/* No SD card - P */
+"ANDROID_MEDIA_NO_STORAGE_CARD"="Ora ana kertu penyimpenan";
+
+/* Preparing SD card - P */
+"ANDROID_MEDIA_PREPARING_STORAGE_CARD"="Nyiapake kertu";
+
+/* Not enough space on SD card - P */
+"ANDROID_MEDIA_NOT_ENOUGH_SPACE_ON_CARD"="Ora ana cukup ruang";
+
+
+
+
+
+/* Profile */
+/* Title of the My Account page - P */
+"MY_ACCOUNT_TITLE"="Profil";
+
+/* Title of the Choose a Color page - P */
+"CHOOSE_COLOR_TITLE"="Pilih Werna";
+
+/* Text indicating to a user that they can change the app color theme - P */
+"COLOR_THEME"="Werna Tema";
+
+/* Text indicating to a user that they can change the app color theme (Plural) - P */
+"COLOR_THEME_PLURAL"="Werna Tema";
+
+/* Choose icon to associate with a screen name - P */
+"CHOOSE_ICON"="Pilih Ikon";
+
+/* The text shown to a user that leaves their name blank in their Account - P */
+"BLANK_DISPLAY_NAME"="Sampeyan ninggalake jeneng kosongan. Kita bakal nggunakake {0} dadi Jeneng sampeyan.";
+
+/* Share profile - P  */
+"SHARE_PROFILE"="Bagi Profil";
+
+/* Text showing where user can choose to share their profile - P */
+"SHARE_TO"="Bagi marang";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"INSTAGRAM_NOT_FOUND"="Kita ora bisa nemu aplikasi berbagi apa wae ing piranti sampeyan. Saiki, kita mung bisa mbagi lewat Instagram. Yen sampeyan pengen mbagekake profilmu, instal Instagram lan coba maneh.";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"SHARE_APP_NOT_FOUND"="Kita ora bisa nemu aplikasi berbagi apa wae ing piranti sampeyan. Saiki, kita mung bisa mbagi lewat Instagram, Twitter lan Facebook. Yen sampeyan pengen mbagekake profilmu, instal salah sawijining aplikasi kasebut lan coba maneh.";
+
+/* Default caption we pre-fill when a user shares their AKA on Instagram. The {0} will be dynamically replaced with the user AKA - P */
+"INSTAGRAM_SHARE_DEFAULT_MESSAGE"="Kirimi aku pesen ing EMwithME! Jeneng layarku {0}. Gratis kanggo iOS & Android. @EMTheApp #{0} #EMwithME";
+
+/* Text in the image being shared in Instagram that is a call to action */
+"INSTAGRAM_CALL_TO_ACTION"="Message me on EMwithME";
+
+
+
+
+/* Contacts */
+/* Title of the contacts page - P */
+"CONTACTS_TITLE"="Kontak";
+
+
+
+
+/* Help */
+/* Title of Help page - P */
+"HELP_TITLE"="Pitulungan";
+
+/* Text for user to click to view our getting started */
+"GETTING_STARTED"="Getting Started";
+
+/* URL for getting started */
+"GETTING_STARTED_URL"="http://api.emwith.me/web/onboarding/gettingstarted";
+
+/* Text for user to click to view our tips */
+"TIPS"="Tips";
+
+/* URL for tips */
+"TIPS_URL"="http://api.emwith.me/web/onboarding/tips";
+
+/* Text for user to click to view our support site */
+"SUPPORT"="Support";
+
+/* URL for support */
+"SUPPORT_URL"="http://emwithme.zendesk.com";
+
+
+
+
+
+/* Profiles, Details, Contacts */
+/* Profile title - P */
+"PROFILES_TITLE"="Profil";
+
+/* Details - P */
+"DETAILS"="Detil";
+
+/* Add contact button - P */
+"ADD_CONTACT_BUTTON"="Tambahake ing Kontak";
+
+/* Text explaining a contact has been added. The {0} will be dynamically substituted with the persons name */
+"ADD_CONTACT_EXPLAINATION"="{0} wis ditambahake ing kontak sampeyan.";
+
+/* Remove contact button - P */
+"REMOVE_CONTACT_BUTTON"="Ilangi saka Kontak";
+
+/* Block contact button - P */
+"BLOCK_CONTACT_BUTTON"="Blokir Kontak";
+
+/* Unblock contact button - P */
+"UNBLOCK_CONTACT_BUTTON"="Bukak Blokir Kontak";
+
+
+
+
+
+/* Alias */
+/* Alias */
+"ALIAS"="AKA";
+
+/* Alias Title on sidebar - P */
+"ALIAS_TITLE"="AKA";
+
+/* Setup Account Screen Name text - P */
+"SETUP_ALIAS"="AKA (Uga Dikenal Minangka) bisa dienggo sepisan, umum lan unik. Sampeyan bisa nggunakake iku kanggo ngirim pesen marang pangguna liyane tanpa mbukak informasi identitas kaya ta jeneng utawa nomer seluler sampeyan. Apa sampeyan pengen nggawe AKA?";
+
+/* Add alias - P */
+"ADD_ALIAS_BUTTON"="Tambahake AKA";
+
+/* Edit Alias - P */
+"EDIT_ALIAS_TITLE"="Owahi AKA"; 
+
+/* Delete alias button - P */
+"DELETE_ALIAS_BUTTON"="Busak AKA";
+
+/* Error message when alias is already taken - P */
+"ALIAS_ALREADY_TAKEN"="AKA iki wis dienggo. Mangga pilih liyane.";
+
+/* Error message when alias name is too short - P */
+/* Will need to adjust for double byte at some point */
+"ALIAS_TOO_SHORT"="AKA iki kecendhaken. Mangga pilih aka sing luwih dawa saka limang karakter.";
+
+/* Error message when alias contains inappropriate word(s) - P */
+"ALIAS_INAPPROPRIATE"="AKA iki ora sah. Mangga pilih liyane.";
+
+/* Error message when alias name is a phone number - P */
+"ALIAS_PHONE"="AKA iku ora bisa nomer seluler. Mangga pilih liyane.";
+
+/* Error message when alias name is an email address - P */
+"ALIAS_EMAIL"="AKA iku ora bisa alamat email. Mangga pilih liyane.";
+
+/* Error message when an alias contains invalid characters (such as spaces) - P */
+"ALIAS_INVALID"="Aka iki ngemot karakter sing ora sah (kaya ta spasi, @ utawa titik). Mangga pilih liyane.";
+
+/* Generic error message when alias cannot be saved - P */
+"ALIAS_GENERIC_ERROR"="Kedaden kesalahan nalika mroses AKA sampeyan. Mangga coba maneh.";
+
+/* Message of alert box presented to user when trying to delete an Alias - P */
+"ALIAS_DELETE_CONFIRMATION_MESSAGE"="Mbusak AKA iki tegese sampeyan bakal ora bisa maneh ngirim utawa nampa pesen nganggo akun kasebut. Apa sampeyan yakin pengen mbusak iki?";
+
+/* Title of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_TITLE"="AKA Dibusak";
+
+/* Message of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_MESSAGE"="AKA iki wis dibusak, iki bakal tetep diopeni ing wektu 24 jam sadurunge bisa kasedhiya kanggo pangguna liyane. Sampeyan bisa entuk AKA iki maneh kapan wae ing wayah kuwi.";
+
+/* Message of alert box presented to user when reviewing their chat history on an Alias they have deleted */
+"ALIAS_DELETED_CHAT_HISTORY_MESSAGE"="Your AKA has been deleted. You can review the conversation history but no new messages can be sent.";
+
+/* Button text of the alert box for the user to reactivate their deleted Alias - P */
+"ALIAS_DELETED_REACTIVATE"="Diaktifake maneh";
+
+
+
+/* About Section */
+/* About - P */
+"ABOUT_TITLE"="Babagan";
+
+/* Text saying which version of EMwithME the user has currently installed. The {0} is dynamically replaced with the current version - P */
+"VERSION"="Versi {0}";
+
+/* Text for a user to click to view our credits webpage - P */
+"CREDITS"="Kredit";
+
+/* URL for credits */
+"CREDITS_URL"="http://EMwith.ME/credits";
+
+/* Text for user to click to view our FAQ - P */
+"FAQ"="Pitakonan Jawab";
+
+/* URL for FAQ - P */
+"FAQ_URL"="http://EMwith.ME/faq";
+
+/* Text for a user to click to view our privacy policy - P */
+"PRIVACY_POLICY"="Kebijakan Privasi";
+
+/* URL for privacy policy - P */
+"PRIVACY_POLICY_URL"="http://EMwith.ME/privacy";
+
+/* Text for a user to click to view our end user license agreement (EULA) - P */
+"EULA"="Perjanjian Lisensi Pangguna";
+
+/* URL for EULA - P */
+"EULA_URL"="http://EMwith.ME/eula";
+
+/* URL for Facebook */
+"FACEBOOK_URL"="http://facebook.com/emtheapp";
+
+/* URL for Twitter */
+"TWITTER_URL"="http://twitter.com/emtheapp";
+
+/* Copyright - P */
+"COPYRIGHT"="Hak Cipta (c) 2015 WhosHere, Inc. Kabeh Hak Dilindhungi. EM lan EMwithME iku merek dagang saka WhosHere, Inc.";
+
+
+
+/* Invite Friends Section */
+/* Invite Friends */
+"INVITE_FRIENDS_TITLE"="Invite Friends";
+
+/* Message body to send invitation(s) via SMS */
+"INVITE_FRIENDS_VIA_SMS_MESSAGE"="Would you like to send invitation(s) via SMS?";
+
+/* Message body to send invitation(s) via Email */
+"INVITE_FRIENDS_VIA_EMAIL_MESSAGE"="Would you like to send invitation(s) via Email?";
+
+/* Label shown when Android users finish selecting who they would like to invite via Email and are shown which email client they would like to use to send the invitation(s) */
+"INVITE_FRIENDS_SEND_EMAIL_LABEL"="Send Email via...";
+
+/* Toast message (Android specific) shown to user as SMS invitation(s) are sent out. {0} will be replaced with current number of SMS going out, {1} will be replaced with total SMS going out */
+"INVITE_FRIENDS_SMS_SENDING_TOAST_MESSAGE"="Sending {0} of {1}...";
+
+/* Title of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_TITLE"="Cannot send invite(s) via SMS";
+
+/* Message body of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_MESSAGE"="Your device cannot send SMS messages.";
+
+/* Title of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_TITLE"="Cannot send invite(s) via Email";
+
+/* Message body of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_MESSAGE"="Your device cannot send Email messages.";
+
+/* Body of SMS invite message */
+"INVITE_FRIENDS_SMS_MESSAGE"="Hey! I'm using a new messaging app EMwithME that I'd like you to try. Check it out at http://EMwith.ME";
+
+/* Body of HTML Email invite message */
+"INVITE_FRIENDS_EMAIL_MESSAGE"="<p>Hey! I'm using a new messaging app EMwithME that I'd like you to try.</p><br /><p>Check it out at <a href='http://EMwith.ME' target='_blank' title='EMwithME'>http://EMwith.ME</a>";
+
+/* Message body of alert when there was an error in sending SMS or Email invite */
+"INVITE_FRIENDS_ERROR_MESSAGE"="There was an error sending your invitation(s). Please try again.";
+
+/* Message body of alert when user cancels the invitation(s) */
+"INVITE_FRIENDS_CANCELLED_MESSAGE"="You cancelled your invitation(s).";
+
+/* Title of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_TITLE"="Draft Saved";
+
+/* Message body of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_MESSAGE"="Your email invitation(s) were saved as drafts.";
+
+/* Title of alert when user has successfully sent an invite (SMS/Email) */
+"INVITE_FRIENDS_INVITATION_SENT_TITLE"="Invitation(s) Sent";
+
+/* Message body of when the user has sent the invite successfully */
+"INVITE_FRIENDS_INVITATION_SENT_MESSAGE"="Your invitation(s) were sucessfully sent.";
+
+/* Subject of invitation email */
+"INVITE_FRIENDS_EMAIL_SUBJECT"="Come check out EMwithME!";
+
+
+
+/* WhosHere Integration */
+/* Text for user to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE"="Associate with WhosHere";
+
+/* Text of alert asking user if they would like to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE_EXPLAINATION"="Would you like to associate EMwithME with WhosHere to earn free points?";
+
+/* The name shown for a bot in the app (the bots display name) */
+/* Translators: if 'Emily' is not a common name in your language/country/region, please substitute it with a female name that is common. */
+"BOT_DISPLAY_NAME"="Emily - EMwithME Automated Assistant";
+
+
+
+/* Settings */
+/* Settings title */
+"SETTINGS_TITLE"="Settings";
+
+/* Sounds title */
+"SOUNDS_TITLE"="Sounds";
+
+/* Text giving the user the option to turn on or off sounds for incoming messages */
+"INCOMING_MESSAGES_SOUND"="Incoming Messages";
+
+/* Offline Notifications Title */
+"OFFLINE_NOTIFICATIONS_TITLE"="Offline Notifications";
+
+/* Text giving the user the option to turn on or off offline notifications */
+"OFFLINE_NOTIFICATIONS_SHOW"="Show in Notification Center";
+
+/* Text giving the user the option to turn on or off notification sounds */
+"PLAY_SOUNDS"="Play Sounds";
+
+/* Text giving the user the option to turn on or off notificaitons that contain the message text or not */
+"SHOW_PREVIEW"="Show Preview";
+
+/* Text that is shown to the user if they have selected to hide the actual preview text */
+"TEXT_MESSAGE"="Text Message";
+
+/* In-App Settings Title */
+"IN_APP_SETTINGS_TITLE"="In-App Settings";
+
+/* In-App Notifications */
+"IN_APP_NOTIFICATIONS"="In-App Notifications";
+
+
+
+/* Bots */
+/* Text sent to user after they have onboarded to welcome them to EMwithME */
+"GENERIC_WELCOME_MESSAGE"="Welcome to EMwithME, the best messaging app for connecting with friends as well as protecting your identity.";
+
+/* Button text encouraging user to invite their friends */
+"INVITE_FRIENDS_BUTTON_TEXT"="Invite Friends!";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends */
+"WELCOME_WHOSHERE_USER_GENERIC_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, thanks for trying EMwithME.";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends. %1$s will be dynamically replaced with the point total they will be rewarded with */
+"WELCOME_WHOSHERE_USER_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, and will reward you with %1$s points in WhosHere every time you receive a message from a new EMwithME user. So, be sure to invite your friends!";
+
+/* Button text encouraging user to create an AKA */
+"CREATE_AKA_BUTTON_TEXT"="Create AKA!";
+
+/* Text sent to user explaining AKAs */
+"CREATE_AKA_TEXT"="Did you know with EMwithME you can create AKAs that allow you to protect your personal information? AKAs are disposable screen names you can send and receive messages from.";
+
+/* Text sent to WhosHere user explaining AKAs */
+"CREATE_AKA_WHOSHERE_TEXT"="WhosHere and EMwithME can work together seamlessly. When your accounts are linked it allows users to chat with you in EMwithME or WhosHere. With EMwithME, an AKA can be used to keep your personal information private. You choose if and when you share personal information like an email address or phone number.";
+
+/* Title of alert when a user has reached their limit on number of AKAs */
+"LIMIT_REACHED"="Limit Reached";
+
+/* Message body of alert when a user has reached their limit on number of AKAs */
+"AKA_LIMIT_REACHED_MESSAGE"="You've reached the current maximum number of AKAs, you need to delete an existing one before creating a new one.";
+
+/* Text sent to user once they have created an AKA */
+"FIRST_AKA_CREATED_TEXT"="You created an AKA. Now what? As long as someone knows your AKA they can write you by typing your AKA name in the 'To' field. You can also write anyone from your AKA. Just select your AKA on 'From' line when you start a new conversation.";
+
+/* Button text encouraging user to create a group */
+"CREATE_A_GROUP_BUTTON_TEXT"="Create a Group!";
+
+/* Text sent to user explaining they can create groups */
+"CREATE_A_GROUP_TEXT"="Did you know, with EMwithME, you can send messages to friends who don't even have EMwithME? All you need is their email address or mobile phone number. You can create a group of friends and send them all messages and it does not matter if some, or all, of them have EMwithME!";
+
+/* Text sent to user once they have created their first group */
+"FIRST_GROUP_CREATED_TEXT"="You've create your first Group! This group will show up in your EMwithME Contacts List, and in all the group member's Contacts List as well. Even group members who haven't joined EMwithME will receive an SMS or email message when you write to the group.";
+
+/* Button text encouraging user to write to a group */
+"WRITE_GROUP_BUTTON_TEXT"="Write the Group!";
+
+/* Text sent to user once they have been added to a group */
+"FIRST_GROUP_ADDED_TEXT"="You've been added to a group by one of your friends. You'll now receive messages sent to this group and any replies you write will be sent to everyone. This group will appear in your Contacts List, so to write the group just start typing its name. If you ever decide you want to leave the group you can control that from the Groups page.";
+
+/* Text sent to user explaining they can leave groups */
+"LEAVE_A_GROUP_TEXT"="With EMwithME you are in control. Don't like being on a group message? You can leave any group conversation, whether it be a formal group created by friends or just a message addressed to multiple people. Just go to the 'Details' of that conversation to remove yourself.";
+
+/* Text sent to user explaining they can take back their messages (part one) */
+"TAKE_BACK_TEXT_ONE"="With EMwithME you can take back messages you've sent other EMwithME users. Just long press the message you sent and select 'Take it Back'.";
+
+/* Text sent to user explaining they can take back their messages (part two) */
+"TAKE_BACK_TEXT_TWO"="I'm going to take back this message.";
+
+/* Text sent to user explaining they can take back their messages (part three) */
+"TAKE_BACK_TEXT_THREE"="Now your turn. Send me a message, then long press it to Take it Back.";

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<!-- <item android:id="@+id/DeleteMessage" android:title="@string/DELETE_BUTTON" /> -->
+    <item android:id="@+id/RemoteTakeBack" android:title="@string/REMOTE_DELETE_BUTTON" />
+    <item android:id="@+id/CopyText" android:title="@string/COPY" />
+</menu>
+

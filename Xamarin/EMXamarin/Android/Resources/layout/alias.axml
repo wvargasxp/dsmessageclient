@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout
+        android:id="@+id/TitleBarLayout"
+        android:layout_width="fill_parent"
+        android:padding="1px"
+        android:layout_height="50dp"
+        android:background="@android:color/transparent"
+        android:layout_alignParentTop="true">
+        <Button
+            android:text="@string/CLOSE"
+            android:id="@+id/LeftBarButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:textSize="@dimen/title_button_size"
+            android:layout_marginLeft="@dimen/title_left_bar_marginLeft"
+            android:textAllCaps="false"
+            android:background="@android:color/transparent" />
+        <TextView
+            style="@style/TitleFont"
+            android:id="@+id/starterLabel"
+            android:text="@string/ALIAS_TITLE"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerVertical="true"
+            android:gravity="center" />
+        <Button
+            android:background="@drawable/iconAddImage"
+            android:layout_width="28dp"
+            android:layout_height="28dp"
+            android:id="@+id/RightBarButton"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_centerVertical="true" />
+        <View
+            android:id="@+id/dividerLine"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@drawable/container_dropshadow"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <TextView
+        style="@style/OnboardingInstructionFont"
+        android:id="@+id/aliasIntroLabel"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/SETUP_ALIAS"
+        android:paddingLeft="15dp"
+        android:paddingRight="15dp"
+        android:gravity="center"
+        android:layout_marginTop="5dp"
+        android:layout_below="@+id/TitleBarLayout" />
+    <com.nhaarman.listviewanimations.itemmanipulation.DynamicListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:id="@+id/AliasListView"
+        android:layout_below="@+id/aliasIntroLabel" />
+</RelativeLayout>

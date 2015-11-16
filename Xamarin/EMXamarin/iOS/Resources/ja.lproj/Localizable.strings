@@ -1,0 +1,1434 @@
+/* Chad */
+"CHAD"="チャド";
+/* Cuba */
+"CUBA"="キューバ";
+/* Fiji */
+"FIJI"="フィジー";
+/* Guam */
+"GUAM"="グアム";
+/* Iran */
+"IRAN"="イラン";
+/* Iraq */
+"IRAQ"="イラク";
+/* Laos */
+"LAOS"="ラオス";
+/* Mali */
+"MALI"="マリ";
+/* Niue */
+"NIUE"="ニウエ";
+/* Oman */
+"OMAN"="オマーン";
+/* Peru */
+"PERU"="ペルー";
+/* Togo */
+"TOGO"="トーゴ";
+/* Aruba */
+"ARUBA"="アルバ";
+/* Benin */
+"BENIN"="ベナン";
+/* Burma (Myanmar) */
+"BURMA"="ビルマ (ミャンマー)";
+/* Chile */
+"CHILE"="チリ";
+/* China */
+"CHINA"="中国";
+/* Democratic Republic of the Congo */
+"CONGO"="コンゴ民主共和国";
+/* Egypt */
+"EGYPT"="エジプト";
+/* Gabon */
+"GABON"="ガボン";
+/* Ghana */
+"GHANA"="ガーナ";
+/* Haiti */
+"HAITI"="ハイチ";
+/* India */
+"INDIA"="インド";
+/* Italy */
+"ITALY"="イタリア";
+/* Japan */
+"JAPAN"="日本";
+/* Kenya */
+"KENYA"="ケニア";
+/* Libya */
+"LIBYA"="リビア";
+/* Macau */
+"MACAU"="マカオ";
+/* Malta */
+"MALTA"="マルタ";
+/* Nauru */
+"NAURU"="ナウル";
+/* Nepal */
+"NEPAL"="ネパール";
+/* Niger */
+"NIGER"="ニジェール";
+/* Palau */
+"PALAU"="パラオ";
+/* Qatar */
+"QATAR"="カタール";
+/* Samoa */
+"SAMOA"="サモア";
+/* Spain */
+"SPAIN"="スペイン";
+/* Sudan */
+"SUDAN"="スーダン";
+/* Syria */
+"SYRIA"="シリア";
+/* Tonga */
+"TONGA"="トンガ";
+/* Yemen */
+"YEMEN"="イエメン";
+/* Angola */
+"ANGOLA"="アンゴラ";
+/* Belize */
+"BELIZE"="ベリーズ";
+/* Bhutan */
+"BHUTAN"="ブータン";
+/* Brazil */
+"BRAZIL"="ブラジル";
+/* Brunei */
+"BRUNEI"="ブルネイ";
+/* Canada */
+"CANADA"="カナダ";
+/* Cyprus */
+"CYPRUS"="キプロス";
+/* France */
+"FRANCE"="フランス";
+/* Gambia */
+"GAMBIA"="ガンビア";
+/* Greece */
+"GREECE"="ギリシャ";
+/* Guinea */
+"GUINEA"="ギニア";
+/* Guyana */
+"GUYANA"="ガイアナ";
+/* Israel */
+"ISRAEL"="イスラエル";
+/* Jordan */
+"JORDAN"="ヨルダン";
+/* Kosovo */
+"KOSOVO"="コソボ";
+/* Kuwait */
+"KUWAIT"="クウェート";
+/* Latvia */
+"LATVIA"="ラトビア";
+/* Malawi */
+"MALAWI"="マラウイ";
+/* Mexico */
+"MEXICO"="メキシコ";
+/* Monaco */
+"MONACO"="モナコ";
+/* Norway */
+"NORWAY"="ノルウェー";
+/* Panama */
+"PANAMA"="パナマ";
+/* Poland */
+"POLAND"="ポーランド";
+/* Russia */
+"RUSSIA"="ロシア";
+/* Rwanda */
+"RWANDA"="ルワンダ";
+/* Serbia */
+"SERBIA"="セルビア";
+/* Sweden */
+"SWEDEN"="スウェーデン";
+/* Taiwan */
+"TAIWAN"="台湾";
+/* Turkey */
+"TURKEY"="トルコ";
+/* Tuvalu */
+"TUVALU"="ツバル";
+/* Uganda */
+"UGANDA"="ウガンダ";
+/* Zambia */
+"ZAMBIA"="ザンビア";
+/* Albania */
+"ALBANIA"="アルバニア";
+/* Algeria */
+"ALGERIA"="アルジェリア";
+/* Andorra */
+"ANDORRA"="アンドラ";
+/* Armenia */
+"ARMENIA"="アルメニア";
+/* Austria */
+"AUSTRIA"="オーストリア";
+/* Bahamas */
+"BAHAMAS"="バハマ";
+/* Bahrain */
+"BAHRAIN"="バーレーン";
+/* Belarus */
+"BELARUS"="ベラルーシ";
+/* Belgium */
+"BELGIUM"="ベルギー";
+/* Bermuda */
+"BERMUDA"="バミューダ諸島";
+/* Bolivia */
+"BOLIVIA"="ボリビア";
+/* Burundi */
+"BURUNDI"="ブルンジ";
+/* Comoros */
+"COMOROS"="コモロ";
+/* Croatia */
+"CROATIA"="クロアチア";
+/* Denmark */
+"DENMARK"="デンマーク";
+/* Ecuador */
+"ECUADOR"="エクアドル";
+/* Eritrea */
+"ERITREA"="エリトリア";
+/* Estonia */
+"ESTONIA"="エストニア";
+/* Finland */
+"FINLAND"="フィンランド";
+/* Georgia */
+"GEORGIA"="グルジア";
+/* Germany */
+"GERMANY"="ドイツ";
+/* Grenada */
+"GRENADA"="グレナダ";
+/* Hungary */
+"HUNGARY"="ハンガリー";
+/* Iceland */
+"ICELAND"="アイスランド";
+/* Ireland */
+"IRELAND"="アイルランド";
+/* Jamaica */
+"JAMAICA"="ジャマイカ";
+/* Lebanon */
+"LEBANON"="レバノン";
+/* Lesotho */
+"LESOTHO"="レソト";
+/* Liberia */
+"LIBERIA"="リベリア";
+/* Mayotte */
+"MAYOTTE"="マイヨット";
+/* Moldova */
+"MOLDOVA"="モルドバ";
+/* Morocco */
+"MOROCCO"="モロッコ";
+/* Namibia */
+"NAMIBIA"="ナミビア";
+/* Nigeria */
+"NIGERIA"="ナイジェリア";
+/* Romania */
+"ROMANIA"="ルーマニア";
+/* Senegal */
+"SENEGAL"="セネガル";
+/* Somalia */
+"SOMALIA"="ソマリア";
+/* Tokelau */
+"TOKELAU"="トケラウ諸島";
+/* Tunisia */
+"TUNISIA"="チュニジア";
+/* Ukraine */
+"UKRAINE"="ウクライナ";
+/* Uruguay */
+"URUGUAY"="ウルグアイ";
+/* Vanuatu */
+"VANUATU"="バヌアツ";
+/* Vietnam */
+"VIETNAM"="ベトナム";
+/* Anguilla */
+"ANGUILLA"="アンギラ";
+/* Barbados */
+"BARBADOS"="バルバドス";
+/* Botswana */
+"BOTSWANA"="ボツワナ";
+/* Bulgaria */
+"BULGARIA"="ブルガリア";
+/* Cambodia */
+"CAMBODIA"="カンボジア";
+/* Cameroon */
+"CAMEROON"="カメルーン";
+/* Colombia */
+"COLOMBIA"="コロンビア";
+/* Djibouti */
+"DJIBOUTI"="ジブチ";
+/* Dominica */
+"DOMINICA"="ドミニカ";
+/* Ethiopia */
+"ETHIOPIA"="エチオピア";
+/* Honduras */
+"HONDURAS"="ホンジュラス";
+/* Kiribati */
+"KIRIBATI"="キリバス";
+/* Malaysia */
+"MALAYSIA"="マレーシア";
+/* Maldives */
+"MALDIVES"="モルディブ";
+/* Mongolia */
+"MONGOLIA"="モンゴル";
+/* Pakistan */
+"PAKISTAN"="パキスタン";
+/* Paraguay */
+"PARAGUAY"="パラグアイ";
+/* Portugal */
+"PORTUGAL"="ポルトガル";
+/* Slovakia */
+"SLOVAKIA"="スロバキア";
+/* Slovenia */
+"SLOVENIA"="スロベニア";
+/* Suriname */
+"SURINAME"="スリナム";
+/* Svalbard */
+"SVALBARD"="スバールバル諸島";
+/* Tanzania */
+"TANZANIA"="タンザニア";
+/* Thailand */
+"THAILAND"="タイ";
+/* Zimbabwe */
+"ZIMBABWE"="ジンバブエ";
+/* Argentina */
+"ARGENTINA"="アルゼンチン";
+/* Australia */
+"AUSTRALIA"="オーストラリア";
+/* Gibraltar */
+"GIBRALTAR"="ジブラルタル";
+/* Greenland */
+"GREENLAND"="グリーンランド";
+/* Guatemala */
+"GUATEMALA"="グアテマラ";
+/* Hong Kong */
+"HONG_KONG"="香港";
+/* Indonesia */
+"INDONESIA"="インドネシア";
+/* Lithuania */
+"LITHUANIA"="リトアニア";
+/* Macedonia */
+"MACEDONIA"="マケドニア";
+/* Mauritius */
+"MAURITIUS"="モーリシャス";
+/* Nicaragua */
+"NICARAGUA"="ニカラグア";
+/* Singapore */
+"SINGAPORE"="シンガポール";
+/* Sri Lanka */
+"SRI_LANKA"="スリランカ";
+/* Swaziland */
+"SWAZILAND"="スワジランド";
+/* Venezuela */
+"VENEZUELA"="ベネズエラ";
+/* Azerbaijan */
+"AZERBAIJAN"="アゼルバイジャン";
+/* Bangladesh */
+"BANGLADESH"="バングラデシュ";
+/* Cape Verde */
+"CAPE_VERDE"="カーボベルデ";
+/* Costa Rica */
+"COSTA_RICA"="コスタリカ";
+/* Kazakhstan */
+"KAZAKHSTAN"="カザフスタン";
+/* Kyrgyzstan */
+"KYRGYZSTAN"="キルギス";
+/* Luxembourg */
+"LUXEMBOURG"="ルクセンブルク";
+/* Madagascar */
+"MADAGASCAR"="マダガスカル";
+/* Mauritania */
+"MAURITANIA"="モーリタニア";
+/* Micronesia */
+"MICRONESIA"="ミクロネシア";
+/* Montenegro */
+"MONTENEGRO"="モンテネグロ";
+/* Montserrat */
+"MONTSERRAT"="モンセラット";
+/* Mozambique */
+"MOZAMBIQUE"="モザンビーク";
+/* San Marino */
+"SAN_MARINO"="サンマリノ";
+/* Seychelles */
+"SEYCHELLES"="セイシェル";
+/* Tajikistan */
+"TAJIKISTAN"="タジキスタン";
+/* Uzbekistan */
+"UZBEKISTAN"="ウズベキスタン";
+/* Afghanistan */
+"AFGHANISTAN"="アフガニスタン";
+/* El Salvador */
+"EL_SALVADOR"="エルサルバドル";
+/* Isle of Man */
+"ISLE_OF_MAN"="マン島";
+/* Ivory Coast */
+"IVORY_COAST"="アイボリー コースト";
+/* Netherlands */
+"NETHERLANDS"="オランダ";
+/* New Zealand */
+"NEW_ZEALAND"="ニュージーランド";
+/* North Korea */
+"NORTH_KOREA"="北朝鮮";
+/* Philippines */
+"PHILIPPINES"="フィリピン";
+/* Puerto Rico */
+"PUERTO_RICO"="プエルトリコ";
+/* Saint Lucia */
+"SAINT_LUCIA"="セントルシア";
+/* South Korea */
+"SOUTH_KOREA"="韓国";
+/* Switzerland */
+"SWITZERLAND"="スイス";
+/* Timor-Leste */
+"TIMOR_LESTE"="東ティモール";
+/* Burkina Faso */
+"BURKINA_FASO"="ブルキナファソ";
+/* Cook Islands */
+"COOK_ISLANDS"="クック諸島";
+/* Saint Helena */
+"SAINT_HELENA"="セントヘレナ";
+/* Saint Martin */
+"SAINT_MARTIN"="サンマルタン島";
+/* Saudi Arabia */
+"SAUDI_ARABIA"="サウジアラビア";
+/* Sierra Leone */
+"SIERRA_LEONE"="シエラレオネ";
+/* South Africa */
+"SOUTH_AFRICA"="南アフリカ";
+/* Turkmenistan */
+"TURKMENISTAN"="トルクメニスタン";
+/* Faroe Islands */
+"FAROE_ISLANDS"="フェロー諸島";
+/* Guinea-Bissau */
+"GUINEA_BISSAU"="ギニアビサウ";
+/* Liechtenstein */
+"LIECHTENSTEIN"="リヒテンシュタイン";
+/* New Caledonia */
+"NEW_CALEDONIA"="ニューカレドニア";
+/* United States */
+"UNITED_STATES"="米国";
+/* American Samoa */
+"AMERICAN_SAMOA"="米領サモア";
+/* Cayman Islands */
+"CAYMAN_ISLANDS"="ケイマン諸島";
+/* Czech Republic */
+"CZECH_REPUBLIC"="チェコ共和国";
+/* Norfolk Island */
+"NORFOLK_ISLAND"="ノーフォーク島";
+/* United Kingdom */
+"UNITED_KINGDOM"="英国";
+/* Solomon Islands */
+"SOLOMON_ISLANDS"="ソロモン諸島";
+/* Falkland Islands */
+"FALKLAND_ISLANDS"="フォークランド諸島";
+/* French Polynesia */
+"FRENCH_POLYNESIA"="フランス領ポリネシア";
+/* Marshall Islands */
+"MARSHALL_ISLANDS"="マーシャル諸島";
+/* Papua New Guinea */
+"PAPUA_NEW_GUINEA"="パプアニューギニア";
+/* Pitcairn Islands */
+"PITCAIRN_ISLANDS"="ピトケアン";
+/* Saint Barthelemy */
+"SAINT_BARTHELEMY"="サン バルテルミー";
+/* Equatorial Guinea */
+"EQUATORIAL_GUINEA"="赤道ギニア";
+/* US Virgin Islands */
+"US_VIRGIN_ISLANDS"="米領バージン諸島";
+/* Wallis and Futuna */
+"WALLIS_AND_FUTUNA"="ワリス・フテュナ諸島";
+/* United Arab Emirates */
+"UNITED_ARAB_EMIRATES"="アラブ首長国連邦";
+/* Central African Republic */
+"CENTRAL_AFRICAN_REPUBLIC"="中央アフリカ共和国";
+/* Bosnia and Herzegovina */
+"BOSNIA_AND_HERZEGOVINA"="ボスニア・ヘルツェゴビナ";
+/* British Virgin Islands */
+"BRITISH_VIRGIN_ISLANDS"="英領バージン諸島";
+/* Dominican Republic */
+"DOMINICAN_REPUBLIC"="ドミニカ共和国";
+/* Antigua and Barbuda */
+"ANTIGUA_AND_BARBUDA"="アンティグア・バーブーダ";
+/* Holy See (Vatican City) */
+"HOLY_SEE_VATICAN_CITY"="教皇庁 (バチカン市国)";
+/* Republic of the Congo */
+"REPUBLIC_OF_THE_CONGO"="コンゴ共和国";
+/* Saint Kitts and Nevis */
+"SAINT_KITTS_AND_NEVIS"="セントクリストファー・ネイビス";
+/* Sao Tome and Principe */
+"SAO_TOME_AND_PRINCIPE"="サントメ・プリンシペ";
+/* Northern Mariana Islands */
+"NORTHERN_MARIANA_ISLANDS"="北マリアナ諸島";
+/* Saint Vincent and the Grenadines */
+"SAINT_VINCENT_AND_THE_GRENADINES"="セントビンセントおよびグレナディーン諸島";
+/* Saint Pierre and Miquelon */
+"SAINT_PIERRE_AND_MIQUELON"="サンピエール・ミクロン";
+/* Trinidad and Tobago */
+"TRINIDAD_AND_TOBAGO"="トリニダード・トバゴ";
+/* Turks and Caicos Islands */
+"TURKS_AND_CAICOS_ISLANDS"="タークス・カイコス諸島";
+
+
+
+
+
+/* General */
+/* The App name, do not translate - P */
+"APP_TITLE"="EMwithME";
+
+/* Text indicating we are processing the user request - P */
+"WAITING"="待機しています...";
+
+/* Text indicating we are loading the users request - P */
+"LOADING"="読み込んでいます...";
+
+/* Text indicating we are accessing the users addres book */
+"ADDRESS_BOOK_ACCESSING"="友達を検索しています...";
+
+/* Text indicating we are processing the users address book */
+"ADDRESS_BOOK_PROCESSING"="処理しています...";
+
+/* No - P */
+"NO"="いいえ";
+
+/* Yes - P */
+"YES"="はい";
+
+/* Done - P */
+"DONE_BUTTON"="完了";
+
+/* Edit - P */
+"EDIT_BUTTON"="編集";
+
+/* Update - P */
+"UPDATE_BUTTON"="更新";
+
+/* Undo - P */
+"UNDO_BUTTON"="元に戻す";
+
+/* Cancel - P */
+"CANCEL_BUTTON"="キャンセル";
+
+/* Cancelled (past tense) */
+"CANCELLED"="ｷｬﾝｾﾙしました";
+
+/* Open for Android drawer toggle but not actually displayed - P */
+"OPEN"="開く";
+
+/* Close - P */
+"CLOSE"="閉じる";
+
+/* Display name - P */
+"DISPLAY_NAME"="姓と名";
+
+/* No Thanks - P */
+"NO_THANKS"="結構です";
+
+/* Dont show Again */
+"DONT_SHOW_AGAIN"="今後表示しない";
+
+/* OK (Capitol letters / Uppercase) - P */
+"OK_BUTTON"="OK";
+
+/* Yesterday - P */
+"YESTERDAY"="昨日";
+
+/* Today */
+"TODAY"="今日";
+
+/* Here (Lowercase) - P */
+"HERE"="ここ";
+
+/* Copy - P */
+"COPY"="コピー";
+
+/* Exit */
+"EXIT"="終了";
+
+
+
+/* Alerts */
+/* Message when a user tries to back out of creating an AKA or Group without saving their changes */
+"UNSAVED_CHANGES"="変更が保存されていません。終了しますか?";
+
+
+
+/* Groups */
+/* Title of the Groups page - P */
+"GROUPS_TITLE"="グループ";
+
+/* Add members - P */
+"ADD_MEMBERS"="メンバーの追加";
+
+/* Title of the Create Group page - P */
+"CREATE_GROUP_TITLE"="グループの作成";
+
+/* Leave Group - P */
+"LEAVE_GROUP_BUTTON"="グループを離脱";
+
+/* Text explaining to user they are going to leave the group they were added to - P */
+"LEAVE_GROUP_EXPLAINATION"="グループを離脱しようとしています。グループのオーナーがあなたを永久に削除しない限り、後で再度参加できます。";
+
+/* Delete Group - P */
+"DELETE_GROUP_BUTTON"="グループの削除";
+
+/* Text explaining to user they are going to delete the group they created */
+/* Where in the app is this? NL: This is currently out of scope for V1 */
+"DELETE_GROUP_EXPLAINATION"="グループを削除しようとしています。この操作はやり直しできません。";
+
+/* Title of the Group Details page - P */
+"GROUP_DETAILS_TITLE"="グループの詳細";
+
+/* Rejoin Group - P */
+"REJOIN_GROUP_BUTTON"="グループに再参加";
+
+/* This is appended to a contact name if that user has left the group - P */
+"LEFT_GROUP_EXTENSION"="(グループ離脱)";
+
+/* Title of the Edit Group page - P */
+"EDIT_GROUP_TITLE"="グループの編集";
+
+/* Alert text asking user to confirm their action - P */
+"ALERT_ARE_YOU_SURE"="よろしいですか?";
+
+/* Text explaining to user that they can rejoin the group they previously left - P */
+"REJOIN_GROUP_EXPLAINATION"="グループに再参加しようとしています。";
+
+/* Title of group members - P */
+"MEMBERS_TITLE"="メンバー";
+
+/* Title of chat screen when chatting with a group - P */
+"GROUP_CHATS_TITLE"="グループチャット";
+
+/* Group name - P */
+"GROUP_NAME"="グループ名";
+
+/* Button text for user to remove themself from ad-hoc group - P */
+"REMOVE_ME_AD_HOC_GROUP"="自分を削除";
+
+/* Message to user when trying to save or update a group without supplying a name - P */
+"GROUP_NAME_REQUIRED"="グループの名前を指定してください。";
+
+/* Message to user when trying to save or update a group without any members - P */
+"GROUP_MEMBERS_REQUIRED"="グループに少なくとももう1人のメンバーを追加してください。";
+
+/* Message to user when loading a group failed - P */
+"GROUP_LOAD_FAILED"="グループの読み込み中に問題が発生しました。ネットワーク接続を確認して再度お試しください。";
+
+/* Message to user when saving a group failed - P */
+"GROUP_SAVE_FAILED"="グループの保存中に問題が発生しました。ネットワーク接続を確認して再度お試しください。";
+
+/* Message to user when either saving or updating a group failed - P */
+"GROUP_SAVE_OR_UPDATE_FAILED"="グループに問題があります。ネットワーク接続を確認して再度お試しください。";
+
+/* Message to user when updating a group failed - P */
+"GROUP_UPDATE_FAILED"="グループの更新中に問題が発生しました。ネットワーク接続を確認して再度お試しください。";
+
+/* Message to user when leaving a group failed - P */
+"GROUP_LEAVE_FAILED"="グループの離脱中に問題が発生しました。ネットワーク接続を確認して再度お試しください。";
+
+/* Message to user when rejoining a group failed - P */
+"GROUP_REJOIN_FAILED"="グループへの再参加中に問題が発生しました。ネットワーク接続を確認して再度お試しください。";
+
+/* Leave Conversation of an ad-hoc group */
+"LEAVE_CONVERSATION"="ﾁｬｯﾄを離れる";
+
+/* Text explaining what will happen if they leave this ad-hoc group conversation */
+"LEAVE_CONVERSATION_EXPAINATION"="このｸﾞﾙｰﾌﾟﾁｬｯﾄからﾒｯｾｰｼﾞを受け取れなくなります。このﾁｬｯﾄを離れた後に返信した場合、相手との新しいﾁｬｯﾄｾｯｼｮﾝが開始されます。";
+
+/* Leave */
+"LEAVE"="離れる";
+
+/* Left Conversation of an ad-hoc group */
+"LEFT_CONVERSATION"="ﾁｬｯﾄを離れる";
+
+/* Text explaining what will happen if they send a message to an ad-hoc group conversation they have previously left */
+"LEFT_CONVERSATION_EXPLAINATION"="このﾁｬｯﾄを離れました。新しいﾒｯｾｰｼﾞを送信すると、相手との新しいﾁｬｯﾄｾｯｼｮﾝが開始されます。";
+
+
+
+
+
+/* Onboarding */
+/* Title of the page when user first opens the app - P */
+"WELCOME_TITLE"="ようこそ";
+
+/* Get Started - P */
+"GET_STARTED_BUTTON"="始めてみましょう";
+
+/* Continue - P */
+"CONTINUE_BUTTON"="続行";
+
+/* ONBOARDING A: Title text for first screen of onboarding slides - P */
+"SETUP_PROFILE"="プロフィールの設定";
+
+/* ONBOARDING A: Title text for second screen of onboarding slides - P */
+"SENDING_MESSAGES"="メッセージの送信";
+
+/* ONBOARDING A: Title text for third screen (v2) of onboarding slides - P */
+"GROUP_MESSAGING"="グループメッセージ";
+
+/* ONBOARDING B: Text for first screen - P */
+"ONBOARDING_B_ONE"="AKAを作成してCraigslistなどのサイトやWhosHereなどのアプリに投稿できます";
+
+/* ONBOARDING B: Text for second screen - P */
+"ONBOARDING_B_TWO"="友達または友達グループとチャット";
+
+/* ONBOARDING B: Text for third screen - P */
+"ONBOARDING_B_THREE"="テキスト、画像、動画、音声メッセージの送信";
+
+/* ONBOARDING B: Text for fourth screen - P */
+"ONBOARDING_B_FOUR"="EMwithMEメッセージの送信と受信は無料です";
+
+/* ONBOARDING B: Text for fifth screen - P */
+"ONBOARDING_B_FIVE"="自動修正はもう忘れて、撤回機能を使いましょう";
+
+/* ONBOARDING B: Text for sixth screen - P */
+"ONBOARDING_B_SIX"="自分の意図を常に正確に伝えられるよう、EMwithMEﾒｯｾｰｼﾞはいつでも撤回できます";
+
+
+/* Registration text for email - P */
+"REGISTER_EMAIL_EXPLAINATION"="お住まいの国を確認し、メールアドレスを入力して続行してください。";
+
+/* Registration text for mobile - P */
+"REGISTER_MOBILE_EXPLAINATION"="お住まいの国を確認し、携帯番号を入力して続行してください。";
+
+/* Message telling user a verification message will be sent either to their email or mobile - P */
+"SEND_VERIFICATION_EXPLAINATION"="認証コードが送信されました。";
+
+/* Sending validation code - P */
+"SEND_VALIDATION_CODE_EXPLAINATION"="{0} 
+
+上記の内容は正しいですか?";
+
+/* Title of the register with Mobile page - P */
+"MOBILE_TITLE"="携帯";
+
+/* Mobile number - P */
+"MOBILE_NUMBER"="携帯番号";
+
+/* Title of the register with Email page - P */
+"EMAIL_TITLE"="メール";
+
+/* Placeholder text within the textbox where user is supposed to enter their email address */
+"EMAIL_ADDRESS"="メールアドレス";
+
+/* Title of the Verification page - P */
+"VERIFICATION_TITLE"="認証";
+
+/* Placeholder text within the textbox where user is supposed to enter their verification code - P */
+"VERIFICATION_CODE"="認証コード";
+
+/* Verification text  - P */
+"VERIFY_ACCOUNT_EXPLAINATION"="認証コードの入力";
+
+/* Message sent to users attempting to register their mobile phone - P */
+"VALIDATION_MESSAGE_SMS"="携帯電話でこのリンクをクリックし、アカウントを認証してください ";
+
+/* Text in plain text emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_PLAIN"="次のコードを入力してアカウントを認証してください :  %1$s";
+
+/* Text in HTML emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_HTML"="または、サインアップに使用しているモバイルデバイスを利用している場合、以下をクリックします。";
+
+/* New text in HTML emails telling users they can click a link to validate their account */
+"VALIDATION_MESSAGE_HTML_TWO"="Click here to validate your account if you are on your mobile device.";
+
+/* Error registering user with email - P */
+"ERROR_REGISTER_EMAIL_EXPLAINATION"="指定したメールアドレスでのアカウントの登録時に問題が発生しました。";
+
+/* Error registering user with mobile phone number - P */
+/* Should we separate these out based on error type?  For example, invalid number (800) number vs. other issues. */
+"ERROR_REGISTER_MOBILE_EXPLAINATION"="指定した携帯番号でのアカウントの登録時に問題が発生しました。";
+
+/* Error verifying user - P */
+"ERROR_VERIFY_ACCOUNT_EXPLAINATION"="認証に失敗しました。認証コードを正しく入力したことを確認し、再度お試しください。";
+
+/* Text indicating a user can click a link to unsubscribe from emails - P */
+"UNSUBSCRIBE_SHORT"="購読解除";
+
+/* Text explaining to a user that they can unsubscribe from future emails - P */
+"UNSUBSCRIBE_LONG"="最近EMwithMEに登録したため、このメールを受信しています。これが誤りである場合は、以下の購読解除リンクを使用してください。";
+
+/* Text in SMS sent to new user to validate their account - P */
+"VERIFY_NOW"="または、次のコードを入力します :  %1$s";
+
+/* Text for existing users asking them if they would like to download their historical messages - P */
+"DOWNLOAD_HISTORICAL_MESSAGES"="古いメッセージをダウンロードしますか?\n\n注意 : この操作には時間がかかることがあります。";
+
+/* Message shown to new users when we first try to access their address book - P */
+"ACCESS_ADDRESS_BOOK_MESSAGE"="EMwithMEはアプリ内で友達の名前を検索できるように、アドレス帳にアクセスする必要があります。";
+
+
+
+
+/* Notifications */
+/* Title of the (singular) Notification page - P */
+"NOTIFICATION_TITLE"="通知";
+
+/* Title of the Notifications page - P */
+"NOTIFICATIONS_TITLE"="通知";
+
+/* Unread - P */
+"UNREAD_BUTTON"="未読";
+
+/* Read - P  */
+"READ_BUTTON"="既読";
+
+/* All - P */
+"ALL_BUTTON"="すべて";
+
+/* Button text to encourage an action for the user to send a message - P */
+"SEND_MESSAGE_TEXT"="メッセージの送信";
+
+/* Short description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TITLE"="EMwithMEへようこそ!";
+
+/* Full description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TEXT"="EMwithMEへようこそ! プロフィールページに移動して姓と名前を追加してください。友達にEMwithMEメッセージ、写真、動画を制限なく無料で送信できます。";
+
+/* Short description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TITLE"="%1$s がEMwithMEに参加しました!";
+
+/* Full description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TEXT"="%1$s がEMwithMEに参加しました! 歓迎メッセージを送信しましょう。";
+
+/* Full description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TEXT"="%1$s があなたをグループ %2$s に追加しました。グループにメッセージを送信しましょう。";
+
+/* Short description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TITLE"="%1$s があなたをグループ %2$s に追加しました";
+
+/* Full description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TEXT"="%1$s があなたをグループ %2$s から削除しました";
+
+/* Short description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TITLE"="グループ %1$s から削除されました";
+
+/* Full description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TEXT"="%1$s が %2$s をグループ %3$s に追加しました。グループにメッセージを送信しましょう。";
+
+/* Short description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TITLE"="%1$s が %2$s をグループ %3$s に追加しました";
+
+/* Full description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TEXT"="%1$s が %2$s をグループ %3$s から削除しました";
+
+/* Short description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TITLE"="%1$s が %2$s をグループ %3$s から削除しました";
+
+/* Short description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TITLE"="ｸﾞﾙｰﾌﾟ %1$s は削除されました";
+
+/* Full description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TEXT"="%1$s はｸﾞﾙｰﾌﾟ %2$s を削除しました";
+
+
+
+
+
+/* Chat */
+/* Title of the Inbox page - P */
+"INBOX_TITLE"="メッセージ";
+
+/* Title of the page when a user begins to send a new message - P */
+"NEW_MESSAGE_TITLE"="新規メッセージ";
+
+/* To - P */
+"TO"="宛先:";
+
+/* From - P */
+"FROM"="差出人";
+
+/* Message indicating someone is typing - P */
+"IS_TYPING_SINGULAR"="{0}が入力しています";
+
+/* Message indicating two people are typing - P */
+"IS_TYPING_DUAL"="{0}と{1}が入力しています";
+
+/* Message indicating more than two people are typing - P */
+"IS_TYPING_MULTIPLE"="複数の人が入力しています";
+
+/* Error message title saying a message cannot be sent - P */
+/* NOTE FOR TRANSLATORS: You may translate "Error" if there is not a suitable word for "Whoops" in your language */
+"SEND_MESSAGE_FAILED_TITLE"="エラー";
+
+/* Error message explaining why a message cannot be sent - P */
+"SEND_MESSAGE_FAILED_REASON"="この会話に参加している1人または複数の人と通信できません。会話履歴は確認できますが、新規メッセージは送信できません。";
+
+/* Title of alert box indicating they have disabled EMwithME access to their microphone */
+"RECORDING_PERMISSIONS_TITLE"="音声ﾒｯｾｰｼﾞの許可";
+
+/* Text explaination of alert box indicating how to enable their microphone */
+"RECORDING_PERMISSIONS_EXPLAINATION"="音声ﾒｯｾｰｼﾞは現在無効です。ﾃﾞﾊﾞｲｽの「設定」ｱﾌﾟﾘの「設定」>「ﾌﾟﾗｲﾊﾞｼｰ」>「ﾏｲｸ」でこの機能を有効にしてください。";
+
+
+
+
+/* Media - P */
+/* Save (This is used to save sent media to your device) */
+"SAVE_BUTTON"="保存";
+
+/* Attach - P */
+"ATTACH_BUTTON"="添付";
+
+/* Camera - P */
+"CAMERA_BUTTON"="カメラ";
+
+/* Media Library Android Only - P */
+"MEDIA_LIBRARY"="メディアライブラリ";
+
+/* Take Photo Android only - P */
+"TAKE_PHOTO"="写真を撮る";
+
+/* Take Video Android only - P */
+"TAKE_VIDEO"="動画を撮る";
+
+/* Select Media Android only - P */
+"SELECT_MEDIA"="メディアの選択";
+
+/* Photo Library (iOS only) when we only allow photo selection - P */
+"PHOTO_LIBRARY_BUTTON"="写真ライブラリ";
+
+/* Photo and Video Library (iOS) on the users phone or tablet */
+"PHOTO_AND_VIDEO_LIBRARY_BUTTON"="写真とﾋﾞﾃﾞｵﾗｲﾌﾞﾗﾘ";
+
+/* Rotate Left - P */
+"ROTATE_LEFT"="左に回転";
+
+/* Rotate Right - P */
+"ROTATE_RIGHT"="右に回転";
+
+/* Discard */
+/* Where in the app is this? NL: on android, when cropping images - P */
+"DISCARD_BUTTON"="破棄";
+
+/* When going through photos or videos, this keeps a count / track - P */
+"MEDIA_GALLERY_COUNT"="{0} / {1}";
+
+/* When sending single media object to another user */
+"SEND_MEDIA_SINGULAR"="Send {0} Item";
+
+/* When sending multiple media objects to another user */
+"SEND_MEDIA_MULTIPLE"="Send {0} Items";
+
+/* One video - P */
+"MEDIA_PREVIEW_MOVIE"="添付ファイル: 動画1点";
+
+/* One image - P */
+"MEDIA_PREVIEW_PHOTO"="添付ファイル: 画像1点";
+
+/* One sound - P */
+"MEDIA_PREVIEW_SOUND"="添付ファイル: 音声ファイル1点";
+
+/* You sent one video */
+"MEDIA_PREVIEW_MOVIE_YOU"="You sent a video";
+
+/* You sent one image */
+"MEDIA_PREVIEW_PHOTO_YOU"="You sent an image";
+
+/* You sent one sound */
+"MEDIA_PREVIEW_SOUND_YOU"="You sent an audio clip";
+
+/* Text that shows the last message you sent. The {0} will be replaced with the actual text you sent */
+"YOU_PREAMBLE"="You: {0}";
+
+/* Title of the Search page - P */
+/* This is not to be used for the header title of the Web Search page after tapping Web Search (the string below) */
+"SEARCH_TITLE"="検索";
+
+/* Photo Search - P */
+"WEB_SEARCH"="写真検索";
+
+/* Random search string used to seed image search when no prior search has been made - P */
+"RANDOM_SEARCH"="ランダム";
+
+/* Error displayed to user if no images were found - P */
+"NO_IMAGES_FOUND"="画像が見つかりませんでした。新しい検索語を入力して再度お試しください。";
+
+/* Error displayed to user if an error occurred when searching for images - P */
+"IMAGE_SEARCH_ERROR"="検索の実行時にエラーが発生しました。再度お試しください。";
+
+/* Error displayed to user if an error occurred when converting their video - P */
+"VIDEO_CONVERT_ERROR"="この動画の処理中にエラーが発生しました。再度お試しください。";
+
+/* Error displayed ot user if an error occurred when trying to select an image - P */
+"IMAGE_SELECTION_ERROR"="選択した画像の処理中にエラーが発生しました。再度お試しください。";
+
+/* Toast message user sees when trying to share media using EMwithME before they have registered (Android only) */
+"SHARE_MEDIA_REGISTER_FIRST"="ﾒﾃﾞｨｱを共有する前に、まずEMwithMEに登録してください。";
+
+/* Message to user (iOS only) if they have not allowed EMwithME access to their photos and they try to send a photo */
+"ALLOW_ACCESS_PHOTOS"="Please give EMwithME permission to access photos in order to share them!";
+
+
+
+
+
+/* External communications */
+/* The text appended to every message sent via SMS - P */
+"SMS_AFTERWORD"="EMwithMEにて送信。@ http://EMwith.MEにアクセス";
+
+/* The subject text telling a user they have a new message. %1$s will be replaced by the senders name - P */
+"EMAIL_NEW_MESSAGE_SUBJECT_TWO"="%1$s からの新着EMwithMEﾒｯｾｰｼﾞがあります";
+
+/* The subject text telling a user they have a new notificaiton */
+"EMAIL_NEW_NOTIFICATION_SUBJECT"="新しいEMwithME通知があります";
+
+/* HTML text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_HTML"="%1$s に返信しますか? 「返信」を押してﾒｰﾙを送信するか、<a href='https://api.emwith.me/landingpage/tracking/EM/NewMessage/emailreplylink' title='EMwithME' target='_blank'>EMwithME</a>をﾀﾞｳﾝﾛｰﾄﾞします。";
+
+/* Text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_PLAIN"="%1$s に返信しますか? 「返信」を押してﾒｰﾙを送信するか、EMwithMEをﾀﾞｳﾝﾛｰﾄﾞします。";
+
+/* Text in the email saying email was sent via EMwithME */
+"SENT_VIA_EM"="EMwithMEwithMEで送信";
+
+/* Link in the email for more information */
+"MORE_INFORMATION"="詳細";
+
+/* Default message to user that gets sent as an SMS letting user know they need to install EMwithME to see their message  - P */
+"SMS_DEFAULT_MESSAGE"="新着EMwithMEメッセージがあります。@ http://EMwith.MEにアクセスしてアプリを取得し、メッセージを確認しましょう。";
+
+/* The subject text telling a user to validate their EMwithME account - P */
+"EMAIL_VALIDATION_SUBJECT"="EMwithMEアカウントの認証";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_NO_NAME"="メディアメッセージが届いています。EMwithMEをインストールして確認してください。";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_NO_NAME"="写真が届いています。EMwithMEをインストールして確認してください。";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_NO_NAME"="動画が届いています。EMwithMEをインストールして確認してください。";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_NO_NAME"="音声メッセージが届いています。EMwithMEをインストールして確認してください。";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_PREFIX_NAME"="%1$s からメディアメッセージが届いています。EMwithMEをインストールして確認してください。";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_PREFIX_NAME"="%1$s から写真が届いています。EMwithMEをインストールして確認してください。";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_PREFIX_NAME"="%1$s から動画が届いています。EMwithMEをインストールして確認してください。";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_PREFIX_NAME"="%1$s から音声メッセージが届いています。EMwithMEをインストールして確認してください。";
+
+
+
+
+/* Manage Messages */
+/* Hide DEPRECATED - P */
+"HIDE_BUTTON"="非表示";
+
+/* Text explaining to user what local delete/hide does DEPRECATED - P */
+"DELETE_EXPLAINATION"="ローカルの会話履歴からメッセージを非表示/削除します。この操作は元に戻すことができません。";
+
+/* Delete - P */
+"DELETE_BUTTON"="削除";
+
+/* A deleted message from the Take it Back / remote delete functionality. - P */
+"DELETED_STATUS"="メッセージが削除されました";
+
+/* Remote Delete - P */
+"REMOTE_DELETE_BUTTON"="撤回";
+
+/* Text explaining to user what Remote Delete does - P */
+"REMOTE_DELETE_EXPLAINATION"="撤回機能はお使いのデバイスと相手のデバイスからメッセージを削除します。";
+
+/* Historical */
+/* Where in the app is this? This is referenced in code but does not get displayed */
+"HISTORICAL_STATUS"="履歴";
+
+
+
+
+/* Push messages */
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_NO_NAME"="メディアメッセージが届いています。";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_NO_NAME"="写真が届いています。";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_NO_NAME"="動画が届いています。";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_NO_NAME"="音声メッセージが届いています。";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_PREFIX_NAME"="%1$s からメディアメッセージが届いています。";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_PREFIX_NAME"="%1$s から写真が届いています。";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_PREFIX_NAME"="%1$s から動画が届いています。";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_PREFIX_NAME"="%1$s から音声メッセージが届いています。";
+
+
+/* Android specific */
+/* No SD card - P */
+"ANDROID_MEDIA_NO_STORAGE_CARD"="SDカードがありません";
+
+/* Preparing SD card - P */
+"ANDROID_MEDIA_PREPARING_STORAGE_CARD"="カードを準備しています";
+
+/* Not enough space on SD card - P */
+"ANDROID_MEDIA_NOT_ENOUGH_SPACE_ON_CARD"="容量が不足しています";
+
+
+
+
+
+/* Profile */
+/* Title of the My Account page - P */
+"MY_ACCOUNT_TITLE"="プロフィール";
+
+/* Title of the Choose a Color page - P */
+"CHOOSE_COLOR_TITLE"="色の選択";
+
+/* Text indicating to a user that they can change the app color theme - P */
+"COLOR_THEME"="配色テーマ";
+
+/* Text indicating to a user that they can change the app color theme (Plural) - P */
+"COLOR_THEME_PLURAL"="配色テーマ";
+
+/* Choose icon to associate with a screen name - P */
+"CHOOSE_ICON"="アイコンの選択";
+
+/* The text shown to a user that leaves their name blank in their Account - P */
+"BLANK_DISPLAY_NAME"="名前が空欄です。名前に{0}を使用します。";
+
+/* Share profile - P  */
+"SHARE_PROFILE"="プロフィールの共有";
+
+/* Text showing where user can choose to share their profile - P */
+"SHARE_TO"="共有先";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"INSTAGRAM_NOT_FOUND"="サポートされている共有アプリをお使いのデバイスで検出できませんでした。インスタグラムでのみ共有できます。プロフィールを共有したい場合は、インスタグラムをインストールして再度お試しください。";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"SHARE_APP_NOT_FOUND"="サポートされている共有アプリをお使いのデバイスで検出できませんでした。現時点ではインスタグラム、Twitter、およびFacebookでのみ共有できます。プロフィールを共有したい場合は、これらのアプリのいずれかをインストールして再度お試しください。";
+
+/* Default caption we pre-fill when a user shares their AKA on Instagram. The {0} will be dynamically replaced with the user AKA - P */
+"INSTAGRAM_SHARE_DEFAULT_MESSAGE"="EMwithMEでメッセージをお待ちしています! ユーザー名は{0}です。iOSおよびAndroidで無料で利用できます。@EMTheApp #{0} #EMwithME";
+
+/* Text in the image being shared in Instagram that is a call to action */
+"INSTAGRAM_CALL_TO_ACTION"="EMwithMEで私にﾒｯｾｰｼﾞを";
+
+
+
+
+/* Contacts */
+/* Title of the contacts page - P */
+"CONTACTS_TITLE"="連絡先";
+
+
+
+
+/* Help */
+/* Title of Help page - P */
+"HELP_TITLE"="ヘルプ";
+
+/* Text for user to click to view our getting started */
+"GETTING_STARTED"="使い始める";
+
+/* URL for getting started */
+"GETTING_STARTED_URL"="http://api.emwith.me/web/onboarding/gettingstarted";
+
+/* Text for user to click to view our tips */
+"TIPS"="Tips";
+
+/* URL for tips */
+"TIPS_URL"="http://api.emwith.me/web/onboarding/tips";
+
+/* Text for user to click to view our support site */
+"SUPPORT"="サポート";
+
+/* URL for support */
+"SUPPORT_URL"="http://emwithme.zendesk.com";
+
+
+
+
+
+/* Profiles, Details, Contacts */
+/* Profile title - P */
+"PROFILES_TITLE"="プロフィール";
+
+/* Details - P */
+"DETAILS"="詳細";
+
+/* Add contact button - P */
+"ADD_CONTACT_BUTTON"="連絡先に追加";
+
+/* Text explaining a contact has been added. The {0} will be dynamically substituted with the persons name */
+"ADD_CONTACT_EXPLAINATION"="{0}が連絡先に追加されました。";
+
+/* Remove contact button - P */
+"REMOVE_CONTACT_BUTTON"="連絡先から削除";
+
+/* Block contact button - P */
+"BLOCK_CONTACT_BUTTON"="連絡をブロック";
+
+/* Unblock contact button - P */
+"UNBLOCK_CONTACT_BUTTON"="連絡をブロック解除";
+
+
+
+
+
+/* Alias */
+/* Alias */
+"ALIAS"="AKA";
+
+/* Alias Title on sidebar - P */
+"ALIAS_TITLE"="AKA";
+
+/* Setup Account Screen Name text - P */
+"SETUP_ALIAS"="AKA (別称)は公開される使い捨て可能な一意の名前です。自分の名前や携帯番号などの個人情報を開示することなく他のユーザーにメッセージを送信する際に使用できます。AKAをセットアップしますか?";
+
+/* Add alias - P */
+"ADD_ALIAS_BUTTON"="AKAの追加";
+
+/* Edit Alias - P */
+"EDIT_ALIAS_TITLE"="AKAの編集";
+
+/* Delete alias button - P */
+"DELETE_ALIAS_BUTTON"="AKAの削除";
+
+/* Error message when alias is already taken - P */
+"ALIAS_ALREADY_TAKEN"="このAKAは既に使用されています。別のAKAを選択してください。";
+
+/* Error message when alias name is too short - P */
+/* Will need to adjust for double byte at some point */
+"ALIAS_TOO_SHORT"="このAKAは短すぎます。5文字を超えるAKAを選択してください。";
+
+/* Error message when alias contains inappropriate word(s) - P */
+"ALIAS_INAPPROPRIATE"="このAKAは無効です。別のAKAを選択してください。";
+
+/* Error message when alias name is a phone number - P */
+"ALIAS_PHONE"="電話番号をAKAに設定できません。別のAKAを選択してください。";
+
+/* Error message when alias name is an email address - P */
+"ALIAS_EMAIL"="メールアドレスをAKAに設定できません。別のAKAを選択してください。";
+
+/* Error message when an alias contains invalid characters (such as spaces) - P */
+"ALIAS_INVALID"="このAKAには無効な文字(スペース、@、ドットなど)が含まれています。別のAKAを選択してください。";
+
+/* Generic error message when alias cannot be saved - P */
+"ALIAS_GENERIC_ERROR"="AKAの処理中にエラーが発生しました。再度お試しください。";
+
+/* Message of alert box presented to user when trying to delete an Alias - P */
+"ALIAS_DELETE_CONFIRMATION_MESSAGE"="このAKAを削除すると、そのアカウントでメッセージの送受信ができなくなります。削除してもよろしいですか?";
+
+/* Title of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_TITLE"="AKAが削除されました";
+
+/* Message of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_MESSAGE"="このAKAは削除されました。24時間は保持され、その後他のユーザーが利用できるようになります。その期間内にいつでもAKAを再請求できます。";
+
+/* Message of alert box presented to user when reviewing their chat history on an Alias they have deleted */
+"ALIAS_DELETED_CHAT_HISTORY_MESSAGE"="Your AKA has been deleted. You can review the conversation history but no new messages can be sent.";
+
+/* Button text of the alert box for the user to reactivate their deleted Alias - P */
+"ALIAS_DELETED_REACTIVATE"="再アクティブ化";
+
+
+
+/* About Section */
+/* About - P */
+"ABOUT_TITLE"="EMwithMEについて";
+
+/* Text saying which version of EMwithME the user has currently installed. The {0} is dynamically replaced with the current version - P */
+"VERSION"="バージョン{0}";
+
+/* Text for a user to click to view our credits webpage - P */
+"CREDITS"="クレジット";
+
+/* URL for credits */
+"CREDITS_URL"="http://EMwith.ME/credits";
+
+/* Text for user to click to view our FAQ - P */
+"FAQ"="よくある質問";
+
+/* URL for FAQ - P */
+"FAQ_URL"="http://EMwith.ME/faq";
+
+/* Text for a user to click to view our privacy policy - P */
+"PRIVACY_POLICY"="プライバシーポリシー";
+
+/* URL for privacy policy - P */
+"PRIVACY_POLICY_URL"="http://EMwith.ME/privacy";
+
+/* Text for a user to click to view our end user license agreement (EULA) - P */
+"EULA"="使用許諾契約書";
+
+/* URL for EULA - P */
+"EULA_URL"="http://EMwith.ME/eula";
+
+/* URL for Facebook */
+"FACEBOOK_URL"="http://facebook.com/emtheapp";
+
+/* URL for Twitter */
+"TWITTER_URL"="http://twitter.com/emtheapp";
+
+/* Copyright - P */
+"COPYRIGHT"="Copyright (c) 2015 WhosHere, Inc. All Rights Reserved. EMおよびEMwithMEはWhosHere, Inc.の商標です。";
+
+
+
+/* Invite Friends Section */
+/* Invite Friends */
+"INVITE_FRIENDS_TITLE"="友達を招待";
+
+/* Message body to send invitation(s) via SMS */
+"INVITE_FRIENDS_VIA_SMS_MESSAGE"="SMS経由で招待を送信しますか?";
+
+/* Message body to send invitation(s) via Email */
+"INVITE_FRIENDS_VIA_EMAIL_MESSAGE"="ﾒｰﾙで招待を送信しますか?";
+
+/* Label shown when Android users finish selecting who they would like to invite via Email and are shown which email client they would like to use to send the invitation(s) */
+"INVITE_FRIENDS_SEND_EMAIL_LABEL"="ﾒｰﾙの送信に使用 : ";
+
+/* Toast message (Android specific) shown to user as SMS invitation(s) are sent out. {0} will be replaced with current number of SMS going out, {1} will be replaced with total SMS going out */
+"INVITE_FRIENDS_SMS_SENDING_TOAST_MESSAGE"="{0} / {1} 件送信中...";
+
+/* Title of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_TITLE"="SMS経由で招待を送信できません";
+
+/* Message body of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_MESSAGE"="このﾃﾞﾊﾞｲｽではSMSﾒｯｾｰｼﾞを送信できません。";
+
+/* Title of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_TITLE"="ﾒｰﾙで招待を送信できません";
+
+/* Message body of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_MESSAGE"="このﾃﾞﾊﾞｲｽではﾒｰﾙを送信できません。";
+
+/* Body of SMS invite message */
+"INVITE_FRIENDS_SMS_MESSAGE"="こんにちわ! EMwithMEという新しいﾒｯｾｰｼﾞｱﾌﾟﾘを一緒に使ってみませんか? 詳細はこちら : http://EMwith.ME";
+
+/* Body of HTML Email invite message */
+"INVITE_FRIENDS_EMAIL_MESSAGE"="<p>こんにちわ! EMwithMEという新しいﾒｯｾｰｼﾞｱﾌﾟﾘを一緒に使ってみませんか? </p><br /><p>詳細はこちら : <a href='http://EMwith.ME' target='_blank' title='EMwithME'>http://EMwith.ME</a>";
+
+/* Message body of alert when there was an error in sending SMS or Email invite */
+"INVITE_FRIENDS_ERROR_MESSAGE"="招待の送信中にｴﾗｰが発生しました。再度お試しください。";
+
+/* Message body of alert when user cancels the invitation(s) */
+"INVITE_FRIENDS_CANCELLED_MESSAGE"="招待がｷｬﾝｾﾙされました。";
+
+/* Title of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_TITLE"="下書きを保存しました";
+
+/* Message body of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_MESSAGE"="ﾒｰﾙ招待は下書きとして保存されました。";
+
+/* Title of alert when user has successfully sent an invite (SMS/Email) */
+"INVITE_FRIENDS_INVITATION_SENT_TITLE"="招待が送信されました";
+
+/* Message body of when the user has sent the invite successfully */
+"INVITE_FRIENDS_INVITATION_SENT_MESSAGE"="招待は正常に送信されました。";
+
+/* Subject of invitation email */
+"INVITE_FRIENDS_EMAIL_SUBJECT"="EMwithMEを使ってみましょう!";
+
+
+
+/* WhosHere Integration */
+/* Text for user to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE"="WhosHereｱｶｳﾝﾄにﾘﾝｸ";
+
+/* Text of alert asking user if they would like to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE_EXPLAINATION"="EMwithMEをWhosHereにﾘﾝｸして無料のﾎﾟｲﾝﾄを獲得しますか?";
+
+/* The name shown for a bot in the app (the bots display name) */
+/* Translators: if 'Emily' is not a common name in your language/country/region, please substitute it with a female name that is common. */
+"BOT_DISPLAY_NAME"="エミ - EMwithMEの自動ｱｼｽﾀﾝﾄ";
+
+
+
+/* Settings */
+/* Settings title */
+"SETTINGS_TITLE"="設定";
+
+/* Sounds title */
+"SOUNDS_TITLE"="ｻｳﾝﾄﾞ";
+
+/* Text giving the user the option to turn on or off sounds for incoming messages */
+"INCOMING_MESSAGES_SOUND"="受信ﾒｯｾｰｼﾞ";
+
+/* Offline Notifications Title */
+"OFFLINE_NOTIFICATIONS_TITLE"="ｵﾌﾗｲﾝ通知";
+
+/* Text giving the user the option to turn on or off offline notifications */
+"OFFLINE_NOTIFICATIONS_SHOW"="通知ｾﾝﾀｰで表示";
+
+/* Text giving the user the option to turn on or off notification sounds */
+"PLAY_SOUNDS"="ｻｳﾝﾄﾞを再生";
+
+/* Text giving the user th eoption to turn on or off notificaitons that contain the message text or not */
+"SHOW_PREVIEW"="ﾌﾟﾚﾋﾞｭｰを表示";
+
+/* Text that is shown to the user if they have selected to hide the actual preview text */
+"TEXT_MESSAGE"="ﾃｷｽﾄﾒｯｾｰｼﾞ";
+
+/* In-App Settings Title */
+"IN_APP_SETTINGS_TITLE"="In-App Settings";
+
+/* In-App Notifications */
+"IN_APP_NOTIFICATIONS"="In-App Notifications";
+
+
+
+/* Bots */
+/* Text sent to user after they have onboarded to welcome them to EMwithME */
+"GENERIC_WELCOME_MESSAGE"="Welcome to EMwithME, the best messaging app for connecting with friends as well as protecting your identity.";
+
+/* Button text encouraging user to invite their friends */
+"INVITE_FRIENDS_BUTTON_TEXT"="Invite Friends!";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends */
+"WELCOME_WHOSHERE_USER_GENERIC_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, thanks for trying EMwithME.";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends. %1$s will be dynamically replaced with the point total they will be rewarded with */
+"WELCOME_WHOSHERE_USER_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, and will reward you with %1$s points in WhosHere every time you receive a message from a new EMwithME user. So, be sure to invite your friends!";
+
+/* Button text encouraging user to create an AKA */
+"CREATE_AKA_BUTTON_TEXT"="Create AKA!";
+
+/* Text sent to user explaining AKAs */
+"CREATE_AKA_TEXT"="Did you know with EMwithME you can create AKAs that allow you to protect your personal information? AKAs are disposable screen names you can send and receive messages from.";
+
+/* Text sent to WhosHere user explaining AKAs */
+"CREATE_AKA_WHOSHERE_TEXT"="WhosHere and EMwithME can work together seamlessly. When your accounts are linked it allows users to chat with you in EMwithME or WhosHere. With EMwithME, an AKA can be used to keep your personal information private. You choose if and when you share personal information like an email address or phone number.";
+
+/* Title of alert when a user has reached their limit on number of AKAs */
+"LIMIT_REACHED"="Limit Reached";
+
+/* Message body of alert when a user has reached their limit on number of AKAs */
+"AKA_LIMIT_REACHED_MESSAGE"="You've reached the current maximum number of AKAs, you need to delete an existing one before creating a new one.";
+
+/* Text sent to user once they have created an AKA */
+"FIRST_AKA_CREATED_TEXT"="You created an AKA. Now what? As long as someone knows your AKA they can write you by typing your AKA name in the 'To' field. You can also write anyone from your AKA. Just select your AKA on 'From' line when you start a new conversation.";
+
+/* Button text encouraging user to create a group */
+"CREATE_A_GROUP_BUTTON_TEXT"="Create a Group!";
+
+/* Text sent to user explaining they can create groups */
+"CREATE_A_GROUP_TEXT"="Did you know, with EMwithME, you can send messages to friends who don't even have EMwithME? All you need is their email address or mobile phone number. You can create a group of friends and send them all messages and it does not matter if some, or all, of them have EMwithME!";
+
+/* Text sent to user once they have created their first group */
+"FIRST_GROUP_CREATED_TEXT"="You've create your first Group! This group will show up in your EMwithME Contacts List, and in all the group member's Contacts List as well. Even group members who haven't joined EMwithME will receive an SMS or email message when you write to the group.";
+
+/* Button text encouraging user to write to a group */
+"WRITE_GROUP_BUTTON_TEXT"="Write the Group!";
+
+/* Text sent to user once they have been added to a group */
+"FIRST_GROUP_ADDED_TEXT"="You've been added to a group by one of your friends. You'll now receive messages sent to this group and any replies you write will be sent to everyone. This group will appear in your Contacts List, so to write the group just start typing its name. If you ever decide you want to leave the group you can control that from the Groups page.";
+
+/* Text sent to user explaining they can leave groups */
+"LEAVE_A_GROUP_TEXT"="With EMwithME you are in control. Don't like being on a group message? You can leave any group conversation, whether it be a formal group created by friends or just a message addressed to multiple people. Just go to the 'Details' of that conversation to remove yourself.";
+
+/* Text sent to user explaining they can take back their messages (part one) */
+"TAKE_BACK_TEXT_ONE"="With EMwithME you can take back messages you've sent other EMwithME users. Just long press the message you sent and select 'Take it Back'.";
+
+/* Text sent to user explaining they can take back their messages (part two) */
+"TAKE_BACK_TEXT_TWO"="I'm going to take back this message.";
+
+/* Text sent to user explaining they can take back their messages (part three) */
+"TAKE_BACK_TEXT_THREE"="Now your turn. Send me a message, then long press it to Take it Back.";

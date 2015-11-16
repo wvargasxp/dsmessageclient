@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProgressBar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/indeterminateProgressBar"
+    android:layout_width="80dp"
+    android:layout_height="80dp"
+    android:indeterminate="true"
+    android:indeterminateOnly="true"
+    android:isScrollContainer="true"
+    android:layout_gravity="center"
+    android:layout_x="80dip"
+    android:layout_y="80dip"
+    android:visibility="visible" />

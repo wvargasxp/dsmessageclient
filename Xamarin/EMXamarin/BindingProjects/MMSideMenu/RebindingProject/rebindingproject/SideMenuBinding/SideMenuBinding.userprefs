@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="SideMenuBinding/SideMenuBinding.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SideMenuBinding/libMMSideMenu.linkwith.cs">
+    <Files>
+      <File FileName="SideMenuBinding/ApiDefinition.cs" Line="30" Column="30" />
+      <File FileName="SideMenuBinding/StructsAndEnums.cs" Line="3" Column="3" />
+      <File FileName="SideMenuBinding/libMMSideMenu.linkwith.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SideMenuBinding" expanded="True">
+            <Node name="libMMSideMenu.a" expanded="True">
+              <Node name="libMMSideMenu.linkwith.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

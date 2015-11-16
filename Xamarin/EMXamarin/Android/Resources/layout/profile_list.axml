@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <RelativeLayout
+        android:id="@+id/TitleBarLayout"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"
+        android:padding="1px"
+        android:background="@android:color/transparent"
+        android:layout_alignParentTop="true">
+        <Button
+            android:id="@+id/LeftBarButton"
+            style="@style/BackArrowStyle" />
+        <Button
+            android:text="@string/LEAVE"
+            android:id="@+id/RightBarButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:background="@android:color/transparent" />
+        <TextView
+            style="@style/TitleFont"
+            android:id="@+id/starterLabel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/PROFILES_TITLE"
+            android:layout_centerVertical="true"
+            android:gravity="center" />
+        <View
+            android:id="@+id/titleDividerLine"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="@drawable/container_dropshadow"
+            android:layout_alignParentBottom="true" />
+    </RelativeLayout>
+    <com.nhaarman.listviewanimations.itemmanipulation.DynamicListView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/TitleBarLayout"
+        android:id="@+id/ProfileListView" />
+</RelativeLayout>

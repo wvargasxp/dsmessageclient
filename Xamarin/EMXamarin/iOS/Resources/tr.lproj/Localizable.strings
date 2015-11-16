@@ -1,0 +1,1434 @@
+/* Chad */
+"CHAD"="Çad";
+/* Cuba */
+"CUBA"="Küba";
+/* Fiji */
+"FIJI"="Fiji";
+/* Guam */
+"GUAM"="Guam";
+/* Iran */
+"IRAN"="İran";
+/* Iraq */
+"IRAQ"="Irak";
+/* Laos */
+"LAOS"="Laos";
+/* Mali */
+"MALI"="Mali";
+/* Niue */
+"NIUE"="Niue";
+/* Oman */
+"OMAN"="Umman";
+/* Peru */
+"PERU"="Peru";
+/* Togo */
+"TOGO"="Togo";
+/* Aruba */
+"ARUBA"="Aruba";
+/* Benin */
+"BENIN"="Benin";
+/* Burma (Myanmar) */
+"BURMA"="Burma (Myanmar)";
+/* Chile */
+"CHILE"="Şili";
+/* China */
+"CHINA"="Çin";
+/* Democratic Republic of the Congo */
+"CONGO"="Kongo Demokratik Cumhuriyeti";
+/* Egypt */
+"EGYPT"="Mısır";
+/* Gabon */
+"GABON"="Gabon";
+/* Ghana */
+"GHANA"="Gana";
+/* Haiti */
+"HAITI"="Haiti";
+/* India */
+"INDIA"="Hindistan";
+/* Italy */
+"ITALY"="İtalya";
+/* Japan */
+"JAPAN"="Japonya";
+/* Kenya */
+"KENYA"="Kenya";
+/* Libya */
+"LIBYA"="Libya";
+/* Macau */
+"MACAU"="Macau";
+/* Malta */
+"MALTA"="Malta";
+/* Nauru */
+"NAURU"="Nauru";
+/* Nepal */
+"NEPAL"="Nepal";
+/* Niger */
+"NIGER"="Nijer";
+/* Palau */
+"PALAU"="Palau";
+/* Qatar */
+"QATAR"="Katar";
+/* Samoa */
+"SAMOA"="Samoa";
+/* Spain */
+"SPAIN"="İspanya";
+/* Sudan */
+"SUDAN"="Sudan";
+/* Syria */
+"Syria"="Suriye";
+/* Tonga */
+"TONGA"="Tonga";
+/* Yemen */
+"YEMEN"="Yemen";
+/* Angola */
+"ANGOLA"="Angola";
+/* Belize */
+"BELIZE"="Belize";
+/* Bhutan */
+"BHUTAN"="Bhutan";
+/* Brazil */
+"BRAZIL"="Brezilya";
+/* Brunei */
+"BRUNEI"="Brunei";
+/* Canada */
+"CANADA"="Kanada";
+/* Cyprus */
+"CYPRUS"="Kıbrıs";
+/* France */
+"FRANCE"="Fransa";
+/* Gambia */
+"GAMBIA"="Gambiya";
+/* Greece */
+"GREECE"="Yunanistan";
+/* Guinea */
+"GUINEA"="Gine";
+/* Guyana */
+"GUYANA"="Guyana";
+/* Israel */
+"ISRAEL"="Israil";
+/* Jordan */
+"JORDAN"="Ürdün";
+/* Kosovo */
+"KOSOVO"="Kosova";
+/* Kuwait */
+"KUWAIT"="Kuveyt";
+/* Latvia */
+"LATVIA"="Litvanya";
+/* Malawi */
+"MALAWI"="Malavi";
+/* Mexico */
+"MEXICO"="Meksika";
+/* Monaco */
+"MONACO"="Monako";
+/* Norway */
+"NORWAY"="Norveç";
+/* Panama */
+"PANAMA"="Panama";
+/* Poland */
+"POLAND"="Polonya";
+/* Russia */
+"RUSSIA"="Rusya";
+/* Rwanda */
+"RWANDA"="Ruanda";
+/* Serbia */
+"SERBIA"="Sırbistan";
+/* Sweden */
+"SWEDEN"="İsveç";
+/* Taiwan */
+"TAIWAN"="Tayvan";
+/* Turkey */
+"TURKEY"="Türkiye";
+/* Tuvalu */
+"TUVALU"="Tuvalu";
+/* Uganda */
+"UGANDA"="Uganda";
+/* Zambia */
+"ZAMBIA"="Zambiya";
+/* Albania */
+"ALBANIA"="Aarnavutluk";
+/* Algeria */
+"ALGERIA"="Cezayir";
+/* Andorra */
+"ANDORRA"="Andorra";
+/* Armenia */
+"ARMENIA"="Ermenistan";
+/* Austria */
+"AUSTRIA"="Avusturya";
+/* Bahamas */
+"BAHAMAS"="Bahama Adaları";
+/* Bahrain */
+"BAHRAIN"="Bahreyn";
+/* Belarus */
+"BELARUS"="Beyaz Rusya";
+/* Belgium */
+"BELGIUM"="Belçika";
+/* Bermuda */
+"BERMUDA"="Bermuda";
+/* Bolivia */
+"BOLIVIA"="Bolivya";
+/* Burundi */
+"BURUNDI"="Burundi";
+/* Comoros */
+"COMOROS"="Komorlar";
+/* Croatia */
+"CROATIA"="Hırvatistan";
+/* Denmark */
+"DENMARK"="Danimarka";
+/* Ecuador */
+"ECUADOR"="Ekvator";
+/* Eritrea */
+"ERITREA"="Eritre";
+/* Estonia */
+"ESTONIA"="Estonya";
+/* Finland */
+"FINLAND"="Finlandiya";
+/* Georgia */
+"GEORGIA"="Gürcistan";
+/* Germany */
+"GERMANY"="Almanya";
+/* Grenada */
+"GRENADA"="Grenada";
+/* Hungary */
+"HUNGARY"="Macaristan";
+/* Iceland */
+"ICELAND"="İzlanda";
+/* Ireland */
+"IRELAND"="İrlanda";
+/* Jamaica */
+"JAMAICA"="Jamaika";
+/* Lebanon */
+"LEBANON"="Lübnan";
+/* Lesotho */
+"LESOTHO"="Lesotho";
+/* Liberia */
+"LIBERIA"="Liberya";
+/* Mayotte */
+"MAYOTTE"="Mayotte";
+/* Moldova */
+"MOLDOVA"="Moldavya";
+/* Morocco */
+"MOROCCO"="Fas";
+/* Namibia */
+"NAMIBIA"="Namibya";
+/* Nigeria */
+"NIGERIA"="Nijerya";
+/* Romania */
+"ROMANIA"="Romanya";
+/* Senegal */
+"SENEGAL"="Senegal";
+/* Somalia */
+"SOMALIA"="Somali";
+/* Tokelau */
+"TOKELAU"="Tokelau";
+/* Tunisia */
+"TUNISIA"="Tunus";
+/* Ukraine */
+"UKRAINE"="Ukrayna";
+/* Uruguay */
+"URUGUAY"="Uruguay";
+/* Vanuatu */
+"VANUATU"="Vanuatu";
+/* Vietnam */
+"VIETNAM"="Vietnam";
+/* Anguilla */
+"ANGUILLA"="Anguilla";
+/* Barbados */
+"BARBADOS"="Barbados";
+/* Botswana */
+"BOTSWANA"="Botswana";
+/* Bulgaria */
+"BULGARIA"="Bulgaristan";
+/* Cambodia */
+"CAMBODIA"="Kamboçya";
+/* Cameroon */
+"CAMEROON"="Kamerun";
+/* Colombia */
+"COLOMBIA"="Kolombiya";
+/* Djibouti */
+"DJIBOUTI"="Cibuti";
+/* Dominica */
+"DOMINICA"="Dominik";
+/* Ethiopia */
+"ETHIOPIA"="Etiyopya";
+/* Honduras */
+"HONDURAS"="Honduras";
+/* Kiribati */
+"KIRIBATI"="Kiribati";
+/* Malaysia */
+"MALAYSIA"="Malezya";
+/* Maldives */
+"MALDIVES"="Maldivler";
+/* Mongolia */
+"MONGOLIA"="Moğolistan";
+/* Pakistan */
+"PAKISTAN"="Pakistan";
+/* Paraguay */
+"PARAGUAY"="Paraguay";
+/* Portugal */
+"PORTUGAL"="Portekiz";
+/* Slovakia */
+"SLOVAKIA"="Slovakya";
+/* Slovenia */
+"SLOVENIA"="Slovenya";
+/* Suriname */
+"SURINAME"="Surinam";
+/* Svalbard */
+"SVALBARD"="Svalbard";
+/* Tanzania */
+"TANZANIA"="Tanzanya";
+/* Thailand */
+"THAILAND"="Tayland";
+/* Zimbabwe */
+"ZIMBABWE"="Zimbabwe";
+/* Argentina */
+"ARGENTINA"="Arjantin";
+/* Australia */
+"AUSTRALIA"="Avustralya";
+/* Gibraltar */
+"GIBRALTAR"="Cebelitarık";
+/* Greenland */
+"GREENLAND"="Grönland";
+/* Guatemala */
+"GUATEMALA"="Guatemala";
+/* Hong Kong */
+"HONG_KONG"="Hong Kong";
+/* Indonesia */
+"INDONESIA"="Endonezya";
+/* Lithuania */
+"LITHUANIA"="Litvanya";
+/* Macedonia */
+"MACEDONIA"="Makedonya";
+/* Mauritius */
+"MAURITIUS"="Moritus";
+/* Nicaragua */
+"NICARAGUA"="Nikaragua";
+/* Singapore */
+"SINGAPORE"="Singapur";
+/* Sri Lanka */
+"SRI_LANKA"="Sri Lanka";
+/* Swaziland */
+"SWAZILAND"="Svaziland";
+/* Venezuela */
+"VENEZUELA"="Venezuela";
+/* Azerbaijan */
+"AZERBAIJAN"="Azerbaycan";
+/* Bangladesh */
+"BANGLADESH"="Bangladeş";
+/* Cape Verde */
+"CAPE_VERDE"="Cape Verde";
+/* Costa Rica */
+"COSTA_RICA"="Kosta Rika";
+/* Kazakhstan */
+"KAZAKHSTAN"="Kazakistan";
+/* Kyrgyzstan */
+"KYRGYZSTAN"="Kırgızistan";
+/* Luxembourg */
+"LUXEMBOURG"="Lüksemburg";
+/* Madagascar */
+"MADAGASCAR"="Madagaskar";
+/* Mauritania */
+"MAURITANIA"="Moritanya";
+/* Micronesia */
+"MICRONESIA"="Mikronezya";
+/* Montenegro */
+"MONTENEGRO"="Karadağ";
+/* Montserrat */
+"MONTSERRAT"="Montserrat";
+/* Mozambique */
+"MOZAMBIQUE"="Mozambik";
+/* San Marino */
+"SAN_MARINO"="San Marino";
+/* Seychelles */
+"SEYCHELLES"="Seyşeller";
+/* Tajikistan */
+"TAJIKISTAN"="Tacikistan";
+/* Uzbekistan */
+"UZBEKISTAN"="Özbekistan";
+/* Afghanistan */
+"AFGHANISTAN"="Afganistan";
+/* El Salvador */
+"EL_SALVADOR"="El Salvador";
+/* Isle of Man */
+"ISLE_OF_MAN"="Man Adası";
+/* Ivory Coast */
+"IVORY_COAST"="Fildişi Sahili";
+/* Netherlands */
+"NETHERLANDS"="Hollanda";
+/* New Zealand */
+"NEW_ZEALAND"="Yeni Zelanda";
+/* North Korea */
+"NORTH_KOREA"="Kuzey Kore";
+/* Philippines */
+"PHILIPPINES"="Filipinler";
+/* Puerto Rico */
+"PUERTO_RICO"="Porto Riko";
+/* Saint Lucia */
+"SAINT_LUCIA"="Santa Lucia";
+/* South Korea */
+"SOUTH_KOREA"="Güney Korea";
+/* Switzerland */
+"SWITZERLAND"="İsviçre";
+/* Timor-Leste */
+"TIMOR_LESTE"="Timor-Leste";
+/* Burkina Faso */
+"BURKINA_FASO"="Burkina Faso";
+/* Cook Islands */
+"COOK_ISLANDS"="Cook Adaları";
+/* Saint Helena */
+"SAINT_HELENA"="Saint Helena";
+/* Saint Martin */
+"SAINT_MARTIN"="Saint Martin";
+/* Saudi Arabia */
+"SAUDI_ARABIA"="Suudi Arabistan";
+/* Sierra Leone */
+"SIERRA_LEONE"="Sierra Leone";
+/* South Africa */
+"SOUTH_AFRICA"="Güney Afrika";
+/* Turkmenistan */
+"TURKMENISTAN"="Türkmenistan";
+/* Faroe Islands */
+"FAROE_ISLANDS"="Faroe Adaları";
+/* Guinea-Bissau */
+"GUINEA_BISSAU"="Guinea-Bissau";
+/* Liechtenstein */
+"LIECHTENSTEIN"="Liechtenstein";
+/* New Caledonia */
+"NEW_CALEDONIA"="Yani Kaledonya";
+/* United States */
+"UNITED_STATES"="United States";
+/* American Samoa */
+"AMERICAN_SAMOA"="Amerikan Samoa";
+/* Cayman Islands */
+"CAYMAN_ISLANDS"="Cayman Adaları";
+/* Czech Republic */
+"CZECH_REPUBLIC"="Çek Cumhuriyeti";
+/* Norfolk Island */
+"NORFOLK_ISLAND"="Norfolk Adası";
+/* United Kingdom */
+"UNITED_KINGDOM"="Birleşik Krallık";
+/* Solomon Islands */
+"SOLOMON_ISLANDS"="Solomon Adaları";
+/* Falkland Islands */
+"FALKLAND_ISLANDS"="Folkland Adaları";
+/* French Polynesia */
+"FRENCH_POLYNESIA"="Fransız Polinezyası";
+/* Marshall Islands */
+"MARSHALL_ISLANDS"="Marşal Adaları";
+/* Papua New Guinea */
+"PAPUA_NEW_GUINEA"="Papua Yeni Gine";
+/* Pitcairn Islands */
+"PITCAIRN_ISLANDS"="Pitcairn Adaları";
+/* Saint Barthelemy */
+"SAINT_BARTHELEMY"="Saint Barthelemy";
+/* Equatorial Guinea */
+"EQUATORIAL_GUINEA"="Ekvator Ginesi";
+/* US Virgin Islands */
+"US_VIRGIN_ISLANDS"="Amerika Virgin Adaları";
+/* Wallis and Futuna */
+"WALLIS_AND_FUTUNA"="Wallis and Futuna";
+/* United Arab Emirates */
+"UNITED_ARAB_EMIRATES"="Birleşik Arap Emirlikleri";
+/* Central African Republic */
+"CENTRAL_AFRICAN_REPUBLIC"="Orta Afrika Cumhuriyeti";
+/* Bosnia and Herzegovina */
+"BOSNIA_AND_HERZEGOVINA"="Bosna Hersek";
+/* British Virgin Islands */
+"BRITISH_VIRGIN_ISLANDS"="İngiltere Virgin Adaları";
+/* Dominican Republic */
+"DOMINICAN_REPUBLIC"="Dominik Cumhuriyeti";
+/* Antigua and Barbuda */
+"ANTIGUA_AND_BARBUDA"="Antigua and Barbuda";
+/* Holy See (Vatican City) */
+"HOLY_SEE_VATICAN_CITY"="Vatikan";
+/* Republic of the Congo */
+"REPUBLIC_OF_THE_CONGO"="Kongo Cumhuriyeti";
+/* Saint Kitts and Nevis */
+"SAINT_KITTS_AND_NEVIS"="Santa Kitts and Nevis";
+/* Sao Tome and Principe */
+"SAO_TOME_AND_PRINCIPE"="Sao Tome and Principe";
+/* Northern Mariana Islands */
+"NORTHERN_MARIANA_ISLANDS"="Kuzey Maryana Adaları";
+/* Saint Vincent and the Grenadines */
+"SAINT_VINCENT_AND_THE_GRENADINES"="Santa Vincent ve Grenadinler";
+/* Saint Pierre and Miquelon */
+"SAINT_PIERRE_AND_MIQUELON"="Saint Pierre and Miquelon";
+/* Trinidad and Tobago */
+"TRINIDAD_AND_TOBAGO"="Trinidad ve Tobago";
+/* Turks and Caicos Islands */
+"TURKS_AND_CAICOS_ISLANDS"="Turks and Caicos Adaları";
+
+
+
+
+
+/* General */
+/* The App name, do not translate - P */
+"APP_TITLE"="EMwithME";
+
+/* Text indicating we are processing the user request - P */
+"WAITING"="Bekliyor...";
+
+/* Text indicating we are loading the users request - P */
+"LOADING"="Yüklüyor...";
+
+/* Text indicating we are accessing the users addres book */
+"ADDRESS_BOOK_ACCESSING"="Arkadaşlarınızı arıyor...";
+
+/* Text indicating we are processing the users address book */
+"ADDRESS_BOOK_PROCESSING"="Bitiriyor...";
+
+/* No - P */
+"NO"="Hayır";
+
+/* Yes - P */
+"YES"="Evet";
+
+/* Done - P */
+"DONE_BUTTON"="Tamam";
+
+/* Edit - P */
+"EDIT_BUTTON"="Düzenle";
+
+/* Update - P */
+"UPDATE_BUTTON"="Güncelle";
+
+/* Undo - P */
+"UNDO_BUTTON"="Geri Al";
+
+/* Cancel - P */
+"CANCEL_BUTTON"="İptal Et";
+
+/* Cancelled (past tense) */
+"CANCELLED"="İptal Edildi";
+
+/* Open for Android drawer toggle but not actually displayed - P */
+"OPEN"="Aç";
+
+/* Close - P */
+"CLOSE"="Kapat";
+
+/* Display name - P */
+"DISPLAY_NAME"="İlk ve Son İsim";
+
+/* No Thanks - P */
+"NO_THANKS"="Hayır, Teşekkürler";
+
+/* Dont show Again */
+"DONT_SHOW_AGAIN"="Tekrar Gösterme";
+
+/* OK (Capitol letters / Uppercase) - P */
+"OK_BUTTON"="OK";
+
+/* Yesterday - P */
+"YESTERDAY"="Dün";
+
+/* Today */
+"TODAY"="Bugün";
+
+/* Here (Lowercase) - P */
+"HERE"="burada";
+
+/* Copy - P */
+"COPY"="Kopyala";
+
+/* Exit */
+"EXIT"="Çık";
+
+
+
+/* Alerts */
+/* Message when a user tries to back out of creating an AKA or Group without saving their changes */
+"UNSAVED_CHANGES"="Değişiklikleri kaydetmediniz. Çıkmak istiyor musunuz?";
+
+
+
+/* Groups */
+/* Title of the Groups page - P */
+"GROUPS_TITLE"="Gruplar";
+
+/* Add members - P */
+"ADD_MEMBERS"="Üye Ekle";
+
+/* Title of the Create Group page - P */
+"CREATE_GROUP_TITLE"="Grup Oluştur";
+
+/* Leave Group - P */
+"LEAVE_GROUP_BUTTON"="Gruptan Ayrıl";
+
+/* Text explaining to user they are going to leave the group they were added to - P */
+"LEAVE_GROUP_EXPLAINATION"="Gruptan ayrılmak üzeresiniz. Grup sahibi kalıcı olarak sizi gruptan çıkatmadığı sürece daha sonra tekrar girebilirsiniz.";
+
+/* Delete Group - P */
+"DELETE_GROUP_BUTTON"="Grubu Sil";
+
+/* Text explaining to user they are going to delete the group they created */
+/* Where in the app is this? NL: This is currently out of scope for V1 */
+"DELETE_GROUP_EXPLAINATION"="Grubunuzu silmek üzeresiniz. Bu eylem geri alınamaz.";
+
+/* Title of the Group Details page - P */
+"GROUP_DETAILS_TITLE"="Grup Detayları";
+
+/* Rejoin Group - P */
+"REJOIN_GROUP_BUTTON"="Gruba Yeniden Katıl";
+
+/* This is appended to a contact name if that user has left the group - P */
+"LEFT_GROUP_EXTENSION"="(Sol Grup)";
+
+/* Title of the Edit Group page - P */
+"EDIT_GROUP_TITLE"="Grubu Düzenle";
+
+/* Alert text asking user to confirm their action - P */
+"ALERT_ARE_YOU_SURE"="Emin misiniz?";
+
+/* Text explaining to user that they can rejoin the group they previously left - P */
+"REJOIN_GROUP_EXPLAINATION"="Gruba tekrar katılmak üzeresiniz.";
+
+/* Title of group members - P */
+"MEMBERS_TITLE"="Üyeler";
+
+/* Title of chat screen when chatting with a group - P */
+"GROUP_CHATS_TITLE"="Grup Sohbetleri";
+
+/* Group name - P */
+"GROUP_NAME"="Grup Adı";
+
+/* Button text for user to remove themself from ad-hoc group - P */
+"REMOVE_ME_AD_HOC_GROUP"="Beni Sil";
+
+/* Message to user when trying to save or update a group without supplying a name - P */
+"GROUP_NAME_REQUIRED"="Lütfen grubunuz için bir isim giriniz.";
+
+/* Message to user when trying to save or update a group without any members - P */
+"GROUP_MEMBERS_REQUIRED"="Lütfen, grubunuza en az bir diğer üye ekleyiniz.";
+
+/* Message to user when loading a group failed - P */
+"GROUP_LOAD_FAILED"="Grubunuzu yüklerken bir hata oluştu. Lütfen, ağ bağlantınızı kontrol edin ve tekrar deneyin.";
+
+/* Message to user when saving a group failed - P */
+"GROUP_SAVE_FAILED"="Grubunuzu kaydederken bir hata oluştu. Lütfen ağ bağlantınızı kontrol edin ve tekrar deneyin.";
+
+/* Message to user when either saving or updating a group failed - P */
+"GROUP_SAVE_OR_UPDATE_FAILED"="Grubunuzla ilişkili bir hata oluştu. Lütfen, ağ bağlantınızı kontrol edin ve tekrar deneyin.";
+
+/* Message to user when updating a group failed - P */
+"GROUP_UPDATE_FAILED"="Grubunuzu güncellerken bir hata oluştu. Lütfen, ağ bağlantınızı kontrol edin ve tekrar deneyin.";
+
+/* Message to user when leaving a group failed - P */
+"GROUP_LEAVE_FAILED"="Gruptan ayrılırken bir hata oluştu. Lütfen, ağ bağlantınızı kontrol edin ve tekrar deneyin.";
+
+/* Message to user when rejoining a group failed - P */
+"GROUP_REJOIN_FAILED"="Gruba yeniden katılırken bir hata oluştur. Lütfen, ağ bağlantınızı kontrol edin ve tekrar deneyin.";
+
+/* Leave Conversation of an ad-hoc group */
+"LEAVE_CONVERSATION"="Sohbeti Terket";
+
+/* Text explaining what will happen if they leave this ad-hoc group conversation */
+"LEAVE_CONVERSATION_EXPAINATION"="Artık bu grup sohbetinden mesaj almayacaksınız. Bu sohbeti terkettikten sonra yanıt yazarsanız, alıcılarla birlikte yeni bir sohbet seansı başlatmış olurssunuz.";
+
+/* Leave */
+"LEAVE"="Terk Et";
+
+/* Left Conversation of an ad-hoc group */
+"LEFT_CONVERSATION"="Sohbeti terk ettiniz";
+
+/* Text explaining what will happen if they send a message to an ad-hoc group conversation they have previously left */
+"LEFT_CONVERSATION_EXPLAINATION"="Bu sohbeti terk ettiniz. Eğer bir mesaj daha gönderirseniz alıcılarla yeni bir sohbet seansı başlatmış olursunuz.";
+
+
+
+
+
+/* Onboarding */
+/* Title of the page when user first opens the app - P */
+"WELCOME_TITLE"="Hoşgeldiniz";
+
+/* Get Started - P */
+"GET_STARTED_BUTTON"="Başlayın!";
+
+/* Continue - P */
+"CONTINUE_BUTTON"="Devam Edin";
+
+/* ONBOARDING A: Title text for first screen of onboarding slides - P */
+"SETUP_PROFILE"="Profilinizi Oluşturun.";
+
+/* ONBOARDING A: Title text for second screen of onboarding slides - P */
+"SENDING_MESSAGES"="Mesaj Gönderin";
+
+/* ONBOARDING A: Title text for third screen (v2) of onboarding slides - P */
+"GROUP_MESSAGING"="Grup Mesajları";
+
+/* ONBOARDING B: Text for first screen - P */
+"ONBOARDING_B_ONE"="Craiglist veya WhosHere gibi uygulama sitelerine yazabilmek için takma adlar oluştur";
+
+/* ONBOARDING B: Text for second screen - P */
+"ONBOARDING_B_TWO"="Bir Arkadaşınızla veya grup arkadaşlarınızla sohbet edin";
+
+/* ONBOARDING B: Text for third screen - P */
+"ONBOARDING_B_THREE"="Metinleri, resimler, videolar ve sesli mesaj gönder";
+
+/* ONBOARDING B: Text for fourth screen - P */
+"ONBOARDING_B_FOUR"="EMwithME mesajları göndermek veya almak ücretsizdir";
+
+/* ONBOARDING B: Text for fifth screen - P */
+"ONBOARDING_B_FIVE"="Otomatik düzeltme yapma - sadece Geri Al";
+
+/* ONBOARDING B: Text for sixth screen - P */
+"ONBOARDING_B_SIX"="İfade etmek istediğiniz şeyi söyleyebilmek için gönderdiğiniz EMwithME mesajını istediğiniz zaman geri alın";
+
+
+/* Registration text for email - P */
+"REGISTER_EMAIL_EXPLAINATION"="Lütfen, devam etmek için ülkenizi onaylayın ve email adresinizi girin.";
+
+/* Registration text for mobile - P */
+"REGISTER_MOBILE_EXPLAINATION"="Lütfen, devam etmek için ülkenizi onaylayın ve mobil telefon numaranızı girin.";
+
+/* Message telling user a verification message will be sent either to their email or mobile - P */
+"SEND_VERIFICATION_EXPLAINATION"="Doğrulama kodunuz gönderildi.";
+
+/* Sending validation code - P */
+"SEND_VALIDATION_CODE_EXPLAINATION"="{0} 
+
+Yukarıdaki doğru mu?";
+
+/* Title of the register with Mobile page - P */
+"MOBILE_TITLE"="Mobil";
+
+/* Mobile number - P */
+"MOBILE_NUMBER"="Mobil Numarası";
+
+/* Title of the register with Email page - P */
+"EMAIL_TITLE"="Email";
+
+/* Placeholder text within the textbox where user is supposed to enter their email address */
+"EMAIL_ADDRESS"="Email Adresi";
+
+/* Title of the Verification page - P */
+"VERIFICATION_TITLE"="Doğrulama";
+
+/* Placeholder text within the textbox where user is supposed to enter their verification code - P */
+"VERIFICATION_CODE"="Doğrulama Kodu";
+
+/* Verification text  - P */
+"VERIFY_ACCOUNT_EXPLAINATION"="Doğrulama Kodunuzu Girin";
+
+/* Message sent to users attempting to register their mobile phone - P */
+"VALIDATION_MESSAGE_SMS"="Mobil telefonunuza gelen bu bağlantıya tıklayarak, lütfen hesabınızı onaylayın.";
+
+/* Text in plain text emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_PLAIN"="Lütfen bu kodu:  %1$s girerek hesabınızı onaylayın";
+
+/* Text in HTML emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_HTML"="Veya, eğer giriş yapmak için kullandığınız mobil aygıtı kullanıyorsanız, sadece tıklayabilirsiniz";
+
+/* New text in HTML emails telling users they can click a link to validate their account */
+"VALIDATION_MESSAGE_HTML_TWO"="Click here to validate your account if you are on your mobile device.";
+
+/* Error registering user with email - P */
+"ERROR_REGISTER_EMAIL_EXPLAINATION"="Verdiğiniz email adresi ile hesabınızın kaydını yaparken bir hata oluştu.";
+
+/* Error registering user with mobile phone number - P */
+/* Should we separate these out based on error type?  For example, invalid number (800) number vs. other issues. */
+"ERROR_REGISTER_MOBILE_EXPLAINATION"="Verdiğiniz mobil telefon numarası ile hesabınızın kaydını yaparken bir hata oluştu.";
+
+/* Error verifying user - P */
+"ERROR_VERIFY_ACCOUNT_EXPLAINATION"="Doğrulama başarısız oldu. Lütfen, onay kodunu doğru girdiğinizden emin olun ve tekrar deneyin.";
+
+/* Text indicating a user can click a link to unsubscribe from emails - P */
+"UNSUBSCRIBE_SHORT"="Aboneliği İptal Et";
+
+/* Text explaining to a user that they can unsubscribe from future emails - P */
+"UNSUBSCRIBE_LONG"="Bu mesajı, yakın zamanda EMwithME kaydı yaptırdığınız için almış bulunmaktasınız. Eğer bu bir hata ise, lütfen aşağıdaki abonelik iptal bağlantısına tıklayın.";
+
+/* Text in SMS sent to new user to validate their account - P */
+"VERIFY_NOW"="Veya şu kodu girin:  %1$s";
+
+/* Text for existing users asking them if they would like to download their historical messages - P */
+"DOWNLOAD_HISTORICAL_MESSAGES"="Eski mesajlarınızı indirmek ister misiniz?\n\nNOTE: Bu biraz zaman alabilir.";
+
+/* Message shown to new users when we first try to access their address book - P */
+"ACCESS_ADDRESS_BOOK_MESSAGE"="Uygulamada arkadaşlarınızı isimlerinden bulabilmek için EMwithME'in adres defterinize ulaşması gerekmektedir.";
+
+
+
+
+/* Notifications */
+/* Title of the (singular) Notification page - P */
+"NOTIFICATION_TITLE"="Duyuru";
+
+/* Title of the Notifications page - P */
+"NOTIFICATIONS_TITLE"="Duyurular";
+
+/* Unread - P */
+"UNREAD_BUTTON"="Okunmamış";
+
+/* Read - P  */
+"READ_BUTTON"="Okunmuş";
+
+/* All - P */
+"ALL_BUTTON"="Tamamı";
+
+/* Button text to encourage an action for the user to send a message - P */
+"SEND_MESSAGE_TEXT"="Mesaj Gönder";
+
+/* Short description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TITLE"="EMwithME'e Hoşgeldiniz!";
+
+/* Full description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TEXT"="EMwithME'e Hoşgeldiniz! Lütfen profil sayfasına gidin ve İlk ve Soy İsimlerinizi ekleyin. Tüm arkadaşlarınıza sınırsız sayıda EMwithME mesajı, fotoğraf ve video gönderebilirsiniz - hem de ücretsiz!";
+
+/* Short description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TITLE"="%1$s şimdi EMwithME'e katıldı!";
+
+/* Full description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TEXT"="%1$s şimdi EMwithME'e katıldı! Diğerlerini karşılamak için mesaj gönderin.";
+
+/* Full description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TEXT"="%1$s sizi %2$s grubuna ekledi. Gruba mesaj gönderin.";
+
+/* Short description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TITLE"="%1$s sizi %2$s grubuna ekledi";
+
+/* Full description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TEXT"="%1$s sizi %2$s grubundan çıkardı.";
+
+/* Short description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TITLE"="%1$s grubundan çıkarıldınız";
+
+/* Full description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TEXT"="%1$s, %2$s adlı kişiyi %3$s grubuna ekledi. Gruba mesaj gönderin.";
+
+/* Short description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TITLE"="%1$s, %2$s adlı kişiyi %3$s grubuna ekledi.";
+
+/* Full description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TEXT"="%1$s, %2$s adlı kişiyi %3$s grubundan çıkardı.";
+
+/* Short description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TITLE"="%1$s, %2$s adlı kişiyi %3$s grubundan çıkardı";
+
+/* Short description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TITLE"="Grup %1$s silindi";
+
+/* Full description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TEXT"="%1$s, %2$s grubunu sildi.";
+
+
+
+
+
+/* Chat */
+/* Title of the Inbox page - P */
+"INBOX_TITLE"="Mesajlar";
+
+/* Title of the page when a user begins to send a new message - P */
+"NEW_MESSAGE_TITLE"="Yeni Mesaj";
+
+/* To - P */
+"TO"="Alan:";
+
+/* From - P */
+"FROM"="Gönderen";
+
+/* Message indicating someone is typing - P */
+"IS_TYPING_SINGULAR"="{0} yazıyor";
+
+/* Message indicating two people are typing - P */
+"IS_TYPING_DUAL"="{0} ve {1} yazıyor";
+
+/* Message indicating more than two people are typing - P */
+"IS_TYPING_MULTIPLE"="Çok sayıda insan yazıyor";
+
+/* Error message title saying a message cannot be sent - P */
+/* NOTE FOR TRANSLATORS: You may translate "Error" if there is not a suitable word for "Whoops" in your language */
+"SEND_MESSAGE_FAILED_TITLE"="Hata";
+
+/* Error message explaining why a message cannot be sent - P */
+"SEND_MESSAGE_FAILED_REASON"="Bu görüşmede bir veya daha fazla taraf artık ulaşılamaz konumda. Görüşme geçmişini görüntüleyebilirsiniz ancak mesaj gönderilemez.";
+
+/* Title of alert box indicating they have disabled EMwithME access to their microphone */
+"RECORDING_PERMISSIONS_TITLE"="Sesli Mesaj İzinleri";
+
+/* Text explaination of alert box indicating how to enable their microphone */
+"RECORDING_PERMISSIONS_EXPLAINATION"="Şu anda Sesli Mesajlaşma devre dışı. Apple Ayarlar menüsünde app > Ayarlar > Gizlilik > Mikrofon tercihlerine gidip bu özelliği etkinleştirebilirsiniz.";
+
+
+
+
+/* Media - P */
+/* Save (This is used to save sent media to your device) */
+"SAVE_BUTTON"="Kaydet";
+
+/* Attach - P */
+"ATTACH_BUTTON"="Ekle";
+
+/* Camera - P */
+"CAMERA_BUTTON"="Kamera";
+
+/* Media Library Android Only - P */
+"MEDIA_LIBRARY"="Medya Kütüphanesi";
+
+/* Take Photo Android only - P */
+"TAKE_PHOTO"="Fotoğraf Çek";
+
+/* Take Video Android only - P */
+"TAKE_VIDEO"="Video Çek";
+
+/* Select Media Android only - P */
+"SELECT_MEDIA"="Medya Seç";
+
+/* Photo Library (iOS only) when we only allow photo selection - P */
+"PHOTO_LIBRARY_BUTTON"="Fotoğraf Kütüphanesi";
+
+/* Photo and Video Library (iOS) on the users phone or tablet */
+"PHOTO_AND_VIDEO_LIBRARY_BUTTON"="Fotoğraf ve Video Kütüphanesi";
+
+/* Rotate Left - P */
+"ROTATE_LEFT"="Sola Döndür";
+
+/* Rotate Right - P */
+"ROTATE_RIGHT"="Sağa Döndür";
+
+/* Discard */
+/* Where in the app is this? NL: on android, when cropping images - P */
+"DISCARD_BUTTON"="At";
+
+/* When going through photos or videos, this keeps a count / track - P */
+"MEDIA_GALLERY_COUNT"="{0} / {1}";
+
+/* When sending single media object to another user */
+"SEND_MEDIA_SINGULAR"="Send {0} Item";
+
+/* When sending multiple media objects to another user */
+"SEND_MEDIA_MULTIPLE"="Send {0} Items";
+
+/* Bir video - P */
+"MEDIA_PREVIEW_MOVIE"="Ek: 1 Video";
+
+/* Bir İmaj - P */
+"MEDIA_PREVIEW_PHOTO"="Ek: 1 İmaj";
+
+/* Bir ses - P */
+"MEDIA_PREVIEW_SOUND"="Ek: 1 Ses";
+
+/* You sent one video */
+"MEDIA_PREVIEW_MOVIE_YOU"="You sent a video";
+
+/* You sent one image */
+"MEDIA_PREVIEW_PHOTO_YOU"="You sent an image";
+
+/* You sent one sound */
+"MEDIA_PREVIEW_SOUND_YOU"="You sent an audio clip";
+
+/* Text that shows the last message you sent. The {0} will be replaced with the actual text you sent */
+"YOU_PREAMBLE"="You: {0}";
+
+/* Title of the Search page - P */
+/* This is not to be used for the header title of the Web Search page after tapping Web Search (the string below) */
+"SEARCH_TITLE"="Ara";
+
+/* Photo Search - P */
+"WEB_SEARCH"="Fotoğraf Ara";
+
+/* Random search string used to seed image search when no prior search has been made - P */
+"RANDOM_SEARCH"="rasgele";
+
+/* Error displayed to user if no images were found - P */
+"NO_IMAGES_FOUND"="Hiçbir imaj bulunamadı. Yeni bir terim girin ve tekrar deneyin.";
+
+/* Error displayed to user if an error occurred when searching for images - P */
+"IMAGE_SEARCH_ERROR"="Arama gerçekleştirirken bir hata oluştu. Lütfen tekrar deneyin.";
+
+/* Error displayed to user if an error occurred when converting their video - P */
+"VIDEO_CONVERT_ERROR"="Bu video dönüştürülürken bir hata oluştu. Lütfen tekrar deneyin.";
+
+/* Error displayed ot user if an error occurred when trying to select an image - P */
+"IMAGE_SELECTION_ERROR"="İmaj seçilirken bir hata oluştu. Lütfen tekrar deneyin.";
+
+/* Toast message user sees when trying to share media using EMwithME before they have registered (Android only) */
+"SHARE_MEDIA_REGISTER_FIRST"="Medya paylaşabilmek için önce EMwithME kaydı yapmalısınız.";
+
+/* Message to user (iOS only) if they have not allowed EMwithME access to their photos and they try to send a photo */
+"ALLOW_ACCESS_PHOTOS"="Please give EMwithME permission to access photos in order to share them!";
+
+
+
+
+
+/* External communications */
+/* The text appended to every message sent via SMS - P */
+"SMS_AFTERWORD"="EMwithME ile gönderildi. Bizi  http://EMwith.ME adresinden ziyaret edin";
+
+/* The subject text telling a user they have a new message. %1$s will be replaced by the senders name - P */
+"EMAIL_NEW_MESSAGE_SUBJECT_TWO"="%1$s adlı kişiden bir EMwithME mesajınız var";
+
+/* The subject text telling a user they have a new notificaiton */
+"EMAIL_NEW_NOTIFICATION_SUBJECT"="Yeni bir EMwithME önbildiriminiz var";
+
+/* HTML text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_HTML"="%1$s adlı kişiye yanıt vermek istiyor musunuz? Sadece cevap tuşuna tıklayın ve email mesajı gönderin veya <a href='https://api.emwith.me/landingpage/tracking/EM/NewMessage/emailreplylink' title='EMwithME' target='_blank'>EMwithME</a> yükleyin.";
+
+/* Text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_PLAIN"="%1$s adlı kişiye yanıt vermek istiyor musunuz? Sadece cevap tuşuna tıklayın ve email mesajı gönderin veya EMwithME yükleyin.";
+
+/* Text in the email saying email was sent via EMwithME */
+"SENT_VIA_EM"="EMwithME ile gönderin";
+
+/* Link in the email for more information */
+"MORE_INFORMATION"="Daha Fazla Bilgi";
+
+/* Default message to user that gets sent as an SMS letting user know they need to install EMwithME to see their message  - P */
+"SMS_DEFAULT_MESSAGE"="Sizi bekleyen yeni bir EMwithME mesajınız var! Lütfen, uygulamayı almak ve mesajı okumak için bizi http://EMwith.ME adresinden ziyaret edin.";
+
+/* The subject text telling a user to validate their EMwithME account - P */
+"EMAIL_VALIDATION_SUBJECT"="EMwithME hesabınızı doğrulayın.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_NO_NAME"="Size bir medya mesajı gönderildi. Lütfen, görüntüleyebilmek için EMwithME kurun.";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_NO_NAME"="Size bir fotoğraf gönderildi. Lütfen, görüntülemek için EMwithME kurun.";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_NO_NAME"="Size bir fotoğraf gönderildi. Lütfen, görüntüleyebilmek için EMwithME kurun.";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_NO_NAME"="Size bir sesli mesaj gönderildi. Lütfen, görüntülemek için EMwithME kurun.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_PREFIX_NAME"="%1$s size bir medya mesajı gönderdi. Lütfen, görüntülemek için EMwithME kurun.";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_PREFIX_NAME"="%1$s size bir fotoğraf gönderdi. Lütfen, görüntülemek için EMwithME kurun.";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_PREFIX_NAME"="%1$s size bir video gönderdi. Lütfen, görüntülemek için EMwithME kurun.";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_PREFIX_NAME"="%1$s size sesli mesaj gönderdi. Lütfen, görüntülemek için EMwithME kurun.";
+
+
+
+
+/* Manage Messages */
+/* Hide DEPRECATED - P */
+"HIDE_BUTTON"="Gizle";
+
+/* Text explaining to user what local delete/hide does DEPRECATED - P */
+"DELETE_EXPLAINATION"="Gizle komutu, mesajı yerel sohbet geçmişinizden kaldırır. Bu işlemin geri dönüşü yoktur.";
+
+/* Delete - P */
+"DELETE_BUTTON"="Sil";
+
+/* A deleted message from the Take it Back / remote delete functionality. - P */
+"DELETED_STATUS"="Mesaj Silindi";
+
+/* Remote Delete - P */
+"REMOTE_DELETE_BUTTON"="Geri Al";
+
+/* Text explaining to user what Remote Delete does - P */
+"REMOTE_DELETE_EXPLAINATION"="Geri Al komutu, mesajı sizin ve alıcının aygıtından siler.";
+
+/* Historical */
+/* Where in the app is this? This is referenced in code but does not get displayed */
+"HISTORICAL_STATUS"="Tarihi";
+
+
+
+
+/* Push messages */
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_NO_NAME"="Size bir medya mesajı gönderildi.";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_NO_NAME"="Size bir fotoğraf gönderildi.";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_NO_NAME"="Size bir video gönderildi.";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_NO_NAME"="Size bir sesli mesaj gönderildi.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_PREFIX_NAME"="%1$s size bir medya mesajı gönderdi.";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_PREFIX_NAME"="%1$s size bir fotoğraf gönderdi.";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_PREFIX_NAME"="%1$s size bir video gönderdi.";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_PREFIX_NAME"="%1$s size bir sesli mesaj gönderdi.";
+
+
+/* Android specific */
+/* No SD card - P */
+"ANDROID_MEDIA_NO_STORAGE_CARD"="Depolama kartı yok";
+
+/* Preparing SD card - P */
+"ANDROID_MEDIA_PREPARING_STORAGE_CARD"="Kart hazırlanıyor";
+
+/* Not enough space on SD card - P */
+"ANDROID_MEDIA_NOT_ENOUGH_SPACE_ON_CARD"="Yeterli alan yok";
+
+
+
+
+
+/* Profile */
+/* Title of the My Account page - P */
+"MY_ACCOUNT_TITLE"="Profil";
+
+/* Title of the Choose a Color page - P */
+"CHOOSE_COLOR_TITLE"="Bir renk seçin";
+
+/* Text indicating to a user that they can change the app color theme - P */
+"COLOR_THEME"="Renk Teması";
+
+/* Text indicating to a user that they can change the app color theme (Plural) - P */
+"COLOR_THEME_PLURAL"="Renk Temaları";
+
+/* Choose icon to associate with a screen name - P */
+"CHOOSE_ICON"="İkon Seç";
+
+/* The text shown to a user that leaves their name blank in their Account - P */
+"BLANK_DISPLAY_NAME"="İsminizi boş bıraktınız. İsminiz yerine {0} kullanacağız.";
+
+/* Share profile - P  */
+"SHARE_PROFILE"="Profil Paylaş";
+
+/* Text showing where user can choose to share their profile - P */
+"SHARE_TO"="Paylaşmak İçin";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"INSTAGRAM_NOT_FOUND"="Aygıtınızda destekleyen herhangi bir paylaşım uygulaması saptayamadık. Halen, yalnız Instagram yoluyla paylaşım yapabiliyoruz. Eğer profilinizi paylaşmak istiyorsanız, Instagram kurun ve tekrar deneyin.";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"SHARE_APP_NOT_FOUND"="Aygıtınızda destekleyen herhangi bir paylaşım uygulaması saptayamadık. Şimdilik, yalnız Instagram, Twitter ve Facebook yoluyla paylaşım yapabiliyoruz. Eğer profilinizi paylaşmak istiyorsanız, bu uygulamalardan biribi kurun ve tekrar deneyin.";
+
+/* Default caption we pre-fill when a user shares their AKA on Instagram. The {0} will be dynamically replaced with the user AKA - P */
+"INSTAGRAM_SHARE_DEFAULT_MESSAGE"="Bana EMwithME mesajı gönder! Ekran adım {0}. iOS ve Android için ücretsiz. @EMTheApp #{0} #EMwithME";
+
+/* Text in the image being shared in Instagram that is a call to action */
+"INSTAGRAM_CALL_TO_ACTION"="Bana EMwithME ile mesaj gönderin";
+
+
+
+
+/* Contacts */
+/* Title of the contacts page - P */
+"CONTACTS_TITLE"="Kişiler";
+
+
+
+
+/* Help */
+/* Title of Help page - P */
+"HELP_TITLE"="Yardım";
+
+/* Text for user to click to view our getting started */
+"GETTING_STARTED"="Başlarken";
+
+/* URL for getting started */
+"GETTING_STARTED_URL"="http://api.emwith.me/web/onboarding/gettingstarted";
+
+/* Text for user to click to view our tips */
+"TIPS"="Tips";
+
+/* URL for tips */
+"TIPS_URL"="http://api.emwith.me/web/onboarding/tips";
+
+/* Text for user to click to view our support site */
+"SUPPORT"="Destek";
+
+/* URL for support */
+"SUPPORT_URL"="http://emwithme.zendesk.com";
+
+
+
+
+
+/* Profiles, Details, Contacts */
+/* Profile title - P */
+"PROFILES_TITLE"="Profiller";
+
+/* Details - P */
+"DETAILS"="Detaylar";
+
+/* Add contact button - P */
+"ADD_CONTACT_BUTTON"="Kişilere ekle";
+
+/* Text explaining a contact has been added. The {0} will be dynamically substituted with the persons name */
+"ADD_CONTACT_EXPLAINATION"="{0} kişilere eklendi.";
+
+/* Remove contact button - P */
+"REMOVE_CONTACT_BUTTON"="Kişilerden Çıkarıldı";
+
+/* Block contact button - P */
+"BLOCK_CONTACT_BUTTON"="Kişiyi Engelle";
+
+/* Unblock contact button - P */
+"UNBLOCK_CONTACT_BUTTON"="Kişinin Engelini Kaldır";
+
+
+
+
+
+/* Alias */
+/* Alias */
+"ALIAS"="AKA";
+
+/* Alias Title on sidebar - P */
+"ALIAS_TITLE"="AKAs";
+
+/* Setup Account Screen Name text - P */
+"SETUP_ALIAS"="AKAs, tek kullanımlık, genele açık ve özgündür. Bunları, İsminiz veya mobil numaranız gibi tanınmanıza neden olacak bilgileri açığa vurmadan başkalarına mesaj göndermek için kullanabilirsiniz. Bir AKA oluşturmak ister misiniz?";
+
+/* Add alias - P */
+"ADD_ALIAS_BUTTON"="Bir AKA Ekle";
+
+/* Edit Alias - P */
+"EDIT_ALIAS_TITLE"="AKA'yı Düzenle";
+
+/* Delete alias button - P */
+"DELETE_ALIAS_BUTTON"="AKA'yı Sil";
+
+/* Error message when alias is already taken - P */
+"ALIAS_ALREADY_TAKEN"="Bu AKA başkası tarafından alınmış. Lütfen, başka bir tane seçin.";
+
+/* Error message when alias name is too short - P */
+/* Will need to adjust for double byte at some point */
+"ALIAS_TOO_SHORT"="Bu AKA çok kısa. Lütfen, beş karakterden uzun bir AKA seçin.";
+
+/* Error message when alias contains inappropriate word(s) - P */
+"ALIAS_INAPPROPRIATE"="Bu AKA geçersiz. Lütfen, başka bir tane seçin.";
+
+/* Error message when alias name is a phone number - P */
+"ALIAS_PHONE"="AKAs telefon numaraları olamaz. Lütfen, başka bir tane seçin.";
+
+/* Error message when alias name is an email address - P */
+"ALIAS_EMAIL"="AKAs email adresleri olamaz. Lütfen, başka bir tane seçin.";
+
+/* Error message when an alias contains invalid characters (such as spaces) - P */
+"ALIAS_INVALID"="Bu AKA (boşluk, @ veya noktalar gibi) geçersiz karakterler içeriyor. Lütfen, başka bir tane seçin.";
+
+/* Generic error message when alias cannot be saved - P */
+"ALIAS_GENERIC_ERROR"="AKA oluşturulurken bir hata oldu. Lütfen, tekrar deneyin.";
+
+/* Message of alert box presented to user when trying to delete an Alias - P */
+"ALIAS_DELETE_CONFIRMATION_MESSAGE"="Bu AKA'yı silmek, bundan sonra aynı hesaptan mesajlaşamayacağınız anlamına gelmektedir. Silmek istediğinize emin misiniz?";
+
+/* Title of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_TITLE"="Bu AKA Silindi";
+
+/* Message of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_MESSAGE"="Bu AKA silindi, bir başkasının kullanımına açılması için 24 saat geçmesi gerekmektedir. Bu süre içerisinde AKA'yı tekrar kullanılabilirsiniz.";
+
+/* Message of alert box presented to user when reviewing their chat history on an Alias they have deleted */
+"ALIAS_DELETED_CHAT_HISTORY_MESSAGE"="Your AKA has been deleted. You can review the conversation history but no new messages can be sent.";
+
+/* Button text of the alert box for the user to reactivate their deleted Alias - P */
+"ALIAS_DELETED_REACTIVATE"="Tekrar Etkinleştir";
+
+
+
+/* About Section */
+/* About - P */
+"ABOUT_TITLE"="Hakkında";
+
+/* Text saying which version of EMwithME the user has currently installed. The {0} is dynamically replaced with the current version - P */
+"VERSION"="Versiyon {0}";
+
+/* Text for a user to click to view our credits webpage - P */
+"CREDITS"="Krediler";
+
+/* URL for credits */
+"CREDITS_URL"="http://EMwith.ME/credits";
+
+/* Text for user to click to view our FAQ - P */
+"FAQ"="SSS";
+
+/* URL for FAQ - P */
+"FAQ_URL"="http://EMwith.ME/faq";
+
+/* Text for a user to click to view our privacy policy - P */
+"PRIVACY_POLICY"="Gizlilik Politikası";
+
+/* URL for privacy policy - P */
+"PRIVACY_POLICY_URL"="http://EMwith.ME/privacy";
+
+/* Text for a user to click to view our end user license agreement (EULA) - P */
+"EULA"="Son Kullanıcı Lisans Anlaşması";
+
+/* URL for EULA - P */
+"EULA_URL"="http://EMwith.ME/eula";
+
+/* URL for Facebook */
+"FACEBOOK_URL"="http://facebook.com/emtheapp";
+
+/* URL for Twitter */
+"TWITTER_URL"="http://twitter.com/emtheapp";
+
+/* Copyright - P */
+"COPYRIGHT"="Telif Hakkı (c) 2015 WhosHere, Inc. Tüm Hakları Saklıdır. EM ve EMwithME WhosHere, Inc. ticari markalarıdır";
+
+
+
+/* Invite Friends Section */
+/* Invite Friends */
+"INVITE_FRIENDS_TITLE"="Arkadaşlarınızı Davet Edin";
+
+/* Message body to send invitation(s) via SMS */
+"INVITE_FRIENDS_VIA_SMS_MESSAGE"="SMS ile davet göndermek ister misiniz?";
+
+/* Message body to send invitation(s) via Email */
+"INVITE_FRIENDS_VIA_EMAIL_MESSAGE"="Email ile davet göndermek ister misiniz?";
+
+/* Label shown when Android users finish selecting who they would like to invite via Email and are shown which email client they would like to use to send the invitation(s) */
+"INVITE_FRIENDS_SEND_EMAIL_LABEL"="... ile email gönderin";
+
+/* Toast message (Android specific) shown to user as SMS invitation(s) are sent out. {0} will be replaced with current number of SMS going out, {1} will be replaced with total SMS going out */
+"INVITE_FRIENDS_SMS_SENDING_TOAST_MESSAGE"="{1} mesajın {0} tanesini gönderiyor...";
+
+/* Title of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_TITLE"="SMS ile davet gönderilemiyor";
+
+/* Message body of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_MESSAGE"="Aygıtınız SMS mesajı gönderemiyor.";
+
+/* Title of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_TITLE"="Email ile davet gönderilemiyor";
+
+/* Message body of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_MESSAGE"="Aygıtınız Email mesajları gönderemiyor.";
+
+/* Body of SMS invite message */
+"INVITE_FRIENDS_SMS_MESSAGE"="Hey! Senin de denemeni istediğim yeni bir mesajlaşma uygulaması olan EMwithME kullanıyorum. http://EMwith.ME adresinde bulabilirsin";
+
+/* Body of HTML Email invite message */
+"INVITE_FRIENDS_EMAIL_MESSAGE"="<p>Hey! Senin de denemeni istediğim yeni bir mesajlaşma uygulaması olan EMwithME kullanıyorum.</p><br /><p>http://EMwith.ME adresinde bulabilirsin' target='_blank' title='EMwithME'>http://EMwith.ME</a>";
+
+/* Message body of alert when there was an error in sending SMS or Email invite */
+"INVITE_FRIENDS_ERROR_MESSAGE"="Davet(ler)inizi gönderirken bir hata oluştu. Lütfen tekrar deneyin.";
+
+/* Message body of alert when user cancels the invitation(s) */
+"INVITE_FRIENDS_CANCELLED_MESSAGE"="Davet(ler)inizi iptal ettiniz.";
+
+/* Title of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_TITLE"="Taslak Kaydedildi";
+
+/* Message body of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_MESSAGE"="Email davet(ler)iniz taslak olarak kaydedildi.";
+
+/* Title of alert when user has successfully sent an invite (SMS/Email) */
+"INVITE_FRIENDS_INVITATION_SENT_TITLE"="Davet(ler) Gönderildi";
+
+/* Message body of when the user has sent the invite successfully */
+"INVITE_FRIENDS_INVITATION_SENT_MESSAGE"="Davet(ler) başarıyla gönderildi.";
+
+/* Subject of invitation email */
+"INVITE_FRIENDS_EMAIL_SUBJECT"="Gel ve EMwithME uygulamasına bir bak!";
+
+
+
+/* WhosHere Integration */
+/* Text for user to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE"="WhosHere hesabınıza bağlantı";
+
+/* Text of alert asking user if they would like to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE_EXPLAINATION"="Ücretsiz puanlar için EMwithME'i WhosHere hesabinizla birleştirmek ister misiniz?";
+
+/* The name shown for a bot in the app (the bots display name) */
+/* Translators: if 'Emily' is not a common name in your language/country/region, please substitute it with a female name that is common. */
+"BOT_DISPLAY_NAME" = "Emine - EMwithME Otomasyonlu Asistan";
+
+
+
+/* Settings */
+/* Settings title */
+"SETTINGS_TITLE"="Ayarlar";
+
+/* Sounds title */
+"SOUNDS_TITLE"="Sesler";
+
+/* Text giving the user the option to turn on or off sounds for incoming messages */
+"INCOMING_MESSAGES_SOUND"="Gelen Mesajlar";
+
+/* Offline Notifications Title */
+"OFFLINE_NOTIFICATIONS_TITLE"="Çevrimdışı bildirimler";
+
+/* Text giving the user the option to turn on or off offline notifications */
+"OFFLINE_NOTIFICATIONS_SHOW"="Bildirim Merkezinde Göster";
+
+/* Text giving the user the option to turn on or off notification sounds */
+"PLAY_SOUNDS"="Sesi Çal";
+
+/* Text giving the user th eoption to turn on or off notificaitons that contain the message text or not */
+"SHOW_PREVIEW"="Önizlemeyi Göster";
+
+/* Text that is shown to the user if they have selected to hide the actual preview text */
+"TEXT_MESSAGE"="Metin Mesajı";
+
+/* In-App Settings Title */
+"IN_APP_SETTINGS_TITLE"="In-App Settings";
+
+/* In-App Notifications */
+"IN_APP_NOTIFICATIONS"="In-App Notifications";
+
+
+
+/* Bots */
+/* Text sent to user after they have onboarded to welcome them to EMwithME */
+"GENERIC_WELCOME_MESSAGE"="Welcome to EMwithME, the best messaging app for connecting with friends as well as protecting your identity.";
+
+/* Button text encouraging user to invite their friends */
+"INVITE_FRIENDS_BUTTON_TEXT"="Invite Friends!";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends */
+"WELCOME_WHOSHERE_USER_GENERIC_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, thanks for trying EMwithME.";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends. %1$s will be dynamically replaced with the point total they will be rewarded with */
+"WELCOME_WHOSHERE_USER_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, and will reward you with %1$s points in WhosHere every time you receive a message from a new EMwithME user. So, be sure to invite your friends!";
+
+/* Button text encouraging user to create an AKA */
+"CREATE_AKA_BUTTON_TEXT"="Create AKA!";
+
+/* Text sent to user explaining AKAs */
+"CREATE_AKA_TEXT"="Did you know with EMwithME you can create AKAs that allow you to protect your personal information? AKAs are disposable screen names you can send and receive messages from.";
+
+/* Text sent to WhosHere user explaining AKAs */
+"CREATE_AKA_WHOSHERE_TEXT"="WhosHere and EMwithME can work together seamlessly. When your accounts are linked it allows users to chat with you in EMwithME or WhosHere. With EMwithME, an AKA can be used to keep your personal information private. You choose if and when you share personal information like an email address or phone number.";
+
+/* Title of alert when a user has reached their limit on number of AKAs */
+"LIMIT_REACHED"="Limit Reached";
+
+/* Message body of alert when a user has reached their limit on number of AKAs */
+"AKA_LIMIT_REACHED_MESSAGE"="You've reached the current maximum number of AKAs, you need to delete an existing one before creating a new one.";
+
+/* Text sent to user once they have created an AKA */
+"FIRST_AKA_CREATED_TEXT"="You created an AKA. Now what? As long as someone knows your AKA they can write you by typing your AKA name in the 'To' field. You can also write anyone from your AKA. Just select your AKA on 'From' line when you start a new conversation.";
+
+/* Button text encouraging user to create a group */
+"CREATE_A_GROUP_BUTTON_TEXT"="Create a Group!";
+
+/* Text sent to user explaining they can create groups */
+"CREATE_A_GROUP_TEXT"="Did you know, with EMwithME, you can send messages to friends who don't even have EMwithME? All you need is their email address or mobile phone number. You can create a group of friends and send them all messages and it does not matter if some, or all, of them have EMwithME!";
+
+/* Text sent to user once they have created their first group */
+"FIRST_GROUP_CREATED_TEXT"="You've create your first Group! This group will show up in your EMwithME Contacts List, and in all the group member's Contacts List as well. Even group members who haven't joined EMwithME will receive an SMS or email message when you write to the group.";
+
+/* Button text encouraging user to write to a group */
+"WRITE_GROUP_BUTTON_TEXT"="Write the Group!";
+
+/* Text sent to user once they have been added to a group */
+"FIRST_GROUP_ADDED_TEXT"="You've been added to a group by one of your friends. You'll now receive messages sent to this group and any replies you write will be sent to everyone. This group will appear in your Contacts List, so to write the group just start typing its name. If you ever decide you want to leave the group you can control that from the Groups page.";
+
+/* Text sent to user explaining they can leave groups */
+"LEAVE_A_GROUP_TEXT"="With EMwithME you are in control. Don't like being on a group message? You can leave any group conversation, whether it be a formal group created by friends or just a message addressed to multiple people. Just go to the 'Details' of that conversation to remove yourself.";
+
+/* Text sent to user explaining they can take back their messages (part one) */
+"TAKE_BACK_TEXT_ONE"="With EMwithME you can take back messages you've sent other EMwithME users. Just long press the message you sent and select 'Take it Back'.";
+
+/* Text sent to user explaining they can take back their messages (part two) */
+"TAKE_BACK_TEXT_TWO"="I'm going to take back this message.";
+
+/* Text sent to user explaining they can take back their messages (part three) */
+"TAKE_BACK_TEXT_THREE"="Now your turn. Send me a message, then long press it to Take it Back.";

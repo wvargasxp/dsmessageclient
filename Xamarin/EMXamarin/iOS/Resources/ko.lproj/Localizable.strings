@@ -1,0 +1,1434 @@
+/* Chad */
+"CHAD"="차드";
+/* Cuba */
+"CUBA"="쿠바";
+/* Fiji */
+"FIJI"="피지";
+/* Guam */
+"GUAM"="괌";
+/* Iran */
+"IRAN"="이란";
+/* Iraq */
+"IRAQ"="이라크";
+/* Laos */
+"LAOS"="라오스";
+/* Mali */
+"MALI"="말리";
+/* Niue */
+"NIUE"="니우에";
+/* Oman */
+"OMAN"="오만";
+/* Peru */
+"PERU"="페루";
+/* Togo */
+"TOGO"="토고";
+/* Aruba */
+"ARUBA"="아루바";
+/* Benin */
+"BENIN"="베냉";
+/* Burma (Myanmar) */
+"BURMA"="버마 (미얀마)";
+/* Chile */
+"CHILE"="칠레";
+/* China */
+"CHINA"="중국";
+/* Democratic Republic of the Congo */
+"CONGO"="콩고 민주 공화국";
+/* Egypt */
+"EGYPT"="이집트";
+/* Gabon */
+"GABON"="가봉";
+/* Ghana */
+"GHANA"="가나";
+/* Haiti */
+"HAITI"="아이티";
+/* India */
+"INDIA"="인도";
+/* Italy */
+"ITALY"="이탈리아";
+/* Japan */
+"JAPAN"="일본";
+/* Kenya */
+"KENYA"="케냐";
+/* Libya */
+"LIBYA"="리비아";
+/* Macau */
+"MACAU"="마카오";
+/* Malta */
+"MALTA"="몰타";
+/* Nauru */
+"NAURU"="나우루";
+/* Nepal */
+"NEPAL"="네팔";
+/* Niger */
+"NIGER"="니제르";
+/* Palau */
+"PALAU"="팔라우";
+/* Qatar */
+"QATAR"="카타르";
+/* Samoa */
+"SAMOA"="사모아";
+/* Spain */
+"SPAIN"="스페인";
+/* Sudan */
+"SUDAN"="수단";
+/* Syria */
+"SYRIA"="시리아";
+/* Tonga */
+"TONGA"="통가";
+/* Yemen */
+"YEMEN"="예멘";
+/* Angola */
+"ANGOLA"="앙골라";
+/* Belize */
+"BELIZE"="벨리즈";
+/* Bhutan */
+"BHUTAN"="부탄";
+/* Brazil */
+"BRAZIL"="브라질";
+/* Brunei */
+"BRUNEI"="브루나이";
+/* Canada */
+"CANADA"="캐나다";
+/* Cyprus */
+"CYPRUS"="키프로스";
+/* France */
+"FRANCE"="프랑스";
+/* Gambia */
+"GAMBIA"="감비아";
+/* Greece */
+"GREECE"="그리스";
+/* Guinea */
+"GUINEA"="기니";
+/* Guyana */
+"GUYANA"="가이아나";
+/* Israel */
+"ISRAEL"="이스라엘";
+/* Jordan */
+"JORDAN"="요르단";
+/* Kosovo */
+"KOSOVO"="코소보";
+/* Kuwait */
+"KUWAIT"="쿠웨이트";
+/* Latvia */
+"LATVIA"="라트비아";
+/* Malawi */
+"MALAWI"="말라위";
+/* Mexico */
+"MEXICO"="멕시코";
+/* Monaco */
+"MONACO"="모나코";
+/* Norway */
+"NORWAY"="노르웨이";
+/* Panama */
+"PANAMA"="파나마";
+/* Poland */
+"POLAND"="폴란드";
+/* Russia */
+"RUSSIA"="러시아";
+/* Rwanda */
+"RWANDA"="르완다";
+/* Serbia */
+"SERBIA"="세르비아";
+/* Sweden */
+"SWEDEN"="스웨덴";
+/* Taiwan */
+"TAIWAN"="타이완";
+/* Turkey */
+"TURKEY"="터키";
+/* Tuvalu */
+"TUVALU"="투발루";
+/* Uganda */
+"UGANDA"="우간다";
+/* Zambia */
+"ZAMBIA"="잠비아";
+/* Albania */
+"ALBANIA"="알바니아";
+/* Algeria */
+"ALGERIA"="알제리";
+/* Andorra */
+"ANDORRA"="안도라";
+/* Armenia */
+"ARMENIA"="아르메니아";
+/* Austria */
+"AUSTRIA"="오스트리아";
+/* Bahamas */
+"BAHAMAS"="바하마";
+/* Bahrain */
+"BAHRAIN"="바레인";
+/* Belarus */
+"BELARUS"="벨로루시";
+/* Belgium */
+"BELGIUM"="벨기에";
+/* Bermuda */
+"BERMUDA"="버뮤다";
+/* Bolivia */
+"BOLIVIA"="볼리비아";
+/* Burundi */
+"BURUNDI"="부룬디";
+/* Comoros */
+"COMOROS"="코모로";
+/* Croatia */
+"CROATIA"="크로아티아";
+/* Denmark */
+"DENMARK"="덴마크";
+/* Ecuador */
+"ECUADOR"="에콰도르";
+/* Eritrea */
+"ERITREA"="에리트레아";
+/* Estonia */
+"ESTONIA"="에스토니아";
+/* Finland */
+"FINLAND"="핀란드";
+/* Georgia */
+"GEORGIA"="그루지야";
+/* Germany */
+"GERMANY"="독일";
+/* Grenada */
+"GRENADA"="그레나다";
+/* Hungary */
+"HUNGARY"="헝가리";
+/* Iceland */
+"ICELAND"="아이슬란드";
+/* Ireland */
+"IRELAND"="아일랜드";
+/* Jamaica */
+"JAMAICA"="자메이카";
+/* Lebanon */
+"LEBANON"="레바논";
+/* Lesotho */
+"LESOTHO"="레소토";
+/* Liberia */
+"LIBERIA"="라이베리아";
+/* Mayotte */
+"MAYOTTE"="마요트";
+/* Moldova */
+"MOLDOVA"="몰도바";
+/* Morocco */
+"MOROCCO"="모로코";
+/* Namibia */
+"NAMIBIA"="나미비아";
+/* Nigeria */
+"NIGERIA"="나이지리아";
+/* Romania */
+"ROMANIA"="루마니아";
+/* Senegal */
+"SENEGAL"="세네갈";
+/* Somalia */
+"SOMALIA"="소말리아";
+/* Tokelau */
+"TOKELAU"="토켈라우";
+/* Tunisia */
+"TUNISIA"="튀니지";
+/* Ukraine */
+"UKRAINE"="우크라이나";
+/* Uruguay */
+"URUGUAY"="우루과이";
+/* Vanuatu */
+"VANUATU"="바누아투";
+/* Vietnam */
+"VIETNAM"="베트남";
+/* Anguilla */
+"ANGUILLA"="앙귈라";
+/* Barbados */
+"BARBADOS"="바베이도스";
+/* Botswana */
+"BOTSWANA"="보츠와나";
+/* Bulgaria */
+"BULGARIA"="불가리아";
+/* Cambodia */
+"CAMBODIA"="캄보디아";
+/* Cameroon */
+"CAMEROON"="카메룬";
+/* Colombia */
+"COLOMBIA"="콜롬비아";
+/* Djibouti */
+"DJIBOUTI"="지부티";
+/* Dominica */
+"DOMINICA"="도미니카";
+/* Ethiopia */
+"ETHIOPIA"="에티오피아";
+/* Honduras */
+"HONDURAS"="온두라스";
+/* Kiribati */
+"KIRIBATI"="키리바시";
+/* Malaysia */
+"MALAYSIA"="말레이시아";
+/* Maldives */
+"MALDIVES"="몰디브";
+/* Mongolia */
+"MONGOLIA"="몽골";
+/* Pakistan */
+"PAKISTAN"="파키스탄";
+/* Paraguay */
+"PARAGUAY"="파라과이";
+/* Portugal */
+"PORTUGAL"="포르투갈";
+/* Slovakia */
+"SLOVAKIA"="슬로바키아";
+/* Slovenia */
+"SLOVENIA"="슬로베니아";
+/* Suriname */
+"SURINAME"="수리남";
+/* Svalbard */
+"SVALBARD"="스발바르 제도";
+/* Tanzania */
+"TANZANIA"="탄자니아";
+/* Thailand */
+"THAILAND"="타이";
+/* Zimbabwe */
+"ZIMBABWE"="짐바브웨";
+/* Argentina */
+"ARGENTINA"="아르헨티나";
+/* Australia */
+"AUSTRALIA"="오스트레일리아";
+/* Gibraltar */
+"GIBRALTAR"="지브롤터";
+/* Greenland */
+"GREENLAND"="그린란드";
+/* Guatemala */
+"GUATEMALA"="과테말라";
+/* Hong Kong */
+"HONG_KONG"="홍콩";
+/* Indonesia */
+"INDONESIA"="인도네시아";
+/* Lithuania */
+"LITHUANIA"="리투아니아";
+/* Macedonia */
+"MACEDONIA"="마케도니아";
+/* Mauritius */
+"MAURITIUS"="모리셔스";
+/* Nicaragua */
+"NICARAGUA"="니카라과";
+/* Singapore */
+"SINGAPORE"="싱가포르";
+/* Sri Lanka */
+"SRI_LANKA"="스리랑카";
+/* Swaziland */
+"SWAZILAND"="스와질란드";
+/* Venezuela */
+"VENEZUELA"="베네주엘라";
+/* Azerbaijan */
+"AZERBAIJAN"="아제르바이잔";
+/* Bangladesh */
+"BANGLADESH"="방글라데시";
+/* Cape Verde */
+"CAPE_VERDE"="카보베르데";
+/* Costa Rica */
+"COSTA_RICA"="코스타리카";
+/* Kazakhstan */
+"KAZAKHSTAN"="카자흐스탄";
+/* Kyrgyzstan */
+"KYRGYZSTAN"="키르기스스탄";
+/* Luxembourg */
+"LUXEMBOURG"="룩셈부르크";
+/* Madagascar */
+"MADAGASCAR"="마다가스카르";
+/* Mauritania */
+"MAURITANIA"="모리타니아";
+/* Micronesia */
+"MICRONESIA"="미크로네시아";
+/* Montenegro */
+"MONTENEGRO"="몬테네그로";
+/* Montserrat */
+"MONTSERRAT"="몬트세랫";
+/* Mozambique */
+"MOZAMBIQUE"="모잠비크";
+/* San Marino */
+"SAN_MARINO"="산마리노";
+/* Seychelles */
+"SEYCHELLES"="세이셸";
+/* Tajikistan */
+"TAJIKISTAN"="타지키스탄";
+/* Uzbekistan */
+"UZBEKISTAN"="우즈베키스탄";
+/* Afghanistan */
+"AFGHANISTAN"="아프가니스탄";
+/* El Salvador */
+"EL_SALVADOR"="엘살바도르";
+/* Isle of Man */
+"ISLE_OF_MAN"="맨 섬";
+/* Ivory Coast */
+"IVORY_COAST"="코트디부아르";
+/* Netherlands */
+"NETHERLANDS"="네덜란드";
+/* New Zealand */
+"NEW_ZEALAND"="뉴질랜드";
+/* North Korea */
+"NORTH_KOREA"="북한";
+/* Philippines */
+"PHILIPPINES"="필리핀";
+/* Puerto Rico */
+"PUERTO_RICO"="푸에르토리코";
+/* Saint Lucia */
+"SAINT_LUCIA"="세인트루시아";
+/* South Korea */
+"SOUTH_KOREA"="대한민국";
+/* Switzerland */
+"SWITZERLAND"="스위스";
+/* Timor-Leste */
+"TIMOR_LESTE"="동티모르";
+/* Burkina Faso */
+"BURKINA_FASO"="부르키나 파소";
+/* Cook Islands */
+"COOK_ISLANDS"="쿡제도";
+/* Saint Helena */
+"SAINT_HELENA"="세인트헬레나";
+/* Saint Martin */
+"SAINT_MARTIN"="세인트마틴섬";
+/* Saudi Arabia */
+"SAUDI_ARABIA"="사우디 아라비아";
+/* Sierra Leone */
+"SIERRA_LEONE"="시에라리온";
+/* South Africa */
+"SOUTH_AFRICA"="남아프리카 공화국";
+/* Turkmenistan */
+"TURKMENISTAN"="투르크메니스탄";
+/* Faroe Islands */
+"FAROE_ISLANDS"="페로스 제도";
+/* Guinea-Bissau */
+"GUINEA_BISSAU"="기니비사우";
+/* Liechtenstein */
+"LIECHTENSTEIN"="리히텐슈타인";
+/* New Caledonia */
+"NEW_CALEDONIA"="뉴칼레도니아";
+/* United States */
+"UNITED_STATES"="미국";
+/* American Samoa */
+"AMERICAN_SAMOA"="미국령 사모아";
+/* Cayman Islands */
+"CAYMAN_ISLANDS"="케이맨 제도";
+/* Czech Republic */
+"CZECH_REPUBLIC"="체코 공화국";
+/* Norfolk Island */
+"NORFOLK_ISLAND"="노퍽 섬";
+/* United Kingdom */
+"UNITED_KINGDOM"="영국";
+/* Solomon Islands */
+"SOLOMON_ISLANDS"="솔로몬 제도";
+/* Falkland Islands */
+"FALKLAND_ISLANDS"="포클랜드 제도";
+/* French Polynesia */
+"FRENCH_POLYNESIA"="프랑스령 폴리네시아";
+/* Marshall Islands */
+"MARSHALL_ISLANDS"="마샬 군도";
+/* Papua New Guinea */
+"PAPUA_NEW_GUINEA"="파푸아뉴기니";
+/* Pitcairn Islands */
+"PITCAIRN_ISLANDS"="핏케언 제도";
+/* Saint Barthelemy */
+"SAINT_BARTHELEMY"="생바르텔레미";
+/* Equatorial Guinea */
+"EQUATORIAL_GUINEA"="적도 기니";
+/* US Virgin Islands */
+"US_VIRGIN_ISLANDS"="버진아일랜드";
+/* Wallis and Futuna */
+"WALLIS_AND_FUTUNA"="월리스 푸투나 제도";
+/* United Arab Emirates */
+"UNITED_ARAB_EMIRATES"="아랍 에미레트 연합국";
+/* Central African Republic */
+"CENTRAL_AFRICAN_REPUBLIC"="중앙아프리카 공화국";
+/* Bosnia and Herzegovina */
+"BOSNIA_AND_HERZEGOVINA"="보스니아 헤르체코비나";
+/* British Virgin Islands */
+"BRITISH_VIRGIN_ISLANDS"="영국령 버진 제도";
+/* Dominican Republic */
+"DOMINICAN_REPUBLIC"="도미니카 공화국";
+/* Antigua and Barbuda */
+"ANTIGUA_AND_BARBUDA"="앤티가 바부다";
+/* Holy See (Vatican City) */
+"HOLY_SEE_VATICAN_CITY"="교황청 (바티칸 시국)";
+/* Republic of the Congo */
+"REPUBLIC_OF_THE_CONGO"="콩고";
+/* Saint Kitts and Nevis */
+"SAINT_KITTS_AND_NEVIS"="세인트키츠네비스";
+/* Sao Tome and Principe */
+"SAO_TOME_AND_PRINCIPE"="상투메 프린시페";
+/* Northern Mariana Islands */
+"NORTHERN_MARIANA_ISLANDS"="북마리아나제도";
+/* Saint Vincent and the Grenadines */
+"SAINT_VINCENT_AND_THE_GRENADINES"="세인트빈센트 그레나딘";
+/* Saint Pierre and Miquelon */
+"SAINT_PIERRE_AND_MIQUELON"="생피에르 미클롱";
+/* Trinidad and Tobago */
+"TRINIDAD_AND_TOBAGO"="트리니다드토바고";
+/* Turks and Caicos Islands */
+"TURKS_AND_CAICOS_ISLANDS"="터크스카이코스 제도";
+
+
+
+
+
+/* General */
+/* The App name, do not translate - P */
+"APP_TITLE"="EMwithME";
+
+/* Text indicating we are processing the user request - P */
+"WAITING"="기다리는 중...";
+
+/* Text indicating we are loading the users request - P */
+"LOADING"="로드 중...";
+
+/* Text indicating we are accessing the users addres book */
+"ADDRESS_BOOK_ACCESSING"="친구 찾는 중...";
+
+/* Text indicating we are processing the users address book */
+"ADDRESS_BOOK_PROCESSING"="마무리 중...";
+
+/* No - P */
+"NO"="아니오";
+
+/* Yes - P */
+"YES"="예";
+
+/* Done - P */
+"DONE_BUTTON"="완료";
+
+/* Edit - P */
+"EDIT_BUTTON"="편집";
+
+/* Update - P */
+"UPDATE_BUTTON"="업데이트";
+
+/* Undo - P */
+"UNDO_BUTTON"="실행 취소";
+
+/* Cancel - P */
+"CANCEL_BUTTON"="취소";
+
+/* Cancelled (past tense) */
+"CANCELLED"="취소됨";
+
+/* Open for Android drawer toggle but not actually displayed - P */
+"OPEN"="열기";
+
+/* Close - P */
+"CLOSE"="닫기";
+
+/* Display name - P */
+"DISPLAY_NAME"="이름 및 성";
+
+/* No Thanks - P */
+"NO_THANKS"="아니오, 괜찮습니다";
+
+/* Dont show Again */
+"DONT_SHOW_AGAIN"="다시 표시 안 함";
+
+/* OK (Capitol letters / Uppercase) - P */
+"OK_BUTTON"="예";
+
+/* Yesterday - P */
+"YESTERDAY"="어제";
+
+/* Today */
+"TODAY"="오늘";
+
+/* Here (Lowercase) - P */
+"HERE"="여기";
+
+/* Copy - P */
+"COPY"="복사";
+
+/* Exit */
+"EXIT"="나가기";
+
+
+
+/* Alerts */
+/* Message when a user tries to back out of creating an AKA or Group without saving their changes */
+"UNSAVED_CHANGES"="변경사항을 저장하지 않고 나갈까요?";
+
+
+
+/* Groups */
+/* Title of the Groups page - P */
+"GROUPS_TITLE"="그룹";
+
+/* Add members - P */
+"ADD_MEMBERS"="구성원 추가";
+
+/* Title of the Create Group page - P */
+"CREATE_GROUP_TITLE"="그룹 생성";
+
+/* Leave Group - P */
+"LEAVE_GROUP_BUTTON"="그룹에서 나가기";
+
+/* Text explaining to user they are going to leave the group they were added to - P */
+"LEAVE_GROUP_EXPLAINATION"="그룹에서 나가려고 합니다. 그룹 주인이 귀하를 영구적으로 탈퇴시키지 않는 한, 나중에 재가입하실 수 있습니다.";
+
+/* Delete Group - P */
+"DELETE_GROUP_BUTTON"="그룹 삭제";
+
+/* Text explaining to user they are going to delete the group they created */
+/* Where in the app is this? NL: This is currently out of scope for V1 */
+"DELETE_GROUP_EXPLAINATION"="귀하의 그룹을 삭제하려고 합니다. 이 작업은 실행 취소할 수 없습니다.";
+
+/* Title of the Group Details page - P */
+"GROUP_DETAILS_TITLE"="그룹 세부사항";
+
+/* Rejoin Group - P */
+"REJOIN_GROUP_BUTTON"="그룹 재가입";
+
+/* This is appended to a contact name if that user has left the group - P */
+"LEFT_GROUP_EXTENSION"="(그룹에서 나감)";
+
+/* Title of the Edit Group page - P */
+"EDIT_GROUP_TITLE"="그룹 편집";
+
+/* Alert text asking user to confirm their action - P */
+"ALERT_ARE_YOU_SURE"="정말 하시겠습니까?";
+
+/* Text explaining to user that they can rejoin the group they previously left - P */
+"REJOIN_GROUP_EXPLAINATION"="해당 그룹에 재가입하려고 합니다.";
+
+/* Title of group members - P */
+"MEMBERS_TITLE"="구성원";
+
+/* Title of chat screen when chatting with a group - P */
+"GROUP_CHATS_TITLE"="그룹 채팅";
+
+/* Group name - P */
+"GROUP_NAME"="그룹 이름";
+
+/* Button text for user to remove themself from ad-hoc group - P */
+"REMOVE_ME_AD_HOC_GROUP"="탈퇴하기";
+
+/* Message to user when trying to save or update a group without supplying a name - P */
+"GROUP_NAME_REQUIRED"="그룹에 이름을 지정하세요.";
+
+/* Message to user when trying to save or update a group without any members - P */
+"GROUP_MEMBERS_REQUIRED"="적어도 한 명의 구성원을 그룹에 추가하세요.";
+
+/* Message to user when loading a group failed - P */
+"GROUP_LOAD_FAILED"="그룹 로드 중에 문제가 발생했습니다. 네트워크 연결 상태를 확인하신 후 다시 시도해 주세요.";
+
+/* Message to user when saving a group failed - P */
+"GROUP_SAVE_FAILED"="그룹 저장 중에 문제가 발생했습니다. 네트워크 연결 상태를 확인하신 후 다시 시도해 주세요.";
+
+/* Message to user when either saving or updating a group failed - P */
+"GROUP_SAVE_OR_UPDATE_FAILED"="그룹 처리 중에 문제가 발생했습니다. 네트워크 연결 상태를 확인하신 후 다시 시도해 주세요.";
+
+/* Message to user when updating a group failed - P */
+"GROUP_UPDATE_FAILED"="그룹 업데이트 중에 문제가 발생했습니다. 네트워크 연결 상태를 확인하신 후 다시 시도해 주세요.";
+
+/* Message to user when leaving a group failed - P */
+"GROUP_LEAVE_FAILED"="그룹을 나가는 중에 문제가 발생했습니다. 네트워크 연결 상태를 확인하신 후 다시 시도해 주세요.";
+
+/* Message to user when rejoining a group failed - P */
+"GROUP_REJOIN_FAILED"="그룹 재가입 중에 문제가 발생했습니다. 네트워크 연결 상태를 확인하신 후 다시 시도해 주세요.";
+
+/* Leave Conversation of an ad-hoc group */
+"LEAVE_CONVERSATION"="채팅에서 퇴장하기";
+
+/* Text explaining what will happen if they leave this ad-hoc group conversation */
+"LEAVE_CONVERSATION_EXPAINATION"="이 그룹 채팅에서 메시지를 더 이상 수신하지 않습니다. 이 채팅에서 퇴장한 후 답장을 쓰면 수신자들과 새로운 채팅 세션을 시작하게 됩니다.";
+
+/* Leave */
+"LEAVE"="나가기";
+
+/* Left Conversation of an ad-hoc group */
+"LEFT_CONVERSATION"="채팅에서 퇴장함";
+
+/* Text explaining what will happen if they send a message to an ad-hoc group conversation they have previously left */
+"LEFT_CONVERSATION_EXPLAINATION"="이 채팅에서 퇴장하였습니다. 다른 메시지를 보낼 경우 수신자와 새로운 채팅 세션을 시작하게 됩니다.";
+
+
+
+
+
+/* Onboarding */
+/* Title of the page when user first opens the app - P */
+"WELCOME_TITLE"="환영합니다";
+
+/* Get Started - P */
+"GET_STARTED_BUTTON"="시작합니다!";
+
+/* Continue - P */
+"CONTINUE_BUTTON"="계속";
+
+/* ONBOARDING A: Title text for first screen of onboarding slides - P */
+"SETUP_PROFILE"="내 프로필 설정";
+
+/* ONBOARDING A: Title text for second screen of onboarding slides - P */
+"SENDING_MESSAGES"="메시지 보내기";
+
+/* ONBOARDING A: Title text for third screen (v2) of onboarding slides - P */
+"GROUP_MESSAGING"="그룹 메시지";
+
+/* ONBOARDING B: Text for first screen - P */
+"ONBOARDING_B_ONE"="친구 한 명 또는 그룹과 채팅하기";
+
+/* ONBOARDING B: Text for second screen - P */
+"ONBOARDING_B_TWO"="문자, 사진, 동영상 및 음성 메시지 보내기";
+
+/* ONBOARDING B: Text for third screen - P */
+"ONBOARDING_B_THREE"="EMwithME 메시지 보내기 또는 받기는 무료입니다";
+
+/* ONBOARDING B: Text for fourth screen - P */
+"ONBOARDING_B_FOUR"="자동 정정은 잊으세요 - 회수하기만 하면 됩니다";
+
+/* ONBOARDING B: Text for fifth screen - P */
+"ONBOARDING_B_FIVE"="모든 EMwithME 메시지를 언제든지 회수하세요...";
+
+/* ONBOARDING B: Text for sixth screen - P */
+"ONBOARDING_B_SIX"="모든 EMwithME 메시지는 언제든지 회수할 수 있으므로, 귀하가 뜻하는 바를 언제든지 말할 수 있습니다";
+
+
+/* Registration text for email - P */
+"REGISTER_EMAIL_EXPLAINATION"="계속하려면 귀하의 국가 및 이메일 주소를 확인하십시오.";
+
+/* Registration text for mobile - P */
+"REGISTER_MOBILE_EXPLAINATION"="계속하려면 귀하의 국가 및 휴대폰 번호를 확인하십시오.";
+
+/* Message telling user a verification message will be sent either to their email or mobile - P */
+"SEND_VERIFICATION_EXPLAINATION"="귀하에게 인증 번호가 전송되었습니다.";
+
+/* Sending validation code - P */
+"SEND_VALIDATION_CODE_EXPLAINATION"="{0} 
+
+위 사항이 맞습니까?";
+
+/* Title of the register with Mobile page - P */
+"MOBILE_TITLE"="모바일";
+
+/* Mobile number - P */
+"MOBILE_NUMBER"="휴대폰 번호";
+
+/* Title of the register with Email page - P */
+"EMAIL_TITLE"="이메일";
+
+/* Placeholder text within the textbox where user is supposed to enter their email address */
+"EMAIL_ADDRESS"="이메일 주소";
+
+/* Title of the Verification page - P */
+"VERIFICATION_TITLE"="인증";
+
+/* Placeholder text within the textbox where user is supposed to enter their verification code - P */
+"VERIFICATION_CODE"="인증번호";
+
+/* Verification text  - P */
+"VERIFY_ACCOUNT_EXPLAINATION"="귀하의 인증번호를 입력하세요";
+
+/* Message sent to users attempting to register their mobile phone - P */
+"VALIDATION_MESSAGE_SMS"="귀하의 휴대폰에서 이 링크를 클릭하여 계정을 인증하세요:";
+
+/* Text in plain text emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_PLAIN"="이 번호를 입력하여 귀하의 계정을 인증하세요:  %1$s";
+
+/* Text in HTML emails telling users they can click a link to validate their account - P */
+"VALIDATION_MESSAGE_HTML"="또는 회원 가입 시 사용한 휴대폰을 사용하고 계신 경우에는 단순히 클릭하시면 됩니다.";
+
+/* New text in HTML emails telling users they can click a link to validate their account */
+"VALIDATION_MESSAGE_HTML_TWO"="Click here to validate your account if you are on your mobile device.";
+
+/* Error registering user with email - P */
+"ERROR_REGISTER_EMAIL_EXPLAINATION"="입력하신 이메일 주소로 귀하의 계정을 등록하는 데 문제가 발생했습니다.";
+
+/* Error registering user with mobile phone number - P */
+/* Should we separate these out based on error type?  For example, invalid number (800) number vs. other issues. */
+"ERROR_REGISTER_MOBILE_EXPLAINATION"="입력하신 휴대폰 번호로 귀하의 계정을 등록하는 데 문제가 발생했습니다.";
+
+/* Error verifying user - P */
+"ERROR_VERIFY_ACCOUNT_EXPLAINATION"="인증에 실패했습니다. 인증 번호를 올바르게 입력했는지 확인하신 후 다시 시도해 주세요.";
+
+/* Text indicating a user can click a link to unsubscribe from emails - P */
+"UNSUBSCRIBE_SHORT"="구독 해지";
+
+/* Text explaining to a user that they can unsubscribe from future emails - P */
+"UNSUBSCRIBE_LONG"="귀하는 최근에 EMwithME에 등록하셨으므로 본 이메일을 수신하고 계십니다. 본의 아니게 받으신 경우, 아래 링크를 사용해 구독 해지하십시오.";
+
+/* Text in SMS sent to new user to validate their account - P */
+"VERIFY_NOW"="또는 이 번호를 입력하세요:  %1$s";
+
+/* Text for existing users asking them if they would like to download their historical messages - P */
+"DOWNLOAD_HISTORICAL_MESSAGES"="이전 메시지들을 다운로드하시겠습니까?\n\n주의: 시간이 다소 걸릴 수 있습니다.";
+
+/* Message shown to new users when we first try to access their address book - P */
+"ACCESS_ADDRESS_BOOK_MESSAGE"="앱에서 친구들을 이름으로 검색하려면 EMwithME이 귀하의 주소록에 접근해야 합니다.";
+
+
+
+
+/* Notifications */
+/* Title of the (singular) Notification page - P */
+"NOTIFICATION_TITLE"="알림";
+
+/* Title of the Notifications page - P */
+"NOTIFICATIONS_TITLE"="알림";
+
+/* Unread - P */
+"UNREAD_BUTTON"="읽지 않음";
+
+/* Read - P  */
+"READ_BUTTON"="읽음";
+
+/* All - P */
+"ALL_BUTTON"="모두";
+
+/* Button text to encourage an action for the user to send a message - P */
+"SEND_MESSAGE_TEXT"="메시지 보내기";
+
+/* Short description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TITLE"="EMwithME에 오신 것을 환영합니다!";
+
+/* Full description of this notification when a user joins EMwithME - P */
+"NOTIFICATION_WELCOME_TEXT"="EMwithME에 오신 것을 환영합니다! 프로필 페이지로 이동하여 귀하의 이름 및 성을 입력하십시오. 친구들에게 EMwithME 메시지, 사진 및 동영상을 무제한으로 보낼 수 있습니다 - 물론 무료입니다!";
+
+/* Short description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TITLE"="%1$s이(가) EMwithME에 방금 가입했습니다!";
+
+/* Full description of this notification when a user friend joins EMwithME - P */
+"NOTIFICATION_JOIN_TEXT"="%1$s이(가) 방금 EMwithME에 가입했습니다! 환영 메시지를 보내세요!";
+
+/* Full description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TEXT"="%1$s이(가) 귀하를 그룹 %2$s에 추가했습니다. 해당 그룹에 메시지를 보내세요.";
+
+/* Short description of this notification when the current user was added to a group - P */
+"NOTIFICATION_YOU_ADDED_GROUP_TITLE"="%1$s이(가) 귀하를 그룹 %2$s에 추가했습니다";
+
+/* Full description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TEXT"="%1$s이(가) 귀하를 그룹 %2$s에서 탈퇴시켰습니다.";
+
+/* Short description of this notification when the current user was removed from a group - P */
+"NOTIFICATION_YOU_REMOVED_GROUP_TITLE"="귀하는 그룹 %1$s에서 탈퇴되었습니다";
+
+/* Full description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TEXT"="%1$s이(가) %2$s을(를) 그룹 %3$s에 추가했습니다. 해당 그룹에 메시지를 보내세요.";
+
+/* Short description of this notification when another user was added to a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_ADDED_GROUP_TITLE"="%1$s이(가) %2$s을(를) 그룹 %3$s에 추가했습니다";
+
+/* Full description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TEXT"="%1$s이(가) %2$s을(를) 그룹 %3$s에서 탈퇴시켰습니다.";
+
+/* Short description of this notification when another user was removed from a group the current user is a member of - P */
+"NOTIFICATION_CONTACT_REMOVED_GROUP_TITLE"="%1$s이(가) %2$s을(를) 그룹 %3$s에서 탈퇴시킴";
+
+/* Short description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TITLE"="그룹 %1$s이(가) 삭제됨";
+
+/* Full description of this notification when a group gets deleted */
+"NOTIFICATION_GROUP_DELETED_TEXT"="%1$s이(가) 그룹 %2$s을(를) 삭제함.";
+
+
+
+
+
+/* Chat */
+/* Title of the Inbox page - P */
+"INBOX_TITLE"="메시지";
+
+/* Title of the page when a user begins to send a new message - P */
+"NEW_MESSAGE_TITLE"="새 메시지";
+
+/* To - P */
+"TO"="수신인:";
+
+/* From - P */
+"FROM"="발신인";
+
+/* Message indicating someone is typing - P */
+"IS_TYPING_SINGULAR"="{0}이(가) 입력 중";
+
+/* Message indicating two people are typing - P */
+"IS_TYPING_DUAL"="{0} 및 {1}이(가) 입력 중";
+
+/* Message indicating more than two people are typing - P */
+"IS_TYPING_MULTIPLE"="여러 사람들이 입력 중";
+
+/* Error message title saying a message cannot be sent - P */
+/* NOTE FOR TRANSLATORS: You may translate "Error" if there is not a suitable word for "Whoops" in your language */
+"SEND_MESSAGE_FAILED_TITLE"="오류";
+
+/* Error message explaining why a message cannot be sent - P */
+"SEND_MESSAGE_FAILED_REASON"="이 대화에 있는 한 명 이상의 상대방에게 더 이상 연결할 수 없습니다. 대화 내역을 검토할 수는 있지만 새 메시지를 보낼 수는 없습니다.";
+
+/* Title of alert box indicating they have disabled EMwithME access to their microphone */
+"RECORDING_PERMISSIONS_TITLE"="음성 메시지 허용";
+
+/* Text explaination of alert box indicating how to enable their microphone */
+"RECORDING_PERMISSIONS_EXPLAINATION"="음성 메시지는 현재 비활성화되어 있습니다. Apple 설정 앱의  설정 > 개인 정보 보호 > 마이크로 이동하여 기능을 활성화하십시오.";
+
+
+
+
+/* Media - P */
+/* Save (This is used to save sent media to your device) */
+"SAVE_BUTTON"="저장";
+
+/* Attach - P */
+"ATTACH_BUTTON"="첨부";
+
+/* Camera - P */
+"CAMERA_BUTTON"="카메라";
+
+/* Media Library Android Only - P */
+"MEDIA_LIBRARY"="미디어 라이브러리";
+
+/* Take Photo Android only - P */
+"TAKE_PHOTO"="사진 찍기";
+
+/* Take Video Android only - P */
+"TAKE_VIDEO"="동영상 찍기";
+
+/* Select Media Android only - P */
+"SELECT_MEDIA"="미디어 선택";
+
+/* Photo Library (on the user's phone or tablet) - P */
+"PHOTO_LIBRARY_BUTTON"="사진 라이브러리";
+
+/* Photo and Video Library (iOS) on the users phone or tablet */
+"PHOTO_AND_VIDEO_LIBRARY_BUTTON"="사진 및 동영상 라이브러리";
+
+/* Rotate Left - P */
+"ROTATE_LEFT"="왼쪽으로 회전";
+
+/* Rotate Right - P */
+"ROTATE_RIGHT"="오른쪽으로 회전";
+
+/* Discard */
+/* Where in the app is this? NL: on android, when cropping images - P */
+"DISCARD_BUTTON"="무시";
+
+/* When going through photos or videos, this keeps a count / track - P */
+"MEDIA_GALLERY_COUNT"="(0) / {1}";
+
+/* When sending single media object to another user */
+"SEND_MEDIA_SINGULAR"="Send {0} Item";
+
+/* When sending multiple media objects to another user */
+"SEND_MEDIA_MULTIPLE"="Send {0} Items";
+
+/* One video - P */
+"MEDIA_PREVIEW_MOVIE"="첨부: 동영상 1";
+
+/* One image - P */
+"MEDIA_PREVIEW_PHOTO"="첨부: 이미지 1";
+
+/* One sound - P */
+"MEDIA_PREVIEW_SOUND"="첨부: 소리 1";
+
+/* You sent one video */
+"MEDIA_PREVIEW_MOVIE_YOU"="You sent a video";
+
+/* You sent one image */
+"MEDIA_PREVIEW_PHOTO_YOU"="You sent an image";
+
+/* You sent one sound */
+"MEDIA_PREVIEW_SOUND_YOU"="You sent an audio clip";
+
+/* Text that shows the last message you sent. The {0} will be replaced with the actual text you sent */
+"YOU_PREAMBLE"="You: {0}";
+
+/* Title of the Search page - P */
+/* This is not to be used for the header title of the Web Search page after tapping Web Search (the string below) */
+"SEARCH_TITLE"="검색";
+
+/* Photo Search - P */
+"WEB_SEARCH"="사진 검색";
+
+/* Random search string used to seed image search when no prior search has been made - P */
+"RANDOM_SEARCH"="무작위";
+
+/* Error displayed to user if no images were found - P */
+"NO_IMAGES_FOUND"="이미지를 찾을 수 없습니다. 새 검색어를 입력하여 다시 시도하세요.";
+
+/* Error displayed to user if an error occurred when searching for images - P */
+"IMAGE_SEARCH_ERROR"="검색 수행 중에 오류가 발생하였습니다. 다시 시도해 주세요.";
+
+/* Error displayed to user if an error occurred when converting their video - P */
+"VIDEO_CONVERT_ERROR"="이 동영상을 처리하는 중에 오류가 발생하였습니다. 다시 시도해 주세요.";
+
+/* Error displayed ot user if an error occurred when trying to select an image - P */
+"IMAGE_SELECTION_ERROR"="이 이미지를 처리하는 중에 오류가 발생하였습니다. 다시 시도해 주세요.";
+
+/* Toast message user sees when trying to share media using EMwithME before they have registered (Android only) */
+"SHARE_MEDIA_REGISTER_FIRST"="미디어를 공유하려면 먼저 EMwithME에 등록하셔야 합니다";
+
+/* Message to user (iOS only) if they have not allowed EMwithME access to their photos and they try to send a photo */
+"ALLOW_ACCESS_PHOTOS"="Please give EMwithME permission to access photos in order to share them!";
+
+
+
+
+
+/* External communications */
+/* The text appended to every message sent via SMS - P */
+"SMS_AFTERWORD"="EMwithME을 통해 전송됨. http://EMwith.ME에서 저희를 만나보세요.";
+
+/* The subject text telling a user they have a new message. %1$s will be replaced by the senders name - P */
+"EMAIL_NEW_MESSAGE_SUBJECT_TWO"="%1$s이(가) 보낸 새 메시지가 있습니다";
+
+/* The subject text telling a user they have a new notificaiton */
+"EMAIL_NEW_NOTIFICATION_SUBJECT"="새 EMwithME 알림이 있습니다";
+
+/* HTML text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_HTML"="%1$s에게 답장을 보낼까요? 답장을 눌러 이메일을 보내거나 <a href='https://api.emwith.me/landingpage/tracking/EM/NewMessage/emailreplylink' title='EMwithME' target='_blank'>EMwithME</a>을 다운로드하세요.";
+
+/* Text in the email indicating they can reply to the message. %1$s will be replaced by the senders name */
+"EMAIL_WRITE_BACK_PLAIN"="%1$s에게 답장을 보낼까요? 답장을 눌러 이메일을 보내거나 EMwithMe를 다운로드하세요.";
+
+/* Text in the email saying email was sent via EMwithME */
+"SENT_VIA_EM"="EMwithMe로 보냄";
+
+/* Link in the email for more information */
+"MORE_INFORMATION"="추가 정보";
+
+/* Default message to user that gets sent as an SMS letting user know they need to install EMwithME to see their message  - P */
+"SMS_DEFAULT_MESSAGE"="귀하를 기다리고 있는 새 EMwithME 메시지가 있습니다! http://EMwith.ME에서 저희를 만나보시고, 앱을 다운로드하여 메시지를 읽어보세요.";
+
+/* The subject text telling a user to validate their EMwithME account - P */
+"EMAIL_VALIDATION_SUBJECT"="귀하의 EMwithME 계정을 인증하세요.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_NO_NAME"="미디어 메시지가 도착했습니다. 보시려면 EMwithME을 설치하세요.";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_NO_NAME"="사진이 도착했습니다. 보시려면 EMwithME을 설치하세요.";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_NO_NAME"="동영상이 도착했습니다. 보시려면 EMwithME을 설치하세요.";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_NO_NAME"="음성 메시지가 도착했습니다. 보시려면 EMwithME을 설치하세요.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_MEDIA_PREFIX_NAME"="%1$s이(가) 미디어 메시지를 보냈습니다. 보시려면 EMwithME을 설치하세요.";
+
+/* A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_PHOTO_PREFIX_NAME"="%1$s이(가) 사진을 보냈습니다. 보시려면 EMwithME을 설치하세요.";
+
+/* A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_VIDEO_PREFIX_NAME"="%1$s이(가) 동영상을 보냈습니다. 보시려면 EMwithME을 설치하세요.";
+
+/* A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P */
+"EXTERNAL_MESSAGE_SOUND_PREFIX_NAME"="%1$s이(가) 음성 메시지를 보냈습니다. 보시려면 EMwithME을 설치하세요.";
+
+
+
+
+/* Manage Messages */
+/* Hide DEPRECATED - P */
+"HIDE_BUTTON"="숨김";
+
+/* Text explaining to user what local delete/hide does DEPRECATED - P */
+"DELETE_EXPLAINATION"="숨김은 로컬 대화 내역에서 메시지를 제거합니다. 이 작업은 실행 취소할 수 없습니다.";
+
+/* Delete - P */
+"DELETE_BUTTON"="삭제";
+
+/* A deleted message from the Take it Back / remote delete functionality. - P */
+"DELETED_STATUS"="삭제된 메시지";
+
+/* Remote Delete - P */
+"REMOTE_DELETE_BUTTON"="회수";
+
+/* Text explaining to user what Remote Delete does - P */
+"REMOTE_DELETE_EXPLAINATION"="회수는 귀하 및 수신인의 기기에서 메시지를 삭제합니다.";
+
+/* Historical */
+/* Where in the app is this? This is referenced in code but does not get displayed */
+"HISTORICAL_STATUS"="내역";
+
+
+
+
+/* Push messages */
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_NO_NAME"="미디어 메시지가 도착했습니다.";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_NO_NAME"="사진이 도착했습니다.";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_NO_NAME"="동영상이 도착했습니다.";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_NO_NAME"="음성 메시지가 도착했습니다.";
+
+/* A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_MEDIA_PREFIX_NAME"="%1$s이(가) 미디어 메시지를 보냈습니다.";
+
+/* A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_PHOTO_PREFIX_NAME"="%1$s이(가) 사진을 보냈습니다.";
+
+/* A user sent a video message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_VIDEO_PREFIX_NAME"="%1$s이(가) 동영상을 보냈습니다.";
+
+/* A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P */
+"PUSH_MESSAGE_SOUND_PREFIX_NAME"="%1$s이(가) 음성 메시지를 보냈습니다.";
+
+
+/* Android specific */
+/* No SD card - P */
+"ANDROID_MEDIA_NO_STORAGE_CARD"="메모리 카드가 없습니다";
+
+/* Preparing SD card - P */
+"ANDROID_MEDIA_PREPARING_STORAGE_CARD"="카드 준비";
+
+/* Not enough space on SD card - P */
+"ANDROID_MEDIA_NOT_ENOUGH_SPACE_ON_CARD"="공간 부족";
+
+
+
+
+
+/* Profile */
+/* Title of the My Account page - P */
+"MY_ACCOUNT_TITLE"="프로필";
+
+/* Title of the Choose a Color page - P */
+"CHOOSE_COLOR_TITLE"="색상 선택";
+
+/* Text indicating to a user that they can change the app color theme - P */
+"COLOR_THEME"="색상 테마";
+
+/* Text indicating to a user that they can change the app color theme (Plural) - P */
+"COLOR_THEME_PLURAL"="색상 테마";
+
+/* Choose icon to associate with a screen name - P */
+"CHOOSE_ICON"="아이콘 선택";
+
+/* The text shown to a user that leaves their name blank in their Account - P */
+"BLANK_DISPLAY_NAME"="이름이 비어 있습니다. {0}을(를) 귀하의 이름으로 사용합니다.";
+
+/* Share profile - P  */
+"SHARE_PROFILE"="프로필 공유";
+
+/* Text showing where user can choose to share their profile - P */
+"SHARE_TO"="공유 대상";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"INSTAGRAM_NOT_FOUND"="귀하의 기기에는 지원 가능한 공유 앱이 설치되어 있지 않습니다. 현재는 Instagram을 통해서만 공유할 수 있습니다. 귀하의 프로필을 공유하기를 원하시면 Instagram을 설치하고 다시 시도해 주세요.";
+
+/* Text shown to user if we could not locate an app in which we could share their profile to - P */
+"SHARE_APP_NOT_FOUND"="귀하의 기기에는 지원 가능한 공유 앱이 설치되어 있지 않습니다. 현재는 Instagram, 트위터 및 페이스북을 통해서만 공유할 수 있습니다. 귀하의 프로필을 공유하기를 원하시면 이 앱 중에서 하나를 설치하고 다시 시도해 주세요.";
+
+/* Default caption we pre-fill when a user shares their AKA on Instagram. The {0} will be dynamically replaced with the user AKA - P */
+"INSTAGRAM_SHARE_DEFAULT_MESSAGE"="EMwithME에서 나에게 메시지를 보내세요! 내 화면 이름은 {0}입니다. iOS 및 Android에서 무료. #{0} #EMwithME";
+
+/* Text in the image being shared in Instagram that is a call to action */
+"INSTAGRAM_CALL_TO_ACTION"="EMwithMe에서 나에게 메시지 보내기";
+
+
+
+
+/* Contacts */
+/* Title of the contacts page - P */
+"CONTACTS_TITLE"="연락처";
+
+
+
+
+/* Help */
+/* Title of Help page - P */
+"HELP_TITLE"="도움말";
+
+/* Text for user to click to view our getting started */
+"GETTING_STARTED"="시작하기";
+
+/* URL for getting started */
+"GETTING_STARTED_URL"="http://api.emwith.me/web/onboarding/gettingstarted";
+
+/* Text for user to click to view our tips */
+"TIPS"="Tips";
+
+/* URL for tips */
+"TIPS_URL"="http://api.emwith.me/web/onboarding/tips";
+
+/* Text for user to click to view our support site */
+"SUPPORT"="Support";
+
+/* URL for support */
+"SUPPORT_URL"="http://emwithme.zendesk.com";
+
+
+
+
+
+/* Profiles, Details, Contacts */
+/* Profile title - P */
+"PROFILES_TITLE"="프로필";
+
+/* Details - P */
+"DETAILS"="세부사항";
+
+/* Add contact button - P */
+"ADD_CONTACT_BUTTON"="연락처에 추가";
+
+/* Text explaining a contact has been added. The {0} will be dynamically substituted with the persons name */
+"ADD_CONTACT_EXPLAINATION"="{0}이(가) 연락처에 추가되었습니다.";
+
+/* Remove contact button - P */
+"REMOVE_CONTACT_BUTTON"="연락처에서 제거";
+
+/* Block contact button - P */
+"BLOCK_CONTACT_BUTTON"="연락처 차단";
+
+/* Unblock contact button - P */
+"UNBLOCK_CONTACT_BUTTON"="연락처 차단 해제";
+
+
+
+
+
+/* Alias */
+/* Alias */
+"ALIAS"="AKA";
+
+/* Alias Title on sidebar - P */
+"ALIAS_TITLE"="AKA";
+
+/* Setup Account Screen Name text - P */
+"SETUP_ALIAS"="AKA는 일회성의, 공개되는 고유한 이름입니다. 귀하의 이름 또는 휴대폰 번호 등의 신원 정보를 공개하지 않고 다른 사용자에게 메시지를 보내기 위해 사용할 수 있습니다. AKA를 설정하시겠습니까?";
+
+/* Add alias - P */
+"ADD_ALIAS_BUTTON"="AKA 추가";
+
+/* Edit Alias - P */
+"EDIT_ALIAS_TITLE"="AKA 편집";
+
+/* Delete alias button - P */
+"DELETE_ALIAS_BUTTON"="AKA 삭제";
+
+/* Error message when alias is already taken - P */
+"ALIAS_ALREADY_TAKEN"="이 AKA는 이미 사용 중입니다. 다른 것을 선택하십시오.";
+
+/* Error message when alias name is too short - P */
+/* Will need to adjust for double byte at some point */
+"ALIAS_TOO_SHORT"="이 AKA는 너무 짧습니다. 5 글자 이상의 AKA를 선택하십시오.";
+
+/* Error message when alias contains inappropriate word(s) - P */
+"ALIAS_INAPPROPRIATE"="이 AKA는 유효하지 않습니다. 다른 것을 선택하십시오.";
+
+/* Error message when alias name is a phone number - P */
+"ALIAS_PHONE"="전화번호는 AKA로 사용할 수 없습니다. 다른 것을 선택하십시오.";
+
+/* Error message when alias name is an email address - P */
+"ALIAS_EMAIL"="이메일 주소는 AKA로 사용할 수 없습니다. 다른 것을 선택하십시오.";
+
+/* Error message when an alias contains invalid characters (such as spaces) - P */
+"ALIAS_INVALID"="이 AKA에는 유효하지 않은 문자가 있습니다(스페이스, @ 또는 점). 다른 것을 선택하십시오.";
+
+/* Generic error message when alias cannot be saved - P */
+"ALIAS_GENERIC_ERROR"="귀하의 AKA를 처리하는 중에 오류가 발생했습니다. 다시 시도해 주세요.";
+
+/* Message of alert box presented to user when trying to delete an Alias - P */
+"ALIAS_DELETE_CONFIRMATION_MESSAGE"="이 AKA를 삭제하면 해당 계정에서 더 이상 메시지를 보내거나 받을 수 없습니다. 정말로 삭제하시겠습니까?";
+
+/* Title of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_TITLE"="삭제된 AKA";
+
+/* Message of alert box presented to user when clicking on an Alias they have deleted - P */
+"ALIAS_DELETED_MESSAGE"="이 AKA는 삭제되었으며, 24시간의 보류 기간 후 다른 사용자가 이용 가능합니다. 보류 기간 중에는 언제든지 이 AKA를 되찾을 수 있습니다.";
+
+/* Message of alert box presented to user when reviewing their chat history on an Alias they have deleted */
+"ALIAS_DELETED_CHAT_HISTORY_MESSAGE"="Your AKA has been deleted. You can review the conversation history but no new messages can be sent.";
+
+/* Button text of the alert box for the user to reactivate their deleted Alias - P */
+"ALIAS_DELETED_REACTIVATE"="재활성화";
+
+
+
+/* About Section */
+/* About - P */
+"ABOUT_TITLE"="소개";
+
+/* Text saying which version of EMwithME the user has currently installed. The {0} is dynamically replaced with the current version - P */
+"VERSION"="버전 {0}";
+
+/* Text for a user to click to view our credits webpage - P */
+"CREDITS"="제작진";
+
+/* URL for credits */
+"CREDITS_URL"="http://EMwith.ME/credits";
+
+/* Text for user to click to view our FAQ - P */
+"FAQ"="자주묻는질문";
+
+/* URL for FAQ - P */
+"FAQ_URL"="http://EMwith.ME/faq";
+
+/* Text for a user to click to view our privacy policy - P */
+"PRIVACY_POLICY"="개인정보보호정책";
+
+/* URL for privacy policy - P */
+"PRIVACY_POLICY_URL"="http://EMwith.ME/privacy";
+
+/* Text for a user to click to view our end user license agreement (EULA) - P */
+"EULA"="최종 사용자 라이선스 계약";
+
+/* URL for EULA - P */
+"EULA_URL"="http://EMwith.ME/eula";
+
+/* URL for Facebook */
+"FACEBOOK_URL"="http://facebook.com/emtheapp";
+
+/* URL for Twitter */
+"TWITTER_URL"="http://twitter.com/emtheapp";
+
+/* Copyright - P */
+"COPYRIGHT"="저작권자 (c) 2015 WhosHere, Inc. 모든 권리 보유. EM 및 EMwithME는 WhosHere, Inc.의 등록상표입니다.";
+
+
+
+/* Invite Friends Section */
+/* Invite Friends */
+"INVITE_FRIENDS_TITLE"="친구 초대하기";
+
+/* Message body to send invitation(s) via SMS */
+"INVITE_FRIENDS_VIA_SMS_MESSAGE"="SMS를 통해 초대장을 보내시겠습니까?";
+
+/* Message body to send invitation(s) via Email */
+"INVITE_FRIENDS_VIA_EMAIL_MESSAGE"="이메일을 통해 초대장을 보내시겠습니까?";
+
+/* Label shown when Android users finish selecting who they would like to invite via Email and are shown which email client they would like to use to send the invitation(s) */
+"INVITE_FRIENDS_SEND_EMAIL_LABEL"="이메일을 통해 보내기...";
+
+/* Toast message (Android specific) shown to user as SMS invitation(s) are sent out. {0} will be replaced with current number of SMS going out, {1} will be replaced with total SMS going out */
+"INVITE_FRIENDS_SMS_SENDING_TOAST_MESSAGE"="{1} 중에서 {0} 보내는 중...";
+
+/* Title of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_TITLE"="SMS를 통해 초대장을 보낼 수 없습니다";
+
+/* Message body of alert when device is incapable of sending SMS */
+"INVITE_FRIENDS_DEVICE_FAILED_SMS_MESSAGE"="귀하의 기기는 SMS 메시지를 보낼 수 없습니다.";
+
+/* Title of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_TITLE"="이메일을 통해 초대장을 보낼 수 없습니다";
+
+/* Message body of alert when device is incapable of sending email */
+"INVITE_FRIENDS_DEVICE_FAILED_EMAIL_MESSAGE"="귀하의 기기는 이메일을 보낼 수 없습니다.";
+
+/* Body of SMS invite message */
+"INVITE_FRIENDS_SMS_MESSAGE"="안녕하세요! 저는 메시지 앱을 사용 중입니다.  http://EMwith.ME에서 알아보세요.";
+
+/* Body of HTML Email invite message */
+"INVITE_FRIENDS_EMAIL_MESSAGE"="<p>안녕하세요! 저는 당신이 꼭 써봤으면 하는 새로운 메시지 앱 EMwithME를 사용 중입니다.</p><br /><p>다음 사이트에서 알아보세요<a href='http://EMwith.ME' target='_blank' title='EMwithME'>http://EMwith.ME</a>";
+
+/* Message body of alert when there was an error in sending SMS or Email invite */
+"INVITE_FRIENDS_ERROR_MESSAGE"="초대장을 보내는 도중에 오류가 발생했습니다. 다시 시도해 주세요.";
+
+/* Message body of alert when user cancels the invitation(s) */
+"INVITE_FRIENDS_CANCELLED_MESSAGE"="초대를 취소하였습니다.";
+
+/* Title of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_TITLE"="초안이 저장됨";
+
+/* Message body of alert for when user saved the email as a draft instead of sending it */
+"INVITE_FRIENDS_EMAIL_DRAFT_SAVED_MESSAGE"="이메일 초대장이 초안으로 저장되었습니다.";
+
+/* Title of alert when user has successfully sent an invite (SMS/Email) */
+"INVITE_FRIENDS_INVITATION_SENT_TITLE"="보낸 초대장";
+
+/* Message body of when the user has sent the invite successfully */
+"INVITE_FRIENDS_INVITATION_SENT_MESSAGE"="초대장 보내기에 성공하였습니다.";
+
+/* Subject of invitation email */
+"INVITE_FRIENDS_EMAIL_SUBJECT"="EMwithME를 알아보러 오세요!";
+
+
+
+/* WhosHere Integration */
+/* Text for user to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE"="Whoshere 계정에 연결";
+
+/* Text of alert asking user if they would like to associate EMwithME with WhosHere (iOS only) */
+"ASSOCIATE_WITH_WHOSHERE_EXPLAINATION"="EMwithME을 귀하의 WhosHere 계정에 연결하여 무료 포인트를 받으시겠습니까?";
+
+/* The name shown for a bot in the app (the bots display name) */
+/* Translators: if 'Emily' is not a common name in your language/country/region, please substitute it with a female name that is common. */
+"BOT_DISPLAY_NAME"="에밀리 - EMwithME 자동 도우미";
+
+
+
+/* Settings */
+/* Settings title */
+"SETTINGS_TITLE"="설정";
+
+/* Sounds title */
+"SOUNDS_TITLE"="소리";
+
+/* Text giving the user the option to turn on or off sounds for incoming messages */
+"INCOMING_MESSAGES_SOUND"="수신 메시지";
+
+/* Offline Notifications Title */
+"OFFLINE_NOTIFICATIONS_TITLE"="오프라인 알림";
+
+/* Text giving the user the option to turn on or off offline notifications */
+"OFFLINE_NOTIFICATIONS_SHOW"="알림 센터에 표시";
+
+/* Text giving the user the option to turn on or off notification sounds */
+"PLAY_SOUNDS"="소리 재생";
+
+/* Text giving the user th eoption to turn on or off notificaitons that contain the message text or not */
+"SHOW_PREVIEW"="미리보기 표시";
+
+/* Text that is shown to the user if they have selected to hide the actual preview text */
+"TEXT_MESSAGE"="문자 메시지";
+
+/* In-App Settings Title */
+"IN_APP_SETTINGS_TITLE"="In-App Settings";
+
+/* In-App Notifications */
+"IN_APP_NOTIFICATIONS"="In-App Notifications";
+
+
+
+/* Bots */
+/* Text sent to user after they have onboarded to welcome them to EMwithME */
+"GENERIC_WELCOME_MESSAGE"="Welcome to EMwithME, the best messaging app for connecting with friends as well as protecting your identity.";
+
+/* Button text encouraging user to invite their friends */
+"INVITE_FRIENDS_BUTTON_TEXT"="Invite Friends!";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends */
+"WELCOME_WHOSHERE_USER_GENERIC_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, thanks for trying EMwithME.";
+
+/* Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends. %1$s will be dynamically replaced with the point total they will be rewarded with */
+"WELCOME_WHOSHERE_USER_TEXT"="Welcome to EMwithME! We see that you are a WhosHere user, and will reward you with %1$s points in WhosHere every time you receive a message from a new EMwithME user. So, be sure to invite your friends!";
+
+/* Button text encouraging user to create an AKA */
+"CREATE_AKA_BUTTON_TEXT"="Create AKA!";
+
+/* Text sent to user explaining AKAs */
+"CREATE_AKA_TEXT"="Did you know with EMwithME you can create AKAs that allow you to protect your personal information? AKAs are disposable screen names you can send and receive messages from.";
+
+/* Text sent to WhosHere user explaining AKAs */
+"CREATE_AKA_WHOSHERE_TEXT"="WhosHere and EMwithME can work together seamlessly. When your accounts are linked it allows users to chat with you in EMwithME or WhosHere. With EMwithME, an AKA can be used to keep your personal information private. You choose if and when you share personal information like an email address or phone number.";
+
+/* Title of alert when a user has reached their limit on number of AKAs */
+"LIMIT_REACHED"="Limit Reached";
+
+/* Message body of alert when a user has reached their limit on number of AKAs */
+"AKA_LIMIT_REACHED_MESSAGE"="You've reached the current maximum number of AKAs, you need to delete an existing one before creating a new one.";
+
+/* Text sent to user once they have created an AKA */
+"FIRST_AKA_CREATED_TEXT"="You created an AKA. Now what? As long as someone knows your AKA they can write you by typing your AKA name in the 'To' field. You can also write anyone from your AKA. Just select your AKA on 'From' line when you start a new conversation.";
+
+/* Button text encouraging user to create a group */
+"CREATE_A_GROUP_BUTTON_TEXT"="Create a Group!";
+
+/* Text sent to user explaining they can create groups */
+"CREATE_A_GROUP_TEXT"="Did you know, with EMwithME, you can send messages to friends who don't even have EMwithME? All you need is their email address or mobile phone number. You can create a group of friends and send them all messages and it does not matter if some, or all, of them have EMwithME!";
+
+/* Text sent to user once they have created their first group */
+"FIRST_GROUP_CREATED_TEXT"="You've create your first Group! This group will show up in your EMwithME Contacts List, and in all the group member's Contacts List as well. Even group members who haven't joined EMwithME will receive an SMS or email message when you write to the group.";
+
+/* Button text encouraging user to write to a group */
+"WRITE_GROUP_BUTTON_TEXT"="Write the Group!";
+
+/* Text sent to user once they have been added to a group */
+"FIRST_GROUP_ADDED_TEXT"="You've been added to a group by one of your friends. You'll now receive messages sent to this group and any replies you write will be sent to everyone. This group will appear in your Contacts List, so to write the group just start typing its name. If you ever decide you want to leave the group you can control that from the Groups page.";
+
+/* Text sent to user explaining they can leave groups */
+"LEAVE_A_GROUP_TEXT"="With EMwithME you are in control. Don't like being on a group message? You can leave any group conversation, whether it be a formal group created by friends or just a message addressed to multiple people. Just go to the 'Details' of that conversation to remove yourself.";
+
+/* Text sent to user explaining they can take back their messages (part one) */
+"TAKE_BACK_TEXT_ONE"="With EMwithME you can take back messages you've sent other EMwithME users. Just long press the message you sent and select 'Take it Back'.";
+
+/* Text sent to user explaining they can take back their messages (part two) */
+"TAKE_BACK_TEXT_TWO"="I'm going to take back this message.";
+
+/* Text sent to user explaining they can take back their messages (part three) */
+"TAKE_BACK_TEXT_THREE"="Now your turn. Send me a message, then long press it to Take it Back.";

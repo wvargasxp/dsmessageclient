@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Loco xml export: Android string resources
+ Project: Localizable.strings conversion
+ Release: Working copy
+ Locale: zz_ZZ, Unknown
+ Exported by: Unregistered user
+ Exported at: Tue, 25 Aug 2015 01:08:06 +0100
+-->
+<resources>
+    <!-- Chad -->
+    <string name="CHAD">Chad</string>
+    <!-- Cuba -->
+    <string name="CUBA">Cuba</string>
+    <!-- Fiji -->
+    <string name="FIJI">Fiji</string>
+    <!-- Guam -->
+    <string name="GUAM">Guam</string>
+    <!-- Iran -->
+    <string name="IRAN">Iran</string>
+    <!-- Iraq -->
+    <string name="IRAQ">Iraq</string>
+    <!-- Laos -->
+    <string name="LAOS">Lào</string>
+    <!-- Mali -->
+    <string name="MALI">Mali</string>
+    <!-- Niue -->
+    <string name="NIUE">Niue</string>
+    <!-- Oman -->
+    <string name="OMAN">Oman</string>
+    <!-- Peru -->
+    <string name="PERU">Peru</string>
+    <!-- Togo -->
+    <string name="TOGO">Togo</string>
+    <!-- Aruba -->
+    <string name="ARUBA">Aruba</string>
+    <!-- Benin -->
+    <string name="BENIN">Benin</string>
+    <!-- Burma (Myanmar) -->
+    <string name="BURMA">Burma (Myanmar)</string>
+    <!-- Chile -->
+    <string name="CHILE">Chile</string>
+    <!-- China -->
+    <string name="CHINA">Trung Quốc</string>
+    <!-- Democratic Republic of the Congo -->
+    <string name="CONGO">Cộng hòa Dân chủ Congo</string>
+    <!-- Egypt -->
+    <string name="EGYPT">Ai Cập</string>
+    <!-- Gabon -->
+    <string name="GABON">Gabon</string>
+    <!-- Ghana -->
+    <string name="GHANA">Ghana</string>
+    <!-- Haiti -->
+    <string name="HAITI">Haiti</string>
+    <!-- India -->
+    <string name="INDIA">Ấn Độ</string>
+    <!-- Italy -->
+    <string name="ITALY">Ý</string>
+    <!-- Japan -->
+    <string name="JAPAN">Nhật Bản</string>
+    <!-- Kenya -->
+    <string name="KENYA">Kenya</string>
+    <!-- Libya -->
+    <string name="LIBYA">Libya</string>
+    <!-- Macau -->
+    <string name="MACAU">Macau</string>
+    <!-- Malta -->
+    <string name="MALTA">Malta</string>
+    <!-- Nauru -->
+    <string name="NAURU">Nauru</string>
+    <!-- Nepal -->
+    <string name="NEPAL">Nepal</string>
+    <!-- Niger -->
+    <string name="NIGER">Niger</string>
+    <!-- Palau -->
+    <string name="PALAU">Palau</string>
+    <!-- Qatar -->
+    <string name="QATAR">Qatar</string>
+    <!-- Samoa -->
+    <string name="SAMOA">Samoa</string>
+    <!-- Spain -->
+    <string name="SPAIN">Tây Ban Nha</string>
+    <!-- Sudan -->
+    <string name="SUDAN">Sudan</string>
+    <!-- Syria -->
+    <string name="SYRIA">Syria</string>
+    <!-- Tonga -->
+    <string name="TONGA">Tonga</string>
+    <!-- Yemen -->
+    <string name="YEMEN">Yemen</string>
+    <!-- Angola -->
+    <string name="ANGOLA">Angola</string>
+    <!-- Belize -->
+    <string name="BELIZE">Belize</string>
+    <!-- Bhutan -->
+    <string name="BHUTAN">Bhutan</string>
+    <!-- Brazil -->
+    <string name="BRAZIL">Brazil</string>
+    <!-- Brunei -->
+    <string name="BRUNEI">Brunei</string>
+    <!-- Canada -->
+    <string name="CANADA">Canada</string>
+    <!-- Cyprus -->
+    <string name="CYPRUS">Cộng hòa Síp</string>
+    <!-- France -->
+    <string name="FRANCE">Pháp</string>
+    <!-- Gambia -->
+    <string name="GAMBIA">Gambia</string>
+    <!-- Greece -->
+    <string name="GREECE">Hy Lạp</string>
+    <!-- Guinea -->
+    <string name="GUINEA">Guinea</string>
+    <!-- Guyana -->
+    <string name="GUYANA">Guyana</string>
+    <!-- Israel -->
+    <string name="ISRAEL">Israel</string>
+    <!-- Jordan -->
+    <string name="JORDAN">Jordan</string>
+    <!-- Kosovo -->
+    <string name="KOSOVO">Kosovo</string>
+    <!-- Kuwait -->
+    <string name="KUWAIT">Kuwait</string>
+    <!-- Latvia -->
+    <string name="LATVIA">Latvia</string>
+    <!-- Malawi -->
+    <string name="MALAWI">Malawi</string>
+    <!-- Mexico -->
+    <string name="MEXICO">Mexico</string>
+    <!-- Monaco -->
+    <string name="MONACO">Monaco</string>
+    <!-- Norway -->
+    <string name="NORWAY">Na Uy</string>
+    <!-- Panama -->
+    <string name="PANAMA">Panama</string>
+    <!-- Poland -->
+    <string name="POLAND">Ba Lan</string>
+    <!-- Russia -->
+    <string name="RUSSIA">Nga</string>
+    <!-- Rwanda -->
+    <string name="RWANDA">Rwanda</string>
+    <!-- Serbia -->
+    <string name="SERBIA">Serbia</string>
+    <!-- Sweden -->
+    <string name="SWEDEN">Thụy Điển</string>
+    <!-- Taiwan -->
+    <string name="TAIWAN">Đài Loan</string>
+    <!-- Turkey -->
+    <string name="TURKEY">Thổ Nhĩ Kỳ</string>
+    <!-- Tuvalu -->
+    <string name="TUVALU">Tuvalu</string>
+    <!-- Uganda -->
+    <string name="UGANDA">Uganda</string>
+    <!-- Zambia -->
+    <string name="ZAMBIA">Zambia</string>
+    <!-- Albania -->
+    <string name="ALBANIA">Albania</string>
+    <!-- Algeria -->
+    <string name="ALGERIA">Algeria</string>
+    <!-- Andorra -->
+    <string name="ANDORRA">Andorra</string>
+    <!-- Armenia -->
+    <string name="ARMENIA">Armenia</string>
+    <!-- Austria -->
+    <string name="AUSTRIA">Áo</string>
+    <!-- Bahamas -->
+    <string name="BAHAMAS">Bahamas</string>
+    <!-- Bahrain -->
+    <string name="BAHRAIN">Bahrain</string>
+    <!-- Belarus -->
+    <string name="BELARUS">Belarus</string>
+    <!-- Belgium -->
+    <string name="BELGIUM">Bỉ</string>
+    <!-- Bermuda -->
+    <string name="BERMUDA">Bermuda</string>
+    <!-- Bolivia -->
+    <string name="BOLIVIA">Bolivia</string>
+    <!-- Burundi -->
+    <string name="BURUNDI">Burundi</string>
+    <!-- Comoros -->
+    <string name="COMOROS">Comoros</string>
+    <!-- Croatia -->
+    <string name="CROATIA">Croatia</string>
+    <!-- Denmark -->
+    <string name="DENMARK">Đan Mạch</string>
+    <!-- Ecuador -->
+    <string name="ECUADOR">Ecuador</string>
+    <!-- Eritrea -->
+    <string name="ERITREA">Eritrea</string>
+    <!-- Estonia -->
+    <string name="ESTONIA">Estonia</string>
+    <!-- Finland -->
+    <string name="FINLAND">Phần Lan</string>
+    <!-- Georgia -->
+    <string name="GEORGIA">Georgia</string>
+    <!-- Germany -->
+    <string name="GERMANY">Đức</string>
+    <!-- Grenada -->
+    <string name="GRENADA">Grenada</string>
+    <!-- Hungary -->
+    <string name="HUNGARY">Hungary</string>
+    <!-- Iceland -->
+    <string name="ICELAND">Iceland</string>
+    <!-- Ireland -->
+    <string name="IRELAND">Ai-len</string>
+    <!-- Jamaica -->
+    <string name="JAMAICA">Jamaica</string>
+    <!-- Lebanon -->
+    <string name="LEBANON">Lebanon</string>
+    <!-- Lesotho -->
+    <string name="LESOTHO">Lesotho</string>
+    <!-- Liberia -->
+    <string name="LIBERIA">Liberia</string>
+    <!-- Mayotte -->
+    <string name="MAYOTTE">Mayotte</string>
+    <!-- Moldova -->
+    <string name="MOLDOVA">Moldova</string>
+    <!-- Morocco -->
+    <string name="MOROCCO">Morocco</string>
+    <!-- Namibia -->
+    <string name="NAMIBIA">Namibia</string>
+    <!-- Nigeria -->
+    <string name="NIGERIA">Nigeria</string>
+    <!-- Romania -->
+    <string name="ROMANIA">Romania</string>
+    <!-- Senegal -->
+    <string name="SENEGAL">Senegal</string>
+    <!-- Somalia -->
+    <string name="SOMALIA">Somalia</string>
+    <!-- Tokelau -->
+    <string name="TOKELAU">Tokelau</string>
+    <!-- Tunisia -->
+    <string name="TUNISIA">Tunisia</string>
+    <!-- Ukraine -->
+    <string name="UKRAINE">Ukraina</string>
+    <!-- Uruguay -->
+    <string name="URUGUAY">Uruguay</string>
+    <!-- Vanuatu -->
+    <string name="VANUATU">Vanuatu</string>
+    <!-- Vietnam -->
+    <string name="VIETNAM">Việt Nam</string>
+    <!-- Anguilla -->
+    <string name="ANGUILLA">Anguilla</string>
+    <!-- Barbados -->
+    <string name="BARBADOS">Barbados</string>
+    <!-- Botswana -->
+    <string name="BOTSWANA">Botswana</string>
+    <!-- Bulgaria -->
+    <string name="BULGARIA">Bulgaria</string>
+    <!-- Cambodia -->
+    <string name="CAMBODIA">Cambodia</string>
+    <!-- Cameroon -->
+    <string name="CAMEROON">Cameroon</string>
+    <!-- Colombia -->
+    <string name="COLOMBIA">Colombia</string>
+    <!-- Djibouti -->
+    <string name="DJIBOUTI">Djibouti</string>
+    <!-- Dominica -->
+    <string name="DOMINICA">Dominica</string>
+    <!-- Ethiopia -->
+    <string name="ETHIOPIA">Ethiopia</string>
+    <!-- Honduras -->
+    <string name="HONDURAS">Honduras</string>
+    <!-- Kiribati -->
+    <string name="KIRIBATI">Kiribati</string>
+    <!-- Malaysia -->
+    <string name="MALAYSIA">Malaysia</string>
+    <!-- Maldives -->
+    <string name="MALDIVES">Maldives</string>
+    <!-- Mongolia -->
+    <string name="MONGOLIA">Mongolia</string>
+    <!-- Pakistan -->
+    <string name="PAKISTAN">Pakistan</string>
+    <!-- Paraguay -->
+    <string name="PARAGUAY">Paraguay</string>
+    <!-- Portugal -->
+    <string name="PORTUGAL">Bồ Đào Nha</string>
+    <!-- Slovakia -->
+    <string name="SLOVAKIA">Slovakia</string>
+    <!-- Slovenia -->
+    <string name="SLOVENIA">Slovenia</string>
+    <!-- Suriname -->
+    <string name="SURINAME">Suriname</string>
+    <!-- Svalbard -->
+    <string name="SVALBARD">Svalbard</string>
+    <!-- Tanzania -->
+    <string name="TANZANIA">Tanzania</string>
+    <!-- Thailand -->
+    <string name="THAILAND">Thái Lan</string>
+    <!-- Zimbabwe -->
+    <string name="ZIMBABWE">Zimbabwe</string>
+    <!-- Argentina -->
+    <string name="ARGENTINA">Argentina</string>
+    <!-- Australia -->
+    <string name="AUSTRALIA">Úc</string>
+    <!-- Gibraltar -->
+    <string name="GIBRALTAR">Gibraltar</string>
+    <!-- Greenland -->
+    <string name="GREENLAND">Greenland</string>
+    <!-- Guatemala -->
+    <string name="GUATEMALA">Guatemala</string>
+    <!-- Hong Kong -->
+    <string name="HONG_KONG">Hong Kong</string>
+    <!-- Indonesia -->
+    <string name="INDONESIA">Indonesia</string>
+    <!-- Lithuania -->
+    <string name="LITHUANIA">Lithuania</string>
+    <!-- Macedonia -->
+    <string name="MACEDONIA">Macedonia</string>
+    <!-- Mauritius -->
+    <string name="MAURITIUS">Mauritius</string>
+    <!-- Nicaragua -->
+    <string name="NICARAGUA">Nicaragua</string>
+    <!-- Singapore -->
+    <string name="SINGAPORE">Singapore</string>
+    <!-- Sri Lanka -->
+    <string name="SRI_LANKA">Sri Lanka</string>
+    <!-- Swaziland -->
+    <string name="SWAZILAND">Swaziland</string>
+    <!-- Venezuela -->
+    <string name="VENEZUELA">Venezuela</string>
+    <!-- Azerbaijan -->
+    <string name="AZERBAIJAN">Azerbaijan</string>
+    <!-- Bangladesh -->
+    <string name="BANGLADESH">Bangladesh</string>
+    <!-- Cape Verde -->
+    <string name="CAPE_VERDE">Cape Verde</string>
+    <!-- Costa Rica -->
+    <string name="COSTA_RICA">Costa Rica</string>
+    <!-- Kazakhstan -->
+    <string name="KAZAKHSTAN">Kazakhstan</string>
+    <!-- Kyrgyzstan -->
+    <string name="KYRGYZSTAN">Kyrgyzstan</string>
+    <!-- Luxembourg -->
+    <string name="LUXEMBOURG">Luxembourg</string>
+    <!-- Madagascar -->
+    <string name="MADAGASCAR">Madagascar</string>
+    <!-- Mauritania -->
+    <string name="MAURITANIA">Mauritania</string>
+    <!-- Micronesia -->
+    <string name="MICRONESIA">Micronesia</string>
+    <!-- Montenegro -->
+    <string name="MONTENEGRO">Montenegro</string>
+    <!-- Montserrat -->
+    <string name="MONTSERRAT">Montserrat</string>
+    <!-- Mozambique -->
+    <string name="MOZAMBIQUE">Mozambique</string>
+    <!-- San Marino -->
+    <string name="SAN_MARINO">San Marino</string>
+    <!-- Seychelles -->
+    <string name="SEYCHELLES">Seychelles</string>
+    <!-- Tajikistan -->
+    <string name="TAJIKISTAN">Tajikistan</string>
+    <!-- Uzbekistan -->
+    <string name="UZBEKISTAN">Uzbekistan</string>
+    <!-- Afghanistan -->
+    <string name="AFGHANISTAN">Afghanistan</string>
+    <!-- El Salvador -->
+    <string name="EL_SALVADOR">El Salvador</string>
+    <!-- Isle of Man -->
+    <string name="ISLE_OF_MAN">Isle of Man</string>
+    <!-- Ivory Coast -->
+    <string name="IVORY_COAST">Bờ Biển Ngà</string>
+    <!-- Netherlands -->
+    <string name="NETHERLANDS">Hà Lan</string>
+    <!-- New Zealand -->
+    <string name="NEW_ZEALAND">New Zealand</string>
+    <!-- North Korea -->
+    <string name="NORTH_KOREA">Bắc Triều Tiên</string>
+    <!-- Philippines -->
+    <string name="PHILIPPINES">Philippines</string>
+    <!-- Puerto Rico -->
+    <string name="PUERTO_RICO">Puerto Rico</string>
+    <!-- Saint Lucia -->
+    <string name="SAINT_LUCIA">Saint Lucia</string>
+    <!-- South Korea -->
+    <string name="SOUTH_KOREA">Hàn Quốc</string>
+    <!-- Switzerland -->
+    <string name="SWITZERLAND">Thụy Sĩ</string>
+    <!-- Timor-Leste -->
+    <string name="TIMOR_LESTE">Timor-Leste</string>
+    <!-- Burkina Faso -->
+    <string name="BURKINA_FASO">Burkina Faso</string>
+    <!-- Cook Islands -->
+    <string name="COOK_ISLANDS">Quần Đảo Cook</string>
+    <!-- Saint Helena -->
+    <string name="SAINT_HELENA">Saint Helena</string>
+    <!-- Saint Martin -->
+    <string name="SAINT_MARTIN">Saint Martin</string>
+    <!-- Saudi Arabia -->
+    <string name="SAUDI_ARABIA">Ả rập Saudi</string>
+    <!-- Sierra Leone -->
+    <string name="SIERRA_LEONE">Sierra Leone</string>
+    <!-- South Africa -->
+    <string name="SOUTH_AFRICA">Nam Phi</string>
+    <!-- Turkmenistan -->
+    <string name="TURKMENISTAN">Turkmenistan</string>
+    <!-- Faroe Islands -->
+    <string name="FAROE_ISLANDS">Quần đảo Faroe</string>
+    <!-- Guinea-Bissau -->
+    <string name="GUINEA_BISSAU">Guinea-Bissau</string>
+    <!-- Liechtenstein -->
+    <string name="LIECHTENSTEIN">Liechtenstein</string>
+    <!-- New Caledonia -->
+    <string name="NEW_CALEDONIA">New Caledonia</string>
+    <!-- United States -->
+    <string name="UNITED_STATES">Mỹ</string>
+    <!-- American Samoa -->
+    <string name="AMERICAN_SAMOA">American Samoa</string>
+    <!-- Cayman Islands -->
+    <string name="CAYMAN_ISLANDS">Quần đảo Cayman</string>
+    <!-- Czech Republic -->
+    <string name="CZECH_REPUBLIC">Cộng Hòa Séc</string>
+    <!-- Norfolk Island -->
+    <string name="NORFOLK_ISLAND">Đảo Norfolk</string>
+    <!-- United Kingdom -->
+    <string name="UNITED_KINGDOM">Vương Quốc anh</string>
+    <!-- Solomon Islands -->
+    <string name="SOLOMON_ISLANDS">Quần đảo Solomon</string>
+    <!-- Falkland Islands -->
+    <string name="FALKLAND_ISLANDS">Quần đảo Falkland</string>
+    <!-- French Polynesia -->
+    <string name="FRENCH_POLYNESIA">French Polynesia</string>
+    <!-- Marshall Islands -->
+    <string name="MARSHALL_ISLANDS">Quần đảo Marshall</string>
+    <!-- Papua New Guinea -->
+    <string name="PAPUA_NEW_GUINEA">Papua New Guinea</string>
+    <!-- Pitcairn Islands -->
+    <string name="PITCAIRN_ISLANDS">Quần đảo Pitcairn</string>
+    <!-- Saint Barthelemy -->
+    <string name="SAINT_BARTHELEMY">Saint Barthelemy</string>
+    <!-- Equatorial Guinea -->
+    <string name="EQUATORIAL_GUINEA">Equatorial Guinea</string>
+    <!-- US Virgin Islands -->
+    <string name="US_VIRGIN_ISLANDS">Quần đảo Virgin thuộc Mỹ</string>
+    <!-- Wallis and Futuna -->
+    <string name="WALLIS_AND_FUTUNA">Wallis và Futuna</string>
+    <!-- United Arab Emirates -->
+    <string name="UNITED_ARAB_EMIRATES">Các Tiểu vương quốc Ả Rập Thống nhất</string>
+    <!-- Central African Republic -->
+    <string name="CENTRAL_AFRICAN_REPUBLIC">Cộng hòa Trung Phi</string>
+    <!-- Bosnia and Herzegovina -->
+    <string name="BOSNIA_AND_HERZEGOVINA">Bosnia và Herzegovina</string>
+    <!-- British Virgin Islands -->
+    <string name="BRITISH_VIRGIN_ISLANDS">Quần đảo Virgin thuộc Anh</string>
+    <!-- Dominican Republic -->
+    <string name="DOMINICAN_REPUBLIC">Cộng hòa Dominica</string>
+    <!-- Antigua and Barbuda -->
+    <string name="ANTIGUA_AND_BARBUDA">Antigua và Barbuda</string>
+    <!-- Holy See (Vatican City) -->
+    <string name="HOLY_SEE_VATICAN_CITY">Holy See (Thành phố Vatican)</string>
+    <!-- Republic of the Congo -->
+    <string name="REPUBLIC_OF_THE_CONGO">Cộng Hòa Congo</string>
+    <!-- Saint Kitts and Nevis -->
+    <string name="SAINT_KITTS_AND_NEVIS">Saint Kitts và Nevis</string>
+    <!-- Sao Tome and Principe -->
+    <string name="SAO_TOME_AND_PRINCIPE">Sao Tome và Principe</string>
+    <!-- Northern Mariana Islands -->
+    <string name="NORTHERN_MARIANA_ISLANDS">Quần đảo Bắc Mariana</string>
+    <!-- Saint Vincent and the Grenadines -->
+    <string name="SAINT_VINCENT_AND_THE_GRENADINES">Saint Vincent và the Grenadines</string>
+    <!-- Saint Pierre and Miquelon -->
+    <string name="SAINT_PIERRE_AND_MIQUELON">Saint Pierre và Miquelon</string>
+    <!-- Trinidad and Tobago -->
+    <string name="TRINIDAD_AND_TOBAGO">Trinidad và Tobago</string>
+    <!-- Turks and Caicos Islands -->
+    <string name="TURKS_AND_CAICOS_ISLANDS">Quần đảo Turks và Caicos</string>
+    <!-- The App name, do not translate - P -->
+    <string name="APP_TITLE">EMwithME</string>
+    <!-- Text indicating we are processing the user request - P -->
+    <string name="WAITING">Đợi...</string>
+    <!-- Text indicating we are loading the users request - P -->
+    <string name="LOADING">Đang tải...</string>
+    <!-- Text indicating we are accessing the users addres book -->
+    <string name="ADDRESS_BOOK_ACCESSING">Tìm bạn bè của bạn...</string>
+    <!-- Text indicating we are processing the users address book -->
+    <string name="ADDRESS_BOOK_PROCESSING">Kết Thúc...</string>
+    <!-- No - P -->
+    <string name="NO">Không</string>
+    <!-- Yes - P -->
+    <string name="YES">Có</string>
+    <!-- Done - P -->
+    <string name="DONE_BUTTON">Xong</string>
+    <!-- Edit - P -->
+    <string name="EDIT_BUTTON">Chỉnh Sửa</string>
+    <!-- Update - P -->
+    <string name="UPDATE_BUTTON">Cập Nhật</string>
+    <!-- Undo - P -->
+    <string name="UNDO_BUTTON">Hoàn tác</string>
+    <!-- Cancel - P -->
+    <string name="CANCEL_BUTTON">Hủy</string>
+    <!-- Cancelled (past tense) -->
+    <string name="CANCELLED">Đã hủy</string>
+    <!-- Open for Android drawer toggle but not actually displayed - P -->
+    <string name="OPEN">Mở</string>
+    <!-- Close - P -->
+    <string name="CLOSE">Đóng</string>
+    <!-- Display name - P -->
+    <string name="DISPLAY_NAME">Họ và Tên</string>
+    <!-- No Thanks - P -->
+    <string name="NO_THANKS">Không Cảm ơn</string>
+    <!-- Dont show Again -->
+    <string name="DONT_SHOW_AGAIN">Không Hiển Thị Lần Nữa</string>
+    <!-- OK (Capitol letters / Uppercase) - P -->
+    <string name="OK_BUTTON">ĐỒNG Ý</string>
+    <!-- Yesterday - P -->
+    <string name="YESTERDAY">Hôm qua</string>
+    <!-- Today -->
+    <string name="TODAY">Hôm nay</string>
+    <!-- Here (Lowercase) - P -->
+    <string name="HERE">ở đây</string>
+    <!-- Copy - P -->
+    <string name="COPY">Sao chép</string>
+    <!-- Exit -->
+    <string name="EXIT">Thoát</string>
+    <!-- Message when a user tries to back out of creating an AKA or Group without saving their changes -->
+    <string name="UNSAVED_CHANGES">Những thay đổi chưa được lưu. Thoát?</string>
+    <!-- Title of the Groups page - P -->
+    <string name="GROUPS_TITLE">Nhóm</string>
+    <!-- Add members - P -->
+    <string name="ADD_MEMBERS">Thêm Thành Viên</string>
+    <!-- Title of the Create Group page - P -->
+    <string name="CREATE_GROUP_TITLE">Tạo Nhóm</string>
+    <!-- Leave Group - P -->
+    <string name="LEAVE_GROUP_BUTTON">Rời Khỏi Nhóm</string>
+    <!-- Text explaining to user they are going to leave the group they were added to - P -->
+    <string name="LEAVE_GROUP_EXPLAINATION">Bạn sắp rời khỏi nhóm. Bạn có thể tham gia trở lại sau trừ khi chủ nhóm xóa bạn vĩnh viễn.</string>
+    <!-- Delete Group - P -->
+    <string name="DELETE_GROUP_BUTTON">Xóa Nhóm</string>
+    <!-- Where in the app is this? NL: This is currently out of scope for V1 -->
+    <string name="DELETE_GROUP_EXPLAINATION">Bạn sắp sửa xóa nhóm của bạn. Hành động này không thể được hoàn tác.</string>
+    <!-- Title of the Group Details page - P -->
+    <string name="GROUP_DETAILS_TITLE">Chi Tiết Nhóm</string>
+    <!-- Rejoin Group - P -->
+    <string name="REJOIN_GROUP_BUTTON">Tham Gia Lại Nhóm</string>
+    <!-- This is appended to a contact name if that user has left the group - P -->
+    <string name="LEFT_GROUP_EXTENSION">(Rời Khỏi Nhóm)</string>
+    <!-- Title of the Edit Group page - P -->
+    <string name="EDIT_GROUP_TITLE">Chỉnh Sửa Nhóm</string>
+    <!-- Alert text asking user to confirm their action - P -->
+    <string name="ALERT_ARE_YOU_SURE">Bạn Có Chắc?</string>
+    <!-- Text explaining to user that they can rejoin the group they previously left - P -->
+    <string name="REJOIN_GROUP_EXPLAINATION">Bạn sắp sửa gia nhập lại nhóm.</string>
+    <!-- Title of group members - P -->
+    <string name="MEMBERS_TITLE">Thành Viên</string>
+    <!-- Title of chat screen when chatting with a group - P -->
+    <string name="GROUP_CHATS_TITLE">Trò Chuyện Theo Nhóm</string>
+    <!-- Group name - P -->
+    <string name="GROUP_NAME">Tên Nhóm</string>
+    <!-- Button text for user to remove themself from ad-hoc group - P -->
+    <string name="REMOVE_ME_AD_HOC_GROUP">Xóa Tôi</string>
+    <!-- Message to user when trying to save or update a group without supplying a name - P -->
+    <string name="GROUP_NAME_REQUIRED">Vui lòng cung cấp một tên cho nhóm của bạn.</string>
+    <!-- Message to user when trying to save or update a group without any members - P -->
+    <string name="GROUP_MEMBERS_REQUIRED">Vui lòng thêm ít nhất một thành viên khác vào nhóm của bạn.</string>
+    <!-- Message to user when loading a group failed - P -->
+    <string name="GROUP_LOAD_FAILED">Có một sự cố trong quá trình tải nhóm của bạn. Vui lòng kiểm tra mạng và thử lại lần nữa.</string>
+    <!-- Message to user when saving a group failed - P -->
+    <string name="GROUP_SAVE_FAILED">Có một sự cố trong quá trình lưu nhóm của bạn. Vui lòng kiểm tra mạng và thử lại lần nữa.</string>
+    <!-- Message to user when either saving or updating a group failed - P -->
+    <string name="GROUP_SAVE_OR_UPDATE_FAILED">Có một sự cố với nhóm của bạn. Vui lòng kiểm tra mạng và thử lại lần nữa.</string>
+    <!-- Message to user when updating a group failed - P -->
+    <string name="GROUP_UPDATE_FAILED">Có một sự cố trong quá trình cập nhật nhóm của bạn. Vui lòng kiểm tra mạng và thử lại lần nữa.</string>
+    <!-- Message to user when leaving a group failed - P -->
+    <string name="GROUP_LEAVE_FAILED">Có một sự cố trong quá trình rời khỏi nhóm của bạn. Vui lòng kiểm tra mạng và thử lại lần nữa.</string>
+    <!-- Message to user when rejoining a group failed - P -->
+    <string name="GROUP_REJOIN_FAILED">Có một sự cố trong quá trình tham gia lại nhóm. Vui lòng kiểm tra mạng và thử lại lần nữa.</string>
+    <!-- Leave Conversation of an ad-hoc group -->
+    <string name="LEAVE_CONVERSATION">Rời Khỏi Cuộc Trò Chuyện</string>
+    <!-- Text explaining what will happen if they leave this ad-hoc group conversation -->
+    <string name="LEAVE_CONVERSATION_EXPAINATION">Bạn sẽ không nhận được tin nhắn từ nhóm trò chuyện này nữa. Nếu bạn gởi tin nhắn trở lại sau khi rời khỏi cuộc trò chuyện này, bạn sẽ bắt đầu một phiên trò chuyện mới với những người nhận được tin nhắn này.</string>
+    <!-- Leave -->
+    <string name="LEAVE">Rời Khỏi</string>
+    <!-- Left Conversation of an ad-hoc group -->
+    <string name="LEFT_CONVERSATION">Rời Khỏi Cuộc Trò Chuyện</string>
+    <!-- Text explaining what will happen if they send a message to an ad-hoc group conversation they have previously left -->
+    <string name="LEFT_CONVERSATION_EXPLAINATION">Bạn đã rời khỏi cuộc trò chuyện này. Nếu bạn gửi tin nhắn khác cho họ, bạn sẽ bắt đầu một phiên trò chuyện mới với những người nhận được tin nhắn này.</string>
+    <!-- Title of the page when user first opens the app - P -->
+    <string name="WELCOME_TITLE">Xin Chào</string>
+    <!-- Get Started - P -->
+    <string name="GET_STARTED_BUTTON">Bắt Đầu!</string>
+    <!-- Continue - P -->
+    <string name="CONTINUE_BUTTON">Tiếp tục</string>
+    <!-- ONBOARDING A: Title text for first screen of onboarding slides - P -->
+    <string name="SETUP_PROFILE">Thiết Lập Hồ Sơ Của Bạn</string>
+    <!-- ONBOARDING A: Title text for second screen of onboarding slides - P -->
+    <string name="SENDING_MESSAGES">Gởi Tin Nhắn</string>
+    <!-- ONBOARDING A: Title text for third screen (v2) of onboarding slides - P -->
+    <string name="GROUP_MESSAGING">Tin Nhắn Của Nhóm</string>
+    <!-- ONBOARDING B: Text for first screen - P -->
+    <string name="ONBOARDING_B_ONE">Create AKAs to post on sites like Craigslist or apps like WhosHere</string>
+    <!-- ONBOARDING B: Text for second screen - P -->
+    <string name="ONBOARDING_B_TWO">Chat with a friend or a group of friends</string>
+    <!-- ONBOARDING B: Text for third screen - P -->
+    <string name="ONBOARDING_B_THREE">Send texts, pics, videos and voice messages</string>
+    <!-- ONBOARDING B: Text for fourth screen - P -->
+    <string name="ONBOARDING_B_FOUR">No charge to send or receive EMwithME messages</string>
+    <!-- ONBOARDING B: Text for fifth screen - P -->
+    <string name="ONBOARDING_B_FIVE">Forget auto-correct - just Take it Back</string>
+    <!-- ONBOARDING B: Text for sixth screen - P -->
+    <string name="ONBOARDING_B_SIX">Lấy lại bất kỳ tin nhắn EMwithME bất kỳ lúc nào, vì vậy bạn có thể luôn luôn nói những gì bạn muốn</string>
+    <!-- Registration text for email - P -->
+    <string name="REGISTER_EMAIL_EXPLAINATION">Vui lòng xác nhận nước của bạn và nhập địa chỉ email để tiếp tục.</string>
+    <!-- Registration text for mobile - P -->
+    <string name="REGISTER_MOBILE_EXPLAINATION">Vui lòng xác nhận nước của bạn và nhập số điện thoại di động để tiếp tục.</string>
+    <!-- Message telling user a verification message will be sent either to their email or mobile - P -->
+    <string name="SEND_VERIFICATION_EXPLAINATION">Một mã xác nhận đã được gởi tới bạn.</string>
+    <!-- Sending validation code - P -->
+    <string name="SEND_VALIDATION_CODE_EXPLAINATION">{0} \n\ntrên là chính xác chứ?</string>
+    <!-- Title of the register with Mobile page - P -->
+    <string name="MOBILE_TITLE">Di Động</string>
+    <!-- Mobile number - P -->
+    <string name="MOBILE_NUMBER">Số Di Động</string>
+    <!-- Title of the register with Email page - P -->
+    <string name="EMAIL_TITLE">Email</string>
+    <!-- Placeholder text within the textbox where user is supposed to enter their email address -->
+    <string name="EMAIL_ADDRESS">Địa chỉ Email</string>
+    <!-- Title of the Verification page - P -->
+    <string name="VERIFICATION_TITLE">Sự Xác Nhận</string>
+    <!-- Placeholder text within the textbox where user is supposed to enter their verification code - P -->
+    <string name="VERIFICATION_CODE">Mã Xác Nhận</string>
+    <!-- Verification text  - P -->
+    <string name="VERIFY_ACCOUNT_EXPLAINATION">Nhập mã xác nhận của bạn</string>
+    <!-- Message sent to users attempting to register their mobile phone - P -->
+    <string name="VALIDATION_MESSAGE_SMS">Vui lòng xác nhận tài khoản của bạn bằng cách nhấn vào liên kết này trên điện thoại di động của bạn:</string>
+    <!-- Text in plain text emails telling users they can click a link to validate their account - P -->
+    <string name="VALIDATION_MESSAGE_PLAIN">Vui lòng xác nhận tài khoản của bạn bằng cách nhập mã này:%1$s</string>
+    <!-- Text in HTML emails telling users they can click a link to validate their account - P -->
+    <string name="VALIDATION_MESSAGE_HTML">Hoặc, nếu bạn đang sử dụng điện thoại mà bạn đã dùng để đăng ký, đơn giản là bạn có thể nhấn</string>
+    <!-- New text in HTML emails telling users they can click a link to validate their account -->
+    <string name="VALIDATION_MESSAGE_HTML_TWO">Click here to validate your account if you are on your mobile device.</string>
+    <!-- Error registering user with email - P -->
+    <string name="ERROR_REGISTER_EMAIL_EXPLAINATION">Có một sự cố trong quá trình đăng ký tài khoản của bạn với địa chỉ email mà bạn đã cung cấp.</string>
+    <!-- Should we separate these out based on error type?  For example, invalid number (800) number vs. other issues. -->
+    <string name="ERROR_REGISTER_MOBILE_EXPLAINATION">Có một sự cố trong quá trình đăng ký tài khoản của bạn với số điện thoại di động mà bạn đã cung cấp.</string>
+    <!-- Error verifying user - P -->
+    <string name="ERROR_VERIFY_ACCOUNT_EXPLAINATION">Xác nhận thất bại. Làm ơn chắc chắn là bạn đã nhập mã xác nhận chính xác và thử lại lần nữa.</string>
+    <!-- Text indicating a user can click a link to unsubscribe from emails - P -->
+    <string name="UNSUBSCRIBE_SHORT">Hủy Đăng Ký</string>
+    <!-- Text explaining to a user that they can unsubscribe from future emails - P -->
+    <string name="UNSUBSCRIBE_LONG">Bạn nhận được email này bởi vì gần đây bạn đã đăng ký với EMwithME. Nếu điều này là một lỗi, làm ơn sử dụng liên kết hủy đăng ký bên dưới.</string>
+    <!-- Text in SMS sent to new user to validate their account - P -->
+    <string name="VERIFY_NOW">Hoặc nhập mã này:%1$s</string>
+    <!-- Text for existing users asking them if they would like to download their historical messages - P -->
+    <string name="DOWNLOAD_HISTORICAL_MESSAGES">Bạn có muốn tải các tin nhắn cũ của bạn không?\n\nCHÚ Ý: Hành động này có thể mất một khoảng thời gian.</string>
+    <!-- Message shown to new users when we first try to access their address book - P -->
+    <string name="ACCESS_ADDRESS_BOOK_MESSAGE">EMwithME cần truy cập danh sách địa chỉ của bạn để bạn có thể tìm kiếm những người bạn của bạn theo tên trong ứng dụng.</string>
+    <!-- Title of the (singular) Notification page - P -->
+    <string name="NOTIFICATION_TITLE">Thông Báo</string>
+    <!-- Title of the Notifications page - P -->
+    <string name="NOTIFICATIONS_TITLE">Các Thông Báo</string>
+    <!-- Unread - P -->
+    <string name="UNREAD_BUTTON">Chưa Đọc</string>
+    <!-- Read - P -->
+    <string name="READ_BUTTON">Đã Đọc</string>
+    <!-- All - P -->
+    <string name="ALL_BUTTON">Tất Cả</string>
+    <!-- Button text to encourage an action for the user to send a message - P -->
+    <string name="SEND_MESSAGE_TEXT">Gởi Tin Nhắn</string>
+    <!-- Short description of this notification when a user joins EMwithME - P -->
+    <string name="NOTIFICATION_WELCOME_TITLE">Chào mừng bạn đến EMwithME!</string>
+    <!-- Full description of this notification when a user joins EMwithME - P -->
+    <string name="NOTIFICATION_WELCOME_TEXT">Chào mừng bạn đến EMwithME! Vui lòng mở trang Hồ Sơ và thêm Họ và Tên. Bạn có thể gởi tin nhắn EMwithME, hình ảnh và video không hạn chế tới tất cả những người bạn của bạn - miễn phí!</string>
+    <!-- Short description of this notification when a user friend joins EMwithME - P -->
+    <string name="NOTIFICATION_JOIN_TITLE">%1$s vừa mới tham gia EMwithME!</string>
+    <!-- Full description of this notification when a user friend joins EMwithME - P -->
+    <string name="NOTIFICATION_JOIN_TEXT">%1$s vừa mới tham gia EMwithME! Hãy gởi một thông điệp để chào mừng họ.</string>
+    <!-- Full description of this notification when the current user was added to a group - P -->
+    <string name="NOTIFICATION_YOU_ADDED_GROUP_TEXT">%1$s đã thêm bạn vào nhóm %2$s. Hãy gởi một thông điệp cho nhóm.</string>
+    <!-- Short description of this notification when the current user was added to a group - P -->
+    <string name="NOTIFICATION_YOU_ADDED_GROUP_TITLE">%1$s đã thêm bạn vào nhóm %2$s</string>
+    <!-- Full description of this notification when the current user was removed from a group - P -->
+    <string name="NOTIFICATION_YOU_REMOVED_GROUP_TEXT">%1$s vừa mới xóa bạn ra khỏi nhóm %2$s.</string>
+    <!-- Short description of this notification when the current user was removed from a group - P -->
+    <string name="NOTIFICATION_YOU_REMOVED_GROUP_TITLE">Bạn đã bị xóa ra khỏi nhóm %1$s</string>
+    <!-- Full description of this notification when another user was added to a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_ADDED_GROUP_TEXT">%1$s vừa mới thêm %2$s tới nhóm %3$s. Hãy gởi một thông điệp cho nhóm.</string>
+    <!-- Short description of this notification when another user was added to a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_ADDED_GROUP_TITLE">%1$s đã thêm %2$s vào nhóm %3$s</string>
+    <!-- Full description of this notification when another user was removed from a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_REMOVED_GROUP_TEXT">%1$s vừa mới xóa %2$s ra khỏi nhóm %3$s.</string>
+    <!-- Short description of this notification when another user was removed from a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_REMOVED_GROUP_TITLE">%1$s đã xóa %2$s ra khỏi nhóm %3$s</string>
+    <!-- Short description of this notification when a group gets deleted -->
+    <string name="NOTIFICATION_GROUP_DELETED_TITLE">Nhóm %1$s đã bị xóa</string>
+    <!-- Full description of this notification when a group gets deleted -->
+    <string name="NOTIFICATION_GROUP_DELETED_TEXT">%1$s đã xóa nhóm %2$s.</string>
+    <!-- Title of the Inbox page - P -->
+    <string name="INBOX_TITLE">Tin nhắn</string>
+    <!-- Title of the page when a user begins to send a new message - P -->
+    <string name="NEW_MESSAGE_TITLE">Tin Nhắn Mới</string>
+    <!-- To - P -->
+    <string name="TO">Tới:</string>
+    <!-- From - P -->
+    <string name="FROM">Từ</string>
+    <!-- Message indicating someone is typing - P -->
+    <string name="IS_TYPING_SINGULAR">{0} đang gõ</string>
+    <!-- Message indicating two people are typing - P -->
+    <string name="IS_TYPING_DUAL">{0} và {1} đang gõ</string>
+    <!-- Message indicating more than two people are typing - P -->
+    <string name="IS_TYPING_MULTIPLE">Nhiều người đang gõ</string>
+    <!-- NOTE FOR TRANSLATORS: You may translate "Error" if there is not a suitable word for "Whoops" in your language -->
+    <string name="SEND_MESSAGE_FAILED_TITLE">Lỗi</string>
+    <!-- Error message explaining why a message cannot be sent - P -->
+    <string name="SEND_MESSAGE_FAILED_REASON">Một hay nhiều người trong cuộc trò chuyện này không còn truy cập nữa. Bạn có thể đọc lại lịch sử cuộc trò chuyện nhưng sẽ không có tin nhắn mới nào được gửi.</string>
+    <!-- Title of alert box indicating they have disabled EMwithME access to their microphone -->
+    <string name="RECORDING_PERMISSIONS_TITLE">Quyền Gửi Tin Nhắn Thoại</string>
+    <!-- Text explaination of alert box indicating how to enable their microphone -->
+    <string name="RECORDING_PERMISSIONS_EXPLAINATION">Hiện tại chức năng gửi tin nhắn thoại đã bị vô hiệu hóa. Mở Cài Đặt của Apple ứng dụng &gt; Cài đặt &gt; Riêng Tư &gt; Micrô để kích hoạt tính năng này.</string>
+    <!-- Save (This is used to save sent media to your device) -->
+    <string name="SAVE_BUTTON">Lưu</string>
+    <!-- Attach - P -->
+    <string name="ATTACH_BUTTON">Đính Kèm</string>
+    <!-- Camera - P -->
+    <string name="CAMERA_BUTTON">Máy Ảnh</string>
+    <!-- Media Library Android Only - P -->
+    <string name="MEDIA_LIBRARY">Thư Viện Đa Phương Tiện</string>
+    <!-- Take Photo Android only - P -->
+    <string name="TAKE_PHOTO">Chụp Hình</string>
+    <!-- Take Video Android only - P -->
+    <string name="TAKE_VIDEO">Quay Phim</string>
+    <!-- Select Media Android only - P -->
+    <string name="SELECT_MEDIA">Chọn Tệp Đa Phương Tiện</string>
+    <!-- Photo Library (iOS only) when we only allow photo selection - P -->
+    <string name="PHOTO_LIBRARY_BUTTON">Thư Viện Hình Ảnh</string>
+    <!-- Photo and Video Library (iOS) on the users phone or tablet -->
+    <string name="PHOTO_AND_VIDEO_LIBRARY_BUTTON">Thư Viện Video và Hình Ảnh</string>
+    <!-- Rotate Left - P -->
+    <string name="ROTATE_LEFT">Xoay Trái</string>
+    <!-- Rotate Right - P -->
+    <string name="ROTATE_RIGHT">Xoay Phải</string>
+    <!-- Where in the app is this? NL: on android, when cropping images - P -->
+    <string name="DISCARD_BUTTON">Bỏ</string>
+    <!-- When going through photos or videos, this keeps a count / track - P -->
+    <string name="MEDIA_GALLERY_COUNT">{0} của {1}</string>
+    <!-- When sending single media object to another user -->
+    <string name="SEND_MEDIA_SINGULAR">Send {0} Item</string>
+    <!-- When sending multiple media objects to another user -->
+    <string name="SEND_MEDIA_MULTIPLE">Send {0} Items</string>
+    <!-- One video - P -->
+    <string name="MEDIA_PREVIEW_MOVIE">Đính Kèm: 1 Video</string>
+    <!-- One image - P -->
+    <string name="MEDIA_PREVIEW_PHOTO">Đính Kèm: 1 Hình</string>
+    <!-- One sound - P -->
+    <string name="MEDIA_PREVIEW_SOUND">Đính Kèm: 1 Tệp Âm Thanh</string>
+    <!-- You sent one video -->
+    <string name="MEDIA_PREVIEW_MOVIE_YOU">You sent a video</string>
+    <!-- You sent one image -->
+    <string name="MEDIA_PREVIEW_PHOTO_YOU">You sent an image</string>
+    <!-- You sent one sound -->
+    <string name="MEDIA_PREVIEW_SOUND_YOU">You sent an audio clip</string>
+    <!-- Text that shows the last message you sent. The {0} will be replaced with the actual text you sent -->
+    <string name="YOU_PREAMBLE">You: {0}</string>
+    <!-- This is not to be used for the header title of the Web Search page after tapping Web Search (the string below) -->
+    <string name="SEARCH_TITLE">Tìm Kiếm</string>
+    <!-- Photo Search - P -->
+    <string name="WEB_SEARCH">Tìm Kiếm Hình Ảnh</string>
+    <!-- Random search string used to seed image search when no prior search has been made - P -->
+    <string name="RANDOM_SEARCH">ngẫu nhiên</string>
+    <!-- Error displayed to user if no images were found - P -->
+    <string name="NO_IMAGES_FOUND">Không có hình nào được tìm thấy. Hãy nhập một từ khóa tìm kiếm khác và thử lại lần nữa.</string>
+    <!-- Error displayed to user if an error occurred when searching for images - P -->
+    <string name="IMAGE_SEARCH_ERROR">Có một lỗi trong quá trình tìm kiếm. Vui lòng thử lại lần nữa.</string>
+    <!-- Error displayed to user if an error occurred when converting their video - P -->
+    <string name="VIDEO_CONVERT_ERROR">Có một lỗi trong khi xử lý video này. Vui lòng thử lại lần nữa.</string>
+    <!-- Error displayed ot user if an error occurred when trying to select an image - P -->
+    <string name="IMAGE_SELECTION_ERROR">Có một lỗi trong quá trình xử lý hình mà bạn đã chọn. Vui lòng thử lại lần nữa.</string>
+    <!-- Toast message user sees when trying to share media using EMwithME before they have registered (Android only) -->
+    <string name="SHARE_MEDIA_REGISTER_FIRST">Bạn phải đăng ký với EMwithME trước khi bạn có thể chia sẻ tệp đa phương tiện.</string>
+    <!-- Message to user (iOS only) if they have not allowed EMwithME access to their photos and they try to send a photo -->
+    <string name="ALLOW_ACCESS_PHOTOS">Please give EMwithME permission to access photos in order to share them!</string>
+    <!-- The text appended to every message sent via SMS - P -->
+    <string name="SMS_AFTERWORD">Đã Gởi thông qua EMwithME. Viếng thăm chúng tôi @ http://EMwith.ME</string>
+    <!-- The subject text telling a user they have a new message. %1$s will be replaced by the senders name - P -->
+    <string name="EMAIL_NEW_MESSAGE_SUBJECT_TWO">Bạn có một tin nhắn EMwithME mới từ %1$s</string>
+    <!-- The subject text telling a user they have a new notificaiton -->
+    <string name="EMAIL_NEW_NOTIFICATION_SUBJECT">Bạn có một thông báo EMwithME mới</string>
+    <!-- HTML text in the email indicating they can reply to the message. %1$s will be replaced by the senders name -->
+    <string name="EMAIL_WRITE_BACK_HTML">Muốn phản hồi lại %1$s? Chỉ cần nhấn phản hồi và gửi cho họ một email hoặc tải &lt;a href=\'https://api.emwith.me/landingpage/tracking/EM/NewMessage/emailreplylink\' title=\'EMwithME\' target=\'_blank\'&gt;EMwithME&lt;/a&gt;.</string>
+    <!-- Text in the email indicating they can reply to the message. %1$s will be replaced by the senders name -->
+    <string name="EMAIL_WRITE_BACK_PLAIN">Muốn phản hồi lại %1$s? Chỉ cần nhấn phản hồi và gửi cho họ một email hoặc tải EMwithME.</string>
+    <!-- Text in the email saying email was sent via EMwithME -->
+    <string name="SENT_VIA_EM">Đã gửi thông qua EMwithME</string>
+    <!-- Link in the email for more information -->
+    <string name="MORE_INFORMATION">Chi Tiết</string>
+    <!-- Default message to user that gets sent as an SMS letting user know they need to install EMwithME to see their message  - P -->
+    <string name="SMS_DEFAULT_MESSAGE">Có một tin nhắn EMwithME mới đang đợi bạn! Vui lòng viếng thăm chúng tôi @ http://EMwith.ME để tải ứng dụng và đọc tin nhắn của bạn.</string>
+    <!-- The subject text telling a user to validate their EMwithME account - P -->
+    <string name="EMAIL_VALIDATION_SUBJECT">Xác nhận tài khoản EMwithME của bạn.</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_MEDIA_NO_NAME">Bạn đã được gởi một tin nhắn đa phương tiện. Vui lòng cài đặt EMwithME để xem.</string>
+    <!-- A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_PHOTO_NO_NAME">Bạn đã được gởi một bức ảnh. Vui lòng cài đặt EMwithME để xem.</string>
+    <!-- A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_VIDEO_NO_NAME">Bạn đã được gởi một video. Vui lòng cài đặt EMwithME để xem.</string>
+    <!-- A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_SOUND_NO_NAME">Bạn đã được gởi một tin nhắn ghi âm. Vui lòng cài đặt EMwithME để xem.</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_MEDIA_PREFIX_NAME">%1$s đã gởi cho bạn một tin nhắn đa phương tiện. Vui lòng cài đặt EMwithME để xem.</string>
+    <!-- A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_PHOTO_PREFIX_NAME">%1$s đã gởi cho bạn một bức ảnh. Vui lòng cài đặt EMwithME để xem.</string>
+    <!-- A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_VIDEO_PREFIX_NAME">%1$s đã gởi cho bạn một video. Vui lòng cài đặt EMwithME để xem.</string>
+    <!-- A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_SOUND_PREFIX_NAME">%1$s đã gởi cho bạn một tin nhắn ghi âm. Vui lòng cài đặt EMwithME để xem.</string>
+    <!-- Hide DEPRECATED - P -->
+    <string name="HIDE_BUTTON">Ẩn</string>
+    <!-- Text explaining to user what local delete/hide does DEPRECATED - P -->
+    <string name="DELETE_EXPLAINATION">Ẩn xóa bỏ tin nhắn từ lịch sử cuộc trò chuyện cục bộ của bạn. Hành động này không thể được hoàn tác.</string>
+    <!-- Delete - P -->
+    <string name="DELETE_BUTTON">Xóa</string>
+    <!-- A deleted message from the Take it Back / remote delete functionality. - P -->
+    <string name="DELETED_STATUS">Tin Nhắn Đã Được Xóa</string>
+    <!-- Remote Delete - P -->
+    <string name="REMOTE_DELETE_BUTTON">Lấy Lại</string>
+    <!-- Text explaining to user what Remote Delete does - P -->
+    <string name="REMOTE_DELETE_EXPLAINATION">Lấy Lại sẽ xóa tin nhắn từ thiết bị của bạn và của (các)người nhận.</string>
+    <!-- Where in the app is this? This is referenced in code but does not get displayed -->
+    <string name="HISTORICAL_STATUS">Lịch sử</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_MEDIA_NO_NAME">Bạn đã được gởi một tin nhắn đa phương tiện.</string>
+    <!-- A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_PHOTO_NO_NAME">Bạn đã được gởi một bức ảnh.</string>
+    <!-- A user sent a video message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_VIDEO_NO_NAME">Bạn đã được gởi một video.</string>
+    <!-- A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_SOUND_NO_NAME">Bạn đã được gởi một tin nhắn ghi âm.</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_MEDIA_PREFIX_NAME">%1$s đã gởi cho bạn một tin nhắn đa phương tiện.</string>
+    <!-- A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_PHOTO_PREFIX_NAME">%1$s đã gởi cho bạn một bức ảnh.</string>
+    <!-- A user sent a video message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_VIDEO_PREFIX_NAME">%1$s đã gởi cho bạn một video.</string>
+    <!-- A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_SOUND_PREFIX_NAME">%1$s đã gởi cho bạn một tin nhắn ghi âm.</string>
+    <!-- No SD card - P -->
+    <string name="ANDROID_MEDIA_NO_STORAGE_CARD">Không có thẻ lưu trữ</string>
+    <!-- Preparing SD card - P -->
+    <string name="ANDROID_MEDIA_PREPARING_STORAGE_CARD">Chuẩn bị Thẻ</string>
+    <!-- Not enough space on SD card - P -->
+    <string name="ANDROID_MEDIA_NOT_ENOUGH_SPACE_ON_CARD">Không đủ dung lượng</string>
+    <!-- Title of the My Account page - P -->
+    <string name="MY_ACCOUNT_TITLE">Hồ sơ</string>
+    <!-- Title of the Choose a Color page - P -->
+    <string name="CHOOSE_COLOR_TITLE">Chọn một màu</string>
+    <!-- Text indicating to a user that they can change the app color theme - P -->
+    <string name="COLOR_THEME">Bảng màu</string>
+    <!-- Text indicating to a user that they can change the app color theme (Plural) - P -->
+    <string name="COLOR_THEME_PLURAL">Các bảng màu</string>
+    <!-- Choose icon to associate with a screen name - P -->
+    <string name="CHOOSE_ICON">Chọn biểu tượng</string>
+    <!-- The text shown to a user that leaves their name blank in their Account - P -->
+    <string name="BLANK_DISPLAY_NAME">Bạn đã bỏ trống trường Tên. Chúng tôi sẽ sử dụng {0} như là Tên của bạn.</string>
+    <!-- Share profile - P -->
+    <string name="SHARE_PROFILE">Chia Sẻ Hồ Sơ</string>
+    <!-- Text showing where user can choose to share their profile - P -->
+    <string name="SHARE_TO">Chia Sẻ Cho</string>
+    <!-- Text shown to user if we could not locate an app in which we could share their profile to - P -->
+    <string name="INSTAGRAM_NOT_FOUND">Chúng tôi đã không tìm thấy bất kỳ ứng dụng hỗ trợ chia sẻ nào được cài đặt trên thiết bị của bạn. Hiện tại, chúng tôi chỉ có thể chia sẻ thông qua Instagram. Nếu bạn muốn chia sẻ hồ sơ của bạn, vui lòng cài đặt Instagram và thử lại lần nữa.</string>
+    <!-- Text shown to user if we could not locate an app in which we could share their profile to - P -->
+    <string name="SHARE_APP_NOT_FOUND">Chúng tôi đã không tìm thấy bất kỳ ứng dụng hỗ trợ chia sẻ nào được cài đặt trên thiết bị của bạn. Hiện tại, chúng tôi chỉ có thể chia sẻ thông qua Instagram, Twitter và Facebook. Nếu bạn muốn chia sẻ hồ sơ của bạn, vui lòng cài đặt một trong những ứng dụng này và thử lại lần nữa.</string>
+    <!-- Default caption we pre-fill when a user shares their AKA on Instagram. The {0} will be dynamically replaced with the user AKA - P -->
+    <string name="INSTAGRAM_SHARE_DEFAULT_MESSAGE">Gởi tin nhắn cho tôi trên EMwithME! Tên hiển thị của tôi là {0}. Miễn phí đối với iOS &amp; Android. @EMtheApp #{0} #EMwithME</string>
+    <!-- Text in the image being shared in Instagram that is a call to action -->
+    <string name="INSTAGRAM_CALL_TO_ACTION">Gửi tin nhắn cho tôi trên EMwithME</string>
+    <!-- Title of the contacts page - P -->
+    <string name="CONTACTS_TITLE">Liên hệ</string>
+    <!-- Title of Help page - P -->
+    <string name="HELP_TITLE">Giúp đỡ</string>
+    <!-- Text for user to click to view our getting started -->
+    <string name="GETTING_STARTED">Bắt đầu</string>
+    <!-- URL for getting started -->
+    <string name="GETTING_STARTED_URL">http://api.emwith.me/web/onboarding/gettingstarted</string>
+    <!-- Text for user to click to view our tips -->
+    <string name="TIPS">Tips</string>
+    <!-- URL for tips -->
+    <string name="TIPS_URL">http://api.emwith.me/web/onboarding/tips</string>
+    <!-- Text for user to click to view our support site -->
+    <string name="SUPPORT">Support</string>
+    <!-- URL for support -->
+    <string name="SUPPORT_URL">http://emwithme.zendesk.com</string>
+    <!-- Profile title - P -->
+    <string name="PROFILES_TITLE">Hồ Sơ</string>
+    <!-- Details - P -->
+    <string name="DETAILS">Chi Tiết</string>
+    <!-- Add contact button - P -->
+    <string name="ADD_CONTACT_BUTTON">Thêm vào Danh Sách Liên Hệ</string>
+    <!-- Text explaining a contact has been added. The {0} will be dynamically substituted with the persons name -->
+    <string name="ADD_CONTACT_EXPLAINATION">{0} đã được thêm vào danh sách liên hệ của bạn.</string>
+    <!-- Remove contact button - P -->
+    <string name="REMOVE_CONTACT_BUTTON">Xóa từ Danh Sách Liên Hệ</string>
+    <!-- Block contact button - P -->
+    <string name="BLOCK_CONTACT_BUTTON">Chặn Người</string>
+    <!-- Unblock contact button - P -->
+    <string name="UNBLOCK_CONTACT_BUTTON">Bỏ Chặn Người</string>
+    <!-- Alias -->
+    <string name="ALIAS">Bí Danh</string>
+    <!-- Alias Title on sidebar - P -->
+    <string name="ALIAS_TITLE">Bí Danh</string>
+    <!-- Setup Account Screen Name text - P -->
+    <string name="SETUP_ALIAS">Bí Danh là một người dùng, công khai và duy nhất. Bạn có thể sử dụng chúng để gởi tin nhắn cho những người khác mà không tiết lộ thông tin nhận diện như tên hoặc số điện thoại di động của bạn. Bạn có muốn thiết lập một AKA không?</string>
+    <!-- Add alias - P -->
+    <string name="ADD_ALIAS_BUTTON">Thêm một Bí Danh</string>
+    <!-- Edit Alias - P -->
+    <string name="EDIT_ALIAS_TITLE">Chỉnh Sửa Bí Danh</string>
+    <!-- Delete alias button - P -->
+    <string name="DELETE_ALIAS_BUTTON">Xóa Bí Danh</string>
+    <!-- Error message when alias is already taken - P -->
+    <string name="ALIAS_ALREADY_TAKEN">Bí Danh này đã tồn tại. Vui lòng chọn bí danh khác.</string>
+    <!-- Will need to adjust for double byte at some point -->
+    <string name="ALIAS_TOO_SHORT">Bí Danh này thì quá ngắn. Vui lòng chọn một Bí Danh dài hơn năm ký tự.</string>
+    <!-- Error message when alias contains inappropriate word(s) - P -->
+    <string name="ALIAS_INAPPROPRIATE">Bí Danh này thì không hợp lệ. Vui lòng chọn bí danh khác.</string>
+    <!-- Error message when alias name is a phone number - P -->
+    <string name="ALIAS_PHONE">Bí Danh không thể là số điện thoại. Vui lòng chọn bí danh khác.</string>
+    <!-- Error message when alias name is an email address - P -->
+    <string name="ALIAS_EMAIL">Bí Danh không thể là địa chỉ email. Vui lòng chọn bí danh khác.</string>
+    <!-- Error message when an alias contains invalid characters (such as spaces) - P -->
+    <string name="ALIAS_INVALID">Bí Danh này chứa các ký tự không hợp lệ (như khoảng trống, @ hoặc dấu chấm). Vui lòng chọn bí danh khác.</string>
+    <!-- Generic error message when alias cannot be saved - P -->
+    <string name="ALIAS_GENERIC_ERROR">Một lỗi xảy ra khi xử lý Bí Danh của bạn. Vui lòng thử lại lần nữa.</string>
+    <!-- Message of alert box presented to user when trying to delete an Alias - P -->
+    <string name="ALIAS_DELETE_CONFIRMATION_MESSAGE">Xóa Bí Danh này có nghĩa là bạn sẽ không còn có thể gửi hoặc nhận tin nhắn với tài khoản đó nữa. Bạn có chắc là bạn muốn xóa nó không?</string>
+    <!-- Title of alert box presented to user when clicking on an Alias they have deleted - P -->
+    <string name="ALIAS_DELETED_TITLE">Bí Danh đã được Xóa</string>
+    <!-- Message of alert box presented to user when clicking on an Alias they have deleted - P -->
+    <string name="ALIAS_DELETED_MESSAGE">Bí Danh này đã được Xóa, nó sẽ được giữ lại trong vòng 24 giờ trước khi sẵn sàng cho người dùng khác chọn. Bạn có thể phục hồi Bí Danh này bất cứ lúc nào trong suốt thời gian này.</string>
+    <!-- Message of alert box presented to user when reviewing their chat history on an Alias they have deleted -->
+    <string name="ALIAS_DELETED_CHAT_HISTORY_MESSAGE">Your AKA has been deleted. You can review the conversation history but no new messages can be sent.</string>
+    <!-- Button text of the alert box for the user to reactivate their deleted Alias - P -->
+    <string name="ALIAS_DELETED_REACTIVATE">Kích Hoạt Lại</string>
+    <!-- About - P -->
+    <string name="ABOUT_TITLE">Giới Thiệu</string>
+    <!-- Text saying which version of EMwithME the user has currently installed. The {0} is dynamically replaced with the current version - P -->
+    <string name="VERSION">Phiên Bản {0}</string>
+    <!-- Text for a user to click to view our credits webpage - P -->
+    <string name="CREDITS">Chứng chỉ</string>
+    <!-- URL for credits -->
+    <string name="CREDITS_URL">http://EMwith.ME/credits</string>
+    <!-- Text for user to click to view our FAQ - P -->
+    <string name="FAQ">Câu Hỏi Thường Gặp</string>
+    <!-- URL for FAQ - P -->
+    <string name="FAQ_URL">http://EMwith.ME/faq</string>
+    <!-- Text for a user to click to view our privacy policy - P -->
+    <string name="PRIVACY_POLICY">Chính Sách Về Quyền Riêng Tư</string>
+    <!-- URL for privacy policy - P -->
+    <string name="PRIVACY_POLICY_URL">http://EMwith.ME/privacy</string>
+    <!-- Text for a user to click to view our end user license agreement (EULA) - P -->
+    <string name="EULA">Thỏa Thuận Cấp Phép Cho Người Dùng Cuối</string>
+    <!-- URL for EULA - P -->
+    <string name="EULA_URL">http://EMwith.ME/eula</string>
+    <!-- URL for Facebook -->
+    <string name="FACEBOOK_URL">http://facebook.com/emtheapp</string>
+    <!-- URL for Twitter -->
+    <string name="TWITTER_URL">http://twitter.com/emtheapp</string>
+    <!-- Copyright - P -->
+    <string name="COPYRIGHT">Bản Quyền (c) 2015 WhosHere, Inc. Đã Đăng Ký Bản Quyền. EM và EMwithME là thương hiệu của WhosHere, Inc.</string>
+    <!-- Invite Friends -->
+    <string name="INVITE_FRIENDS_TITLE">Mời bạn bè</string>
+    <!-- Message body to send invitation(s) via SMS -->
+    <string name="INVITE_FRIENDS_VIA_SMS_MESSAGE">Bạn có muốn gửi lời mời bằng SMS không?</string>
+    <!-- Message body to send invitation(s) via Email -->
+    <string name="INVITE_FRIENDS_VIA_EMAIL_MESSAGE">Bạn có muốn gửi lời mời bằng Email không?</string>
+    <!-- Label shown when Android users finish selecting who they would like to invite via Email and are shown which email client they would like to use to send the invitation(s) -->
+    <string name="INVITE_FRIENDS_SEND_EMAIL_LABEL">Gửi Email thông qua...</string>
+    <!-- Toast message (Android specific) shown to user as SMS invitation(s) are sent out. {0} will be replaced with current number of SMS going out, {1} will be replaced with total SMS going out -->
+    <string name="INVITE_FRIENDS_SMS_SENDING_TOAST_MESSAGE">Đang gửi {0} của {1}...</string>
+    <!-- Title of alert when device is incapable of sending SMS -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_SMS_TITLE">Không thể gửi lời mời bằng SMS</string>
+    <!-- Message body of alert when device is incapable of sending SMS -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_SMS_MESSAGE">Thiết bị của bạn không thể gửi tin nhắn SMS.</string>
+    <!-- Title of alert when device is incapable of sending email -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_EMAIL_TITLE">Không thể gửi lời mời thông qua Email</string>
+    <!-- Message body of alert when device is incapable of sending email -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_EMAIL_MESSAGE">Thiết bị của bạn không thể gửi tin nhắn Email.</string>
+    <!-- Body of SMS invite message -->
+    <string name="INVITE_FRIENDS_SMS_MESSAGE">Này! Tôi đang sử dụng một ứng dụng gửi tin nhắn EMwithME mới mà Tôi muốn bạn thử. Tìm hiểu nó tại http://EMwith.ME</string>
+    <!-- Body of HTML Email invite message -->
+    <string name="INVITE_FRIENDS_EMAIL_MESSAGE">&lt;p&gt;Này! Tôi đang sử dụng một ứng dụng gửi tin nhắn EMwithME mới mà Tôi muốn bạn thử.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Tìm hiểu nó tại &lt;a href=\'http://EMwith.ME\' target=\'_blank\' title=\'EMwithME\'&gt;http://EMwith.ME&lt;/a&gt;</string>
+    <!-- Message body of alert when there was an error in sending SMS or Email invite -->
+    <string name="INVITE_FRIENDS_ERROR_MESSAGE">Đã có lỗi trong khi gửi lời mời của bạn. Vui lòng thử lại.</string>
+    <!-- Message body of alert when user cancels the invitation(s) -->
+    <string name="INVITE_FRIENDS_CANCELLED_MESSAGE">Bạn đã hủy lời mời của bạn.</string>
+    <!-- Title of alert for when user saved the email as a draft instead of sending it -->
+    <string name="INVITE_FRIENDS_EMAIL_DRAFT_SAVED_TITLE">Đã Lưu Bản Nháp</string>
+    <!-- Message body of alert for when user saved the email as a draft instead of sending it -->
+    <string name="INVITE_FRIENDS_EMAIL_DRAFT_SAVED_MESSAGE">Lời mời bạn soạn trong email đã được lưu như là bản nháp.</string>
+    <!-- Title of alert when user has successfully sent an invite (SMS/Email) -->
+    <string name="INVITE_FRIENDS_INVITATION_SENT_TITLE">Lời mời đã được gửi đi</string>
+    <!-- Message body of when the user has sent the invite successfully -->
+    <string name="INVITE_FRIENDS_INVITATION_SENT_MESSAGE">Lời mời của bạn đã được gửi thành công.</string>
+    <!-- Subject of invitation email -->
+    <string name="INVITE_FRIENDS_EMAIL_SUBJECT">Hãy tìm hiểu EMwithME!</string>
+    <!-- Text for user to associate EMwithME with WhosHere (iOS only) -->
+    <string name="ASSOCIATE_WITH_WHOSHERE">Liên kết với tài khoản WhosHere của bạn</string>
+    <!-- Text of alert asking user if they would like to associate EMwithME with WhosHere (iOS only) -->
+    <string name="ASSOCIATE_WITH_WHOSHERE_EXPLAINATION">Bạn có muốn liên kết EMwithME với tài khoản WhosHere của bạn để kiếm điểm miễn phí không?</string>
+    <!-- Translators: if 'Emily' is not a common name in your language/country/region, please substitute it with a female name that is common. -->
+    <string name="BOT_DISPLAY_NAME">Phượng - Trợ Lý Tự Động EMwithME</string>
+    <!-- Settings title -->
+    <string name="SETTINGS_TITLE">Cài đặt</string>
+    <!-- Sounds title -->
+    <string name="SOUNDS_TITLE">Âm thanh</string>
+    <!-- Text giving the user the option to turn on or off sounds for incoming messages -->
+    <string name="INCOMING_MESSAGES_SOUND">Tin Nhắn Đến</string>
+    <!-- Offline Notifications Title -->
+    <string name="OFFLINE_NOTIFICATIONS_TITLE">Thông báo ngoại tuyến</string>
+    <!-- Text giving the user the option to turn on or off offline notifications -->
+    <string name="OFFLINE_NOTIFICATIONS_SHOW">Hiển Thị trong Trung Tâm Thông Báo</string>
+    <!-- Text giving the user the option to turn on or off notification sounds -->
+    <string name="PLAY_SOUNDS">Bật Âm Thanh</string>
+    <!-- Text giving the user th eoption to turn on or off notificaitons that contain the message text or not -->
+    <string name="SHOW_PREVIEW">Hiển Thị Xem Trước</string>
+    <!-- Text that is shown to the user if they have selected to hide the actual preview text -->
+    <string name="TEXT_MESSAGE">Tin Nhắn Văn Bản</string>
+    <!-- In-App Settings Title -->
+    <string name="IN_APP_SETTINGS_TITLE">In-App Settings</string>
+    <!-- In-App Notifications -->
+    <string name="IN_APP_NOTIFICATIONS">In-App Notifications</string>
+    <!-- Text sent to user after they have onboarded to welcome them to EMwithME -->
+    <string name="GENERIC_WELCOME_MESSAGE">Welcome to EMwithME, the best messaging app for connecting with friends as well as protecting your identity.</string>
+    <!-- Button text encouraging user to invite their friends -->
+    <string name="INVITE_FRIENDS_BUTTON_TEXT">Invite Friends!</string>
+    <!-- Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends -->
+    <string name="WELCOME_WHOSHERE_USER_GENERIC_TEXT">Welcome to EMwithME! We see that you are a WhosHere user, thanks for trying EMwithME.</string>
+    <!-- Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends. %1$s will be dynamically replaced with the point total they will be rewarded with -->
+    <string name="WELCOME_WHOSHERE_USER_TEXT">Welcome to EMwithME! We see that you are a WhosHere user, and will reward you with %1$s points in WhosHere every time you receive a message from a new EMwithME user. So, be sure to invite your friends!</string>
+    <!-- Button text encouraging user to create an AKA -->
+    <string name="CREATE_AKA_BUTTON_TEXT">Create AKA!</string>
+    <!-- Text sent to user explaining AKAs -->
+    <string name="CREATE_AKA_TEXT">Did you know with EMwithME you can create AKAs that allow you to protect your personal information? AKAs are disposable screen names you can send and receive messages from.</string>
+    <!-- Text sent to WhosHere user explaining AKAs -->
+    <string name="CREATE_AKA_WHOSHERE_TEXT">WhosHere and EMwithME can work together seamlessly. When your accounts are linked it allows users to chat with you in EMwithME or WhosHere. With EMwithME, an AKA can be used to keep your personal information private. You choose if and when you share personal information like an email address or phone number.</string>
+    <!-- Title of alert when a user has reached their limit on number of AKAs -->
+    <string name="LIMIT_REACHED">Limit Reached</string>
+    <!-- Message body of alert when a user has reached their limit on number of AKAs -->
+    <string name="AKA_LIMIT_REACHED_MESSAGE">You\'ve reached the current maximum number of AKAs, you need to delete an existing one before creating a new one.</string>
+    <!-- Text sent to user once they have created an AKA -->
+    <string name="FIRST_AKA_CREATED_TEXT">You created an AKA. Now what? As long as someone knows your AKA they can write you by typing your AKA name in the \'To\' field. You can also write anyone from your AKA. Just select your AKA on \'From\' line when you start a new conversation.</string>
+    <!-- Button text encouraging user to create a group -->
+    <string name="CREATE_A_GROUP_BUTTON_TEXT">Create a Group!</string>
+    <!-- Text sent to user explaining they can create groups -->
+    <string name="CREATE_A_GROUP_TEXT">Did you know, with EMwithME, you can send messages to friends who don\'t even have EMwithME? All you need is their email address or mobile phone number. You can create a group of friends and send them all messages and it does not matter if some, or all, of them have EMwithME!</string>
+    <!-- Text sent to user once they have created their first group -->
+    <string name="FIRST_GROUP_CREATED_TEXT">You\'ve create your first Group! This group will show up in your EMwithME Contacts List, and in all the group member\'s Contacts List as well. Even group members who haven\'t joined EMwithME will receive an SMS or email message when you write to the group.</string>
+    <!-- Button text encouraging user to write to a group -->
+    <string name="WRITE_GROUP_BUTTON_TEXT">Write the Group!</string>
+    <!-- Text sent to user once they have been added to a group -->
+    <string name="FIRST_GROUP_ADDED_TEXT">You\'ve been added to a group by one of your friends. You\'ll now receive messages sent to this group and any replies you write will be sent to everyone. This group will appear in your Contacts List, so to write the group just start typing its name. If you ever decide you want to leave the group you can control that from the Groups page.</string>
+    <!-- Text sent to user explaining they can leave groups -->
+    <string name="LEAVE_A_GROUP_TEXT">With EMwithME you are in control. Don\'t like being on a group message? You can leave any group conversation, whether it be a formal group created by friends or just a message addressed to multiple people. Just go to the \'Details\' of that conversation to remove yourself.</string>
+    <!-- Text sent to user explaining they can take back their messages (part one) -->
+    <string name="TAKE_BACK_TEXT_ONE">With EMwithME you can take back messages you\'ve sent other EMwithME users. Just long press the message you sent and select \'Take it Back\'.</string>
+    <!-- Text sent to user explaining they can take back their messages (part two) -->
+    <string name="TAKE_BACK_TEXT_TWO">I\'m going to take back this message.</string>
+    <!-- Text sent to user explaining they can take back their messages (part three) -->
+    <string name="TAKE_BACK_TEXT_THREE">Now your turn. Send me a message, then long press it to Take it Back.</string>
+</resources>

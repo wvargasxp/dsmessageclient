@@ -1,0 +1,432 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1A3FB674199943FC00D0D178 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A3FB673199943FC00D0D178 /* Foundation.framework */; };
+		1A3FB682199943FC00D0D178 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A3FB681199943FC00D0D178 /* XCTest.framework */; };
+		1A3FB683199943FC00D0D178 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A3FB673199943FC00D0D178 /* Foundation.framework */; };
+		1A3FB685199943FC00D0D178 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A3FB684199943FC00D0D178 /* UIKit.framework */; };
+		1A3FB688199943FC00D0D178 /* libFPPopoverBinding.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 1A3FB670199943FC00D0D178 /* libFPPopoverBinding.a */; };
+		1A3FB68E199943FC00D0D178 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1A3FB68C199943FC00D0D178 /* InfoPlist.strings */; };
+		1A3FB690199943FC00D0D178 /* FPPopoverBindingTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3FB68F199943FC00D0D178 /* FPPopoverBindingTests.m */; };
+		1A3FB6A01999441400D0D178 /* FPPopoverController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3FB69B1999441400D0D178 /* FPPopoverController.m */; };
+		1A3FB6A11999441400D0D178 /* FPPopoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3FB69D1999441400D0D178 /* FPPopoverView.m */; };
+		1A3FB6A21999441400D0D178 /* FPTouchView.m in Sources */ = {isa = PBXBuildFile; fileRef = 1A3FB69F1999441400D0D178 /* FPTouchView.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		1A3FB686199943FC00D0D178 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 1A3FB668199943FC00D0D178 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 1A3FB66F199943FC00D0D178;
+			remoteInfo = FPPopoverBinding;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		1A3FB66E199943FC00D0D178 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		1A3FB670199943FC00D0D178 /* libFPPopoverBinding.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libFPPopoverBinding.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A3FB673199943FC00D0D178 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		1A3FB677199943FC00D0D178 /* FPPopoverBinding-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "FPPopoverBinding-Prefix.pch"; sourceTree = "<group>"; };
+		1A3FB680199943FC00D0D178 /* FPPopoverBindingTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FPPopoverBindingTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A3FB681199943FC00D0D178 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		1A3FB684199943FC00D0D178 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		1A3FB68B199943FC00D0D178 /* FPPopoverBindingTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FPPopoverBindingTests-Info.plist"; sourceTree = "<group>"; };
+		1A3FB68D199943FC00D0D178 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1A3FB68F199943FC00D0D178 /* FPPopoverBindingTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FPPopoverBindingTests.m; sourceTree = "<group>"; };
+		1A3FB6991999441400D0D178 /* ARCMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ARCMacros.h; sourceTree = "<group>"; };
+		1A3FB69A1999441400D0D178 /* FPPopoverController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FPPopoverController.h; sourceTree = "<group>"; };
+		1A3FB69B1999441400D0D178 /* FPPopoverController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FPPopoverController.m; sourceTree = "<group>"; };
+		1A3FB69C1999441400D0D178 /* FPPopoverView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FPPopoverView.h; sourceTree = "<group>"; };
+		1A3FB69D1999441400D0D178 /* FPPopoverView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FPPopoverView.m; sourceTree = "<group>"; };
+		1A3FB69E1999441400D0D178 /* FPTouchView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FPTouchView.h; sourceTree = "<group>"; };
+		1A3FB69F1999441400D0D178 /* FPTouchView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FPTouchView.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		1A3FB66D199943FC00D0D178 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A3FB674199943FC00D0D178 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A3FB67D199943FC00D0D178 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A3FB682199943FC00D0D178 /* XCTest.framework in Frameworks */,
+				1A3FB685199943FC00D0D178 /* UIKit.framework in Frameworks */,
+				1A3FB683199943FC00D0D178 /* Foundation.framework in Frameworks */,
+				1A3FB688199943FC00D0D178 /* libFPPopoverBinding.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		1A3FB667199943FC00D0D178 = {
+			isa = PBXGroup;
+			children = (
+				1A3FB675199943FC00D0D178 /* FPPopoverBinding */,
+				1A3FB689199943FC00D0D178 /* FPPopoverBindingTests */,
+				1A3FB672199943FC00D0D178 /* Frameworks */,
+				1A3FB671199943FC00D0D178 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		1A3FB671199943FC00D0D178 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				1A3FB670199943FC00D0D178 /* libFPPopoverBinding.a */,
+				1A3FB680199943FC00D0D178 /* FPPopoverBindingTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		1A3FB672199943FC00D0D178 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1A3FB673199943FC00D0D178 /* Foundation.framework */,
+				1A3FB681199943FC00D0D178 /* XCTest.framework */,
+				1A3FB684199943FC00D0D178 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		1A3FB675199943FC00D0D178 /* FPPopoverBinding */ = {
+			isa = PBXGroup;
+			children = (
+				1A3FB6991999441400D0D178 /* ARCMacros.h */,
+				1A3FB69A1999441400D0D178 /* FPPopoverController.h */,
+				1A3FB69B1999441400D0D178 /* FPPopoverController.m */,
+				1A3FB69C1999441400D0D178 /* FPPopoverView.h */,
+				1A3FB69D1999441400D0D178 /* FPPopoverView.m */,
+				1A3FB69E1999441400D0D178 /* FPTouchView.h */,
+				1A3FB69F1999441400D0D178 /* FPTouchView.m */,
+				1A3FB676199943FC00D0D178 /* Supporting Files */,
+			);
+			path = FPPopoverBinding;
+			sourceTree = "<group>";
+		};
+		1A3FB676199943FC00D0D178 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1A3FB677199943FC00D0D178 /* FPPopoverBinding-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		1A3FB689199943FC00D0D178 /* FPPopoverBindingTests */ = {
+			isa = PBXGroup;
+			children = (
+				1A3FB68F199943FC00D0D178 /* FPPopoverBindingTests.m */,
+				1A3FB68A199943FC00D0D178 /* Supporting Files */,
+			);
+			path = FPPopoverBindingTests;
+			sourceTree = "<group>";
+		};
+		1A3FB68A199943FC00D0D178 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				1A3FB68B199943FC00D0D178 /* FPPopoverBindingTests-Info.plist */,
+				1A3FB68C199943FC00D0D178 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		1A3FB66F199943FC00D0D178 /* FPPopoverBinding */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A3FB693199943FC00D0D178 /* Build configuration list for PBXNativeTarget "FPPopoverBinding" */;
+			buildPhases = (
+				1A3FB66C199943FC00D0D178 /* Sources */,
+				1A3FB66D199943FC00D0D178 /* Frameworks */,
+				1A3FB66E199943FC00D0D178 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = FPPopoverBinding;
+			productName = FPPopoverBinding;
+			productReference = 1A3FB670199943FC00D0D178 /* libFPPopoverBinding.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+		1A3FB67F199943FC00D0D178 /* FPPopoverBindingTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1A3FB696199943FC00D0D178 /* Build configuration list for PBXNativeTarget "FPPopoverBindingTests" */;
+			buildPhases = (
+				1A3FB67C199943FC00D0D178 /* Sources */,
+				1A3FB67D199943FC00D0D178 /* Frameworks */,
+				1A3FB67E199943FC00D0D178 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				1A3FB687199943FC00D0D178 /* PBXTargetDependency */,
+			);
+			name = FPPopoverBindingTests;
+			productName = FPPopoverBindingTests;
+			productReference = 1A3FB680199943FC00D0D178 /* FPPopoverBindingTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		1A3FB668199943FC00D0D178 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = WhosHere;
+			};
+			buildConfigurationList = 1A3FB66B199943FC00D0D178 /* Build configuration list for PBXProject "FPPopoverBinding" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 1A3FB667199943FC00D0D178;
+			productRefGroup = 1A3FB671199943FC00D0D178 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				1A3FB66F199943FC00D0D178 /* FPPopoverBinding */,
+				1A3FB67F199943FC00D0D178 /* FPPopoverBindingTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		1A3FB67E199943FC00D0D178 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A3FB68E199943FC00D0D178 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		1A3FB66C199943FC00D0D178 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A3FB6A11999441400D0D178 /* FPPopoverView.m in Sources */,
+				1A3FB6A21999441400D0D178 /* FPTouchView.m in Sources */,
+				1A3FB6A01999441400D0D178 /* FPPopoverController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		1A3FB67C199943FC00D0D178 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				1A3FB690199943FC00D0D178 /* FPPopoverBindingTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		1A3FB687199943FC00D0D178 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 1A3FB66F199943FC00D0D178 /* FPPopoverBinding */;
+			targetProxy = 1A3FB686199943FC00D0D178 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		1A3FB68C199943FC00D0D178 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1A3FB68D199943FC00D0D178 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		1A3FB691199943FC00D0D178 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		1A3FB692199943FC00D0D178 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		1A3FB694199943FC00D0D178 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/FPPopoverBinding.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FPPopoverBinding/FPPopoverBinding-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Debug;
+		};
+		1A3FB695199943FC00D0D178 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				DSTROOT = /tmp/FPPopoverBinding.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FPPopoverBinding/FPPopoverBinding-Prefix.pch";
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+			};
+			name = Release;
+		};
+		1A3FB697199943FC00D0D178 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FPPopoverBinding/FPPopoverBinding-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "FPPopoverBindingTests/FPPopoverBindingTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		1A3FB698199943FC00D0D178 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "FPPopoverBinding/FPPopoverBinding-Prefix.pch";
+				INFOPLIST_FILE = "FPPopoverBindingTests/FPPopoverBindingTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1A3FB66B199943FC00D0D178 /* Build configuration list for PBXProject "FPPopoverBinding" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A3FB691199943FC00D0D178 /* Debug */,
+				1A3FB692199943FC00D0D178 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1A3FB693199943FC00D0D178 /* Build configuration list for PBXNativeTarget "FPPopoverBinding" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A3FB694199943FC00D0D178 /* Debug */,
+				1A3FB695199943FC00D0D178 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		1A3FB696199943FC00D0D178 /* Build configuration list for PBXNativeTarget "FPPopoverBindingTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1A3FB697199943FC00D0D178 /* Debug */,
+				1A3FB698199943FC00D0D178 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 1A3FB668199943FC00D0D178 /* Project object */;
+}

@@ -1,0 +1,5 @@
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/BindingProjects/SocketRocket/SocketRocket/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/BindingProjects/SocketRocket/SocketRocket/bin/Release/SocketRocket.dll.mdb
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/BindingProjects/SocketRocket/SocketRocket/bin/Release/SocketRocket.dll
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/BindingProjects/SocketRocket/SocketRocket/obj/Release/SocketRocket.dll
+/Users/james/Developer/emclient2/EveryoneMessagesClient/Xamarin/EMXamarin/BindingProjects/SocketRocket/SocketRocket/obj/Release/SocketRocket.dll.mdb

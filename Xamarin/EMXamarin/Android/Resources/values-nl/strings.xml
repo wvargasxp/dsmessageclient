@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Loco xml export: Android string resources
+ Project: Localizable.strings conversion
+ Release: Working copy
+ Locale: zz_ZZ, Unknown
+ Exported by: Unregistered user
+ Exported at: Tue, 25 Aug 2015 01:02:49 +0100
+-->
+<resources>
+    <!-- Chad -->
+    <string name="CHAD">Tsjaad</string>
+    <!-- Cuba -->
+    <string name="CUBA">Cuba</string>
+    <!-- Fiji -->
+    <string name="FIJI">Fiji</string>
+    <!-- Guam -->
+    <string name="GUAM">Guam</string>
+    <!-- Iran -->
+    <string name="IRAN">Iran</string>
+    <!-- Iraq -->
+    <string name="IRAQ">Irak</string>
+    <!-- Laos -->
+    <string name="LAOS">Laos</string>
+    <!-- Mali -->
+    <string name="MALI">Mali</string>
+    <!-- Niue -->
+    <string name="NIUE">Niue</string>
+    <!-- Oman -->
+    <string name="OMAN">Oman</string>
+    <!-- Peru -->
+    <string name="PERU">Peru</string>
+    <!-- Togo -->
+    <string name="TOGO">Togo</string>
+    <!-- Aruba -->
+    <string name="ARUBA">Aruba</string>
+    <!-- Benin -->
+    <string name="BENIN">Benin</string>
+    <!-- Burma (Myanmar) -->
+    <string name="BURMA">Birma (Myanmar)</string>
+    <!-- Chile -->
+    <string name="CHILE">Chili</string>
+    <!-- China -->
+    <string name="CHINA">China</string>
+    <!-- Democratic Republic of the Congo -->
+    <string name="CONGO">Democratische Republiek Congo</string>
+    <!-- Egypt -->
+    <string name="EGYPT">Egypte</string>
+    <!-- Gabon -->
+    <string name="GABON">Gabon</string>
+    <!-- Ghana -->
+    <string name="GHANA">Ghana</string>
+    <!-- Haiti -->
+    <string name="HAITI">Haïti</string>
+    <!-- India -->
+    <string name="INDIA">India</string>
+    <!-- Italy -->
+    <string name="ITALY">Italië</string>
+    <!-- Japan -->
+    <string name="JAPAN">Japan</string>
+    <!-- Kenya -->
+    <string name="KENYA">Kenia</string>
+    <!-- Libya -->
+    <string name="LIBYA">Libië</string>
+    <!-- Macau -->
+    <string name="MACAU">Macau</string>
+    <!-- Malta -->
+    <string name="MALTA">Malta</string>
+    <!-- Nauru -->
+    <string name="NAURU">Nauru</string>
+    <!-- Nepal -->
+    <string name="NEPAL">Nepal</string>
+    <!-- Niger -->
+    <string name="NIGER">Niger</string>
+    <!-- Palau -->
+    <string name="PALAU">Palau</string>
+    <!-- Qatar -->
+    <string name="QATAR">Qatar</string>
+    <!-- Samoa -->
+    <string name="SAMOA">Samoa</string>
+    <!-- Spain -->
+    <string name="SPAIN">Spanje</string>
+    <!-- Sudan -->
+    <string name="SUDAN">Sudan</string>
+    <!-- Syria -->
+    <string name="SYRIA">Syrië</string>
+    <!-- Tonga -->
+    <string name="TONGA">Tonga</string>
+    <!-- Yemen -->
+    <string name="YEMEN">Jemen</string>
+    <!-- Angola -->
+    <string name="ANGOLA">Angola</string>
+    <!-- Belize -->
+    <string name="BELIZE">Belize</string>
+    <!-- Bhutan -->
+    <string name="BHUTAN">Bhutan</string>
+    <!-- Brazil -->
+    <string name="BRAZIL">Brazilië</string>
+    <!-- Brunei -->
+    <string name="BRUNEI">Brunei</string>
+    <!-- Canada -->
+    <string name="CANADA">Canada</string>
+    <!-- Cyprus -->
+    <string name="CYPRUS">Cyprus</string>
+    <!-- France -->
+    <string name="FRANCE">Frankrijk</string>
+    <!-- Gambia -->
+    <string name="GAMBIA">Gambia</string>
+    <!-- Greece -->
+    <string name="GREECE">Griekenland</string>
+    <!-- Guinea -->
+    <string name="GUINEA">Guinea</string>
+    <!-- Guyana -->
+    <string name="GUYANA">Guyana</string>
+    <!-- Israel -->
+    <string name="ISRAEL">Israël</string>
+    <!-- Jordan -->
+    <string name="JORDAN">Jordanië</string>
+    <!-- Kosovo -->
+    <string name="KOSOVO">Kosovo</string>
+    <!-- Kuwait -->
+    <string name="KUWAIT">Koeweit</string>
+    <!-- Latvia -->
+    <string name="LATVIA">Letland</string>
+    <!-- Malawi -->
+    <string name="MALAWI">Malawi</string>
+    <!-- Mexico -->
+    <string name="MEXICO">Mexico</string>
+    <!-- Monaco -->
+    <string name="MONACO">Monaco</string>
+    <!-- Norway -->
+    <string name="NORWAY">Noorwegen</string>
+    <!-- Panama -->
+    <string name="PANAMA">Panama</string>
+    <!-- Poland -->
+    <string name="POLAND">Polen</string>
+    <!-- Russia -->
+    <string name="RUSSIA">Rusland</string>
+    <!-- Rwanda -->
+    <string name="RWANDA">Rwanda</string>
+    <!-- Serbia -->
+    <string name="SERBIA">Servië</string>
+    <!-- Sweden -->
+    <string name="SWEDEN">Zweden</string>
+    <!-- Taiwan -->
+    <string name="TAIWAN">Taiwan</string>
+    <!-- Turkey -->
+    <string name="TURKEY">Turkije</string>
+    <!-- Tuvalu -->
+    <string name="TUVALU">Tuvalu</string>
+    <!-- Uganda -->
+    <string name="UGANDA">Oeganda</string>
+    <!-- Zambia -->
+    <string name="ZAMBIA">Zambia</string>
+    <!-- Albania -->
+    <string name="ALBANIA">Albanië</string>
+    <!-- Algeria -->
+    <string name="ALGERIA">Algerije</string>
+    <!-- Andorra -->
+    <string name="ANDORRA">Andorra</string>
+    <!-- Armenia -->
+    <string name="ARMENIA">Armenië</string>
+    <!-- Austria -->
+    <string name="AUSTRIA">Oostenrijk</string>
+    <!-- Bahamas -->
+    <string name="BAHAMAS">Bahama\'s</string>
+    <!-- Bahrain -->
+    <string name="BAHRAIN">Bahrain</string>
+    <!-- Belarus -->
+    <string name="BELARUS">Belarus</string>
+    <!-- Belgium -->
+    <string name="BELGIUM">België</string>
+    <!-- Bermuda -->
+    <string name="BERMUDA">Bermuda</string>
+    <!-- Bolivia -->
+    <string name="BOLIVIA">Bolivia</string>
+    <!-- Burundi -->
+    <string name="BURUNDI">Burundi</string>
+    <!-- Comoros -->
+    <string name="COMOROS">Comoros</string>
+    <!-- Croatia -->
+    <string name="CROATIA">Kroatië</string>
+    <!-- Denmark -->
+    <string name="DENMARK">Denemarken</string>
+    <!-- Ecuador -->
+    <string name="ECUADOR">Ecuador</string>
+    <!-- Eritrea -->
+    <string name="ERITREA">Eritrea</string>
+    <!-- Estonia -->
+    <string name="ESTONIA">Estland</string>
+    <!-- Finland -->
+    <string name="FINLAND">Finland</string>
+    <!-- Georgia -->
+    <string name="GEORGIA">Georgië</string>
+    <!-- Germany -->
+    <string name="GERMANY">Duitsland</string>
+    <!-- Grenada -->
+    <string name="GRENADA">Grenada</string>
+    <!-- Hungary -->
+    <string name="HUNGARY">hongarije</string>
+    <!-- Iceland -->
+    <string name="ICELAND">IJsland</string>
+    <!-- Ireland -->
+    <string name="IRELAND">Ierland</string>
+    <!-- Jamaica -->
+    <string name="JAMAICA">Jamaica</string>
+    <!-- Lebanon -->
+    <string name="LEBANON">Libanon</string>
+    <!-- Lesotho -->
+    <string name="LESOTHO">Lesotho</string>
+    <!-- Liberia -->
+    <string name="LIBERIA">Liberia</string>
+    <!-- Mayotte -->
+    <string name="MAYOTTE">Mayotte</string>
+    <!-- Moldova -->
+    <string name="MOLDOVA">Moldavië</string>
+    <!-- Morocco -->
+    <string name="MOROCCO">Marokko</string>
+    <!-- Namibia -->
+    <string name="NAMIBIA">Namibië</string>
+    <!-- Nigeria -->
+    <string name="NIGERIA">Nigeria</string>
+    <!-- Romania -->
+    <string name="ROMANIA">Roemenië</string>
+    <!-- Senegal -->
+    <string name="SENEGAL">Senegal</string>
+    <!-- Somalia -->
+    <string name="SOMALIA">Somalië</string>
+    <!-- Tokelau -->
+    <string name="TOKELAU">Tokelau</string>
+    <!-- Tunisia -->
+    <string name="TUNISIA">Tunisië</string>
+    <!-- Ukraine -->
+    <string name="UKRAINE">Oekraïne</string>
+    <!-- Uruguay -->
+    <string name="URUGUAY">Uruguay</string>
+    <!-- Vanuatu -->
+    <string name="VANUATU">Vanuatu</string>
+    <!-- Vietnam -->
+    <string name="VIETNAM">Vietnam</string>
+    <!-- Anguilla -->
+    <string name="ANGUILLA">Anguilla</string>
+    <!-- Barbados -->
+    <string name="BARBADOS">Barbados</string>
+    <!-- Botswana -->
+    <string name="BOTSWANA">Botswana</string>
+    <!-- Bulgaria -->
+    <string name="BULGARIA">Bulgarije</string>
+    <!-- Cambodia -->
+    <string name="CAMBODIA">Cambodja</string>
+    <!-- Cameroon -->
+    <string name="CAMEROON">Kameroen</string>
+    <!-- Colombia -->
+    <string name="COLOMBIA">Colombia</string>
+    <!-- Djibouti -->
+    <string name="DJIBOUTI">Djibouti</string>
+    <!-- Dominica -->
+    <string name="DOMINICA">Dominica</string>
+    <!-- Ethiopia -->
+    <string name="ETHIOPIA">Ethiopië</string>
+    <!-- Honduras -->
+    <string name="HONDURAS">Honduras</string>
+    <!-- Kiribati -->
+    <string name="KIRIBATI">Kiribati</string>
+    <!-- Malaysia -->
+    <string name="MALAYSIA">Maleisië</string>
+    <!-- Maldives -->
+    <string name="MALDIVES">Malediven</string>
+    <!-- Mongolia -->
+    <string name="MONGOLIA">Mongolië</string>
+    <!-- Pakistan -->
+    <string name="PAKISTAN">Pakistan</string>
+    <!-- Paraguay -->
+    <string name="PARAGUAY">Paraguay</string>
+    <!-- Portugal -->
+    <string name="PORTUGAL">Portugal</string>
+    <!-- Slovakia -->
+    <string name="SLOVAKIA">Slowakije</string>
+    <!-- Slovenia -->
+    <string name="SLOVENIA">Slovenia=ë</string>
+    <!-- Suriname -->
+    <string name="SURINAME">Suriname</string>
+    <!-- Svalbard -->
+    <string name="SVALBARD">Svalbard</string>
+    <!-- Tanzania -->
+    <string name="TANZANIA">Tanzania</string>
+    <!-- Thailand -->
+    <string name="THAILAND">Thailand</string>
+    <!-- Zimbabwe -->
+    <string name="ZIMBABWE">Zimbabwe</string>
+    <!-- Argentina -->
+    <string name="ARGENTINA">Argentinië</string>
+    <!-- Australia -->
+    <string name="AUSTRALIA">Australië</string>
+    <!-- Gibraltar -->
+    <string name="GIBRALTAR">Gibraltar</string>
+    <!-- Greenland -->
+    <string name="GREENLAND">Groenland</string>
+    <!-- Guatemala -->
+    <string name="GUATEMALA">Guatemala</string>
+    <!-- Hong Kong -->
+    <string name="HONG_KONG">Hong Kong</string>
+    <!-- Indonesia -->
+    <string name="INDONESIA">Indonesië</string>
+    <!-- Lithuania -->
+    <string name="LITHUANIA">Litouwen</string>
+    <!-- Macedonia -->
+    <string name="MACEDONIA">Macedonië</string>
+    <!-- Mauritius -->
+    <string name="MAURITIUS">Mauritius</string>
+    <!-- Nicaragua -->
+    <string name="NICARAGUA">Nicaragua</string>
+    <!-- Singapore -->
+    <string name="SINGAPORE">Singapore</string>
+    <!-- Sri Lanka -->
+    <string name="SRI_LANKA">Sri Lanka</string>
+    <!-- Swaziland -->
+    <string name="SWAZILAND">Swaziland</string>
+    <!-- Venezuela -->
+    <string name="VENEZUELA">Venezuela</string>
+    <!-- Azerbaijan -->
+    <string name="AZERBAIJAN">Azerbeidzjan</string>
+    <!-- Bangladesh -->
+    <string name="BANGLADESH">Bangladesh</string>
+    <!-- Cape Verde -->
+    <string name="CAPE_VERDE">Kaap Verde</string>
+    <!-- Costa Rica -->
+    <string name="COSTA_RICA">Costa Rica</string>
+    <!-- Kazakhstan -->
+    <string name="KAZAKHSTAN">Kazachstan</string>
+    <!-- Kyrgyzstan -->
+    <string name="KYRGYZSTAN">Kyrgyzstan</string>
+    <!-- Luxembourg -->
+    <string name="LUXEMBOURG">Luxemburg</string>
+    <!-- Madagascar -->
+    <string name="MADAGASCAR">Madagascar</string>
+    <!-- Mauritania -->
+    <string name="MAURITANIA">Mauritanië</string>
+    <!-- Micronesia -->
+    <string name="MICRONESIA">Micronesië</string>
+    <!-- Montenegro -->
+    <string name="MONTENEGRO">Montenegro</string>
+    <!-- Montserrat -->
+    <string name="MONTSERRAT">Montserrat</string>
+    <!-- Mozambique -->
+    <string name="MOZAMBIQUE">Mozambique</string>
+    <!-- San Marino -->
+    <string name="SAN_MARINO">San Marino</string>
+    <!-- Seychelles -->
+    <string name="SEYCHELLES">Seychellen</string>
+    <!-- Tajikistan -->
+    <string name="TAJIKISTAN">Tajikistan</string>
+    <!-- Uzbekistan -->
+    <string name="UZBEKISTAN">Uzbekistan</string>
+    <!-- Afghanistan -->
+    <string name="AFGHANISTAN">Afghanistan</string>
+    <!-- El Salvador -->
+    <string name="EL_SALVADOR">El Salvador</string>
+    <!-- Isle of Man -->
+    <string name="ISLE_OF_MAN">Isle of Man</string>
+    <!-- Ivory Coast -->
+    <string name="IVORY_COAST">Ivoorkust</string>
+    <!-- Netherlands -->
+    <string name="NETHERLANDS">Nederland</string>
+    <!-- New Zealand -->
+    <string name="NEW_ZEALAND">Nieuw-Zeeland</string>
+    <!-- North Korea -->
+    <string name="NORTH_KOREA">Noord-Korea</string>
+    <!-- Philippines -->
+    <string name="PHILIPPINES">Filippijnen</string>
+    <!-- Puerto Rico -->
+    <string name="PUERTO_RICO">Puerto Rico</string>
+    <!-- Saint Lucia -->
+    <string name="SAINT_LUCIA">Saint Lucia</string>
+    <!-- South Korea -->
+    <string name="SOUTH_KOREA">Zuid-Korea</string>
+    <!-- Switzerland -->
+    <string name="SWITZERLAND">Zwitserland</string>
+    <!-- Timor-Leste -->
+    <string name="TIMOR_LESTE">Timor-Leste</string>
+    <!-- Burkina Faso -->
+    <string name="BURKINA_FASO">Burkina Faso</string>
+    <!-- Cook Islands -->
+    <string name="COOK_ISLANDS">Cookeilanden</string>
+    <!-- Saint Helena -->
+    <string name="SAINT_HELENA">Sint-Helena</string>
+    <!-- Saint Martin -->
+    <string name="SAINT_MARTIN">Sint-Maarten</string>
+    <!-- Saudi Arabia -->
+    <string name="SAUDI_ARABIA">Saoedi-ARabië</string>
+    <!-- Sierra Leone -->
+    <string name="SIERRA_LEONE">Sierra Leone</string>
+    <!-- South Africa -->
+    <string name="SOUTH_AFRICA">Zuid-Afrika</string>
+    <!-- Turkmenistan -->
+    <string name="TURKMENISTAN">Turkmenistan</string>
+    <!-- Faroe Islands -->
+    <string name="FAROE_ISLANDS">Faeroër</string>
+    <!-- Guinea-Bissau -->
+    <string name="GUINEA_BISSAU">Guinea-Bissau</string>
+    <!-- Liechtenstein -->
+    <string name="LIECHTENSTEIN">Liechtenstein</string>
+    <!-- New Caledonia -->
+    <string name="NEW_CALEDONIA">Nieuw Caledonië</string>
+    <!-- United States -->
+    <string name="UNITED_STATES">Verenigde Staten</string>
+    <!-- American Samoa -->
+    <string name="AMERICAN_SAMOA">Amerikaans-Samoa</string>
+    <!-- Cayman Islands -->
+    <string name="CAYMAN_ISLANDS">Kaaimaneilanden</string>
+    <!-- Czech Republic -->
+    <string name="CZECH_REPUBLIC">Tsjechische Republiek</string>
+    <!-- Norfolk Island -->
+    <string name="NORFOLK_ISLAND">Norfolk</string>
+    <!-- United Kingdom -->
+    <string name="UNITED_KINGDOM">Verenigd Koninkrijk</string>
+    <!-- Solomon Islands -->
+    <string name="SOLOMON_ISLANDS">Salomonseilanden</string>
+    <!-- Falkland Islands -->
+    <string name="FALKLAND_ISLANDS">Falklandeilanden</string>
+    <!-- French Polynesia -->
+    <string name="FRENCH_POLYNESIA">Frans Polynesië</string>
+    <!-- Marshall Islands -->
+    <string name="MARSHALL_ISLANDS">Marshalleilanden</string>
+    <!-- Papua New Guinea -->
+    <string name="PAPUA_NEW_GUINEA">Papoea-Nieuw-Guinea</string>
+    <!-- Pitcairn Islands -->
+    <string name="PITCAIRN_ISLANDS">Pitcairneilanden</string>
+    <!-- Saint Barthelemy -->
+    <string name="SAINT_BARTHELEMY">Saint Barthélemy</string>
+    <!-- Equatorial Guinea -->
+    <string name="EQUATORIAL_GUINEA">Equatoriaal-Guinea</string>
+    <!-- US Virgin Islands -->
+    <string name="US_VIRGIN_ISLANDS">Amerikaanse Maagdeneilanden</string>
+    <!-- Wallis and Futuna -->
+    <string name="WALLIS_AND_FUTUNA">Wallis en Futuna</string>
+    <!-- United Arab Emirates -->
+    <string name="UNITED_ARAB_EMIRATES">Verenigde Arabische Emiraten</string>
+    <!-- Central African Republic -->
+    <string name="CENTRAL_AFRICAN_REPUBLIC">Centraal-Afrikaanse Republiek</string>
+    <!-- Bosnia and Herzegovina -->
+    <string name="BOSNIA_AND_HERZEGOVINA">Bosnië en Herzegovina</string>
+    <!-- British Virgin Islands -->
+    <string name="BRITISH_VIRGIN_ISLANDS">Britse Maagdeneilanden</string>
+    <!-- Dominican Republic -->
+    <string name="DOMINICAN_REPUBLIC">Dominicaanse Republiek</string>
+    <!-- Antigua and Barbuda -->
+    <string name="ANTIGUA_AND_BARBUDA">Antigua en Barbuda</string>
+    <!-- Holy See (Vatican City) -->
+    <string name="HOLY_SEE_VATICAN_CITY">Vaticaanstad</string>
+    <!-- Republic of the Congo -->
+    <string name="REPUBLIC_OF_THE_CONGO">Republiek Congo</string>
+    <!-- Saint Kitts and Nevis -->
+    <string name="SAINT_KITTS_AND_NEVIS">Saint Kitts en Nevis</string>
+    <!-- Sao Tome and Principe -->
+    <string name="SAO_TOME_AND_PRINCIPE">Sao Tome en Principe</string>
+    <!-- Northern Mariana Islands -->
+    <string name="NORTHERN_MARIANA_ISLANDS">Noordelijke Marianen</string>
+    <!-- Saint Vincent and the Grenadines -->
+    <string name="SAINT_VINCENT_AND_THE_GRENADINES">Saint Vincent en de Grenadines</string>
+    <!-- Saint Pierre and Miquelon -->
+    <string name="SAINT_PIERRE_AND_MIQUELON">Saint Pierre en Miquelon</string>
+    <!-- Trinidad and Tobago -->
+    <string name="TRINIDAD_AND_TOBAGO">Trinidad en Tobago</string>
+    <!-- Turks and Caicos Islands -->
+    <string name="TURKS_AND_CAICOS_ISLANDS">Turks- en Caicoseilanden</string>
+    <!-- The App name, do not translate - P -->
+    <string name="APP_TITLE">EMwithME</string>
+    <!-- Text indicating we are processing the user request - P -->
+    <string name="WAITING">Wachten...</string>
+    <!-- Text indicating we are loading the users request - P -->
+    <string name="LOADING">Laden...</string>
+    <!-- Text indicating we are accessing the users addres book -->
+    <string name="ADDRESS_BOOK_ACCESSING">Searching for your friends...</string>
+    <!-- Text indicating we are processing the users address book -->
+    <string name="ADDRESS_BOOK_PROCESSING">Finishing up...</string>
+    <!-- No - P -->
+    <string name="NO">Nee</string>
+    <!-- Yes - P -->
+    <string name="YES">Ja</string>
+    <!-- Done - P -->
+    <string name="DONE_BUTTON">Gereed</string>
+    <!-- Edit - P -->
+    <string name="EDIT_BUTTON">Wijzigen</string>
+    <!-- Update - P -->
+    <string name="UPDATE_BUTTON">Updaten</string>
+    <!-- Undo - P -->
+    <string name="UNDO_BUTTON">Ongedaan maken</string>
+    <!-- Cancel - P -->
+    <string name="CANCEL_BUTTON">Annuleren</string>
+    <!-- Cancelled (past tense) -->
+    <string name="CANCELLED">Cancelled</string>
+    <!-- Open for Android drawer toggle but not actually displayed - P -->
+    <string name="OPEN">Open</string>
+    <!-- Close - P -->
+    <string name="CLOSE">Dicht</string>
+    <!-- Display name - P -->
+    <string name="DISPLAY_NAME">Voor- en achternaam</string>
+    <!-- No Thanks - P -->
+    <string name="NO_THANKS">Nee, dank je</string>
+    <!-- Dont show Again -->
+    <string name="DONT_SHOW_AGAIN">Don\'t Show Again</string>
+    <!-- OK (Capitol letters / Uppercase) - P -->
+    <string name="OK_BUTTON">Ok</string>
+    <!-- Yesterday - P -->
+    <string name="YESTERDAY">Gisteren</string>
+    <!-- Today -->
+    <string name="TODAY">Today</string>
+    <!-- Here (Lowercase) - P -->
+    <string name="HERE">hier</string>
+    <!-- Copy - P -->
+    <string name="COPY">Kopiëren</string>
+    <!-- Exit -->
+    <string name="EXIT">Exit</string>
+    <!-- Message when a user tries to back out of creating an AKA or Group without saving their changes -->
+    <string name="UNSAVED_CHANGES">You have unsaved changes. Exit?</string>
+    <!-- Title of the Groups page - P -->
+    <string name="GROUPS_TITLE">Groepen</string>
+    <!-- Add members - P -->
+    <string name="ADD_MEMBERS">Leden toevoegen</string>
+    <!-- Title of the Create Group page - P -->
+    <string name="CREATE_GROUP_TITLE">Groep aanmaken</string>
+    <!-- Leave Group - P -->
+    <string name="LEAVE_GROUP_BUTTON">Groep verlaten</string>
+    <!-- Text explaining to user they are going to leave the group they were added to - P -->
+    <string name="LEAVE_GROUP_EXPLAINATION">Je staat op het punt de groep te verlaten. Je kunt later weer lid worden tenzij de groepeigenaar je permanent verwijderd.</string>
+    <!-- Delete Group - P -->
+    <string name="DELETE_GROUP_BUTTON">Groep verwijderen</string>
+    <!-- Where in the app is this? NL: This is currently out of scope for V1 -->
+    <string name="DELETE_GROUP_EXPLAINATION">Je staat op het punt de groep te verwijdere. Deze actie kan niet ongedaan worden gemaakt.</string>
+    <!-- Title of the Group Details page - P -->
+    <string name="GROUP_DETAILS_TITLE">Groepdetails</string>
+    <!-- Rejoin Group - P -->
+    <string name="REJOIN_GROUP_BUTTON">Opnieuw lid worden</string>
+    <!-- This is appended to a contact name if that user has left the group - P -->
+    <string name="LEFT_GROUP_EXTENSION">(heeft groep verlaten)</string>
+    <!-- Title of the Edit Group page - P -->
+    <string name="EDIT_GROUP_TITLE">Groep wijzigen</string>
+    <!-- Alert text asking user to confirm their action - P -->
+    <string name="ALERT_ARE_YOU_SURE">Weet je het zeker?</string>
+    <!-- Text explaining to user that they can rejoin the group they previously left - P -->
+    <string name="REJOIN_GROUP_EXPLAINATION">Je staat op het punt opnieuw lid te worden.</string>
+    <!-- Title of group members - P -->
+    <string name="MEMBERS_TITLE">Leden</string>
+    <!-- Title of chat screen when chatting with a group - P -->
+    <string name="GROUP_CHATS_TITLE">Groepchats</string>
+    <!-- Group name - P -->
+    <string name="GROUP_NAME">Groepsnaam</string>
+    <!-- Button text for user to remove themself from ad-hoc group - P -->
+    <string name="REMOVE_ME_AD_HOC_GROUP">Verwijder me</string>
+    <!-- Message to user when trying to save or update a group without supplying a name - P -->
+    <string name="GROUP_NAME_REQUIRED">Geef je groep een naam.</string>
+    <!-- Message to user when trying to save or update a group without any members - P -->
+    <string name="GROUP_MEMBERS_REQUIRED">Voeg minstens een ander lid toe aan je groep.</string>
+    <!-- Message to user when loading a group failed - P -->
+    <string name="GROUP_LOAD_FAILED">Er is een probleem met het laden van je groep. Controleer je internetverbinding en probeer opnieuw.</string>
+    <!-- Message to user when saving a group failed - P -->
+    <string name="GROUP_SAVE_FAILED">Er is een probleem met het opslaan van je groep. Controleer je internetverbinding en probeer opnieuw.</string>
+    <!-- Message to user when either saving or updating a group failed - P -->
+    <string name="GROUP_SAVE_OR_UPDATE_FAILED">Er is een probleem met je groep. Controleer je internetverbinding en probeer opnieuw.</string>
+    <!-- Message to user when updating a group failed - P -->
+    <string name="GROUP_UPDATE_FAILED">Er is een probleem met het updaten van je groep. Controleer je internetverbinding en probeer opnieuw.</string>
+    <!-- Message to user when leaving a group failed - P -->
+    <string name="GROUP_LEAVE_FAILED">Er is een probleem met het verlaten van de groep. Controleer je internetverbinding en probeer opnieuw.</string>
+    <!-- Message to user when rejoining a group failed - P -->
+    <string name="GROUP_REJOIN_FAILED">Er is een probleem met het opnieuw lid worden van de groep. Controleer je internetverbinding en probeer opnieuw.</string>
+    <!-- Leave Conversation of an ad-hoc group -->
+    <string name="LEAVE_CONVERSATION">Leave Conversation</string>
+    <!-- Text explaining what will happen if they leave this ad-hoc group conversation -->
+    <string name="LEAVE_CONVERSATION_EXPAINATION">Leaving this conversation will prevent you from receiving additional messages into this conversation. If you write back you will start a new conversation with the recipients.</string>
+    <!-- Leave -->
+    <string name="LEAVE">Leave</string>
+    <!-- Left Conversation of an ad-hoc group -->
+    <string name="LEFT_CONVERSATION">Left Conversation</string>
+    <!-- Text explaining what will happen if they send a message to an ad-hoc group conversation they have previously left -->
+    <string name="LEFT_CONVERSATION_EXPLAINATION">You have left this conversation. If you send additional messages they will start a new conversation with the recipients.</string>
+    <!-- Title of the page when user first opens the app - P -->
+    <string name="WELCOME_TITLE">Welkom</string>
+    <!-- Get Started - P -->
+    <string name="GET_STARTED_BUTTON">Beginnen!</string>
+    <!-- Continue - P -->
+    <string name="CONTINUE_BUTTON">Doorgaan</string>
+    <!-- ONBOARDING A: Title text for first screen of onboarding slides - P -->
+    <string name="SETUP_PROFILE">Je profiel instellen</string>
+    <!-- ONBOARDING A: Title text for second screen of onboarding slides - P -->
+    <string name="SENDING_MESSAGES">Berichten versturen</string>
+    <!-- ONBOARDING A: Title text for third screen (v2) of onboarding slides - P -->
+    <string name="GROUP_MESSAGING">Groepsberichten</string>
+    <!-- ONBOARDING B: Text for first screen - P -->
+    <string name="ONBOARDING_B_ONE">Creeër AKAs om op sites als Craigslist of apps als WhosHere te posten</string>
+    <!-- ONBOARDING B: Text for second screen - P -->
+    <string name="ONBOARDING_B_TWO">Chat met een vriend of een groep vrienden</string>
+    <!-- ONBOARDING B: Text for third screen - P -->
+    <string name="ONBOARDING_B_THREE">Stuur SMSjes, foto\'s, video\'s en voiceberichten</string>
+    <!-- ONBOARDING B: Text for fourth screen - P -->
+    <string name="ONBOARDING_B_FOUR">Geen extra kosten voor het versturen of ontvangen van EMwithME berichten</string>
+    <!-- ONBOARDING B: Text for fifth screen - P -->
+    <string name="ONBOARDING_B_FIVE">Vergeet auto-correct - neem het gewoon terug</string>
+    <!-- ONBOARDING B: Text for sixth screen - P -->
+    <string name="ONBOARDING_B_SIX">Neem elk EMwithME bericht terug wanneer je wil zo zeg je altijd wat je bedoelt</string>
+    <!-- Registration text for email - P -->
+    <string name="REGISTER_EMAIL_EXPLAINATION">Bevestig je land en vul je e-mailadres in om door te gaan.</string>
+    <!-- Registration text for mobile - P -->
+    <string name="REGISTER_MOBILE_EXPLAINATION">Bevestig je land en vul je mobiele nummer in om door te gaan.</string>
+    <!-- Message telling user a verification message will be sent either to their email or mobile - P -->
+    <string name="SEND_VERIFICATION_EXPLAINATION">Er is een verificatiecode naar je gestuurd.</string>
+    <!-- Sending validation code - P -->
+    <string name="SEND_VALIDATION_CODE_EXPLAINATION">{0} \n\nIs bovenstaand correct?</string>
+    <!-- Title of the register with Mobile page - P -->
+    <string name="MOBILE_TITLE">Mobiel</string>
+    <!-- Mobile number - P -->
+    <string name="MOBILE_NUMBER">Mobiel nummer</string>
+    <!-- Title of the register with Email page - P -->
+    <string name="EMAIL_TITLE">E-mail</string>
+    <!-- Placeholder text within the textbox where user is supposed to enter their email address -->
+    <string name="EMAIL_ADDRESS">E-mailadres</string>
+    <!-- Title of the Verification page - P -->
+    <string name="VERIFICATION_TITLE">Verificatie</string>
+    <!-- Placeholder text within the textbox where user is supposed to enter their verification code - P -->
+    <string name="VERIFICATION_CODE">Verificatiecode</string>
+    <!-- Verification text  - P -->
+    <string name="VERIFY_ACCOUNT_EXPLAINATION">Vul je verificatiecode in</string>
+    <!-- Message sent to users attempting to register their mobile phone - P -->
+    <string name="VALIDATION_MESSAGE_SMS">Bevestig je account door op de link op je mobiele telefoon te klikken.</string>
+    <!-- Text in plain text emails telling users they can click a link to validate their account - P -->
+    <string name="VALIDATION_MESSAGE_PLAIN">Bevestig je account door deze code in te vullen:\u0020\u0020%1$s</string>
+    <!-- Text in HTML emails telling users they can click a link to validate their account - P -->
+    <string name="VALIDATION_MESSAGE_HTML">Of, als je je mobiele apparaat gebruikt waarmee je eerder hebt ingelogd, dan kun je simpel klikken</string>
+    <!-- New text in HTML emails telling users they can click a link to validate their account -->
+    <string name="VALIDATION_MESSAGE_HTML_TWO">Click here to validate your account if you are on your mobile device.</string>
+    <!-- Error registering user with email - P -->
+    <string name="ERROR_REGISTER_EMAIL_EXPLAINATION">Er is een probleem met het aanmaken van je account met het e-mailadres dat je hebt opgegeven.</string>
+    <!-- Should we separate these out based on error type?  For example, invalid number (800) number vs. other issues. -->
+    <string name="ERROR_REGISTER_MOBILE_EXPLAINATION">Er is een probleem met het aanmaken van je account met het mobiele nummer dat je hebt opgegeven.</string>
+    <!-- Error verifying user - P -->
+    <string name="ERROR_VERIFY_ACCOUNT_EXPLAINATION">Bevestiging niet gelukt. Controleer of je de verificatiecode juist hebt ingevuld en probeer nogmaals.</string>
+    <!-- Text indicating a user can click a link to unsubscribe from emails - P -->
+    <string name="UNSUBSCRIBE_SHORT">Uitschrijven</string>
+    <!-- Text explaining to a user that they can unsubscribe from future emails - P -->
+    <string name="UNSUBSCRIBE_LONG">Je ontvangt deze mail omdat je je onlangs hebt aangemeld bij EMwithME. Is dit een fout, schrijf je dan uit via de link hieronder.</string>
+    <!-- Text in SMS sent to new user to validate their account - P -->
+    <string name="VERIFY_NOW">Of vul deze code in:\u0020\u0020%1$s</string>
+    <!-- Text for existing users asking them if they would like to download their historical messages - P -->
+    <string name="DOWNLOAD_HISTORICAL_MESSAGES">Wil je oude berichten downloaden?\n\nLET OP: Dit kan even duren.</string>
+    <!-- Message shown to new users when we first try to access their address book - P -->
+    <string name="ACCESS_ADDRESS_BOOK_MESSAGE">EMwithME heeft toegang nodig tot je adresboek om je vrienden op naam op te zoeken in de app.</string>
+    <!-- Title of the (singular) Notification page - P -->
+    <string name="NOTIFICATION_TITLE">Notificatie</string>
+    <!-- Title of the Notifications page - P -->
+    <string name="NOTIFICATIONS_TITLE">Notificaties</string>
+    <!-- Unread - P -->
+    <string name="UNREAD_BUTTON">Ongelezen</string>
+    <!-- Read - P -->
+    <string name="READ_BUTTON">Lezen</string>
+    <!-- All - P -->
+    <string name="ALL_BUTTON">Alles</string>
+    <!-- Button text to encourage an action for the user to send a message - P -->
+    <string name="SEND_MESSAGE_TEXT">Verstuur bericht</string>
+    <!-- Short description of this notification when a user joins EMwithME - P -->
+    <string name="NOTIFICATION_WELCOME_TITLE">Welkom bij EMwithME!</string>
+    <!-- Full description of this notification when a user joins EMwithME - P -->
+    <string name="NOTIFICATION_WELCOME_TEXT">Welkom bij EMwithME! Ga naar de Profielpagina en vul je voor- en achternaam in. Je kunt onbeperkt EMwithME berichten, video\'s en foto\'s gratis versturen naar al je vrienden!</string>
+    <!-- Short description of this notification when a user friend joins EMwithME - P -->
+    <string name="NOTIFICATION_JOIN_TITLE">%1$s heeft zich aangemeld bij EMwithME!</string>
+    <!-- Full description of this notification when a user friend joins EMwithME - P -->
+    <string name="NOTIFICATION_JOIN_TEXT">%1$s heeft zich aangemeld bij EMwithME! Stuur een welkomstbericht.</string>
+    <!-- Full description of this notification when the current user was added to a group - P -->
+    <string name="NOTIFICATION_YOU_ADDED_GROUP_TEXT">%1$s heeft je toegevoegd aan de groep %2$s. Stuur een groepsbericht.</string>
+    <!-- Short description of this notification when the current user was added to a group - P -->
+    <string name="NOTIFICATION_YOU_ADDED_GROUP_TITLE">%1$s heeft je toegevoegd aan de groep %2$s</string>
+    <!-- Full description of this notification when the current user was removed from a group - P -->
+    <string name="NOTIFICATION_YOU_REMOVED_GROUP_TEXT">%1$s heeft je verwijderd uit de groep %2$s.</string>
+    <!-- Short description of this notification when the current user was removed from a group - P -->
+    <string name="NOTIFICATION_YOU_REMOVED_GROUP_TITLE">Je bent verwijderd uit de groep %1$s</string>
+    <!-- Full description of this notification when another user was added to a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_ADDED_GROUP_TEXT">%1$s heeft %2$s toegevoegd aan de groep %3$s. Stuur een groepsbericht.</string>
+    <!-- Short description of this notification when another user was added to a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_ADDED_GROUP_TITLE">%1$s heeft %2$s toegevoegd aan de groep %3$s</string>
+    <!-- Full description of this notification when another user was removed from a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_REMOVED_GROUP_TEXT">%1$s heeft %2$s verwijderd uit de groep %3$s.</string>
+    <!-- Short description of this notification when another user was removed from a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_REMOVED_GROUP_TITLE">%1$s heeft %2$s verwijderd uit de groep %3$s</string>
+    <!-- Short description of this notification when a group gets deleted -->
+    <string name="NOTIFICATION_GROUP_DELETED_TITLE">Group %1$s was deleted</string>
+    <!-- Full description of this notification when a group gets deleted -->
+    <string name="NOTIFICATION_GROUP_DELETED_TEXT">%1$s has deleted group %2$s.</string>
+    <!-- Title of the Inbox page - P -->
+    <string name="INBOX_TITLE">Berichten</string>
+    <!-- Title of the page when a user begins to send a new message - P -->
+    <string name="NEW_MESSAGE_TITLE">Nieuw bericht</string>
+    <!-- To - P -->
+    <string name="TO">Aan:</string>
+    <!-- From - P -->
+    <string name="FROM">Van</string>
+    <!-- Message indicating someone is typing - P -->
+    <string name="IS_TYPING_SINGULAR">{0} is aan het typen</string>
+    <!-- Message indicating two people are typing - P -->
+    <string name="IS_TYPING_DUAL">{0} en {1} zijn aan het typen</string>
+    <!-- Message indicating more than two people are typing - P -->
+    <string name="IS_TYPING_MULTIPLE">Meerdere personen zijn aan het typen</string>
+    <!-- NOTE FOR TRANSLATORS: You may translate "Error" if there is not a suitable word for "Whoops" in your language -->
+    <string name="SEND_MESSAGE_FAILED_TITLE">Oeps</string>
+    <!-- Error message explaining why a message cannot be sent - P -->
+    <string name="SEND_MESSAGE_FAILED_REASON">Een of meerdere partijen in deze conversatie zijn niet langer bereikbaar. Je kunt de conversatiegeschiedenis bekijken maar geen nieuwe berichten meer sturen.</string>
+    <!-- Title of alert box indicating they have disabled EMwithME access to their microphone -->
+    <string name="RECORDING_PERMISSIONS_TITLE">Recording Permissions</string>
+    <!-- Text explaination of alert box indicating how to enable their microphone -->
+    <string name="RECORDING_PERMISSIONS_EXPLAINATION">Voice messaging is currently disabled. Go to Apple\'s Settings app &gt; Settings &gt; Privacy &gt; Microphone to enable this feature.</string>
+    <!-- Save (This is used to save sent media to your device) -->
+    <string name="SAVE_BUTTON">Bewaren</string>
+    <!-- Attach - P -->
+    <string name="ATTACH_BUTTON">Toevoegen</string>
+    <!-- Camera - P -->
+    <string name="CAMERA_BUTTON">Camera</string>
+    <!-- Media Library Android Only - P -->
+    <string name="MEDIA_LIBRARY">Mediabibliotheek</string>
+    <!-- Take Photo Android only - P -->
+    <string name="TAKE_PHOTO">Neem een foto</string>
+    <!-- Take Video Android only - P -->
+    <string name="TAKE_VIDEO">Maak een filmpje</string>
+    <!-- Select Media Android only - P -->
+    <string name="SELECT_MEDIA">Selecteer media</string>
+    <!-- Photo Library (iOS only) when we only allow photo selection - P -->
+    <string name="PHOTO_LIBRARY_BUTTON">Fotogalerij</string>
+    <!-- Photo and Video Library (iOS) on the users phone or tablet -->
+    <string name="PHOTO_AND_VIDEO_LIBRARY_BUTTON">Photo and Video Library</string>
+    <!-- Rotate Left - P -->
+    <string name="ROTATE_LEFT">Links roteren</string>
+    <!-- Rotate Right - P -->
+    <string name="ROTATE_RIGHT">Rechts roteren</string>
+    <!-- Where in the app is this? NL: on android, when cropping images - P -->
+    <string name="DISCARD_BUTTON">Negeren</string>
+    <!-- When going through photos or videos, this keeps a count / track - P -->
+    <string name="MEDIA_GALLERY_COUNT">{0} van {1}</string>
+    <!-- When sending single media object to another user -->
+    <string name="SEND_MEDIA_SINGULAR">Send {0} Item</string>
+    <!-- When sending multiple media objects to another user -->
+    <string name="SEND_MEDIA_MULTIPLE">Send {0} Items</string>
+    <!-- One video - P -->
+    <string name="MEDIA_PREVIEW_MOVIE">Bijlage: 1 video</string>
+    <!-- One image - P -->
+    <string name="MEDIA_PREVIEW_PHOTO">Bijlage: 1 afbeelding</string>
+    <!-- One sound - P -->
+    <string name="MEDIA_PREVIEW_SOUND">Bijlage: 1 geluidsfragment</string>
+    <!-- You sent one video -->
+    <string name="MEDIA_PREVIEW_MOVIE_YOU">You sent a video</string>
+    <!-- You sent one image -->
+    <string name="MEDIA_PREVIEW_PHOTO_YOU">You sent an image</string>
+    <!-- You sent one sound -->
+    <string name="MEDIA_PREVIEW_SOUND_YOU">You sent an audio clip</string>
+    <!-- Text that shows the last message you sent. The {0} will be replaced with the actual text you sent -->
+    <string name="YOU_PREAMBLE">You: {0}</string>
+    <!-- This is not to be used for the header title of the Web Search page after tapping Web Search (the string below) -->
+    <string name="SEARCH_TITLE">Zoeken</string>
+    <!-- Photo Search - P -->
+    <string name="WEB_SEARCH">Foto zoeken</string>
+    <!-- Random search string used to seed image search when no prior search has been made - P -->
+    <string name="RANDOM_SEARCH">willekeurig</string>
+    <!-- Error displayed to user if no images were found - P -->
+    <string name="NO_IMAGES_FOUND">Er zijn geen afbeeldingen gevonden. Voer een nieuw zoekwoord in en probeer opnieuw.</string>
+    <!-- Error displayed to user if an error occurred when searching for images - P -->
+    <string name="IMAGE_SEARCH_ERROR">Er is een probleem met het uitvoeren van je zoekopdracht. Probeer nogmaals.</string>
+    <!-- Error displayed to user if an error occurred when converting their video - P -->
+    <string name="VIDEO_CONVERT_ERROR">Er is een probleem met het verwerken van deze video. Probeer nogmaals.</string>
+    <!-- Error displayed ot user if an error occurred when trying to select an image - P -->
+    <string name="IMAGE_SELECTION_ERROR">Er is een probleem met het verwerken van de geselecteerd afbeelding. Probeer nogmaals.</string>
+    <!-- Toast message user sees when trying to share media using EMwithME before they have registered (Android only) -->
+    <string name="SHARE_MEDIA_REGISTER_FIRST">You must first register with EMwithME before you can share media.</string>
+    <!-- Message to user (iOS only) if they have not allowed EMwithME access to their photos and they try to send a photo -->
+    <string name="ALLOW_ACCESS_PHOTOS">Please give EMwithME permission to access photos in order to share them!</string>
+    <!-- The text appended to every message sent via SMS - P -->
+    <string name="SMS_AFTERWORD">Verstuurd via EMwithME. Ga naar @ http://EMwith.ME</string>
+    <!-- The subject text telling a user they have a new message. %1$s will be replaced by the senders name - P -->
+    <string name="EMAIL_NEW_MESSAGE_SUBJECT_TWO">You have a new EMwithME message from %1$s</string>
+    <!-- The subject text telling a user they have a new notificaiton -->
+    <string name="EMAIL_NEW_NOTIFICATION_SUBJECT">You have a new EMwithME notification</string>
+    <!-- HTML text in the email indicating they can reply to the message. %1$s will be replaced by the senders name -->
+    <string name="EMAIL_WRITE_BACK_HTML">Want to write %1$s back? Just hit reply and send them an email or download &lt;a href=\'https://api.emwith.me/landingpage/tracking/EM/NewMessage/emailreplylink\' title=\'EMwithME\' target=\'_blank\'&gt;EMwithME&lt;/a&gt;.</string>
+    <!-- Text in the email indicating they can reply to the message. %1$s will be replaced by the senders name -->
+    <string name="EMAIL_WRITE_BACK_PLAIN">Want to write %1$s back? Just hit reply and send them an email or download EMwithME.</string>
+    <!-- Text in the email saying email was sent via EMwithME -->
+    <string name="SENT_VIA_EM">Sent via EMwithME</string>
+    <!-- Link in the email for more information -->
+    <string name="MORE_INFORMATION">More Information</string>
+    <!-- Default message to user that gets sent as an SMS letting user know they need to install EMwithME to see their message  - P -->
+    <string name="SMS_DEFAULT_MESSAGE">Er wacht een nieuw EMwithME bericht op je! Ga naar @ http://EMwith.ME voor de app en lees je bericht.</string>
+    <!-- The subject text telling a user to validate their EMwithME account - P -->
+    <string name="EMAIL_VALIDATION_SUBJECT">Valideer je EMwithME account.</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_MEDIA_NO_NAME">Er is een mediabericht naar je verstuurd. Installeer EMwithME om deze te bekijken.</string>
+    <!-- A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_PHOTO_NO_NAME">Er is een foto naar je gestuurd. Installeer EMwithME om deze te bekijken.</string>
+    <!-- A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_VIDEO_NO_NAME">Er is een video naar je gestuurd. Installeer EMwithME om deze te bekijken.</string>
+    <!-- A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_SOUND_NO_NAME">Er is een spraabericht naar je gestuurd. Installeer EMwithME om deze te bekijken.</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_MEDIA_PREFIX_NAME">%1$s heeft je een mediabericht gestuurd. Installeer EMwithME om deze te bekijken.</string>
+    <!-- A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_PHOTO_PREFIX_NAME">%1$s heeft je een foto gestuurd. Installeer EMwithME om deze te bekijken.</string>
+    <!-- A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_VIDEO_PREFIX_NAME">%1$s heeft je een video gestuurd. Installeer EMwithME om deze te bekijken.</string>
+    <!-- A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_SOUND_PREFIX_NAME">%1$s heeft je een spraabericht gestuurd. Installeer EMwithME om deze te bekijken.</string>
+    <!-- Hide DEPRECATED - P -->
+    <string name="HIDE_BUTTON">Verbergen</string>
+    <!-- Text explaining to user what local delete/hide does DEPRECATED - P -->
+    <string name="DELETE_EXPLAINATION">Verbergen verwijdert het bericht van je lokale conversatiegeschiedenis. Deze actie kan niet ongedaan worden gemaakt.</string>
+    <!-- Delete - P -->
+    <string name="DELETE_BUTTON">Verwijderen</string>
+    <!-- A deleted message from the Take it Back / remote delete functionality. - P -->
+    <string name="DELETED_STATUS">Bericht verwijderd</string>
+    <!-- Remote Delete - P -->
+    <string name="REMOTE_DELETE_BUTTON">Terugnemen</string>
+    <!-- Text explaining to user what Remote Delete does - P -->
+    <string name="REMOTE_DELETE_EXPLAINATION">Terugnemen verwijdert het bericht van je apparaat en die van de ontvanger(s).</string>
+    <!-- Where in the app is this? This is referenced in code but does not get displayed -->
+    <string name="HISTORICAL_STATUS">Historie</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_MEDIA_NO_NAME">Er is een mediabericht naar je gestuurd.</string>
+    <!-- A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_PHOTO_NO_NAME">Er is een foto naar je gestuurd.</string>
+    <!-- A user sent a video message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_VIDEO_NO_NAME">Er is een video naar je gestuurd.</string>
+    <!-- A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_SOUND_NO_NAME">Er is een spraakbericht naar je gestuurd.</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_MEDIA_PREFIX_NAME">%1$s heeft je een mediabericht gestuurd.</string>
+    <!-- A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_PHOTO_PREFIX_NAME">%1$s heeft je een foto gestuurd.</string>
+    <!-- A user sent a video message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_VIDEO_PREFIX_NAME">%1$s heeft je een video gestuurd.</string>
+    <!-- A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_SOUND_PREFIX_NAME">%1$s heeft je een spraakbericht gestuurd.</string>
+    <!-- No SD card - P -->
+    <string name="ANDROID_MEDIA_NO_STORAGE_CARD">Geen SD-card</string>
+    <!-- Preparing SD card - P -->
+    <string name="ANDROID_MEDIA_PREPARING_STORAGE_CARD">Card voorbereiden card</string>
+    <!-- Not enough space on SD card - P -->
+    <string name="ANDROID_MEDIA_NOT_ENOUGH_SPACE_ON_CARD">Niet voldoende ruimte</string>
+    <!-- Title of the My Account page - P -->
+    <string name="MY_ACCOUNT_TITLE">Profiel</string>
+    <!-- Title of the Choose a Color page - P -->
+    <string name="CHOOSE_COLOR_TITLE">Kies een kleur</string>
+    <!-- Text indicating to a user that they can change the app color theme - P -->
+    <string name="COLOR_THEME">Kleurthema</string>
+    <!-- Text indicating to a user that they can change the app color theme (Plural) - P -->
+    <string name="COLOR_THEME_PLURAL">Kleurthema\'s</string>
+    <!-- Choose icon to associate with a screen name - P -->
+    <string name="CHOOSE_ICON">Kies icoon</string>
+    <!-- The text shown to a user that leaves their name blank in their Account - P -->
+    <string name="BLANK_DISPLAY_NAME">Je hebt je naam niet ingevuld, We gebruiken {0} als je naam.</string>
+    <!-- Share profile - P -->
+    <string name="SHARE_PROFILE">Profiel delen</string>
+    <!-- Text showing where user can choose to share their profile - P -->
+    <string name="SHARE_TO">Delen met</string>
+    <!-- Text shown to user if we could not locate an app in which we could share their profile to - P -->
+    <string name="INSTAGRAM_NOT_FOUND">We hebben geen ondersteunde deelapplicaties gevonden op je apparaat. Momenteel kunnen we alleen delen via Instagram. Als je je profiel wilt delen, installeer Instagram en probeer opnieuw.</string>
+    <!-- Text shown to user if we could not locate an app in which we could share their profile to - P -->
+    <string name="SHARE_APP_NOT_FOUND">We hebben geen ondersteunde deelapplicaties gevonden op je apparaat. Momenteel kunnen we alleen delen via Instagram, Facebook en Twitter. Als je je profiel wilt delen, installeer een van deze applicaties en probeer opnieuw.</string>
+    <!-- Default caption we pre-fill when a user shares their AKA on Instagram. The {0} will be dynamically replaced with the user AKA - P -->
+    <string name="INSTAGRAM_SHARE_DEFAULT_MESSAGE">Stuur me een bericht via EMwithME! Mijn schermnaam is {0}. Gratis voor iOS &amp; Android. @EMTheApp #{0} #EMwithME</string>
+    <!-- Text in the image being shared in Instagram that is a call to action -->
+    <string name="INSTAGRAM_CALL_TO_ACTION">Message me on EMwithME</string>
+    <!-- Title of the contacts page - P -->
+    <string name="CONTACTS_TITLE">Contacten</string>
+    <!-- Title of Help page - P -->
+    <string name="HELP_TITLE">Ondersteuning</string>
+    <!-- Text for user to click to view our getting started -->
+    <string name="GETTING_STARTED">Getting Started</string>
+    <!-- URL for getting started -->
+    <string name="GETTING_STARTED_URL">http://api.emwith.me/web/onboarding/gettingstarted</string>
+    <!-- Text for user to click to view our tips -->
+    <string name="TIPS">Tips</string>
+    <!-- URL for tips -->
+    <string name="TIPS_URL">http://api.emwith.me/web/onboarding/tips</string>
+    <!-- Text for user to click to view our support site -->
+    <string name="SUPPORT">Steun</string>
+    <!-- URL for support -->
+    <string name="SUPPORT_URL">http://emwithme.zendesk.com</string>
+    <!-- Profile title - P -->
+    <string name="PROFILES_TITLE">Profielen</string>
+    <!-- Details - P -->
+    <string name="DETAILS">Details</string>
+    <!-- Add contact button - P -->
+    <string name="ADD_CONTACT_BUTTON">Voeg toe aan contacten</string>
+    <!-- Text explaining a contact has been added. The {0} will be dynamically substituted with the persons name -->
+    <string name="ADD_CONTACT_EXPLAINATION">{0} is toegevoegd aan je contacten.</string>
+    <!-- Remove contact button - P -->
+    <string name="REMOVE_CONTACT_BUTTON">Verwijder uit contacten</string>
+    <!-- Block contact button - P -->
+    <string name="BLOCK_CONTACT_BUTTON">Blokkeer contact</string>
+    <!-- Unblock contact button - P -->
+    <string name="UNBLOCK_CONTACT_BUTTON">Blokkering van contact opheffen</string>
+    <!-- Alias -->
+    <string name="ALIAS">AKA</string>
+    <!-- Alias Title on sidebar - P -->
+    <string name="ALIAS_TITLE">AKAs</string>
+    <!-- Setup Account Screen Name text - P -->
+    <string name="SETUP_ALIAS">AKAs (Ook Gekend Als) zijn eenmalig, publiek en uniek. Je kunt deze gebruiken om andere gebruikers een bericht te sturen zonder details te sturen zoals je naam of mobiele nummer. Wil je een AKA instellen?</string>
+    <!-- Add alias - P -->
+    <string name="ADD_ALIAS_BUTTON">AKA toevoegen</string>
+    <!-- Edit Alias - P -->
+    <string name="EDIT_ALIAS_TITLE">AKA wijzigen</string>
+    <!-- Delete alias button - P -->
+    <string name="DELETE_ALIAS_BUTTON">AKA verwijderen</string>
+    <!-- Error message when alias is already taken - P -->
+    <string name="ALIAS_ALREADY_TAKEN">Deze AKA is al in gebruik. Kies een andere.</string>
+    <!-- Will need to adjust for double byte at some point -->
+    <string name="ALIAS_TOO_SHORT">Deze AKA is te kort. Kies een AKA langer dan 5 karakters.</string>
+    <!-- Error message when alias contains inappropriate word(s) - P -->
+    <string name="ALIAS_INAPPROPRIATE">Deze AKA is niet geldig. Kies een andere.</string>
+    <!-- Error message when alias name is a phone number - P -->
+    <string name="ALIAS_PHONE">AKAs kunnen geen telefoonnummers zijn. Kies een andere.</string>
+    <!-- Error message when alias name is an email address - P -->
+    <string name="ALIAS_EMAIL">AKAs kunnen geen e-mailadressen zijn. Kies een andere.</string>
+    <!-- Error message when an alias contains invalid characters (such as spaces) - P -->
+    <string name="ALIAS_INVALID">Deze AKA bevat ongeldige karakters (coals een spatie, @ of punten). Kies een andere.</string>
+    <!-- Generic error message when alias cannot be saved - P -->
+    <string name="ALIAS_GENERIC_ERROR">Er is een probleem met het verwerken van je AKA. Probeer nogmaals.</string>
+    <!-- Message of alert box presented to user when trying to delete an Alias - P -->
+    <string name="ALIAS_DELETE_CONFIRMATION_MESSAGE">Als je deze AKA verwijdert kun je geen berichten meer versturen of ontvangen met dit account. Weet je zeker dat je deze wilt verwijderen?</string>
+    <!-- Title of alert box presented to user when clicking on an Alias they have deleted - P -->
+    <string name="ALIAS_DELETED_TITLE">AKA verwijderd</string>
+    <!-- Message of alert box presented to user when clicking on an Alias they have deleted - P -->
+    <string name="ALIAS_DELETED_MESSAGE">Deze AKA is verwijderd en blijft gedurende 24 uur beschikbaar voordat deze beschikbaar komt voor een andere gebruiker. Je kunt gedurende deze tijd de AKA op elk moment weer opeisen.</string>
+    <!-- Message of alert box presented to user when reviewing their chat history on an Alias they have deleted -->
+    <string name="ALIAS_DELETED_CHAT_HISTORY_MESSAGE">Your AKA has been deleted. You can review the conversation history but no new messages can be sent.</string>
+    <!-- Button text of the alert box for the user to reactivate their deleted Alias - P -->
+    <string name="ALIAS_DELETED_REACTIVATE">Opnieuw activeren</string>
+    <!-- About - P -->
+    <string name="ABOUT_TITLE">Over</string>
+    <!-- Text saying which version of EMwithME the user has currently installed. The {0} is dynamically replaced with the current version - P -->
+    <string name="VERSION">Versie {0}</string>
+    <!-- Text for a user to click to view our credits webpage - P -->
+    <string name="CREDITS">Credits</string>
+    <!-- URL for credits -->
+    <string name="CREDITS_URL">http://EMwith.ME/credits</string>
+    <!-- Text for user to click to view our FAQ - P -->
+    <string name="FAQ">FAQ</string>
+    <!-- URL for FAQ - P -->
+    <string name="FAQ_URL">http://EMwith.ME/faq</string>
+    <!-- Text for a user to click to view our privacy policy - P -->
+    <string name="PRIVACY_POLICY">Privacybeleid</string>
+    <!-- URL for privacy policy - P -->
+    <string name="PRIVACY_POLICY_URL">http://EMwith.ME/privacy</string>
+    <!-- Text for a user to click to view our end user license agreement (EULA) - P -->
+    <string name="EULA">Gebruikersovereenkomst</string>
+    <!-- URL for EULA - P -->
+    <string name="EULA_URL">http://EMwith.ME/eula</string>
+    <!-- URL for Facebook -->
+    <string name="FACEBOOK_URL">http://facebook.com/emtheapp</string>
+    <!-- URL for Twitter -->
+    <string name="TWITTER_URL">http://twitter.com/emtheapp</string>
+    <!-- Copyright - P -->
+    <string name="COPYRIGHT">Copyright (c) 2015 WhosHere, Inc. Alle rechten voorbehouden. EM en EMwithME zijn handelsmerken van WhosHere, Inc.</string>
+    <!-- Invite Friends -->
+    <string name="INVITE_FRIENDS_TITLE">Invite Friends</string>
+    <!-- Message body to send invitation(s) via SMS -->
+    <string name="INVITE_FRIENDS_VIA_SMS_MESSAGE">Would you like to send invitation(s) via SMS?</string>
+    <!-- Message body to send invitation(s) via Email -->
+    <string name="INVITE_FRIENDS_VIA_EMAIL_MESSAGE">Would you like to send invitation(s) via Email?</string>
+    <!-- Label shown when Android users finish selecting who they would like to invite via Email and are shown which email client they would like to use to send the invitation(s) -->
+    <string name="INVITE_FRIENDS_SEND_EMAIL_LABEL">Send Email via...</string>
+    <!-- Toast message (Android specific) shown to user as SMS invitation(s) are sent out. {0} will be replaced with current number of SMS going out, {1} will be replaced with total SMS going out -->
+    <string name="INVITE_FRIENDS_SMS_SENDING_TOAST_MESSAGE">Sending {0} of {1}...</string>
+    <!-- Title of alert when device is incapable of sending SMS -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_SMS_TITLE">Cannot send invite(s) via SMS</string>
+    <!-- Message body of alert when device is incapable of sending SMS -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_SMS_MESSAGE">Your device cannot send SMS messages.</string>
+    <!-- Title of alert when device is incapable of sending email -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_EMAIL_TITLE">Cannot send invite(s) via Email</string>
+    <!-- Message body of alert when device is incapable of sending email -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_EMAIL_MESSAGE">Your device cannot send Email messages.</string>
+    <!-- Body of SMS invite message -->
+    <string name="INVITE_FRIENDS_SMS_MESSAGE">Hey! I\'m using a new messaging app EMwithME that I\'d like you to try. Check it out at http://EMwith.ME</string>
+    <!-- Body of HTML Email invite message -->
+    <string name="INVITE_FRIENDS_EMAIL_MESSAGE">&lt;p&gt;Hey! I\'m using a new messaging app EMwithME that I\'d like you to try.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;Check it out at &lt;a href=\'http://EMwith.ME\' target=\'_blank\' title=\'EMwithME\'&gt;http://EMwith.ME&lt;/a&gt;</string>
+    <!-- Message body of alert when there was an error in sending SMS or Email invite -->
+    <string name="INVITE_FRIENDS_ERROR_MESSAGE">There was an error sending your invitation(s). Please try again.</string>
+    <!-- Message body of alert when user cancels the invitation(s) -->
+    <string name="INVITE_FRIENDS_CANCELLED_MESSAGE">You cancelled your invitation(s).</string>
+    <!-- Title of alert for when user saved the email as a draft instead of sending it -->
+    <string name="INVITE_FRIENDS_EMAIL_DRAFT_SAVED_TITLE">Draft Saved</string>
+    <!-- Message body of alert for when user saved the email as a draft instead of sending it -->
+    <string name="INVITE_FRIENDS_EMAIL_DRAFT_SAVED_MESSAGE">Your email invitation(s) were saved as drafts.</string>
+    <!-- Title of alert when user has successfully sent an invite (SMS/Email) -->
+    <string name="INVITE_FRIENDS_INVITATION_SENT_TITLE">Invitation(s) Sent</string>
+    <!-- Message body of when the user has sent the invite successfully -->
+    <string name="INVITE_FRIENDS_INVITATION_SENT_MESSAGE">Your invitation(s) were sucessfully sent.</string>
+    <!-- Subject of invitation email -->
+    <string name="INVITE_FRIENDS_EMAIL_SUBJECT">Come check out EMwithME!</string>
+    <!-- Text for user to associate EMwithME with WhosHere (iOS only) -->
+    <string name="ASSOCIATE_WITH_WHOSHERE">Associate with WhosHere</string>
+    <!-- Text of alert asking user if they would like to associate EMwithME with WhosHere (iOS only) -->
+    <string name="ASSOCIATE_WITH_WHOSHERE_EXPLAINATION">Would you like to associate EMwithME with WhosHere to earn free points?</string>
+    <!-- Translators: if 'Emily' is not a common name in your language/country/region, please substitute it with a female name that is common. -->
+    <string name="BOT_DISPLAY_NAME">Emily - EMwithME Automated Assistant</string>
+    <!-- Settings title -->
+    <string name="SETTINGS_TITLE">Settings</string>
+    <!-- Sounds title -->
+    <string name="SOUNDS_TITLE">Sounds</string>
+    <!-- Text giving the user the option to turn on or off sounds for incoming messages -->
+    <string name="INCOMING_MESSAGES_SOUND">Incoming Messages</string>
+    <!-- Offline Notifications Title -->
+    <string name="OFFLINE_NOTIFICATIONS_TITLE">Offline Notifications</string>
+    <!-- Text giving the user the option to turn on or off offline notifications -->
+    <string name="OFFLINE_NOTIFICATIONS_SHOW">Show in Notification Center</string>
+    <!-- Text giving the user the option to turn on or off notification sounds -->
+    <string name="PLAY_SOUNDS">Play Sounds</string>
+    <!-- Text giving the user the option to turn on or off notificaitons that contain the message text or not -->
+    <string name="SHOW_PREVIEW">Show Preview</string>
+    <!-- Text that is shown to the user if they have selected to hide the actual preview text -->
+    <string name="TEXT_MESSAGE">Text Message</string>
+    <!-- In-App Settings Title -->
+    <string name="IN_APP_SETTINGS_TITLE">In-App Settings</string>
+    <!-- In-App Notifications -->
+    <string name="IN_APP_NOTIFICATIONS">In-App Notifications</string>
+    <!-- Text sent to user after they have onboarded to welcome them to EMwithME -->
+    <string name="GENERIC_WELCOME_MESSAGE">Welcome to EMwithME, the best messaging app for connecting with friends as well as protecting your identity.</string>
+    <!-- Button text encouraging user to invite their friends -->
+    <string name="INVITE_FRIENDS_BUTTON_TEXT">Invite Friends!</string>
+    <!-- Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends -->
+    <string name="WELCOME_WHOSHERE_USER_GENERIC_TEXT">Welcome to EMwithME! We see that you are a WhosHere user, thanks for trying EMwithME.</string>
+    <!-- Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends. %1$s will be dynamically replaced with the point total they will be rewarded with -->
+    <string name="WELCOME_WHOSHERE_USER_TEXT">Welcome to EMwithME! We see that you are a WhosHere user, and will reward you with %1$s points in WhosHere every time you receive a message from a new EMwithME user. So, be sure to invite your friends!</string>
+    <!-- Button text encouraging user to create an AKA -->
+    <string name="CREATE_AKA_BUTTON_TEXT">Create AKA!</string>
+    <!-- Text sent to user explaining AKAs -->
+    <string name="CREATE_AKA_TEXT">Did you know with EMwithME you can create AKAs that allow you to protect your personal information? AKAs are disposable screen names you can send and receive messages from.</string>
+    <!-- Text sent to WhosHere user explaining AKAs -->
+    <string name="CREATE_AKA_WHOSHERE_TEXT">WhosHere and EMwithME can work together seamlessly. When your accounts are linked it allows users to chat with you in EMwithME or WhosHere. With EMwithME, an AKA can be used to keep your personal information private. You choose if and when you share personal information like an email address or phone number.</string>
+    <!-- Title of alert when a user has reached their limit on number of AKAs -->
+    <string name="LIMIT_REACHED">Limit Reached</string>
+    <!-- Message body of alert when a user has reached their limit on number of AKAs -->
+    <string name="AKA_LIMIT_REACHED_MESSAGE">You\'ve reached the current maximum number of AKAs, you need to delete an existing one before creating a new one.</string>
+    <!-- Text sent to user once they have created an AKA -->
+    <string name="FIRST_AKA_CREATED_TEXT">You created an AKA. Now what? As long as someone knows your AKA they can write you by typing your AKA name in the \'To\' field. You can also write anyone from your AKA. Just select your AKA on \'From\' line when you start a new conversation.</string>
+    <!-- Button text encouraging user to create a group -->
+    <string name="CREATE_A_GROUP_BUTTON_TEXT">Create a Group!</string>
+    <!-- Text sent to user explaining they can create groups -->
+    <string name="CREATE_A_GROUP_TEXT">Did you know, with EMwithME, you can send messages to friends who don\'t even have EMwithME? All you need is their email address or mobile phone number. You can create a group of friends and send them all messages and it does not matter if some, or all, of them have EMwithME!</string>
+    <!-- Text sent to user once they have created their first group -->
+    <string name="FIRST_GROUP_CREATED_TEXT">You\'ve create your first Group! This group will show up in your EMwithME Contacts List, and in all the group member\'s Contacts List as well. Even group members who haven\'t joined EMwithME will receive an SMS or email message when you write to the group.</string>
+    <!-- Button text encouraging user to write to a group -->
+    <string name="WRITE_GROUP_BUTTON_TEXT">Write the Group!</string>
+    <!-- Text sent to user once they have been added to a group -->
+    <string name="FIRST_GROUP_ADDED_TEXT">You\'ve been added to a group by one of your friends. You\'ll now receive messages sent to this group and any replies you write will be sent to everyone. This group will appear in your Contacts List, so to write the group just start typing its name. If you ever decide you want to leave the group you can control that from the Groups page.</string>
+    <!-- Text sent to user explaining they can leave groups -->
+    <string name="LEAVE_A_GROUP_TEXT">With EMwithME you are in control. Don\'t like being on a group message? You can leave any group conversation, whether it be a formal group created by friends or just a message addressed to multiple people. Just go to the \'Details\' of that conversation to remove yourself.</string>
+    <!-- Text sent to user explaining they can take back their messages (part one) -->
+    <string name="TAKE_BACK_TEXT_ONE">With EMwithME you can take back messages you\'ve sent other EMwithME users. Just long press the message you sent and select \'Take it Back\'.</string>
+    <!-- Text sent to user explaining they can take back their messages (part two) -->
+    <string name="TAKE_BACK_TEXT_TWO">I\'m going to take back this message.</string>
+    <!-- Text sent to user explaining they can take back their messages (part three) -->
+    <string name="TAKE_BACK_TEXT_THREE">Now your turn. Send me a message, then long press it to Take it Back.</string>
+</resources>

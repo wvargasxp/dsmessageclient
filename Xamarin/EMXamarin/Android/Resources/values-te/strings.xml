@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Loco xml export: Android string resources
+ Project: Localizable.strings conversion
+ Release: Working copy
+ Locale: zz_ZZ, Unknown
+ Exported by: Unregistered user
+ Exported at: Wed, 26 Aug 2015 20:06:44 +0100
+-->
+<resources>
+    <!-- Chad -->
+    <string name="CHAD">చాద్</string>
+    <!-- Cuba -->
+    <string name="CUBA">క్యూబా</string>
+    <!-- Fiji -->
+    <string name="FIJI">ఫిజి</string>
+    <!-- Guam -->
+    <string name="GUAM">గ్వామ్</string>
+    <!-- Iran -->
+    <string name="IRAN">ఇరాన్</string>
+    <!-- Iraq -->
+    <string name="IRAQ">ఇరాక్</string>
+    <!-- Laos -->
+    <string name="LAOS">లావోస్</string>
+    <!-- Mali -->
+    <string name="MALI">మాలి</string>
+    <!-- Niue -->
+    <string name="NIUE">నియూ</string>
+    <!-- Oman -->
+    <string name="OMAN">ఓమన్</string>
+    <!-- Peru -->
+    <string name="PERU">పెరూ</string>
+    <!-- Togo -->
+    <string name="TOGO">టోగో</string>
+    <!-- Aruba -->
+    <string name="ARUBA">అరుబా</string>
+    <!-- Benin -->
+    <string name="BENIN">బెనిన్</string>
+    <!-- Burma (Myanmar) -->
+    <string name="BURMA">బర్మా (మయన్మార్)</string>
+    <!-- Chile -->
+    <string name="CHILE">చిలీ</string>
+    <!-- China -->
+    <string name="CHINA">చైనా</string>
+    <!-- Democratic Republic of the Congo -->
+    <string name="CONGO">డెమొక్రాటిక్ రిపబ్లిక్ ఆఫ్ ది కాంగో</string>
+    <!-- Egypt -->
+    <string name="EGYPT">ఈజిప్ట్</string>
+    <!-- Gabon -->
+    <string name="GABON">గబాన్</string>
+    <!-- Ghana -->
+    <string name="GHANA">ఘనా</string>
+    <!-- Haiti -->
+    <string name="HAITI">హైతీ</string>
+    <!-- India -->
+    <string name="INDIA">భారతదేశం</string>
+    <!-- Italy -->
+    <string name="ITALY">ఇటలీ</string>
+    <!-- Japan -->
+    <string name="JAPAN">జపాన్</string>
+    <!-- Kenya -->
+    <string name="KENYA">కెన్యా</string>
+    <!-- Libya -->
+    <string name="LIBYA">లిబియా</string>
+    <!-- Macau -->
+    <string name="MACAU">మకావ్</string>
+    <!-- Malta -->
+    <string name="MALTA">మాల్టా</string>
+    <!-- Nauru -->
+    <string name="NAURU">నౌరు</string>
+    <!-- Nepal -->
+    <string name="NEPAL">నేపాల్</string>
+    <!-- Niger -->
+    <string name="NIGER">నైజర్</string>
+    <!-- Palau -->
+    <string name="PALAU">పలావు</string>
+    <!-- Qatar -->
+    <string name="QATAR">కతర్</string>
+    <!-- Samoa -->
+    <string name="SAMOA">సమోవా</string>
+    <!-- Spain -->
+    <string name="SPAIN">స్పెయిన్</string>
+    <!-- Sudan -->
+    <string name="SUDAN">సుడాన్</string>
+    <!-- Syria -->
+    <string name="SYRIA">సిరియా</string>
+    <!-- Tonga -->
+    <string name="TONGA">టోన్గా</string>
+    <!-- Yemen -->
+    <string name="YEMEN">యెమెన్</string>
+    <!-- Angola -->
+    <string name="ANGOLA">అంగోలా</string>
+    <!-- Belize -->
+    <string name="BELIZE">బెలిజ్</string>
+    <!-- Bhutan -->
+    <string name="BHUTAN">భూటాన్</string>
+    <!-- Brazil -->
+    <string name="BRAZIL">బ్రెజిల్</string>
+    <!-- Brunei -->
+    <string name="BRUNEI">బ్రూనై</string>
+    <!-- Canada -->
+    <string name="CANADA">కెనడా</string>
+    <!-- Cyprus -->
+    <string name="CYPRUS">సైప్రస్</string>
+    <!-- France -->
+    <string name="FRANCE">ఫ్రాన్స్</string>
+    <!-- Gambia -->
+    <string name="GAMBIA">గాంబియా</string>
+    <!-- Greece -->
+    <string name="GREECE">గ్రీస్</string>
+    <!-- Guinea -->
+    <string name="GUINEA">Guinea</string>
+    <!-- Guyana -->
+    <string name="GUYANA">గయానా</string>
+    <!-- Israel -->
+    <string name="ISRAEL">ఇజ్రాయెల్</string>
+    <!-- Jordan -->
+    <string name="JORDAN">జోర్డాన్</string>
+    <!-- Kosovo -->
+    <string name="KOSOVO">కొసావో</string>
+    <!-- Kuwait -->
+    <string name="KUWAIT">కువైట్</string>
+    <!-- Latvia -->
+    <string name="LATVIA">లాట్వియా</string>
+    <!-- Malawi -->
+    <string name="MALAWI">మాలావి</string>
+    <!-- Mexico -->
+    <string name="MEXICO">మెక్సికో</string>
+    <!-- Monaco -->
+    <string name="MONACO">మొనాకో</string>
+    <!-- Norway -->
+    <string name="NORWAY">నార్వే</string>
+    <!-- Panama -->
+    <string name="PANAMA">పనామా</string>
+    <!-- Poland -->
+    <string name="POLAND">పోలాండ్</string>
+    <!-- Russia -->
+    <string name="RUSSIA">రష్యా</string>
+    <!-- Rwanda -->
+    <string name="RWANDA">రువాండా</string>
+    <!-- Serbia -->
+    <string name="SERBIA">సెర్బియా</string>
+    <!-- Sweden -->
+    <string name="SWEDEN">స్వీడన్</string>
+    <!-- Taiwan -->
+    <string name="TAIWAN">తైవాన్</string>
+    <!-- Turkey -->
+    <string name="TURKEY">టర్కీ</string>
+    <!-- Tuvalu -->
+    <string name="TUVALU">ట్యువలు</string>
+    <!-- Uganda -->
+    <string name="UGANDA">ఉగాండా</string>
+    <!-- Zambia -->
+    <string name="ZAMBIA">జాంబియా</string>
+    <!-- Albania -->
+    <string name="ALBANIA">అల్బేనియా</string>
+    <!-- Algeria -->
+    <string name="ALGERIA">అల్జీరియా</string>
+    <!-- Andorra -->
+    <string name="ANDORRA">అండోరా</string>
+    <!-- Armenia -->
+    <string name="ARMENIA">అర్మేనియా</string>
+    <!-- Austria -->
+    <string name="AUSTRIA">ఆస్ట్రియా</string>
+    <!-- Bahamas -->
+    <string name="BAHAMAS">బహామాస్</string>
+    <!-- Bahrain -->
+    <string name="BAHRAIN">బహరేన్</string>
+    <!-- Belarus -->
+    <string name="BELARUS">బెలారస్</string>
+    <!-- Belgium -->
+    <string name="BELGIUM">బెల్జియం</string>
+    <!-- Bermuda -->
+    <string name="BERMUDA">బెర్ముడా</string>
+    <!-- Bolivia -->
+    <string name="BOLIVIA">బొలీవియా</string>
+    <!-- Burundi -->
+    <string name="BURUNDI">బురుండి</string>
+    <!-- Comoros -->
+    <string name="COMOROS">కొమొరోస్</string>
+    <!-- Croatia -->
+    <string name="CROATIA">క్రొయేషియా</string>
+    <!-- Denmark -->
+    <string name="DENMARK">డెన్మార్క్</string>
+    <!-- Ecuador -->
+    <string name="ECUADOR">ఈక్వడార్</string>
+    <!-- Eritrea -->
+    <string name="ERITREA">ఎరిట్రియా</string>
+    <!-- Estonia -->
+    <string name="ESTONIA">ఎస్టోనియా</string>
+    <!-- Finland -->
+    <string name="FINLAND">ఫిన్లాండ్</string>
+    <!-- Georgia -->
+    <string name="GEORGIA">జార్జియా</string>
+    <!-- Germany -->
+    <string name="GERMANY">జర్మనీ</string>
+    <!-- Grenada -->
+    <string name="GRENADA">గ్రెనడా</string>
+    <!-- Hungary -->
+    <string name="HUNGARY">హంగేరీ</string>
+    <!-- Iceland -->
+    <string name="ICELAND">హంగేరీ</string>
+    <!-- Ireland -->
+    <string name="IRELAND">ఐర్లాండ్</string>
+    <!-- Jamaica -->
+    <string name="JAMAICA">జమైకా</string>
+    <!-- Lebanon -->
+    <string name="LEBANON">లెబనాన్</string>
+    <!-- Lesotho -->
+    <string name="LESOTHO">లెసోథో</string>
+    <!-- Liberia -->
+    <string name="LIBERIA">లైబీరియా</string>
+    <!-- Mayotte -->
+    <string name="MAYOTTE">మాయొట్టి</string>
+    <!-- Moldova -->
+    <string name="MOLDOVA">మోల్డోవా</string>
+    <!-- Morocco -->
+    <string name="MOROCCO">మొరాకో</string>
+    <!-- Namibia -->
+    <string name="NAMIBIA">నమీబియా</string>
+    <!-- Nigeria -->
+    <string name="NIGERIA">నైజీరియా</string>
+    <!-- Romania -->
+    <string name="ROMANIA">రోమానియా</string>
+    <!-- Senegal -->
+    <string name="SENEGAL">సెనెగల్</string>
+    <!-- Somalia -->
+    <string name="SOMALIA">సోమాలియా</string>
+    <!-- Tunisia -->
+    <string name="TUNISIA">ట్యునీషియా</string>
+    <!-- Ukraine -->
+    <string name="UKRAINE">ఉక్రెయిన్</string>
+    <!-- Uruguay -->
+    <string name="URUGUAY">ఉరుగ్వే</string>
+    <!-- Vanuatu -->
+    <string name="VANUATU">వనౌటు</string>
+    <!-- Vietnam -->
+    <string name="VIETNAM">వియత్నాం</string>
+    <!-- Anguilla -->
+    <string name="ANGUILLA">ఆంగ్విలా</string>
+    <!-- Barbados -->
+    <string name="BARBADOS">బార్బడోస్</string>
+    <!-- Botswana -->
+    <string name="BOTSWANA">బోట్స్వానా</string>
+    <!-- Bulgaria -->
+    <string name="BULGARIA">బల్గేరియా</string>
+    <!-- Cambodia -->
+    <string name="CAMBODIA">కంబోడియా</string>
+    <!-- Cameroon -->
+    <string name="CAMEROON">కామెరూన్</string>
+    <!-- Colombia -->
+    <string name="COLOMBIA">కొలంబియా</string>
+    <!-- Djibouti -->
+    <string name="DJIBOUTI">జిబౌటి</string>
+    <!-- Dominica -->
+    <string name="DOMINICA">డొమినికా</string>
+    <!-- Ethiopia -->
+    <string name="ETHIOPIA">ఇథియోపియా</string>
+    <!-- Honduras -->
+    <string name="HONDURAS">హోండురాస్</string>
+    <!-- Kiribati -->
+    <string name="KIRIBATI">కిరిబాటి</string>
+    <!-- Malaysia -->
+    <string name="MALAYSIA">మలేషియా</string>
+    <!-- Maldives -->
+    <string name="MALDIVES">మాల్దీవులు</string>
+    <!-- Mongolia -->
+    <string name="MONGOLIA">మంగోలియా</string>
+    <!-- Pakistan -->
+    <string name="PAKISTAN">పాకిస్తాన్</string>
+    <!-- Paraguay -->
+    <string name="PARAGUAY">పరాగ్వే</string>
+    <!-- Portugal -->
+    <string name="PORTUGAL">పోర్చుగల్</string>
+    <!-- Slovakia -->
+    <string name="SLOVAKIA">స్లోవేకియా</string>
+    <!-- Slovenia -->
+    <string name="SLOVENIA">స్లోవేనియా</string>
+    <!-- Suriname -->
+    <string name="SURINAME">సురినామ్</string>
+    <!-- Svalbard -->
+    <string name="SVALBARD">స్వాల్బార్డ్</string>
+    <!-- Tanzania -->
+    <string name="TANZANIA">టాంజానియా</string>
+    <!-- Thailand -->
+    <string name="THAILAND">థాయిలాండ్</string>
+    <!-- Zimbabwe -->
+    <string name="ZIMBABWE">జింబాబ్వే</string>
+    <!-- Argentina -->
+    <string name="ARGENTINA">అర్జెంటీనా</string>
+    <!-- Australia -->
+    <string name="AUSTRALIA">ఆస్ట్రేలియా</string>
+    <!-- Gibraltar -->
+    <string name="GIBRALTAR">జిబ్రాల్టర్</string>
+    <!-- Greenland -->
+    <string name="GREENLAND">గ్రీన్లాండ్</string>
+    <!-- Guatemala -->
+    <string name="GUATEMALA">గ్వాటెమాల</string>
+    <!-- Hong Kong -->
+    <string name="HONG_KONG">హాంగ్ కాంగ్</string>
+    <!-- Indonesia -->
+    <string name="INDONESIA">ఇండోనేషియా</string>
+    <!-- Lithuania -->
+    <string name="LITHUANIA">లిథువేనియా</string>
+    <!-- Macedonia -->
+    <string name="MACEDONIA">మేసిడోనియా</string>
+    <!-- Mauritius -->
+    <string name="MAURITIUS">మారిషస్</string>
+    <!-- Nicaragua -->
+    <string name="NICARAGUA">నికరాగువా</string>
+    <!-- Singapore -->
+    <string name="SINGAPORE">సింగపూర్</string>
+    <!-- Sri Lanka -->
+    <string name="SRI_LANKA">శ్రీలంక</string>
+    <!-- Swaziland -->
+    <string name="SWAZILAND">స్వాజీలాండ్</string>
+    <!-- Venezuela -->
+    <string name="VENEZUELA">వెనిజులా</string>
+    <!-- Azerbaijan -->
+    <string name="AZERBAIJAN">అజర్బైజాన్</string>
+    <!-- Bangladesh -->
+    <string name="BANGLADESH">బంగ్లాదేశ్</string>
+    <!-- Cape Verde -->
+    <string name="CAPE_VERDE">కేప్ వర్దె</string>
+    <!-- Costa Rica -->
+    <string name="COSTA_RICA">కోస్టా రిక</string>
+    <!-- Kazakhstan -->
+    <string name="KAZAKHSTAN">కజాఖ్స్తాన్</string>
+    <!-- Kyrgyzstan -->
+    <string name="KYRGYZSTAN">కిర్గిజ్స్తాన్</string>
+    <!-- Luxembourg -->
+    <string name="LUXEMBOURG">లక్సెంబర్గ్</string>
+    <!-- Madagascar -->
+    <string name="MADAGASCAR">మడగాస్కర్</string>
+    <!-- Mauritania -->
+    <string name="MAURITANIA">మౌరిటానియ</string>
+    <!-- Micronesia -->
+    <string name="MICRONESIA">మైక్రోనేషియా</string>
+    <!-- Montenegro -->
+    <string name="MONTENEGRO">మోంటెనెగ్రో</string>
+    <!-- Montserrat -->
+    <string name="MONTSERRAT">మోంట్సిరాట్</string>
+    <!-- Mozambique -->
+    <string name="MOZAMBIQUE">మొజాంబిక్</string>
+    <!-- San Marino -->
+    <string name="SAN_MARINO">శాన్ మారినో</string>
+    <!-- Seychelles -->
+    <string name="SEYCHELLES">సీషెల్స్</string>
+    <!-- Tajikistan -->
+    <string name="TAJIKISTAN">తజికిస్తాన్</string>
+    <!-- Uzbekistan -->
+    <string name="UZBEKISTAN">ఉజ్బెకిస్తాన్</string>
+    <!-- Afghanistan -->
+    <string name="AFGHANISTAN">ఆఫ్గనిస్తాన్</string>
+    <!-- El Salvador -->
+    <string name="EL_SALVADOR">ఎల్ సాల్వడార్</string>
+    <!-- Isle of Man -->
+    <string name="ISLE_OF_MAN">ఐల్ ఆఫ్ మాన్</string>
+    <!-- Ivory Coast -->
+    <string name="IVORY_COAST">ఐవరీ కోస్ట్</string>
+    <!-- Netherlands -->
+    <string name="NETHERLANDS">నెదర్లాండ్స్</string>
+    <!-- New Zealand -->
+    <string name="NEW_ZEALAND">న్యూజిలాండ్</string>
+    <!-- North Korea -->
+    <string name="NORTH_KOREA">ఉత్తర కొరియా</string>
+    <!-- Philippines -->
+    <string name="PHILIPPINES">ఫిలిప్పీన్స్</string>
+    <!-- Puerto Rico -->
+    <string name="PUERTO_RICO">ప్యూర్టో రికో</string>
+    <!-- Saint Lucia -->
+    <string name="SAINT_LUCIA">సెయింట్ లూసియా</string>
+    <!-- South Korea -->
+    <string name="SOUTH_KOREA">దక్షిణ కొరియా</string>
+    <!-- Switzerland -->
+    <string name="SWITZERLAND">స్విట్జర్లాండ్</string>
+    <!-- Timor-Leste -->
+    <string name="TIMOR_LESTE">టిమోర్-లెస్టె</string>
+    <!-- Burkina Faso -->
+    <string name="BURKINA_FASO">బుర్కినా ఫాసో</string>
+    <!-- Cook Islands -->
+    <string name="COOK_ISLANDS">కుక్ ఐలాండ్స్</string>
+    <!-- Saint Helena -->
+    <string name="SAINT_HELENA">సెయింట్ హెలెనా</string>
+    <!-- Saint Martin -->
+    <string name="SAINT_MARTIN">సెయింట్ మార్టిన్</string>
+    <!-- Saudi Arabia -->
+    <string name="SAUDI_ARABIA">సౌదీ అరేబియా</string>
+    <!-- Sierra Leone -->
+    <string name="SIERRA_LEONE">సియర్రా లియోన్</string>
+    <!-- South Africa -->
+    <string name="SOUTH_AFRICA">దక్షిణ ఆఫ్రికా</string>
+    <!-- Turkmenistan -->
+    <string name="TURKMENISTAN">తుర్క్మెనిస్తాన్</string>
+    <!-- Faroe Islands -->
+    <string name="FAROE_ISLANDS">ఫారో ఐలాండ్స్</string>
+    <!-- Guinea-Bissau -->
+    <string name="GUINEA_BISSAU">గినియా-బిస్సావు</string>
+    <!-- Liechtenstein -->
+    <string name="LIECHTENSTEIN">లీచ్టెన్స్టీన్</string>
+    <!-- New Caledonia -->
+    <string name="NEW_CALEDONIA">న్యూ కాలెడోనియా</string>
+    <!-- United States -->
+    <string name="UNITED_STATES">యునైటెడ్ స్టేట్స్</string>
+    <!-- American Samoa -->
+    <string name="AMERICAN_SAMOA">అమెరికన్ సమోవా</string>
+    <!-- Cayman Islands -->
+    <string name="CAYMAN_ISLANDS">కేమాన్ ఐలాండ్స్</string>
+    <!-- Czech Republic -->
+    <string name="CZECH_REPUBLIC">చెక్ రిపబ్లిక్</string>
+    <!-- Norfolk Island -->
+    <string name="NORFOLK_ISLAND">నార్ఫోక్ ఐల్యాండ్</string>
+    <!-- United Kingdom -->
+    <string name="UNITED_KINGDOM">యునైటెడ్ కింగ్డమ్</string>
+    <!-- Solomon Islands -->
+    <string name="SOLOMON_ISLANDS">సోలమన్ ఐలాండ్స్</string>
+    <!-- Falkland Islands -->
+    <string name="FALKLAND_ISLANDS">ఫాక్లాండ్ ఐలాండ్స్</string>
+    <!-- French Polynesia -->
+    <string name="FRENCH_POLYNESIA">ఫ్రెంచ్ పాలినేషియా</string>
+    <!-- Marshall Islands -->
+    <string name="MARSHALL_ISLANDS">మార్షల్ ఐలాండ్స్</string>
+    <!-- Papua New Guinea -->
+    <string name="PAPUA_NEW_GUINEA">పాపువా న్యూ గినియా</string>
+    <!-- Pitcairn Islands -->
+    <string name="PITCAIRN_ISLANDS">పిట్కెయిర్న్ ఐలాండ్స్</string>
+    <!-- Saint Barthelemy -->
+    <string name="SAINT_BARTHELEMY">సెయింట్ బార్తిలేమి</string>
+    <!-- Equatorial Guinea -->
+    <string name="EQUATORIAL_GUINEA">ఈక్వటోరియల్ గినియా</string>
+    <!-- US Virgin Islands -->
+    <string name="US_VIRGIN_ISLANDS">యుఎస్ వర్జిన్ ఐలాండ్స్</string>
+    <!-- Wallis and Futuna -->
+    <string name="WALLIS_AND_FUTUNA">వాలిస్ మరియు ఫుటునా</string>
+    <!-- United Arab Emirates -->
+    <string name="UNITED_ARAB_EMIRATES">యునైటెడ్ అరబ్ ఎమిరేట్స్</string>
+    <!-- Central African Republic -->
+    <string name="CENTRAL_AFRICAN_REPUBLIC">సెంట్రల్ ఆఫ్రికన్ రిపబ్లిక్</string>
+    <!-- Bosnia and Herzegovina -->
+    <string name="BOSNIA_AND_HERZEGOVINA">బోస్నియా మరియు హెర్జెగోవినా</string>
+    <!-- British Virgin Islands -->
+    <string name="BRITISH_VIRGIN_ISLANDS">బ్రిటిష్ వర్జిన్ ఐలాండ్స్</string>
+    <!-- Dominican Republic -->
+    <string name="DOMINICAN_REPUBLIC">డొమినికన్ రిపబ్లిక్</string>
+    <!-- Antigua and Barbuda -->
+    <string name="ANTIGUA_AND_BARBUDA">ఆంటిగ్వా మరియు బార్బుడా</string>
+    <!-- Holy See (Vatican City) -->
+    <string name="HOLY_SEE_VATICAN_CITY">హోలీ సీ (వాటికన్ సిటీ)</string>
+    <!-- Republic of the Congo -->
+    <string name="REPUBLIC_OF_THE_CONGO">కాంగో రిపబ్లిక్</string>
+    <!-- Saint Kitts and Nevis -->
+    <string name="SAINT_KITTS_AND_NEVIS">సెయింట్ కిట్స్ అండ్ నెవిస్</string>
+    <!-- Sao Tome and Principe -->
+    <string name="SAO_TOME_AND_PRINCIPE">సావో టోమ్ అండ్ ప్రిన్సిపీ</string>
+    <!-- Northern Mariana Islands -->
+    <string name="NORTHERN_MARIANA_ISLANDS">ఉత్తర మరియానా ఐలాండ్స్</string>
+    <!-- Saint Vincent and the Grenadines -->
+    <string name="SAINT_VINCENT_AND_THE_GRENADINES">సెయింట్ విన్సెంట్ మరియు గ్రెనడీన్స్</string>
+    <!-- Saint Pierre and Miquelon -->
+    <string name="SAINT_PIERRE_AND_MIQUELON">సెయింట్ పియెర్ అండ్ మికెలాన్</string>
+    <!-- Trinidad and Tobago -->
+    <string name="TRINIDAD_AND_TOBAGO">ట్రినిడాడ్ అండ్ టొబాగో</string>
+    <!-- Turks and Caicos Islands -->
+    <string name="TURKS_AND_CAICOS_ISLANDS">టర్క్స్ మరియు కైకోస్ ఐలాండ్స్</string>
+    <!-- The App name, do not translate - P -->
+    <string name="APP_TITLE">ఈయమ్</string>
+    <!-- Text indicating we are processing the user request - P -->
+    <string name="WAITING">వేచి ఉంది ...</string>
+    <!-- Text indicating we are loading the users request - P -->
+    <string name="LOADING">లోడ్ అవుతోంది ...</string>
+    <!-- Text indicating we are accessing the users addres book -->
+    <string name="ADDRESS_BOOK_ACCESSING">మీ స్నేహితుల కోసం శోధిస్తున్నారా...</string>
+    <!-- Text indicating we are processing the users address book -->
+    <string name="ADDRESS_BOOK_PROCESSING">పూర్తి అవుతోంది ...</string>
+    <!-- No - P -->
+    <string name="no_ec25ded83b84effdcc9a7815fd39e2de">లేదు</string>
+    <!-- Yes - P -->
+    <string name="yes_a188181d77797770fdc6498778a68784">అవును</string>
+    <!-- Done - P -->
+    <string name="done_button_f487aa09322784224b3254dcddcd81a4">డన్</string>
+    <!-- Edit - P -->
+    <string name="EDIT_BUTTON">ఎడిట్</string>
+    <!-- Update - P -->
+    <string name="UPDATE_BUTTON">అప్డేట్</string>
+    <!-- Undo - P -->
+    <string name="UNDO_BUTTON">అన్డు</string>
+    <!-- Cancel - P -->
+    <string name="CANCEL_BUTTON">కాన్సిల్</string>
+    <!-- Cancelled (past tense) -->
+    <string name="CANCELLED">రద్దు అయ్యింది</string>
+    <!-- Open for Android drawer toggle but not actually displayed - P -->
+    <string name="OPEN">ఓపెన్</string>
+    <!-- Close - P -->
+    <string name="CLOSE">క్లోజ్</string>
+    <!-- Display name - P -->
+    <string name="DISPLAY_NAME">మొదటి మరియు చివరి పేరు</string>
+    <!-- No Thanks - P -->
+    <string name="NO_THANKS">ధన్యవాదాలు, వద్దు</string>
+    <!-- Dont show Again -->
+    <string name="DONT_SHOW_AGAIN">మళ్ళీ చూపించవద్దు</string>
+    <!-- OK (Capitol letters / Uppercase) - P -->
+    <string name="OK_BUTTON">సరే</string>
+    <!-- Yesterday - P -->
+    <string name="YESTERDAY">నిన్నటి రోజు</string>
+    <!-- Today -->
+    <string name="TODAY">ఈ రోజు</string>
+    <!-- Here (Lowercase) - P -->
+    <string name="HERE">ఇక్కడ</string>
+    <!-- Copy - P -->
+    <string name="COPY">కాపీ</string>
+    <!-- Exit -->
+    <string name="EXIT">నిష్క్రమించండి</string>
+    <!-- Message when a user tries to back out of creating an AKA or Group without saving their changes -->
+    <string name="UNSAVED_CHANGES">మీకు సేవ్ చెయ్యని మార్పులు ఉన్నాయి. నిష్క్రమించండి?</string>
+    <!-- Title of the Groups page - P -->
+    <string name="GROUPS_TITLE">గ్రూపులు</string>
+    <!-- Add members - P -->
+    <string name="ADD_MEMBERS">సభ్యులను జోడించండి</string>
+    <!-- Title of the Create Group page - P -->
+    <string name="CREATE_GROUP_TITLE">గ్రూపును సృష్టించండి</string>
+    <!-- Leave Group - P -->
+    <string name="LEAVE_GROUP_BUTTON">గ్రూపును వదిలిపెట్టు</string>
+    <!-- Text explaining to user they are going to leave the group they were added to - P -->
+    <string name="LEAVE_GROUP_EXPLAINATION">మీరు గ్రూప్ ను వదిలిపెట్టబోతున్నారు.గ్రూప్ యజమాని శాశ్వతంగా మిమ్మల్ని ను తొలగించేవరకు మీరు తర్వాత మళ్ళీ చేరవచ్చు.</string>
+    <!-- Delete Group - P -->
+    <string name="DELETE_GROUP_BUTTON">గ్రూపును డిలీట్ చేయండి</string>
+    <!-- Where in the app is this? NL: This is currently out of scope for V1 -->
+    <string name="DELETE_GROUP_EXPLAINATION">మీరు మీ గ్రూప్ ను తొలగించబోతున్నారు. ఈ చర్యను రద్దు చేయడం సాధ్యం కాదు.</string>
+    <!-- Title of the Group Details page - P -->
+    <string name="GROUP_DETAILS_TITLE">గ్రూపు వివరాలు</string>
+    <!-- Rejoin Group - P -->
+    <string name="REJOIN_GROUP_BUTTON">గ్రూప్ లో మళ్ళీ చేరండి</string>
+    <!-- This is appended to a contact name if that user has left the group - P -->
+    <string name="LEFT_GROUP_EXTENSION">(గ్రూపును వదిలిపెట్టిన )</string>
+    <!-- Title of the Edit Group page - P -->
+    <string name="EDIT_GROUP_TITLE">గ్రూప్ ను సవరించండి</string>
+    <!-- Alert text asking user to confirm their action - P -->
+    <string name="ALERT_ARE_YOU_SURE">మీరు ఖచ్చితంగా చెయ్యదలిచారా?</string>
+    <!-- Text explaining to user that they can rejoin the group they previously left - P -->
+    <string name="REJOIN_GROUP_EXPLAINATION">మీరు మళ్లీ ఆ గ్రూప్ లో తిరిగి చేరాలనుకుంటున్నారా.</string>
+    <!-- Title of group members - P -->
+    <string name="MEMBERS_TITLE">సభ్యులు</string>
+    <!-- Title of chat screen when chatting with a group - P -->
+    <string name="GROUP_CHATS_TITLE">గ్రూపు చాట్స్</string>
+    <!-- Group name - P -->
+    <string name="GROUP_NAME">గ్రూప్ పేరు</string>
+    <!-- Button text for user to remove themself from ad-hoc group - P -->
+    <string name="REMOVE_ME_AD_HOC_GROUP">నన్నుతొలగించండి</string>
+    <!-- Message to user when trying to save or update a group without supplying a name - P -->
+    <string name="GROUP_NAME_REQUIRED">మీ గ్రూప్ కోసం ఒక పేరును అందించండి.</string>
+    <!-- Message to user when trying to save or update a group without any members - P -->
+    <string name="GROUP_MEMBERS_REQUIRED">దయచేసి మీ గ్రూప్ కు కనీసం ఇంకొక సభ్యుడిని జోడించండి.</string>
+    <!-- Message to user when loading a group failed - P -->
+    <string name="GROUP_LOAD_FAILED">మీ గ్రూప్ ను లోడ్ చేయడంలో ఒక సమస్య ఏర్పడింది. దయచేసి మీ నెట్ వర్క్ కనెక్టివిటీని తనిఖీ చేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Message to user when saving a group failed - P -->
+    <string name="GROUP_SAVE_FAILED">మీ గ్రూప్ ను సేవ్ చేయడంలో ఒక సమస్య ఏర్పడింది. దయచేసి మీ నెట్ వర్క్ కనెక్టివిటీని తనిఖీ చేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Message to user when either saving or updating a group failed - P -->
+    <string name="GROUP_SAVE_OR_UPDATE_FAILED">మీ గ్రూప్ తో ఒక సమస్య ఏర్పడింది. దయచేసి మీ నెట్ వర్క్ కనెక్టివిటీని తనిఖీ చేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Message to user when updating a group failed - P -->
+    <string name="GROUP_UPDATE_FAILED">మీ గ్రూప్ ను అప్డేట్\u0020\u0020చేయడంలో ఒక సమస్య ఏర్పడింది. దయచేసి మీ నెట్ వర్క్ కనెక్టివిటీని తనిఖీ చేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Message to user when leaving a group failed - P -->
+    <string name="GROUP_LEAVE_FAILED">గ్రూప్ ను వదిలి పెట్టడం లో\u0020\u0020ఒక సమస్య ఏర్పడింది. దయచేసి మీ నెట్ వర్క్ కనెక్టివిటీని తనిఖీ చేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Message to user when rejoining a group failed - P -->
+    <string name="GROUP_REJOIN_FAILED">గ్రూప్ ను మళ్లీ చేరడంలో\u0020\u0020ఒక సమస్య ఏర్పడింది. దయచేసి మీ నెట్ వర్క్ కనెక్టివిటీని తనిఖీ చేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Leave Conversation of an ad-hoc group -->
+    <string name="LEAVE_CONVERSATION">చాట్ వదిలివేయండి</string>
+    <!-- Text explaining what will happen if they leave this ad-hoc group conversation -->
+    <string name="LEAVE_CONVERSATION_EXPAINATION">మీరు ఇకపై ఈ గ్రూప్ చాట్ నుండి సందేశాలను అందుకోరు. మీరు ఈ చాట్ ను వదిలిన తర్వాత తిరిగి రాస్తే\u0020\u0020మీరు గ్రహీతలతో ఒక కొత్త చాట్ సెషన్ ను ప్రారంభిస్తారు.</string>
+    <!-- Leave -->
+    <string name="LEAVE">వదిలివేయండి</string>
+    <!-- Left Conversation of an ad-hoc group -->
+    <string name="LEFT_CONVERSATION">చాట్ ను వదిలి వేసారు</string>
+    <!-- Text explaining what will happen if they send a message to an ad-hoc group conversation they have previously left -->
+    <string name="LEFT_CONVERSATION_EXPLAINATION">మీరు ఈ చాట్ నుండి నిష్క్రమించారు. మీరు వారికి మరొక సందేశాన్ని పంపిస్తే, మీరు గ్రహీతలతో ఒక కొత్త చాట్ సెషన్ ను ప్రారంభిస్తారు.</string>
+    <!-- Title of the page when user first opens the app - P -->
+    <string name="WELCOME_TITLE">స్వాగతం</string>
+    <!-- Get Started - P -->
+    <string name="GET_STARTED_BUTTON">ప్రారంభించండి!</string>
+    <!-- Continue - P -->
+    <string name="CONTINUE_BUTTON">కొనసాగించండి</string>
+    <!-- ONBOARDING A: Title text for first screen of onboarding slides - P -->
+    <string name="SETUP_PROFILE">మీ ప్రొఫైల్ను సెట్ అప్ చెయ్యండి</string>
+    <!-- ONBOARDING A: Title text for second screen of onboarding slides - P -->
+    <string name="SENDING_MESSAGES">సందేశాలను పంపండి</string>
+    <!-- ONBOARDING A: Title text for third screen (v2) of onboarding slides - P -->
+    <string name="GROUP_MESSAGING">గ్రూప్ సందేశాలు</string>
+    <!-- ONBOARDING B: Text for first screen - P -->
+    <string name="ONBOARDING_B_ONE">ఒక స్నేహితుడు లేదా ఒక\u0020\u0020స్నేహితుల సమూహం తో చాట్ చేయండి</string>
+    <!-- ONBOARDING B: Text for second screen - P -->
+    <string name="ONBOARDING_B_TWO">టెక్స్ట్ లు, చిత్రాలు, వీడియోలు మరియు వాయిస్ సందేశాలను పంపండి</string>
+    <!-- ONBOARDING B: Text for third screen - P -->
+    <string name="ONBOARDING_B_THREE">ఇ ఎం సందేశాలను పంపడానికి లేదా అందుకోవటానికి ఎలాంటి ఛార్జీ లేదు</string>
+    <!-- ONBOARDING B: Text for fourth screen - P -->
+    <string name="ONBOARDING_B_FOUR">స్వయంసవరణ మర్చిపోతే - కేవలం దానిని తిరిగి తీసుకోండి</string>
+    <!-- ONBOARDING B: Text for fifth screen - P -->
+    <string name="ONBOARDING_B_FIVE">ఎప్పుడైనా ఏదైనా ఇఎం సందేశాన్ని వెనుకకు తీసుకోండి ...</string>
+    <!-- ONBOARDING B: Text for sixth screen - P -->
+    <string name="ONBOARDING_B_SIX">ఏదైనా EMwithME సందేశాన్ని ఏ సమయంలో అయినా వెనుకకు తీసుకోండి దాని వలన మీరు ఎల్లప్పుడూ మీ ఉద్దేశ్యం ఏమిటో చెప్పగలరు</string>
+    <!-- Registration text for email - P -->
+    <string name="REGISTER_EMAIL_EXPLAINATION">దయచేసి మీరు కొనసాగడానికి మీయొక్క దేశాన్ని నిర్ధారించండి మరియు మీ ఈమెయిల్ అడ్రెస్స్ ను నమోదు చేయండి.</string>
+    <!-- Registration text for mobile - P -->
+    <string name="REGISTER_MOBILE_EXPLAINATION">దయచేసి మీరు కొనసాగడానికి మీయొక్క దేశాన్ని నిర్ధారించండి మరియు\u0020\u0020మీ మొబైల్ ఫోన్ నంబర్ను నమోదు చేయండి.</string>
+    <!-- Message telling user a verification message will be sent either to their email or mobile - P -->
+    <string name="SEND_VERIFICATION_EXPLAINATION">ఒక వెరిఫికేషన్ కోడ్ మీకు పంపబడింది</string>
+    <!-- Sending validation code - P -->
+    <string name="SEND_VALIDATION_CODE_EXPLAINATION">{0} \n\nపైన ఇవ్వబడింది సరియైనదేనా?</string>
+    <!-- Title of the register with Mobile page - P -->
+    <string name="MOBILE_TITLE">మొబైల్</string>
+    <!-- Mobile number - P -->
+    <string name="MOBILE_NUMBER">మొబైల్ సంఖ్య</string>
+    <!-- Title of the register with Email page - P -->
+    <string name="EMAIL_TITLE">ఇమెయిల్</string>
+    <!-- Placeholder text within the textbox where user is supposed to enter their email address -->
+    <string name="EMAIL_ADDRESS">ఇమెయిల్ చిరునామా</string>
+    <!-- Title of the Verification page - P -->
+    <string name="VERIFICATION_TITLE">ధృవీకరణ</string>
+    <!-- Placeholder text within the textbox where user is supposed to enter their verification code - P -->
+    <string name="VERIFICATION_CODE">ధ్రువీకరణ కోడ్</string>
+    <!-- Verification text  - P -->
+    <string name="VERIFY_ACCOUNT_EXPLAINATION">మీ ధృవీకరణ కోడ్ ను నమోదు చేయండి</string>
+    <!-- Message sent to users attempting to register their mobile phone - P -->
+    <string name="VALIDATION_MESSAGE_SMS">దయచేసి మీ మొబైల్ ఫోన్ లో ఈ లింకును క్లిక్ చేయడం ద్వారా మీ ఖాతాను ధ్రువీకరించండి:</string>
+    <!-- Text in plain text emails telling users they can click a link to validate their account - P -->
+    <string name="VALIDATION_MESSAGE_PLAIN">దయచేసి కోడ్ ను నమోదు చేయడం ద్వారా మీ ఖాతాను ధ్రువీకరించండి: %1$s</string>
+    <!-- Text in HTML emails telling users they can click a link to validate their account - P -->
+    <string name="VALIDATION_MESSAGE_HTML">లేదా, ఒకవేళ మీరు సైన్ అప్ చేయడానికి ఉపయోగించే మీ మొబైల్ డివైస్ ను ఉపయోగిస్తూ ఉంటే , మీరు కేవలం క్లిక్ చేయవచ్చు</string>
+    <!-- New text in HTML emails telling users they can click a link to validate their account -->
+    <string name="VALIDATION_MESSAGE_HTML_TWO">Click here to validate your account if you are on your mobile device.</string>
+    <!-- Error registering user with email - P -->
+    <string name="ERROR_REGISTER_EMAIL_EXPLAINATION">మీరు అందించిన ఇమెయిల్ చిరునామా తో మీ ఖాతాను నమోదు చేయడంలో ఒక సమస్య ఏర్పడింది.</string>
+    <!-- Should we separate these out based on error type?  For example, invalid number (800) number vs. other issues. -->
+    <string name="ERROR_REGISTER_MOBILE_EXPLAINATION">మీరు ఇచ్చిన మొబైల్ ఫోన్ నంబర్ తో మీ ఖాతాను నమోదు చేయడంలో ఒక సమస్య ఏర్పడింది.</string>
+    <!-- Error verifying user - P -->
+    <string name="ERROR_VERIFY_ACCOUNT_EXPLAINATION">లేదా, ఒకవేళ మీరు సైన్ అప్ చేయడానికి ఉపయోగించే మీ మొబైల్ డివైస్ ను ఉపయోగిస్తూ ఉంటే , మీరు కేవలం క్లిక్ చేయవచ్చు .</string>
+    <!-- Text indicating a user can click a link to unsubscribe from emails - P -->
+    <string name="UNSUBSCRIBE_SHORT">అన్సబ్స్క్రయిబ్ చెయ్యండి</string>
+    <!-- Text explaining to a user that they can unsubscribe from future emails - P -->
+    <string name="UNSUBSCRIBE_LONG">మీరు ఇటీవల ఈయెమ్ తో నమోదు చేసుకోవడం వల్ల మీరు ఈ ఇమెయిల్ ను స్వీకరిస్తున్నారు. ఒకవేల ఇది పొరపాటు అయితే, దయచేసి క్రింది అన్సబ్స్క్రయిబ్ లింక్ ను ఉపయోగించండి.</string>
+    <!-- Text in SMS sent to new user to validate their account - P -->
+    <string name="VERIFY_NOW">Or ఈ కోడ్ ను ఎంటర్ చెయ్యండి: %1$s</string>
+    <!-- Text for existing users asking them if they would like to download their historical messages - P -->
+    <string name="DOWNLOAD_HISTORICAL_MESSAGES">మీరు మీ పాత సందేశాలను డౌన్లోడ్ చేయాలని అనుకుంటున్నారా ?\u0020\u0020n\u0020\u0020n గమనిక : దీనికి కొంత సమయం పడుతుంది.</string>
+    <!-- Message shown to new users when we first try to access their address book - P -->
+    <string name="ACCESS_ADDRESS_BOOK_MESSAGE">ఇఎం కు మీ అడ్రస్ బుక్ కు యాక్సెస్ అవసరం, దాని వలన మీరు మీ స్నేహితులను పేరు ద్వారా అప్లికేషన్ లో చూడవచ్చు.</string>
+    <!-- Title of the (singular) Notification page - P -->
+    <string name="NOTIFICATION_TITLE">నోటిఫికేషన్</string>
+    <!-- Title of the Notifications page - P -->
+    <string name="NOTIFICATIONS_TITLE">నోటిఫికేషన్లు</string>
+    <!-- Unread - P -->
+    <string name="UNREAD_BUTTON">చదవనిది</string>
+    <!-- Read - P -->
+    <string name="READ_BUTTON">చదువు</string>
+    <!-- All - P -->
+    <string name="ALL_BUTTON">అన్ని</string>
+    <!-- Button text to encourage an action for the user to send a message - P -->
+    <string name="SEND_MESSAGE_TEXT">సందేశాన్ని పంపడం</string>
+    <!-- Short description of this notification when a user joins EMwithME - P -->
+    <string name="NOTIFICATION_WELCOME_TITLE">ఈయమ్ కు స్వాగతం!</string>
+    <!-- Full description of this notification when a user joins EMwithME - P -->
+    <string name="NOTIFICATION_WELCOME_TEXT">ఇఎం కు స్వాగతం! దయచేసి ప్రొఫైల్ పేజీకి వెళ్ళి మీ మొదటి మరియు చివరి పేరును జోడించండి. మీరు మీ స్నేహితులందరికీ\u0020\u0020అపరిమిత ఇఎం సందేశాలు, ఫోటోలు మరియు వీడియోలను పంపవచ్చు - ఉచితంగా !</string>
+    <!-- Short description of this notification when a user friend joins EMwithME - P -->
+    <string name="NOTIFICATION_JOIN_TITLE">%1$s ఇప్పుడే ఇ ఎం లో చేరారు!</string>
+    <!-- Full description of this notification when a user friend joins EMwithME - P -->
+    <string name="NOTIFICATION_JOIN_TEXT">%1$s ఇప్పుడే ఇ ఎం లో చేరారు! వారిని స్వాగతించడానికి ఒక సందేశాన్ని పంపండి.</string>
+    <!-- Full description of this notification when the current user was added to a group - P -->
+    <string name="NOTIFICATION_YOU_ADDED_GROUP_TEXT">%1$s మిమ్మల్ని గ్రూప్ %2$s లో చేర్చుకున్నారు. గ్రూప్ కు ఒక సందేశాన్ని పంపండి .</string>
+    <!-- Short description of this notification when the current user was added to a group - P -->
+    <string name="NOTIFICATION_YOU_ADDED_GROUP_TITLE">1$s మిమ్మల్ని గ్రూప్ %2$s లో చేర్చుకున్నారు</string>
+    <!-- Full description of this notification when the current user was removed from a group - P -->
+    <string name="NOTIFICATION_YOU_REMOVED_GROUP_TEXT">1$s మిమ్మల్ని గ్రూప్ %2$s నుండి తొలగించారు.</string>
+    <!-- Short description of this notification when the current user was removed from a group - P -->
+    <string name="NOTIFICATION_YOU_REMOVED_GROUP_TITLE">మీరు గ్రూప్ %1$s నుండి తొలగించబడ్డారు</string>
+    <!-- Full description of this notification when another user was added to a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_ADDED_GROUP_TEXT">%1$s మిమ్మల్ని గ్రూప్ %3$s లో చేర్చుకున్నారు. గ్రూప్ కు ఒక సందేశాన్ని పంపండి.</string>
+    <!-- Short description of this notification when another user was added to a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_ADDED_GROUP_TITLE">%1$s %2$s ను గ్రూప్ %3$s కు జోడించారు</string>
+    <!-- Full description of this notification when another user was removed from a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_REMOVED_GROUP_TEXT">%1$s గ్రూప్ %3$s నుండి %2$s ను తొలగించారు.</string>
+    <!-- Short description of this notification when another user was removed from a group the current user is a member of - P -->
+    <string name="NOTIFICATION_CONTACT_REMOVED_GROUP_TITLE">%1$s గ్రూప్ %3$s నుండి %2$s ను తొలగించారు.</string>
+    <!-- Short description of this notification when a group gets deleted -->
+    <string name="NOTIFICATION_GROUP_DELETED_TITLE">గ్రూప్%1$s తొలగించబడింది</string>
+    <!-- Full description of this notification when a group gets deleted -->
+    <string name="NOTIFICATION_GROUP_DELETED_TEXT">%1$s గ్రూప్ %2$s ను తొలగించారు.</string>
+    <!-- Title of the Inbox page - P -->
+    <string name="INBOX_TITLE">సందేశాలు</string>
+    <!-- Title of the page when a user begins to send a new message - P -->
+    <string name="NEW_MESSAGE_TITLE">కొత్త సందేశం</string>
+    <!-- To - P -->
+    <string name="TO">కు:</string>
+    <!-- From - P -->
+    <string name="FROM">నుండి</string>
+    <!-- Message indicating someone is typing - P -->
+    <string name="IS_TYPING_SINGULAR">{0}టైప్ చేస్తున్నరు</string>
+    <!-- Message indicating two people are typing - P -->
+    <string name="IS_TYPING_DUAL">{0} and {1}టైప్ చేస్తున్నారు</string>
+    <!-- Message indicating more than two people are typing - P -->
+    <string name="IS_TYPING_MULTIPLE">అనేకమంది ప్రజలు టైప్ చేస్తున్నారు</string>
+    <!-- NOTE FOR TRANSLATORS: You may translate "Error" if there is not a suitable word for "Whoops" in your language -->
+    <string name="SEND_MESSAGE_FAILED_TITLE">ఊఫ్స్</string>
+    <!-- Error message explaining why a message cannot be sent - P -->
+    <string name="SEND_MESSAGE_FAILED_REASON">ఈ సంభాషణలోని ఒకటి లేదా ఎక్కువ పార్టీలు ఇకపై అందుబాటులో లేవు. మీరు సంభాషణ చరిత్రను సమీక్షించవచ్చు కానీ ఏ క్రొత్త సందేశాలను పంపలేరు.</string>
+    <!-- Title of alert box indicating they have disabled EMwithME access to their microphone -->
+    <string name="RECORDING_PERMISSIONS_TITLE">వాయిస్ మెసేజింగ్ అనుమతులు</string>
+    <!-- Text explaination of alert box indicating how to enable their microphone -->
+    <string name="RECORDING_PERMISSIONS_EXPLAINATION">వాయిస్ మెసేజింగ్ ప్రస్తుతం నిలిపివేయబడింది. ఈ ఫీచర్ ను ఎనేబుల్ చేయడానికి ఆపిల్ యొక్క సెట్టింగ్స్ యాప్&gt; సెట్టింగ్స్&gt; ప్రైవసీ &gt; మైక్రోఫోన్ కు వెళ్ళండి.</string>
+    <!-- Save (This is used to save sent media to your device) -->
+    <string name="SAVE_BUTTON">సేవ్</string>
+    <!-- Attach - P -->
+    <string name="ATTACH_BUTTON">అటాచ్</string>
+    <!-- Camera - P -->
+    <string name="CAMERA_BUTTON">కెమెరా</string>
+    <!-- Media Library Android Only - P -->
+    <string name="MEDIA_LIBRARY">మీడియా లైబ్రరీ</string>
+    <!-- Take Photo Android only - P -->
+    <string name="TAKE_PHOTO">ఫోటో తీసుకోండి</string>
+    <!-- Take Video Android only - P -->
+    <string name="TAKE_VIDEO">వీడియో తీసుకోండి</string>
+    <!-- Select Media Android only - P -->
+    <string name="SELECT_MEDIA">ప్రసార మాధ్యమాన్నిఎంచుకోండి</string>
+    <!-- Photo Library (iOS only) when we only allow photo selection - P -->
+    <string name="PHOTO_LIBRARY_BUTTON">ఫోటో లైబ్రరీ</string>
+    <!-- Photo and Video Library (iOS) on the users phone or tablet -->
+    <string name="PHOTO_AND_VIDEO_LIBRARY_BUTTON">ఫోటో మరియు వీడియో లైబ్రరీ</string>
+    <!-- Rotate Left - P -->
+    <string name="ROTATE_LEFT">ఎడమవైపుకు త్రిప్పండి</string>
+    <!-- Rotate Right - P -->
+    <string name="ROTATE_RIGHT">కుడివైపుకి తిప్పండి</string>
+    <!-- Where in the app is this? NL: on android, when cropping images - P -->
+    <string name="DISCARD_BUTTON">డిస్కార్డ్</string>
+    <!-- When going through photos or videos, this keeps a count / track - P -->
+    <string name="MEDIA_GALLERY_COUNT">{0} యొక్క {1}</string>
+    <!-- When sending single media object to another user -->
+    <string name="SEND_MEDIA_SINGULAR">Send {0} Item</string>
+    <!-- When sending multiple media objects to another user -->
+    <string name="SEND_MEDIA_MULTIPLE">Send {0} Items</string>
+    <!-- One video - P -->
+    <string name="MEDIA_PREVIEW_MOVIE">జోడింపు : 1 వీడియో</string>
+    <!-- One image - P -->
+    <string name="MEDIA_PREVIEW_PHOTO">జోడింపు: 1 చిత్రం</string>
+    <!-- One sound - P -->
+    <string name="MEDIA_PREVIEW_SOUND">జోడింపు : 1 సౌండ్</string>
+    <!-- You sent one video -->
+    <string name="MEDIA_PREVIEW_MOVIE_YOU">You sent a video</string>
+    <!-- You sent one image -->
+    <string name="MEDIA_PREVIEW_PHOTO_YOU">You sent an image</string>
+    <!-- You sent one sound -->
+    <string name="MEDIA_PREVIEW_SOUND_YOU">You sent an audio clip</string>
+    <!-- Text that shows the last message you sent. The {0} will be replaced with the actual text you sent -->
+    <string name="YOU_PREAMBLE">You: {0}</string>
+    <!-- This is not to be used for the header title of the Web Search page after tapping Web Search (the string below) -->
+    <string name="SEARCH_TITLE">శోధన</string>
+    <!-- Photo Search - P -->
+    <string name="WEB_SEARCH">ఫోటో శోధన</string>
+    <!-- Random search string used to seed image search when no prior search has been made - P -->
+    <string name="RANDOM_SEARCH">రాండమ్</string>
+    <!-- Error displayed to user if no images were found - P -->
+    <string name="NO_IMAGES_FOUND">ఎలాంటి చిత్రాలు దొరకలేదు. ఒక కొత్త శోధన పదాన్ని నమోదు చేసి, మళ్ళీ ప్రయత్నించండి.</string>
+    <!-- Error displayed to user if an error occurred when searching for images - P -->
+    <string name="IMAGE_SEARCH_ERROR">మీ శోధనను చేయడంలో ఒక లోపం ఏర్పడింది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Error displayed to user if an error occurred when converting their video - P -->
+    <string name="VIDEO_CONVERT_ERROR">ఈ వీడియోను ప్రాసెస్ చేసే సమయంలో ఒక లోపం ఏర్పడింది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Error displayed ot user if an error occurred when trying to select an image - P -->
+    <string name="IMAGE_SELECTION_ERROR">మీరు ఎంచుకున్న చిత్రాన్ని ప్రాసెస్ చెయ్యడంలో ఒక లోపం ఏర్పడింది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Toast message user sees when trying to share media using EMwithME before they have registered (Android only) -->
+    <string name="SHARE_MEDIA_REGISTER_FIRST">మీరు మీడియాను షేర్ చేయడానికి ముందుగా మీరు EMwithME తో నమోదు చేయాలి.</string>
+    <!-- Message to user (iOS only) if they have not allowed EMwithME access to their photos and they try to send a photo -->
+    <string name="ALLOW_ACCESS_PHOTOS">Please give EMwithME permission to access photos in order to share them!</string>
+    <!-- The text appended to every message sent via SMS - P -->
+    <string name="SMS_AFTERWORD">ఇఎం ద్వారా పంపబడింది. మమ్మల్ని సందర్శించండి @ http://EMwith.ME</string>
+    <!-- The subject text telling a user they have a new message. %1$s will be replaced by the senders name - P -->
+    <string name="EMAIL_NEW_MESSAGE_SUBJECT_TWO">%1$s నుండి మీకు ఒక క్రొత్త EMwithME సందేశం ఉంది</string>
+    <!-- The subject text telling a user they have a new notificaiton -->
+    <string name="EMAIL_NEW_NOTIFICATION_SUBJECT">మీకు ఒక క్రొత్త EMwithME నోటిఫికేషన్ ఉంది</string>
+    <!-- HTML text in the email indicating they can reply to the message. %1$s will be replaced by the senders name -->
+    <string name="EMAIL_WRITE_BACK_HTML">%1$s కు తిరిగి వ్రాయాలనుకుంటున్నారా? కేవలం రిప్లై క్లిక్ చేసి వారికి ఒక ఇమెయిల్ లేదా డౌన్లోడ్ పంపండి&lt;a href=\'https://api.emwith.me/landingpage/tracking/EM/NewMessage/emailreplylink\' title=\'EMwithME\' target=\'_blank\'&gt;EMwithME&lt;/a&gt;.</string>
+    <!-- Text in the email indicating they can reply to the message. %1$s will be replaced by the senders name -->
+    <string name="EMAIL_WRITE_BACK_PLAIN">%1$s కు తిరిగి వ్రాయాలనుకుంటున్నారా? కేవలం రిప్లై క్లిక్ చేసి వారికి ఒక ఇమెయిల్ పంపండి లేదా EMwithME ను డౌన్లోడ్ చేయండి.</string>
+    <!-- Text in the email saying email was sent via EMwithME -->
+    <string name="SENT_VIA_EM">EMwithME ద్వారా పంపబడింది</string>
+    <!-- Link in the email for more information -->
+    <string name="MORE_INFORMATION">మరింత సమాచారం</string>
+    <!-- Default message to user that gets sent as an SMS letting user know they need to install EMwithME to see their message  - P -->
+    <string name="SMS_DEFAULT_MESSAGE">మీకు ఒక క్రొత్త ఇఎం సందేశం మీ కోసం వేచి ఉంది!\u0020\u0020దయచేసి యాప్ ను పొంది మీ సందేశాన్ని చదవడానికి\u0020\u0020మమ్మల్ని సందర్శించండి @ http://EMwith.ME.</string>
+    <!-- The subject text telling a user to validate their EMwithME account - P -->
+    <string name="EMAIL_VALIDATION_SUBJECT">మీ ఇఎం ఖాతాను ధ్రువీకరించండి.</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_MEDIA_NO_NAME">మీకు ఒక మీడియా సందేశం పంపబడింది. వీక్షించడానికి ఇఎం ని ఇన్స్టాల్ చేయండి.</string>
+    <!-- A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_PHOTO_NO_NAME">మీకు ఒక ఫోటో పంపబడింది. వీక్షించడానికి ఇఎం ని ఇన్స్టాల్ చేయండి.</string>
+    <!-- A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_VIDEO_NO_NAME">మీకు ఒక వీడియో\u0020\u0020పంపబడింది. వీక్షించడానికి ఇఎం ని ఇన్స్టాల్ చేయండి.</string>
+    <!-- A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_SOUND_NO_NAME">మీకు ఒక వాయిస్ మెసేజ్\u0020\u0020పంపబడింది. వీక్షించడానికి ఇఎం ని ఇన్స్టాల్ చేయండి.</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_MEDIA_PREFIX_NAME">%1$sమీకు ఒక మీడియా సందేశం పంపారు. వీక్షించడానికి ఇఎం ని ఇన్స్టాల్ చేయండి.</string>
+    <!-- A user sent a picture message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_PHOTO_PREFIX_NAME">%1$s మీకు ఒక\u0020\u0020ఫోటో పంపారు. వీక్షించడానికి ఇఎం ని ఇన్స్టాల్ చేయండి.</string>
+    <!-- A user sent a video message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_VIDEO_PREFIX_NAME">%1$s మీకు ఒక వీడియో పంపారు. వీక్షించడానికి ఇఎం ని ఇన్స్టాల్ చేయండి.</string>
+    <!-- A user sent a voice message to another user who does not yet have EMwithME installed, so we send them this message - P -->
+    <string name="EXTERNAL_MESSAGE_SOUND_PREFIX_NAME">%1$s మీకు ఒక\u0020\u0020వాయిస్ మెసేజ్ పంపారు. వీక్షించడానికి ఇఎం ని ఇన్స్టాల్ చేయండి.</string>
+    <!-- Hide DEPRECATED - P -->
+    <string name="HIDE_BUTTON">హైడ్</string>
+    <!-- Text explaining to user what local delete/hide does DEPRECATED - P -->
+    <string name="DELETE_EXPLAINATION">హైడ్ మీ స్థానిక సంభాషణ చరిత్ర నుండి సందేశాన్ని తొలగిస్తుంది. దానిని రద్దు చేయడం సాధ్యం కాదు.</string>
+    <!-- Delete - P -->
+    <string name="DELETE_BUTTON">డిలీట్</string>
+    <!-- A deleted message from the Take it Back / remote delete functionality. - P -->
+    <string name="DELETED_STATUS">సందేశాన్ని డిలీట్ చేయండి</string>
+    <!-- Remote Delete - P -->
+    <string name="REMOTE_DELETE_BUTTON">టేక్ ఇట్ బ్యాక్</string>
+    <!-- Text explaining to user what Remote Delete does - P -->
+    <string name="REMOTE_DELETE_EXPLAINATION">దానిని వెనక్కు తీసుకోవడం మీ డివైస్ మరియు గ్రహీత =(లు) యొక్క వాటి నుండి సందేశాన్ని తొలగిస్తుంది.</string>
+    <!-- Where in the app is this? This is referenced in code but does not get displayed -->
+    <string name="HISTORICAL_STATUS">చారిత్రాత్మక</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_MEDIA_NO_NAME">మీకు ఒక మీడియా సందేశం పంపబడింది .</string>
+    <!-- A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_PHOTO_NO_NAME">మీకు ఒక ఫోటో పంపబడింది.</string>
+    <!-- A user sent a video message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_VIDEO_NO_NAME">మీకు ఒక వీడియో పంపబడింది.</string>
+    <!-- A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_SOUND_NO_NAME">మీకు ఒక వాయిస్ మెసేజ్\u0020\u0020పంపబడింది.</string>
+    <!-- A user sent a media message (we cannot determine which type [photo, video, voice]) to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_MEDIA_PREFIX_NAME">%1$s మీకు ఒక మీడియా సందేశం పంపారు.</string>
+    <!-- A user sent a picture message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_PHOTO_PREFIX_NAME">%1$s మీకు ఒక ఫోటో\u0020\u0020పంపారు.</string>
+    <!-- A user sent a video message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_VIDEO_PREFIX_NAME">%1$s మీకు ఒక వీడియో\u0020\u0020పంపారు.</string>
+    <!-- A user sent a voice message to another user who has EMwithME installed, so we send them this push message - P -->
+    <string name="PUSH_MESSAGE_SOUND_PREFIX_NAME">%1$s మీకు ఒక వాయిస్ మెసేజ్ పంపారు.</string>
+    <!-- No SD card - P -->
+    <string name="ANDROID_MEDIA_NO_STORAGE_CARD">స్టోరేజ్ కార్డ్ లేదు</string>
+    <!-- Preparing SD card - P -->
+    <string name="ANDROID_MEDIA_PREPARING_STORAGE_CARD">కార్డు తయారవుతోంది</string>
+    <!-- Not enough space on SD card - P -->
+    <string name="ANDROID_MEDIA_NOT_ENOUGH_SPACE_ON_CARD">తగినంత స్థలం లేదు</string>
+    <!-- Title of the My Account page - P -->
+    <string name="MY_ACCOUNT_TITLE">ప్రొఫైల్</string>
+    <!-- Title of the Choose a Color page - P -->
+    <string name="CHOOSE_COLOR_TITLE">ఒక రంగును ఎంచుకోండి</string>
+    <!-- Text indicating to a user that they can change the app color theme - P -->
+    <string name="COLOR_THEME">రంగు నేపధ్యంతో</string>
+    <!-- Text indicating to a user that they can change the app color theme (Plural) - P -->
+    <string name="COLOR_THEME_PLURAL">రంగు నేపద్యాలతో</string>
+    <!-- Choose icon to associate with a screen name - P -->
+    <string name="CHOOSE_ICON">ఐకాన్ ను ఎంచుకోండి</string>
+    <!-- The text shown to a user that leaves their name blank in their Account - P -->
+    <string name="BLANK_DISPLAY_NAME">మీరు మీ పేరును ఖాళీగా వదిలివేశారు. మేము {0} ను మీ పేరు గాఉపయోగిస్తాము .</string>
+    <!-- Share profile - P -->
+    <string name="SHARE_PROFILE">ప్రొఫైల్ ను షేర్ చేయండి</string>
+    <!-- Text showing where user can choose to share their profile - P -->
+    <string name="SHARE_TO">కు షేర్ చెయ్యండి</string>
+    <!-- Text shown to user if we could not locate an app in which we could share their profile to - P -->
+    <string name="INSTAGRAM_NOT_FOUND">మేము మీ డివైస్ లో ఇన్స్టాల్ చేయబడిన సపోర్టెడ్ షేరింగ్ యాప్ లను గుర్తించలేదు. ప్రస్తుతం మేము ఇంస్టాగ్రామ్ ద్వారా మాత్రమే షేర్ చేయగలము. మీరు మీ ప్రొఫైల్ను షేర్ చెయ్యాలనుకుంటే, ఇంస్టాగ్రామ్\u0020\u0020ను ఇన్స్టాల్ చేసి మళ్ళీ ప్రయత్నించండి.</string>
+    <!-- Text shown to user if we could not locate an app in which we could share their profile to - P -->
+    <string name="SHARE_APP_NOT_FOUND">మేము మీ డివైస్ లో ఇన్స్టాల్ చేయబడిన సపోర్టెడ్ షేరింగ్ యాప్ లను గుర్తించలేదు. ప్రస్తుతం మేము ఇంస్టాగ్రామ్, ట్విట్టర్ మరియు ఫేస్బుక్ ద్వారా మాత్రమే షేర్ చేయగలము. మీరు మీ ప్రొఫైల్ను షేర్ చెయ్యాలనుకుంటే, ఈ యాప్ లలో ఒకదానిని ఇన్స్టాల్ చేసి మళ్ళీ ప్రయత్నించండి .</string>
+    <!-- Default caption we pre-fill when a user shares their AKA on Instagram. The {0} will be dynamically replaced with the user AKA - P -->
+    <string name="INSTAGRAM_SHARE_DEFAULT_MESSAGE">ఇఎం లో నాకు సందేశం ఇవ్వండి! నా స్క్రీన్ పేరు {0}. ఐ ఓ ఎస్ &amp; ఆండ్రాయిడ్ కోసం ఉచితం. @EMTheApp #{0} #EMwithME</string>
+    <!-- Text in the image being shared in Instagram that is a call to action -->
+    <string name="INSTAGRAM_CALL_TO_ACTION">EMwithME లో నాకు సందేశాలు పంపండి</string>
+    <!-- Title of the contacts page - P -->
+    <string name="CONTACTS_TITLE">పరిచయాలు</string>
+    <!-- Title of Help page - P -->
+    <string name="HELP_TITLE">సహాయం</string>
+    <!-- Text for user to click to view our getting started -->
+    <string name="GETTING_STARTED">ప్రారంభించబడుతుంది</string>
+    <!-- URL for getting started -->
+    <string name="GETTING_STARTED_URL">http://api.emwith.me/web/onboarding/gettingstarted</string>
+    <!-- Text for user to click to view our tips -->
+    <string name="TIPS">Tips</string>
+    <!-- URL for tips -->
+    <string name="TIPS_URL">http://api.emwith.me/web/onboarding/tips</string>
+    <!-- Text for user to click to view our support site -->
+    <string name="SUPPORT">Support</string>
+    <!-- URL for support -->
+    <string name="SUPPORT_URL">http://emwithme.zendesk.com</string>
+    <!-- Profile title - P -->
+    <string name="PROFILES_TITLE">ప్రొఫైల్స్</string>
+    <!-- Details - P -->
+    <string name="DETAILS">వివరాలు</string>
+    <!-- Add contact button - P -->
+    <string name="ADD_CONTACT_BUTTON">కాంటాక్ట్ లను జోడించండి</string>
+    <!-- Text explaining a contact has been added. The {0} will be dynamically substituted with the persons name -->
+    <string name="ADD_CONTACT_EXPLAINATION">{0} మీ కాంటాక్ట్ లకు జతచేయబడింది .</string>
+    <!-- Remove contact button - P -->
+    <string name="REMOVE_CONTACT_BUTTON">కాంటాక్ట్ నుండి తొలగించండి</string>
+    <!-- Block contact button - P -->
+    <string name="BLOCK_CONTACT_BUTTON">బ్లాక్ ను సంప్రదించండి</string>
+    <!-- Unblock contact button - P -->
+    <string name="UNBLOCK_CONTACT_BUTTON">కాంటాక్ట్ ని అన్ బ్లాక్ చేయండి</string>
+    <!-- Alias -->
+    <string name="ALIAS">AKA</string>
+    <!-- Alias Title on sidebar - P -->
+    <string name="ALIAS_TITLE">AKAS</string>
+    <!-- Setup Account Screen Name text - P -->
+    <string name="SETUP_ALIAS">AKAS (ఆల్సో నోన్ ఆజ్), డిస్పోజబుల్, పబ్లిక్ మరియు ప్రత్యేకమైనవి. మీరు మీ పేరు లేదా మొబైల్ నంబర్ వంటి గుర్తింపు సమాచారాన్ని బహిర్గతం చేయకుండా వాటిని ఇతర వినియోగదారులకు పంపడానికి ఉపయోగించవచ్చు. మీరు ఒక AKAను సెటప్ చేయాలనుకుంటున్నారా?</string>
+    <!-- Add alias - P -->
+    <string name="ADD_ALIAS_BUTTON">ఒక AKAను జోడించండి</string>
+    <!-- Edit Alias - P -->
+    <string name="EDIT_ALIAS_TITLE">AKAను సవరించండి</string>
+    <!-- Delete alias button - P -->
+    <string name="DELETE_ALIAS_BUTTON">AKAను తొలగించండి</string>
+    <!-- Error message when alias is already taken - P -->
+    <string name="ALIAS_ALREADY_TAKEN">ఈ AKA ఇప్పటికే తీసుకోబడింది. దయచేసి మరొకదానిని ఎంచుకోండి.</string>
+    <!-- Will need to adjust for double byte at some point -->
+    <string name="ALIAS_TOO_SHORT">ఈ AKA చాలా చిన్నగా ఉంది. ఐదు కంటే ఎక్కువ అక్షరాలు గల ఒక AKAను ఎంచుకోండి .</string>
+    <!-- Error message when alias contains inappropriate word(s) - P -->
+    <string name="ALIAS_INAPPROPRIATE">ఈ AKA చెల్లదు. దయచేసి మరొకదానిని ఎంచుకోండి.</string>
+    <!-- Error message when alias name is a phone number - P -->
+    <string name="ALIAS_PHONE">AKAS ఫోన్ నంబర్లు అయి ఉండకూడదు. దయచేసి మరొకదానిని ఎంచుకోండి .</string>
+    <!-- Error message when alias name is an email address - P -->
+    <string name="ALIAS_EMAIL">AKAS ఇమెయిల్ చిరునామాలు అయి ఉండకూడదు. దయచేసి మరొకదానిని ఎంచుకోండి.</string>
+    <!-- Error message when an alias contains invalid characters (such as spaces) - P -->
+    <string name="ALIAS_INVALID">ఈ AKA(ఖాళీలు, @ లేదా చుక్కలు వంటి) చెల్లని అక్షరాలను కలిగి ఉంది. దయచేసి మరొకదానిని ఎంచుకోండి.</string>
+    <!-- Generic error message when alias cannot be saved - P -->
+    <string name="ALIAS_GENERIC_ERROR">మీ AKAను ప్రోసెసింగ్ చెయ్యడంలో ఒక లోపం ఏర్పడింది. దయచేసి మళ్లీ ప్రయత్నించండి.</string>
+    <!-- Message of alert box presented to user when trying to delete an Alias - P -->
+    <string name="ALIAS_DELETE_CONFIRMATION_MESSAGE">ఈ AKAను తొలగించడం అంటే మీరు ఇకపై ఆ ఖాతాకు సందేశాలను పంపడానికి లేదా స్వీకరించడానికి చేయలేరు. మీరు దీన్ని ఖచ్చితంగా తొలగించాలనుకుంటున్నారా?</string>
+    <!-- Title of alert box presented to user when clicking on an Alias they have deleted - P -->
+    <string name="ALIAS_DELETED_TITLE">AKAతొలగించబడింది</string>
+    <!-- Message of alert box presented to user when clicking on an Alias they have deleted - P -->
+    <string name="ALIAS_DELETED_MESSAGE">ఈ AKA తొలగించబడింది, అది మరొక యూజర్ కోసం అందుబాటులో ఉండడానికి ముందు 24 గంటల పాటు రిజర్వు అయి ఉంటుంది. మీరు ఆ సమయంలో ఎప్పుడైనా AKA ను రెక్లైమ్ చేయవచ్చు.</string>
+    <!-- Message of alert box presented to user when reviewing their chat history on an Alias they have deleted -->
+    <string name="ALIAS_DELETED_CHAT_HISTORY_MESSAGE">Your AKA has been deleted. You can review the conversation history but no new messages can be sent.</string>
+    <!-- Button text of the alert box for the user to reactivate their deleted Alias - P -->
+    <string name="ALIAS_DELETED_REACTIVATE">క్రియాశీలం</string>
+    <!-- About - P -->
+    <string name="ABOUT_TITLE">గురించి</string>
+    <!-- Text saying which version of EMwithME the user has currently installed. The {0} is dynamically replaced with the current version - P -->
+    <string name="VERSION">వెర్షన్ {0}</string>
+    <!-- Text for a user to click to view our credits webpage - P -->
+    <string name="CREDITS">క్రెడిట్లు</string>
+    <!-- URL for credits -->
+    <string name="CREDITS_URL">http://EMwith.ME/credits</string>
+    <!-- Text for user to click to view our FAQ - P -->
+    <string name="FAQ">తరచుగా అడిగే ప్రశ్నలు</string>
+    <!-- URL for FAQ - P -->
+    <string name="FAQ_URL">http://EMwith.ME/faq</string>
+    <!-- Text for a user to click to view our privacy policy - P -->
+    <string name="PRIVACY_POLICY">ప్రైవసీ పాలసీ</string>
+    <!-- URL for privacy policy - P -->
+    <string name="PRIVACY_POLICY_URL">http://EMwith.ME/privacy</string>
+    <!-- Text for a user to click to view our end user license agreement (EULA) - P -->
+    <string name="EULA">అంతిమ వినియోగదారుని అనుమతి ఒప్పందం</string>
+    <!-- URL for EULA - P -->
+    <string name="EULA_URL">http://EMwith.ME/eula</string>
+    <!-- URL for Facebook -->
+    <string name="FACEBOOK_URL">http://facebook.com/emtheapp</string>
+    <!-- URL for Twitter -->
+    <string name="TWITTER_URL">http://twitter.com/emtheapp</string>
+    <!-- Copyright - P -->
+    <string name="COPYRIGHT">కాపీరైట్ (c) 2015 హూ ఈజ్ హియర్, ఇన్కార్పొరేషన్.\u0020\u0020అన్ని హక్కులు ప్రత్యేకించబడ్డాయి. ఇఎం మరియు EMwithME హూ ఈజ్ హియర్,ఇన్కార్పొరేషన్ యొక్క\u0020\u0020ట్రేడ్ మార్క్ లు .</string>
+    <!-- Invite Friends -->
+    <string name="INVITE_FRIENDS_TITLE">స్నేహితులను ఆహ్వానించండి</string>
+    <!-- Message body to send invitation(s) via SMS -->
+    <string name="INVITE_FRIENDS_VIA_SMS_MESSAGE">మీరు ఎస్ఎంఎస్ ద్వారా ఆహ్వానాన్ని (లు) పంపాలనుకుంటున్నారా?</string>
+    <!-- Message body to send invitation(s) via Email -->
+    <string name="INVITE_FRIENDS_VIA_EMAIL_MESSAGE">మీరు\u0020\u0020ఇమెయిల్ ద్వారా ఆహ్వానాన్ని (లు) పంపాలనుకుంటున్నారా?</string>
+    <!-- Label shown when Android users finish selecting who they would like to invite via Email and are shown which email client they would like to use to send the invitation(s) -->
+    <string name="INVITE_FRIENDS_SEND_EMAIL_LABEL">ద్వారా ఇమెయిల్ పంపండి ...</string>
+    <!-- Toast message (Android specific) shown to user as SMS invitation(s) are sent out. {0} will be replaced with current number of SMS going out, {1} will be replaced with total SMS going out -->
+    <string name="INVITE_FRIENDS_SMS_SENDING_TOAST_MESSAGE">{1} నుండి {0} పంపిస్తోంది ...</string>
+    <!-- Title of alert when device is incapable of sending SMS -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_SMS_TITLE">ఎస్ఎంఎస్ ద్వారా ఆహ్వానా(ల)ను పంపలేరు</string>
+    <!-- Message body of alert when device is incapable of sending SMS -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_SMS_MESSAGE">మీ డివైస్ ఎస్ఎంఎస్ సందేశాలను పంపలేదు.</string>
+    <!-- Title of alert when device is incapable of sending email -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_EMAIL_TITLE">ఇమెయిల్ ద్వారా ఆహ్వానా(ల)ను పంపలేరు</string>
+    <!-- Message body of alert when device is incapable of sending email -->
+    <string name="INVITE_FRIENDS_DEVICE_FAILED_EMAIL_MESSAGE">మీ డివైస్ ఇమెయిల్ సందేశాలను పంపలేదు.</string>
+    <!-- Body of SMS invite message -->
+    <string name="INVITE_FRIENDS_SMS_MESSAGE">హే! నేను ఒక క్రొత్త మెసేజింగ్ యాప్ EMwithME ను ఉపయోగి స్తున్నాను\u0020\u0020దానిని మీరు ప్రయత్నించాలి అని నేను అనుకుంటున్నాను. http://EMwith.ME వద్ద దాన్ని తనిఖీ చెయ్యండి</string>
+    <!-- Body of HTML Email invite message -->
+    <string name="INVITE_FRIENDS_EMAIL_MESSAGE">&lt;p&gt;హే! నేను ఒక క్రొత్త మెసేజింగ్ యాప్ EMwithME ను ఉపయోగి స్తున్నాను దానిని మీరు ప్రయత్నించాలి అని నేను అనుకుంటున్నాను.&lt;/p&gt;&lt;br /&gt;&lt;p&gt;వద్ద దాన్ని తనిఖీ చెయ్యండి &lt;a href=\'http://EMwith.ME\' target=\'_blank\' title=\'EMwithME\'&gt;http://EMwith.ME&lt;/a&gt;</string>
+    <!-- Message body of alert when there was an error in sending SMS or Email invite -->
+    <string name="INVITE_FRIENDS_ERROR_MESSAGE">మీ ఆహ్వానం (లు) పంపించడంలో ఒక లోపం ఏర్పడింది. దయచేసి మళ్ళీ ప్రయత్నించండి.</string>
+    <!-- Message body of alert when user cancels the invitation(s) -->
+    <string name="INVITE_FRIENDS_CANCELLED_MESSAGE">మీరు మీ ఆహ్వానా(ల)న్నిరద్దు చేశారు.</string>
+    <!-- Title of alert for when user saved the email as a draft instead of sending it -->
+    <string name="INVITE_FRIENDS_EMAIL_DRAFT_SAVED_TITLE">డ్రాప్ట్ సేవ్ చేయబడింది</string>
+    <!-- Message body of alert for when user saved the email as a draft instead of sending it -->
+    <string name="INVITE_FRIENDS_EMAIL_DRAFT_SAVED_MESSAGE">మీ ఇమెయిల్ ఆహ్వానం (లు) డ్రాఫ్ట్ గా సేవ్ చేయబడ్డాయి.</string>
+    <!-- Title of alert when user has successfully sent an invite (SMS/Email) -->
+    <string name="INVITE_FRIENDS_INVITATION_SENT_TITLE">ఆహ్వానం(లు) పంపబడ్డాయి</string>
+    <!-- Message body of when the user has sent the invite successfully -->
+    <string name="INVITE_FRIENDS_INVITATION_SENT_MESSAGE">మీ ఆహ్వానం(లు) విజయవంతంగా పంపబడ్డాయి.</string>
+    <!-- Subject of invitation email -->
+    <string name="INVITE_FRIENDS_EMAIL_SUBJECT">రండి EMwithME ను తనిఖీ చేయండి!</string>
+    <!-- Text for user to associate EMwithME with WhosHere (iOS only) -->
+    <string name="ASSOCIATE_WITH_WHOSHERE">మీ WhoHere ఖాతాకు లింక్ చేయండి</string>
+    <!-- Text of alert asking user if they would like to associate EMwithME with WhosHere (iOS only) -->
+    <string name="ASSOCIATE_WITH_WHOSHERE_EXPLAINATION">ఉచిత పాయింట్లు సంపాదించడానికి మీరు మీ WhosHere ఖాతాతో EMwithME ను లింక్ చెయ్యాలనుకుంటున్నారా?</string>
+    <!-- Translators: if 'Emily' is not a common name in your language/country/region, please substitute it with a female name that is common. -->
+    <string name="BOT_DISPLAY_NAME">ఎమిలీ - EMwithME ఆటోమేటెడ్ అసిస్టెంట్</string>
+    <!-- Settings title -->
+    <string name="SETTINGS_TITLE">సెట్టింగ్స్</string>
+    <!-- Sounds title -->
+    <string name="SOUNDS_TITLE">సౌండ్స్</string>
+    <!-- Text giving the user the option to turn on or off sounds for incoming messages -->
+    <string name="INCOMING_MESSAGES_SOUND">ఇన్ కమింగ్ సందేశాలు</string>
+    <!-- Offline Notifications Title -->
+    <string name="OFFLINE_NOTIFICATIONS_TITLE">ఆఫ్ లైన్ నోటిఫికేషన్లు</string>
+    <!-- Text giving the user the option to turn on or off offline notifications -->
+    <string name="OFFLINE_NOTIFICATIONS_SHOW">నోటిఫికేషన్ సెంటర్ లో చూపించండి</string>
+    <!-- Text giving the user the option to turn on or off notification sounds -->
+    <string name="PLAY_SOUNDS">సౌండ్ ను ప్లే చేయండి</string>
+    <!-- Text giving the user th eoption to turn on or off notificaitons that contain the message text or not -->
+    <string name="SHOW_PREVIEW">ప్రివ్యూను చూపించండి</string>
+    <!-- Text that is shown to the user if they have selected to hide the actual preview text -->
+    <string name="TEXT_MESSAGE">టెక్స్ట్ సందేశం</string>
+    <!-- In-App Settings Title -->
+    <string name="IN_APP_SETTINGS_TITLE">In-App Settings</string>
+    <!-- In-App Notifications -->
+    <string name="IN_APP_NOTIFICATIONS">In-App Notifications</string>
+    <!-- Text sent to user after they have onboarded to welcome them to EMwithME -->
+    <string name="GENERIC_WELCOME_MESSAGE">Welcome to EMwithME, the best messaging app for connecting with friends as well as protecting your identity.</string>
+    <!-- Button text encouraging user to invite their friends -->
+    <string name="INVITE_FRIENDS_BUTTON_TEXT">Invite Friends!</string>
+    <!-- Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends -->
+    <string name="WELCOME_WHOSHERE_USER_GENERIC_TEXT">Welcome to EMwithME! We see that you are a WhosHere user, thanks for trying EMwithME.</string>
+    <!-- Text sent to new EMwithME user that we detected also is a WhosHere user encouraging them to use the app and invite their friends. %1$s will be dynamically replaced with the point total they will be rewarded with -->
+    <string name="WELCOME_WHOSHERE_USER_TEXT">Welcome to EMwithME! We see that you are a WhosHere user, and will reward you with %1$s points in WhosHere every time you receive a message from a new EMwithME user. So, be sure to invite your friends!</string>
+    <!-- Button text encouraging user to create an AKA -->
+    <string name="CREATE_AKA_BUTTON_TEXT">Create AKA!</string>
+    <!-- Text sent to user explaining AKAs -->
+    <string name="CREATE_AKA_TEXT">Did you know with EMwithME you can create AKAs that allow you to protect your personal information? AKAs are disposable screen names you can send and receive messages from.</string>
+    <!-- Text sent to WhosHere user explaining AKAs -->
+    <string name="CREATE_AKA_WHOSHERE_TEXT">WhosHere and EMwithME can work together seamlessly. When your accounts are linked it allows users to chat with you in EMwithME or WhosHere. With EMwithME, an AKA can be used to keep your personal information private. You choose if and when you share personal information like an email address or phone number.</string>
+    <!-- Title of alert when a user has reached their limit on number of AKAs -->
+    <string name="LIMIT_REACHED">Limit Reached</string>
+    <!-- Message body of alert when a user has reached their limit on number of AKAs -->
+    <string name="AKA_LIMIT_REACHED_MESSAGE">You\'ve reached the current maximum number of AKAs, you need to delete an existing one before creating a new one.</string>
+    <!-- Text sent to user once they have created an AKA -->
+    <string name="FIRST_AKA_CREATED_TEXT">You created an AKA. Now what? As long as someone knows your AKA they can write you by typing your AKA name in the \'To\' field. You can also write anyone from your AKA. Just select your AKA on \'From\' line when you start a new conversation.</string>
+    <!-- Button text encouraging user to create a group -->
+    <string name="CREATE_A_GROUP_BUTTON_TEXT">Create a Group!</string>
+    <!-- Text sent to user explaining they can create groups -->
+    <string name="CREATE_A_GROUP_TEXT">Did you know, with EMwithME, you can send messages to friends who don\'t even have EMwithME? All you need is their email address or mobile phone number. You can create a group of friends and send them all messages and it does not matter if some, or all, of them have EMwithME!</string>
+    <!-- Text sent to user once they have created their first group -->
+    <string name="FIRST_GROUP_CREATED_TEXT">You\'ve create your first Group! This group will show up in your EMwithME Contacts List, and in all the group member\'s Contacts List as well. Even group members who haven\'t joined EMwithME will receive an SMS or email message when you write to the group.</string>
+    <!-- Button text encouraging user to write to a group -->
+    <string name="WRITE_GROUP_BUTTON_TEXT">Write the Group!</string>
+    <!-- Text sent to user once they have been added to a group -->
+    <string name="FIRST_GROUP_ADDED_TEXT">You\'ve been added to a group by one of your friends. You\'ll now receive messages sent to this group and any replies you write will be sent to everyone. This group will appear in your Contacts List, so to write the group just start typing its name. If you ever decide you want to leave the group you can control that from the Groups page.</string>
+    <!-- Text sent to user explaining they can leave groups -->
+    <string name="LEAVE_A_GROUP_TEXT">With EMwithME you are in control. Don\'t like being on a group message? You can leave any group conversation, whether it be a formal group created by friends or just a message addressed to multiple people. Just go to the \'Details\' of that conversation to remove yourself.</string>
+    <!-- Text sent to user explaining they can take back their messages (part one) -->
+    <string name="TAKE_BACK_TEXT_ONE">With EMwithME you can take back messages you\'ve sent other EMwithME users. Just long press the message you sent and select \'Take it Back\'.</string>
+    <!-- Text sent to user explaining they can take back their messages (part two) -->
+    <string name="TAKE_BACK_TEXT_TWO">I\'m going to take back this message.</string>
+    <!-- Text sent to user explaining they can take back their messages (part three) -->
+    <string name="TAKE_BACK_TEXT_THREE">Now your turn. Send me a message, then long press it to Take it Back.</string>
+</resources>

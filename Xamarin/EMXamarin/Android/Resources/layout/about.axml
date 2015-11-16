@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    <include
+        android:id="@+id/titlebarlayout"
+        layout="@layout/reuseabletitlebarclose" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/titlebarlayout"
+        android:background="@color/off_white">
+        <LinearLayout
+            android:id="@+id/topLinearLayout"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <ImageView
+                android:id="@+id/appIcon"
+                android:background="@drawable/Icon"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:layout_alignParentLeft="true"
+                android:layout_centerVertical="true" />
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <TextView
+                    android:id="@+id/appTitle"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/APP_TITLE"
+                    android:textSize="30sp"
+                    android:textColor="@color/off_black"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="10dp" />
+                <TextView
+                    android:id="@+id/appVersion"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/VERSION"
+                    android:textSize="14sp"
+                    android:textColor="@color/off_black"
+                    android:paddingLeft="10dp"
+                    android:paddingTop="10dp" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/middleLinearLayout"
+            android:orientation="vertical"
+            android:layout_below="@id/topLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/off_black"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp" />
+            <TextView
+                android:id="@+id/credits"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/CREDITS"
+                android:textSize="20sp"
+                android:textColor="@color/link_color"
+                android:paddingLeft="10dp"
+                android:gravity="center_vertical" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/off_black"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp" />
+            <TextView
+                android:id="@+id/privacy"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/PRIVACY_POLICY"
+                android:textSize="20sp"
+                android:textColor="@color/link_color"
+                android:paddingLeft="10dp"
+                android:gravity="center_vertical" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/off_black"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp" />
+            <TextView
+                android:id="@+id/eula"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:text="@string/EULA"
+                android:textSize="20sp"
+                android:textColor="@color/link_color"
+                android:paddingLeft="10dp"
+                android:gravity="center_vertical" />
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@color/off_black"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/bottomLinearLayout"
+            android:orientation="horizontal"
+            android:layout_below="@id/middleLinearLayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="30dp">
+            <ImageButton
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/facebook"
+                android:background="@drawable/facebook" />
+            <ImageView
+                android:layout_width="25dp"
+                android:layout_height="50dp"
+                android:id="@+id/blank"
+                android:background="@android:color/transparent" />
+            <ImageButton
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:id="@+id/twitter"
+                android:background="@drawable/twitter" />
+        </LinearLayout>
+        <TextView
+            android:id="@+id/copyright"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/COPYRIGHT"
+            android:textSize="12sp"
+            android:textColor="@color/off_black"
+            android:gravity="center_horizontal|bottom"
+            android:paddingBottom="5dp"
+            android:paddingLeft="5dp"
+            android:paddingRight="5dp" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/titlebarLayoutDefault"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:padding="1px"
+    android:background="@android:color/transparent"
+    android:layout_alignParentTop="true">
+    <Button
+        android:id="@+id/leftBarButton"
+        android:textAllCaps="false"
+        style="@style/BackArrowStyle" />
+    <TextView
+        style="@style/SmallFont"
+        android:id="@+id/leftBarButtonText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="2dp"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@+id/leftBarButton"
+        android:visibility="gone" />
+    <TextView
+        style="@style/TitleFont"
+        android:id="@+id/titleTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:maxWidth="230dp"
+        android:scrollHorizontally="false"
+        android:gravity="center"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+    <Button
+        android:id="@+id/rightBarButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAllCaps="false"
+        android:textSize="@dimen/title_button_size"
+        android:layout_marginRight="@dimen/title_right_bar_marginRight"
+        android:layout_alignParentRight="true"
+        android:background="@android:color/transparent" />
+    <View
+        android:id="@+id/dividerLine"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/container_dropshadow"
+        android:layout_alignParentBottom="true" />
+</RelativeLayout>

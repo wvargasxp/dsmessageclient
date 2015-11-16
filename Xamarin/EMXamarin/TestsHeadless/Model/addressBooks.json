@@ -1,0 +1,110 @@
+[
+    [],
+    [
+        {
+            "firstName": "Google",
+            "lastName": "Number",
+            "displayName": "Google Number",
+            "clientID": "1",
+            "contactInfo": [
+                {
+                    "label": "Home",
+                    "localizedLabel": "Home",
+                    "value": "+1 6504270763",
+                    "contactInfoType": "phone"
+                }
+            ]
+        },
+        {
+            "firstName": "AOL",
+            "lastName": "Email",
+            "displayName": "AOL Email",
+            "clientID": "2",
+            "contactInfo": [
+                {
+                    "label": "Home",
+                    "localizedLabel": "Home",
+                    "value": "anhlantruong@aol.com",
+                    "contactInfoType": "email"
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "firstName": "Google",
+            "lastName": "Number",
+            "displayName": "Google Number",
+            "clientID": "2",
+            "contactInfo": [
+                {
+                    "label": "Home",
+                    "localizedLabel": "Home",
+                    "value": "+1 6504270763",
+                    "contactInfoType": "phone"
+                }
+            ]
+        },
+        {
+            "firstName": "Yahoo",
+            "lastName": "Email",
+            "displayName": "Yahoo Email",
+            "clientID": "1",
+            "contactInfo": [
+                {
+                    "label": "Home",
+                    "localizedLabel": "Home",
+                    "value": "a_truong92@yahoo.com",
+                    "contactInfoType": "email"
+                }
+            ]
+        }
+    ],
+    [],
+    [
+        {
+            "firstName": "Whoshere",
+            "lastName": "Email",
+            "displayName": "Whoshere Email",
+            "clientID": "1",
+            "contactInfo": [
+                {
+                    "label": "Home",
+                    "localizedLabel": "Home",
+                    "value": "anh@whoshere.net",
+                    "contactInfoType": "email"
+                }
+            ]
+        },
+        {
+            "firstName": "Real",
+            "lastName": "Number",
+            "displayName": "Real Number",
+            "clientID": "2",
+            "contactInfo": [
+                {
+                    "label": "iPhone",
+                    "localizedLabel": "iPhone",
+                    "value": "+1 5102598717",
+                    "contactInfoType": "phone"
+                }
+            ]
+        }
+    ],
+    [
+        {
+           "firstName": "Google",
+            "lastName": "Number",
+            "displayName": "Google Number",
+            "clientID": "1",
+            "contactInfo": [
+                {
+                    "label": "Home",
+                    "localizedLabel": "Home",
+                    "value": "+1 6504270763",
+                    "contactInfoType": "phone"
+                }
+            ]
+        }
+    ]
+]

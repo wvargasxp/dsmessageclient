@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/settingLayout"
+    android:layout_width="fill_parent"
+    android:layout_height="50dp"
+    android:background="@android:color/transparent">
+    <TextView
+        style="@style/TitleFont"
+        android:id="@+id/menuLabel"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="3dp"
+        android:paddingBottom="3dp"
+        android:paddingLeft="10dp"
+        android:textSize="20sp"
+        android:textColor="@color/link_color"
+        android:layout_centerVertical="true"
+        android:textDirection="ltr" />
+    <android.support.v7.widget.SwitchCompat
+        android:id="@+id/switchy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerInParent="true"
+        android:layout_marginRight="5dp"
+        android:checked="true"
+        ads:showText="false" />
+</RelativeLayout>
